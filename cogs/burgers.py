@@ -1,6 +1,8 @@
+import json
 import random
 import logging
-from datetime import datetime, time, timezone, timedelta
+from datetime import datetime, time, timezone
+from pathlib import Path
 import nextcord
 from nextcord.ext import commands, tasks
 
@@ -9,30 +11,104 @@ from api import get_all_burger_ids, get_burger
 from db import get_posted_ids, get_posted_count, mark_posted, reset_pool
 from config import EMBED_COLOR, BURGER_CHANNEL_ID, POST_TIME
 
+RECIPES_DIR = Path(__file__).parent.parent / "recipes"
+
 # Parse POST_TIME (HH:MM UTC)
 _hour, _minute = map(int, POST_TIME.split(":"))
-# EST = UTC-5; POST_TIME is stored as UTC
 _post_time_utc = time(hour=_hour, minute=_minute, tzinfo=timezone.utc)
 
 
-def build_burger_embed(burger: dict, cycle_reset: bool = False) -> nextcord.Embed:
+def load_recipe(burger_id: int) -> dict | None:
+    """Find and load the recipe JSON file for a given burger ID."""
+    matches = list(RECIPES_DIR.glob(f"{burger_id}_*.json"))
+    if not matches:
+        return None
+    try:
+        with open(matches[0], encoding="utf-8") as f:
+            data = json.load(f)
+            return data.get("recipe")
+    except Exception as e:
+        log.warning(f"Failed to load recipe for burger ID {burger_id}: {e}")
+        return None
+
+
+def _truncate(text: str, limit: int) -> str:
+    """Truncate text to fit within a character limit, appending '…' if cut."""
+    if len(text) <= limit:
+        return text
+    return text[: limit - 1] + "…"
+
+
+def build_burger_embeds(burger: dict, cycle_reset: bool = False) -> list[nextcord.Embed]:
+    """
+    Returns a list of embeds:
+      [0] — burger info + history
+      [1] — ingredients
+      [2] — instructions
+    If no recipe file is found, returns only embed [0] with a note.
+    """
     name = burger["name"].strip('"')
-    embed = nextcord.Embed(
+
+    recipe = load_recipe(burger["id"])
+
+    # ── Embed 1: Info + History ──────────────────────────────────────────
+    info_embed = nextcord.Embed(
         title=f"🍔 Burger of the Day: {name}",
-        url=burger.get("url", ""),
+        url=burger.get("url", "") or "",
         color=EMBED_COLOR,
     )
-    embed.add_field(name="Price", value=burger.get("price", "N/A"), inline=True)
-    embed.add_field(name="Season", value=str(burger["season"]), inline=True)
-    embed.add_field(name="Episode", value=str(burger["episode"]), inline=True)
+    info_embed.add_field(name="Price", value=burger.get("price", "N/A"), inline=True)
+    info_embed.add_field(name="Season", value=str(burger["season"]), inline=True)
+    info_embed.add_field(name="Episode", value=str(burger["episode"]), inline=True)
+
     episode_url = burger.get("episodeUrl", "")
     if episode_url:
-        embed.add_field(name="Episode Link", value=episode_url, inline=False)
-    if cycle_reset:
-        embed.set_footer(text="We've gone through every burger — starting over! Bob's Burgers")
+        info_embed.add_field(name="Episode Link", value=episode_url, inline=False)
+
+    footer = "We've gone through every burger — starting over! Bob's Burgers" if cycle_reset else "Bob's Burgers"
+
+    if not recipe:
+        info_embed.set_footer(text=footer)
+        return [info_embed]
+
+    history = recipe.get("history", "")
+    if history:
+        info_embed.add_field(name="📖 History", value=_truncate(history, 1024), inline=False)
+
+    info_embed.set_footer(text=footer)
+
+    # ── Embed 2: Ingredients ─────────────────────────────────────────────
+    ingredients = recipe.get("ingredients", [])
+    if ingredients:
+        lines = [f"• {item}" for item in ingredients]
+        ingredients_text = "\n".join(lines)
+        ingredients_embed = nextcord.Embed(
+            title="🥩 Ingredients",
+            description=_truncate(ingredients_text, 4096),
+            color=EMBED_COLOR,
+        )
     else:
-        embed.set_footer(text="Bob's Burgers")
-    return embed
+        ingredients_embed = None
+
+    # ── Embed 3: Instructions ────────────────────────────────────────────
+    instructions = recipe.get("instructions", [])
+    if instructions:
+        lines = [f"{step}" for step in instructions]
+        instructions_text = "\n".join(lines)
+        instructions_embed = nextcord.Embed(
+            title="👨‍🍳 Instructions",
+            description=_truncate(instructions_text, 4096),
+            color=EMBED_COLOR,
+        )
+    else:
+        instructions_embed = None
+
+    embeds = [info_embed]
+    if ingredients_embed:
+        embeds.append(ingredients_embed)
+    if instructions_embed:
+        embeds.append(instructions_embed)
+    return embeds
 
 
 async def pick_random_burger(table: str) -> tuple[dict, bool]:
@@ -76,8 +152,8 @@ class Burgers(commands.Cog):
         if cycle_reset:
             log.info(f"[/burger-of-the-day] Pool exhausted — resetting requested_burgers pool")
         log.info(f"[/burger-of-the-day] Serving: {name} (ID: {burger['id']}) S{burger['season']}E{burger['episode']}")
-        embed = build_burger_embed(burger, cycle_reset)
-        await interaction.followup.send(embed=embed)
+        embeds = build_burger_embeds(burger, cycle_reset)
+        await interaction.followup.send(embeds=embeds)
 
     @nextcord.slash_command(name="burgers-left", description="See how many burgers have been sent and how many remain")
     async def burgers_left(self, interaction: nextcord.Interaction):
@@ -112,7 +188,7 @@ class Burgers(commands.Cog):
         )
         embed.add_field(
             name="/burger-of-the-day",
-            value="Pulls a random Burger of the Day from the show. Won't repeat a burger until all 416 have been served.",
+            value="Pulls a random Burger of the Day from the show. Won't repeat a burger until all 416 have been served. Includes the full recipe!",
             inline=False,
         )
         embed.add_field(
@@ -145,7 +221,7 @@ class Burgers(commands.Cog):
     async def daily_burger(self):
         channel = self.bot.get_channel(BURGER_CHANNEL_ID)
         if channel is None:
-            print(f"[burgers] Could not find channel {BURGER_CHANNEL_ID}")
+            log.warning(f"[daily] Could not find channel {BURGER_CHANNEL_ID}")
             return
 
         burger, cycle_reset = await pick_random_burger("scheduled_burgers")
@@ -153,8 +229,8 @@ class Burgers(commands.Cog):
         if cycle_reset:
             log.info(f"[daily] Pool exhausted — resetting scheduled_burgers pool")
         log.info(f"[daily] Posting to #{channel}: {name} (ID: {burger['id']}) S{burger['season']}E{burger['episode']} at {datetime.now():%Y-%m-%d %H:%M:%S}")
-        embed = build_burger_embed(burger, cycle_reset)
-        await channel.send(embed=embed)
+        embeds = build_burger_embeds(burger, cycle_reset)
+        await channel.send(embeds=embeds)
 
     @daily_burger.before_loop
     async def before_daily_burger(self):
