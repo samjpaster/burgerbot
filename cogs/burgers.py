@@ -134,6 +134,22 @@ def build_burger_embeds(burger: dict, cycle_reset: bool = False) -> list[nextcor
     return embeds
 
 
+
+def batch_embeds(embeds: list, max_total: int = 6000) -> list[list]:
+    """Split a list of embeds into batches where each batch's total char count <= max_total."""
+    batches, current, current_size = [], [], 0
+    for embed in embeds:
+        size = len(embed)
+        if current and current_size + size > max_total:
+            batches.append(current)
+            current, current_size = [], 0
+        current.append(embed)
+        current_size += size
+    if current:
+        batches.append(current)
+    return batches
+
+
 async def pick_random_burger(table: str) -> tuple[dict, bool]:
     """
     Returns (burger_data, cycle_reset).
@@ -176,7 +192,8 @@ class Burgers(commands.Cog):
             log.info(f"[/burger-of-the-day] Pool exhausted — resetting requested_burgers pool")
         log.info(f"[/burger-of-the-day] Serving: {name} (ID: {burger['id']}) S{burger['season']}E{burger['episode']}")
         embeds = build_burger_embeds(burger, cycle_reset)
-        await interaction.followup.send(embeds=embeds)
+        for batch in batch_embeds(embeds):
+            await interaction.followup.send(embeds=batch)
 
     @nextcord.slash_command(name="burgers-left", description="See how many burgers have been sent and how many remain")
     async def burgers_left(self, interaction: nextcord.Interaction):
@@ -253,7 +270,8 @@ class Burgers(commands.Cog):
             log.info(f"[daily] Pool exhausted — resetting scheduled_burgers pool")
         log.info(f"[daily] Posting to #{channel}: {name} (ID: {burger['id']}) S{burger['season']}E{burger['episode']} at {datetime.now():%Y-%m-%d %H:%M:%S}")
         embeds = build_burger_embeds(burger, cycle_reset)
-        await channel.send(embeds=embeds)
+        for batch in batch_embeds(embeds):
+            await channel.send(embeds=batch)
 
     @daily_burger.before_loop
     async def before_daily_burger(self):
