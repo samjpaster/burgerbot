@@ -1,0 +1,63 @@
+{
+  "id": 13,
+  "name": "Onion Burger - Grilled...To Death!",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 5,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/5",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/13",
+  "recipe": {
+    "history": "The onion is one of the oldest cultivated vegetables known to humanity, with origins tracing back more than 5,000 years to Central Asia, likely present-day Iran and western Pakistan. Ancient Egyptian laborers — including, according to some accounts, the workers who built the pyramids — were fed onions as a dietary staple, and the vegetable appears in tomb paintings and hieroglyphic records dating to 3500 BCE. The Romans spread onion cultivation across their empire, from Britain to North Africa, and relied on it as both food and medicine. In India and East Asia, onions found their way into the foundations of entire culinary traditions, and medieval European peasants considered them, alongside bread and beans, a cornerstone of daily sustenance. Few vegetables have traveled so far, fed so many civilizations, or proven so stubbornly indispensable across the whole of recorded human history.\n\nIn the American burger canon, no technique elevated the onion more dramatically than the Oklahoma onion burger, born of necessity during the Great Depression. At Sid's Diner in El Reno, Oklahoma, cooks began pressing thinly shaved onions directly into cheap beef patties on a screaming-hot flat-top griddle — the onions caramelized against the steel, their sugars browning and fusing into the crust of the meat, stretching a small amount of beef into something far more satisfying. The method spread quietly through the region and eventually became recognized as one of the great regional American burger styles. Beyond Oklahoma, the grilled onion became a fixture of the American backyard and diner counter alike: thick rings charred over open flame, sweet Vidalias softened and bronzed on cast iron, French onion flavors finding their way between buns. The caramelized onion is not a garnish. It is architecture.\n\nI remember the first time a burger made me stop mid-bite and just sit with it for a second. It was at a roadside place with no indoor seating, just a sliding window and a hand-painted menu board, and the cook had loaded that burger with onions that had clearly been on the heat for a very long time — dark at the edges, almost jammy in the middle, sweet and savory and a little bitter all at once. I had ordered it without thinking much about it, the way you do when you are hungry and the line is moving. But that first bite was one of those small, private revelations: that patience applied to something as humble as an onion could produce something genuinely extraordinary. I have been chasing that burger ever since, and this recipe is my best attempt to reconstruct and justify it.\n\nCooking a beef patty to medium rare — an internal temperature of 130 to 135 degrees Fahrenheit — is not a preference. It is the correct answer, arrived at through the same logic that governs any question of flavor and texture in meat cookery. Below that range, the fat has not fully rendered and the protein structure retains a rawness that most palates correctly read as unfinished. Above it, the myosin and actin proteins have contracted to the point where moisture is being actively expelled — what you are eating is, functionally, a drier, tighter, less flavorful version of the same burger. At 130 to 135, the fat is liquid and distributed, the juices are held loosely in a still-yielding protein matrix, and the Maillard crust on the exterior provides the contrast in texture and bitterness that makes the whole thing coherent. A gray, fully cooked patty can be made acceptable by toppings. A medium rare patty needs very little help. The onions here provide it anyway.",
+    "ingredients": {
+      "patty": [
+        "8 oz freshly ground beef, 80/20 lean-to-fat ratio (chuck preferred)",
+        "3/4 teaspoon kosher salt",
+        "1/2 teaspoon freshly cracked black pepper",
+        "1/2 teaspoon garlic powder",
+        "1 tablespoon unsalted butter (for finishing)"
+      ],
+      "caramelized_onions": [
+        "2 large yellow onions, halved and thinly sliced (about 1/8 inch)",
+        "2 tablespoons unsalted butter",
+        "1 tablespoon olive oil",
+        "1/2 teaspoon kosher salt",
+        "1 teaspoon light brown sugar",
+        "1 tablespoon balsamic vinegar",
+        "1 tablespoon dry sherry or white wine",
+        "1/4 teaspoon fresh thyme leaves"
+      ],
+      "grilled_onion_rings": [
+        "1 large sweet onion (Vidalia), cut into 1/2-inch rings, kept intact",
+        "1 tablespoon olive oil",
+        "Kosher salt and black pepper to taste"
+      ],
+      "bun": [
+        "1 brioche or potato bun, split",
+        "1 tablespoon unsalted butter, softened (for toasting)"
+      ],
+      "toppings_and_condiments": [
+        "2 slices Swiss or Gruyere cheese",
+        "1 tablespoon mayonnaise",
+        "1 teaspoon Dijon mustard",
+        "1 teaspoon Worcestershire sauce",
+        "2 leaves butter lettuce",
+        "2 slices ripe tomato",
+        "Flaky sea salt, for finishing"
+      ]
+    },
+    "instructions": [
+      "Begin the caramelized onions first — they require the most time. Melt 2 tablespoons butter with 1 tablespoon olive oil in a wide, heavy-bottomed skillet (cast iron or stainless) over medium-low heat. Add the thinly sliced yellow onions and 1/2 teaspoon kosher salt. Stir to coat evenly.",
+      "Cook the onions over medium-low heat, stirring every 5 to 7 minutes, for 45 to 55 minutes total. Do not rush this step with high heat. The onions should slowly collapse, turn golden, then deepen to a rich amber-brown. If they begin to stick or scorch, add a splash of water and scrape the fond.",
+      "In the final 10 minutes of caramelizing, add the brown sugar, balsamic vinegar, sherry, and thyme. Stir and continue cooking until the liquid is absorbed and the onions are jammy and deeply bronzed. Remove from heat and set aside.",
+      "While onions finish, prepare the grilled onion rings. Brush the intact sweet onion rings on both sides with olive oil and season with salt and pepper. Heat a grill pan or outdoor grill to high heat. Grill the rings 3 to 4 minutes per side until well charred and softened. Set aside.",
+      "Form the ground beef into a single loosely packed patty approximately 4.5 to 5 inches in diameter and 3/4 inch thick. Press a shallow dimple in the center with your thumb to prevent doming. Season both sides generously with kosher salt, black pepper, and garlic powder. Let the patty rest at room temperature for 15 minutes before cooking.",
+      "Heat a cast iron skillet or heavy griddle over high heat until just beginning to smoke. Place the patty in the dry pan — no oil needed with an 80/20 blend. Sear undisturbed for 2.5 to 3 minutes until a deep mahogany crust forms on the underside.",
+      "Flip the patty once. Immediately place the cheese slices on top. Add 1 tablespoon butter to the pan alongside the patty and, once melted, tilt the pan and baste the patty with the butter using a spoon for 30 seconds.",
+      "Continue cooking the second side for 2 to 2.5 minutes. Check internal temperature with an instant-read thermometer inserted horizontally through the side of the patty. Pull the burger from heat at 128 to 130°F — carryover cooking will bring it to 130 to 135°F during the rest. Tent loosely with foil and rest for 3 minutes. Do not skip the rest.",
+      "While the patty rests, toast the bun. Butter the cut sides of the bun and place them cut-side down in the same pan over medium heat for 60 to 90 seconds until golden.",
+      "Mix the mayonnaise and Dijon mustard together. Spread the mixture on the bottom bun. Add a few drops of Worcestershire sauce over the mayo.",
+      "Build the burger: bottom bun with sauce, butter lettuce, tomato slices (lightly salted), the rested patty with melted cheese, a generous mound of caramelized onions, the grilled onion rings laid over the top, a pinch of flaky sea salt, and the toasted top bun.",
+      "Serve immediately. The burger should be eaten within 4 minutes of assembly — the onions are warm, the bun is still crisp at the cut, and the patty is at its peak. This is the window. Use it."
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 50,
+  "name": "POUTINE ON THE RITZ BURGER - (Comes with poutine fries)",
+  "price": "$5.95",
+  "season": 2,
+  "episode": 9,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/22",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/50",
+  "recipe": {
+    "history": "Poutine was born in the rural heartland of Quebec, Canada, sometime in the late 1950s. The most widely cited origin story points to Warwick, Quebec, a small town in the Centre-du-Québec region, where a restaurateur named Fernand Lachance is said to have first combined french fries and fresh cheese curds at his snack bar, Le Lutin qui rit, around 1957. When a customer asked him to throw the curds right onto the fries, Lachance allegedly declared the combination a mess — \"une maudite poutine\" — a phrase that in Québécois slang roughly translates to a damn mess. The brown gravy that cemented the dish into its canonical three-part form was added later, likely as a practical solution to keep the fries warm on cold Quebec nights. For decades, poutine remained a proudly working-class, distinctly Québécois comfort food, served at roadside casse-croûtes and greasy spoons, dismissed by food critics and embraced fiercely by everyone else.\n\nPoutine's migration into American food culture was slow and then all at once. Through the 1990s and early 2000s, it crept southward across the border via Canadian fast food chains, food trucks, and the inevitable gravitational pull of late-night college hunger. By the time the artisan burger movement exploded in the late 2000s and early 2010s, adventurous chefs in cities like New York, Chicago, and Portland had already started piling poutine — gravy, curds, fries and all — directly onto beef patties. The logic was impeccable: the rich beef-fat gravy deepened the umami of the burger, the squeaky cheese curds added a textural counterpoint to the soft bun, and the fries made the whole thing a single, glorious, hand-held catastrophe. What had once been a Québécois roadside staple became a prestige topping on $18 gastropub burgers, and nobody was really mad about it.\n\nI remember the first time I made poutine from scratch at home on a Sunday in February, the windows fogged over from the stock simmering on the stove since morning. I'd ordered fresh cheese curds from a small dairy in Vermont, and they arrived still slightly warm, sealed in a wax paper bag that squeaked when I pressed it. I stood at the counter eating a handful of them straight, the way you're supposed to, just to hear that squeak against my teeth. The gravy came together from a beef and chicken stock reduction I'd been coaxing all day, whisked with a dark roux until it hit that precise glossy consistency that coats a spoon but still pours. When I finally assembled everything — the fries crisped twice in beef tallow, the gravy ladled hot enough to just barely soften the curds without melting them entirely, then the whole pile laid over a smashed patty on a toasted brioche bun — I genuinely did not know whether to eat it with my hands or a fork. I used both, and I have no regrets.\n\nThere is a philosophy to cooking a burger patty to medium rare, and it is not a preference so much as a conviction. At an internal temperature of 130 to 135 degrees Fahrenheit — 54 to 57 degrees Celsius — the muscle fibers of a well-formed beef patty have relaxed just enough to release their fat without squeezing it out entirely. The center retains a warm, rosy blush that carries the full, iron-rich flavor of the beef, while the crust, formed in a ripping-hot cast iron pan or on a screaming grill, provides the Maillard-browned contrast that makes the whole thing coherent. Cooking past this point is not a matter of safety when using quality ground beef handled correctly — it is a matter of losing something irreplaceable. The poutine topping, with its hot gravy and molten-edged curds, demands a patty that can hold its own, and only a medium rare cook gives you that foundation. Everything else is just a well-meaning mistake.",
+    "ingredients": [
+      "1 lb (450g) ground beef, 80/20 fat ratio, freshly ground if possible",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 brioche burger bun, split",
+      "1 tbsp unsalted butter (for toasting the bun)",
+      "2 lbs (900g) russet potatoes, peeled and cut into 1/4-inch fries",
+      "Beef tallow or neutral frying oil (enough for deep frying, about 1 quart)",
+      "1 cup fresh cheese curds (white or yellow, unaged)",
+      "2 cups beef stock (homemade preferred)",
+      "1 cup chicken stock",
+      "2 tbsp unsalted butter (for roux)",
+      "2 tbsp all-purpose flour (for roux)",
+      "1 tbsp Worcestershire sauce",
+      "1 tsp apple cider vinegar",
+      "1/2 tsp garlic powder",
+      "1/2 tsp onion powder",
+      "Salt and black pepper to taste for gravy",
+      "1 tbsp neutral oil or clarified butter (for searing patty)"
+    ],
+    "instructions": [
+      "1. Make the gravy base: In a small saucepan over medium heat, melt 2 tbsp butter. Add flour and whisk constantly for 2–3 minutes until the roux turns a light golden-brown and smells nutty.",
+      "2. Gradually pour in the beef stock and chicken stock, whisking vigorously to prevent lumps. Add Worcestershire sauce, apple cider vinegar, garlic powder, and onion powder.",
+      "3. Bring gravy to a gentle boil, then reduce heat and simmer uncovered for 15–20 minutes, stirring occasionally, until it thickens enough to coat the back of a spoon. Season with salt and pepper. Keep warm over the lowest heat setting.",
+      "4. Prepare the fries — first fry: Heat beef tallow or frying oil in a deep heavy pot to 325°F (163°C). Add the cut potatoes in batches and fry for 4–5 minutes until cooked through but not yet browned. Remove with a spider or slotted spoon and drain on a wire rack. Let rest at room temperature for at least 15 minutes.",
+      "5. Second fry for crispness: Raise the oil temperature to 375°F (190°C). Return the par-cooked fries in batches and fry for 3–4 minutes until deep golden and crisp. Transfer to a wire rack set over a baking sheet, season immediately with kosher salt.",
+      "6. Form the patty: Divide the ground beef into a single 6–8 oz portion. Gently press into a patty roughly 1 inch thick and slightly wider than your bun — it will shrink during cooking. Season both sides liberally with kosher salt and black pepper. Do not overwork the meat.",
+      "7. Sear the patty: Heat a cast iron skillet or heavy pan over high heat until smoking. Add 1 tbsp oil or clarified butter. Place the patty in the pan and do not press or move it. Cook for 3–4 minutes on the first side until a deep mahogany crust forms.",
+      "8. Flip once and cook the second side for 2–3 minutes. Use an instant-read thermometer to check the internal temperature. Pull the patty off heat at 130–135°F (54–57°C) for medium rare. Tent loosely with foil and rest for 3 minutes.",
+      "9. Toast the bun: While the patty rests, melt 1 tbsp butter in the same pan over medium heat. Place the bun halves cut-side down and toast for 60–90 seconds until golden.",
+      "10. Assemble the poutine topping: Place the hot crispy fries in a bowl or directly on a plate. Scatter the fresh cheese curds generously over the fries. Immediately ladle 3–4 tbsp of hot gravy over the curds and fries — the heat should begin to soften the curds at the edges while leaving the centers squeaky.",
+      "11. Build the burger: Place the rested patty on the bottom bun. Pile the poutine fries (with curds and gravy) directly on top of the patty. Spoon a little extra gravy over everything. Cap with the top bun and serve immediately.",
+      "12. Serve with additional gravy on the side for dipping the excess fries."
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 49,
+  "name": "SWEATY PALMS BURGER - (Comes with hearts of palm)",
+  "price": "$5.95",
+  "season": 2,
+  "episode": 8,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/21",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/49",
+  "recipe": {
+    "history": "Hearts of palm have been harvested and eaten for thousands of years across Central and South America, where towering peach palm trees (Bactris gasipaes) and açaí palms grow in dense, humid abundance. Indigenous peoples of the Amazon Basin and coastal Brazil were the first to prize the tender inner core of these palms — the soft, ivory-white cylinder of compressed new growth nestled at the tree's crown. To harvest a heart of palm from a single-stemmed palm is to fell the entire tree, which made it a food of ceremony and occasion in pre-Columbian cultures. Over centuries, Brazilian, Ecuadorian, and Costa Rican farmers developed multi-stemmed peach palm cultivation that allowed harvesting without killing the tree, turning hearts of palm from a rare forest delicacy into a sustainable crop. By the mid-twentieth century, Brazil had become the world's dominant producer, canning and exporting the pale, slightly briny stalks to tables far beyond the tropics.\n\nHearts of palm arrived in American kitchens largely through the steakhouse salad bar of the 1960s and 1970s — those shining chrome fixtures of suburban dining where canned hearts of palm sat in chilled water alongside chickpeas and croutons, offering diners something that felt vaguely continental and sophisticated. Their mild, artichoke-adjacent flavor and firm-yet-yielding texture made them a natural fit for composed salads, and by the 1980s they were a fixture in upscale American restaurants as a composed first course, often dressed in a mustardy vinaigrette. The true pivot toward hearts of palm as a burger topping came with the plant-based cooking movement of the 2010s, when food writers and chefs discovered that shredded or sliced hearts of palm — lightly seasoned and seared — could mimic the pull and chew of meat in a way that felt genuinely satisfying rather than apologetic. For Bob Belcher, though, the motivation was simpler and more honest: the hearts of palm go on the burger because the name writes itself, and because their clean, subtly sweet brininess cuts right through the richness of a well-marbled beef patty in a way that makes you wonder why everyone isn't doing it.\n\nI remember the first time I really tasted a heart of palm with intention — not fishing one out of a can and eating it over the sink at midnight, though I have done that more than once, but actually sitting down with it. I was nineteen, eating at a small Brazilian churrascaria that had opened near my neighborhood, the kind of place with wood-paneled walls and a single ceiling fan that moved the warm air without really cooling anything. The salad that came out before the meat had these cool, creamy rounds of hearts of palm fanned across dark lettuce, and I remember being startled by how something so pale and quiet could taste so complete — faintly salty, a little nutty, with a texture somewhere between a cooked potato and a water chestnut. I went home and looked up what they were and felt that particular pleasure of learning that a thing you've always vaguely known about is actually interesting. That feeling is part of why I cook. Not every ingredient needs a dramatic backstory to earn its place on the plate, but when the backstory is there — the Amazon, the palm grove, the slow work of cultivation — it makes the eating feel like participation in something larger than dinner.\n\nCooking a burger patty to medium rare is not a preference; it is a philosophy. A patty brought to an internal temperature of 130 to 135 degrees Fahrenheit — that rosy, yielding window — retains the fat's full contribution to flavor, keeps the myoglobin in a state that gives the meat its characteristic blush, and preserves a texture that is tender without being soft. The Maillard crust on the outside and the warm, pink interior are not opposing forces but a single composition, each one making the other more itself by contrast. Well-done beef is not beef at its best; it is beef that has been asked to become something else entirely — drier, denser, more uniform, stripped of the qualities that make it worth eating in the first place. Medium rare is the temperature at which the cook says: I respect what this is. It asks more of the technique — a hot pan, good timing, a thermometer used without embarrassment — but the result is a burger that justifies everything else on the plate, including the hearts of palm, the careful construction, and the $5.95 price tag that Bob has held the line on since the specials board went up.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 fat ratio",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 tablespoon neutral oil (canola or vegetable)",
+      "1 can (14 oz / 400g) whole hearts of palm, drained and rinsed",
+      "1 tablespoon unsalted butter",
+      "1 teaspoon fresh lemon juice",
+      "1/4 teaspoon garlic powder",
+      "Pinch of flaky sea salt",
+      "1 brioche or potato burger bun",
+      "1 tablespoon mayonnaise",
+      "1 teaspoon Dijon mustard",
+      "2 leaves butter lettuce",
+      "2 slices ripe tomato",
+      "2 thin slices red onion"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 20 minutes before cooking to take the chill off. Divide into a single 8 oz portion and gently form into a patty approximately 4 inches wide and 3/4 inch thick. Press a shallow dimple into the center with your thumb to prevent doming. Season both sides generously with kosher salt and freshly ground black pepper. Set aside.",
+      "2. Drain and rinse the hearts of palm thoroughly. Pat them completely dry with paper towels — moisture is the enemy of a good sear. Slice the hearts of palm crosswise into rounds approximately 1/2 inch thick. Set aside.",
+      "3. Place a cast iron skillet or heavy stainless pan over medium heat. Add the butter and allow it to melt and foam. Add the sliced hearts of palm in a single layer. Season lightly with garlic powder and a pinch of kosher salt. Cook undisturbed for 2 minutes until golden on the bottom, then flip and cook another 1 to 2 minutes on the second side. Remove from heat, squeeze the lemon juice over the top, and transfer to a small plate. Tent loosely with foil to keep warm.",
+      "4. Wipe the skillet clean with a folded paper towel held with tongs. Return the skillet to high heat and allow it to get very hot — a drop of water should evaporate immediately on contact. Add the neutral oil and swirl to coat.",
+      "5. Place the seasoned patty in the center of the hot skillet. Press gently with a spatula to ensure full contact with the pan surface. Cook undisturbed for 3 to 4 minutes until a deep mahogany crust has formed on the bottom.",
+      "6. Flip the patty once. Continue cooking for 2 to 3 minutes, then begin checking the internal temperature with an instant-read thermometer inserted into the side of the patty at the thickest point. Pull the patty from the heat when it reads 130–135°F (54–57°C) for medium rare. Transfer to a wire rack or plate and rest for 3 to 4 minutes — carryover cooking will bring it to a perfect finish.",
+      "7. While the patty rests, split the bun and toast the cut sides in the residual heat of the skillet for 30 to 60 seconds until lightly golden.",
+      "8. In a small bowl, mix the mayonnaise and Dijon mustard together. Spread this sauce evenly on both the top and bottom bun.",
+      "9. Build the burger: place butter lettuce on the bottom bun, followed by the tomato slices, then the red onion. Set the rested patty on top. Arrange the warm sautéed hearts of palm over the patty in an even layer. Cap with the top bun.",
+      "10. Serve immediately. The internal temperature of the patty should be 130–135°F (54–57°C) — rosy, juicy, and exactly as intended."
+    ]
+  }
+}

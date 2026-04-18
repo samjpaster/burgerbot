@@ -1,0 +1,48 @@
+{
+  "id": 117,
+  "name": "Edamame Dearest Burger (comes with edamame)",
+  "price": "$5.95",
+  "season": 6,
+  "episode": 13,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/101",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/117",
+  "recipe": {
+    "history": "Edamame — young soybeans harvested before they fully mature and harden — have been cultivated and eaten in East Asia for well over two thousand years, with written records of soybean cultivation in China dating back to at least the 11th century BCE. The word edamame itself is Japanese, combining 'eda' (branch) and 'mame' (bean), referring to the traditional practice of selling the beans still attached to their stems. In Japan, edamame became a beloved seasonal food, associated with summer and the ephemeral pleasures of fresh produce eaten at its peak. It was consumed as a simple snack — boiled in salted water, still in the pod, eaten by squeezing the beans directly into the mouth — a ritual as much as a meal. The soybean, in all its forms, eventually became one of the most agriculturally significant crops in human history, but edamame remained the purest, most direct expression of the plant: bright green, lightly grassy, subtly sweet, and deeply satisfying in its simplicity.\n\nEdamame arrived in the United States in waves, first as an agricultural crop brought over by botanists and farmers in the late 19th century, and later as a culinary ingredient introduced through Japanese and broader East Asian immigrant communities on the West Coast. For much of the 20th century, edamame was largely unknown outside of Asian-American households and Japanese restaurants, where it served as a complimentary appetizer that puzzled and then delighted first-time diners. The health food movement of the 1980s and 1990s brought soybeans into mainstream American consciousness, and edamame followed shortly after, appearing in grocery store freezer sections and farm-to-table menus alike. Its migration into burger culture reflects the broader fusion trend in American cooking — chefs began incorporating it as a topping, a spread, or a side, drawn to its vibrant color, clean flavor, and the textural contrast it offered against a rich beef patty.\n\nThere was a summer when I made edamame hummus every single week because I couldn't stop thinking about how it tasted on everything. I started putting it on toast, on crackers, eventually on burgers almost as a dare to myself. The first time I served an edamame burger to someone who looked genuinely skeptical — arms crossed, eyebrows raised — I watched them take one bite and go quiet in that particular way that means the food won the argument. Edamame on a burger shouldn't work on paper, but it does, because the beany, faintly sweet earthiness of those little green pods cuts right through the fat of the beef in a way that feels both surprising and completely inevitable. I've never second-guessed it since.\n\nMedium rare is the only honest way to cook a burger, and I will defend that position with the same conviction I bring to everything that matters. When the internal temperature of a beef patty sits between 130 and 135 degrees Fahrenheit — that is, 54 to 57 degrees Celsius — the meat exists in a state of ideal transformation: the exterior has caramelized into a complex crust, and the interior remains pink, moist, and rich with the flavor of properly rendered fat. The temperature range is not arbitrary; it represents the precise zone where collagen has softened, fat has loosened, and protein has firmed just enough to hold together without squeezing out all its juice when bitten. To push past that window, even by ten degrees, is to cook a different and lesser burger. Every ingredient deserves a foundation worthy of it, and the edamame on this burger deserves nothing less than a perfectly medium rare patty beneath it.",
+    "ingredients": [
+      "1.5 lbs ground beef chuck, 80/20 fat ratio",
+      "1 cup shelled edamame, cooked (fresh or frozen, thawed)",
+      "2 tablespoons toasted sesame oil",
+      "1 tablespoon soy sauce (low sodium)",
+      "1 teaspoon fresh ginger, finely grated",
+      "1 small clove garlic, minced",
+      "1 teaspoon rice wine vinegar",
+      "1 teaspoon toasted sesame seeds",
+      "4 brioche or sesame seed burger buns",
+      "1 tablespoon unsalted butter (for toasting buns)",
+      "1 teaspoon kosher salt",
+      "1 teaspoon freshly ground black pepper",
+      "1 teaspoon garlic powder",
+      "4 leaves butter lettuce",
+      "1 medium English cucumber, thinly sliced",
+      "2 tablespoons mayonnaise",
+      "1 teaspoon sriracha",
+      "Neutral oil (such as canola) for the cooking surface"
+    ],
+    "instructions": [
+      "1. Prepare the edamame topping: In a bowl, combine the shelled cooked edamame, sesame oil, soy sauce, grated ginger, minced garlic, rice wine vinegar, and sesame seeds. Toss well and set aside to marinate at room temperature for at least 15 minutes.",
+      "2. Remove the ground beef from the refrigerator 20 minutes before cooking to allow it to temper slightly.",
+      "3. Divide the ground beef into 4 equal portions of approximately 6 oz each. Handle minimally to keep the texture loose.",
+      "4. Shape each portion into a patty about 3/4 inch thick. Press a shallow dimple into the center of each patty to prevent doming during cooking.",
+      "5. Season both sides of each patty generously with kosher salt, black pepper, and garlic powder.",
+      "6. Heat a cast-iron skillet or heavy griddle over high heat until smoking lightly. Add a thin film of neutral oil.",
+      "7. Place the patties into the hot skillet. Cook undisturbed for 3 to 4 minutes until a deep, even crust forms on the bottom.",
+      "8. Flip each patty once and cook for an additional 2 to 3 minutes on the second side.",
+      "9. Use an instant-read thermometer to confirm each patty has reached an internal temperature of 130–135°F (54–57°C) for medium rare. Remove from heat immediately.",
+      "10. Transfer the patties to a plate, tent loosely with foil, and rest for 3 to 4 minutes.",
+      "11. While the patties rest, melt the butter in the skillet over medium heat and toast the cut sides of the buns until golden brown, about 1 to 2 minutes.",
+      "12. In a small bowl, stir together the mayonnaise and sriracha. Spread on the toasted cut sides of the buns.",
+      "13. Layer each burger: bottom bun, butter lettuce, cucumber slices, the medium rare patty, a generous spoonful of the sesame-marinated edamame, and the top bun.",
+      "14. Serve immediately so the edamame topping remains vibrant and the patty retains its juicy medium rare interior."
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 147,
+  "name": "THE SHUT UP AND SWISS ME BURGER",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 7,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/136",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/147",
+  "recipe": {
+    "history": "Swiss cheese — Emmental in its most classic form — has been produced in the Emme valley of the Bern canton of Switzerland since at least the 13th century, making it one of the oldest documented cheeses in the world. Its signature holes, called \"eyes,\" are the result of carbon dioxide released by Propionibacterium freudenreichii bacteria during the aging process, a phenomenon so reliably beautiful that cheesemakers still judge a wheel's quality partly by the size and distribution of those voids. The cheese was traditionally made in enormous wheels — some exceeding 200 pounds — because the alpine farmers of central Switzerland pooled their milk from the summer pastures, producing a communal product that could survive the long transport down to market. That golden, nutty, gently sweet flavor is the direct taste of alpine grass, clean air, and centuries of patient craftsmanship.\n\nSwiss cheese arrived in the United States with waves of German and Swiss immigrants throughout the 19th century, and by the early 20th century it was produced commercially in Wisconsin and Ohio. Its mild, meltable nature made it a natural fit for American diner culture, and by the mid-20th century the Swiss cheeseburger had become a respectable alternative to American cheese on diner menus from coast to coast. Food writers noted that Swiss's nuttiness complemented beef in a way that was more sophisticated than processed cheese without being intimidating. The \"Shut Up and Swiss Me\" spirit captures exactly this: no need for justification — Swiss on a burger simply works, and anyone who hasn't tried it should.\n\nI grew up eating grilled Swiss cheeseburgers at a picnic table behind my grandmother's house every Fourth of July. She used deli-sliced Swiss from the grocery store, the kind with the big holes, and she'd lay two slices on each patty and close the grill lid for exactly one minute. The cheese never fully melted — it softened and sagged around the edges while staying slightly firm in the middle, and it tasted like summer and simplicity. Years later I started seeking out true Emmental and Gruyère for my burgers, and while the upgrade was real and undeniable, I sometimes still buy the deli-counter stuff on purpose, because taste and memory are the same thing dressed differently.\n\nThe case for medium rare is ultimately a case for restraint — for knowing when to stop. Swiss cheese, which begins to break and lose its silky texture above a certain temperature, actually benefits from a patty that isn't searing-hot all the way through. A medium-rare center at 130 to 135°F allows the cheese melted against the crust to flow perfectly without the violence of a well-done patty pushing steam through it. The burger stays juicy, the cheese stays creamy, and the whole assembly retains its integrity through the last bite. Medium rare is not a preference — it is the structural logic of a great cheeseburger.",
+    "ingredients": [
+      "1 lb (450g) ground beef, 80/20 chuck blend",
+      "2 slices authentic Emmental or Gruyère Swiss cheese, cut thick",
+      "1 brioche or potato bun, split",
+      "1 tbsp unsalted butter for toasting bun",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1 tbsp neutral oil for cooking",
+      "2 tbsp Dijon mustard",
+      "2 tbsp mayonnaise",
+      "1 tsp honey (for honey-Dijon spread)",
+      "2–3 leaves butter lettuce",
+      "2 slices ripe tomato",
+      "3–4 thin slices dill pickle",
+      "1/4 small yellow onion, very thinly sliced"
+    ],
+    "instructions": [
+      "1. Mix Dijon mustard, mayonnaise, and honey together in a small bowl to make a honey-Dijon spread. Set aside.",
+      "2. Gently form the ground beef into a single patty about 3/4 inch thick. Press a shallow dimple in the center. Season generously on both sides with kosher salt and black pepper.",
+      "3. Refrigerate the patty for 10–15 minutes to firm.",
+      "4. Heat a cast-iron skillet or heavy griddle over high heat until it begins to smoke. Add oil and swirl.",
+      "5. Place patty in the pan. Sear undisturbed for 3 minutes until a rich brown crust forms on the bottom.",
+      "6. Flip the patty once. Immediately lay both slices of Swiss cheese on top, overlapping slightly. Cook for 2–3 minutes.",
+      "7. Begin checking internal temperature at the 2-minute mark. Pull from heat when the center reads 130–135°F (54–57°C). Transfer to a rack and tent loosely with foil. Rest 3–4 minutes.",
+      "8. While the patty rests, butter both cut faces of the bun and toast in the pan over medium heat, buttered side down, for 1–2 minutes until golden.",
+      "9. Spread honey-Dijon generously on both toasted bun faces.",
+      "10. Layer the bottom bun with butter lettuce, then tomato slices, then the rested patty with its melted Swiss, then pickles and thin-sliced onion. Add the top bun, press gently, and serve immediately."
+    ]
+  }
+}

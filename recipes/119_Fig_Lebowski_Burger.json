@@ -1,0 +1,49 @@
+{
+  "id": 119,
+  "name": "Fig Lebowski Burger",
+  "price": "$5.95",
+  "season": 6,
+  "episode": 16,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/104",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/119",
+  "recipe": {
+    "history": "The fig is one of the oldest cultivated fruits in human history, with archaeological evidence of fig cultivation in the Jordan Valley dating back nearly twelve thousand years — predating the domestication of wheat and barley, making figs arguably the first crop intentionally grown by human hands. Native to the Middle East and western Asia, Ficus carica spread through the Mediterranean world carried by Phoenician traders, Greek colonists, and later Roman legions, who prized the fig both as sustenance and as a symbol of prosperity. The ancient Egyptians depicted figs in tomb paintings; the Greeks held them sacred to Dionysus; Roman writers from Pliny to Cato wrote extensively about their cultivation. In the Levant and throughout the Arab world, dried figs became a staple of trade and travel, their concentrated sweetness and high caloric density making them ideal provisions for long desert journeys. In culinary terms, the fig occupies a unique position: it is simultaneously fruit, sweetener, and textural element, its jammy interior and edible seeds making it unlike any other ingredient in its behavior when cooked or paired with savory foods.\n\nFigs arrived in California with the Spanish missionaries in the late 18th century — the Mission fig variety, one of the most common in the United States today, takes its name directly from those Franciscan settlements. For much of American culinary history, figs remained on the periphery: found in fig newtons, holiday cakes, and the occasional cheese board, but rarely integrated into mainstream savory cooking. The farm-to-table movement of the late 1990s and early 2000s changed this dramatically, as chefs began reaching for fresh and dried figs to pair with aged cheeses, cured meats, and eventually grilled proteins. Fig jam and fig preserves began appearing as condiments and glazes in upscale burger preparations, where their deeply sweet, almost wine-like flavor provided a counterpoint to the savory richness of beef in a way that felt both unexpected and somehow ancient, as though the pairing had always existed and was simply waiting to be rediscovered.\n\nI went through a fig phase one autumn that I am not entirely sure I ever came out of. I was buying them fresh at the market every Saturday — the black mission ones, split open to show that jewel-toned interior — and putting them on everything. On toast with ricotta. In salads with bitter greens. And then one day I halved them and laid them on a burger next to a thick smear of fig jam and a little crumbled gorgonzola, and I stood there in my kitchen eating it over the counter and thinking about how something so simple could feel so complete. There's a quality to figs, when they're really ripe, that makes everything they touch taste slightly more serious. More considered. Like the whole burger has thought about what it wants to be.\n\nTo cook a fig burger to anything beyond medium rare would be a kind of culinary vandalism — not just because of the meat, but because the figs themselves demand a partner of equal presence. A well-done patty is a dry, gray, compacted thing; it cannot hold its own against the sweetness and depth of good figs. But a patty pulled from the heat at precisely 130 to 135 degrees Fahrenheit — 54 to 57 degrees Celsius — has that yielding, blushing pink interior that meets the fig's sweetness with something equally complex: the iron-rich, mineral depth of properly cooked beef fat, the lingering savoriness that only medium rare can deliver. This is not sentimentality. It is flavor logic. The two ingredients are in conversation, and both need to be at their best for the conversation to mean anything.",
+    "ingredients": [
+      "1.5 lbs ground beef chuck, 80/20 fat ratio",
+      "6 fresh Mission or Black Turkey figs, halved lengthwise (or 8 dried Calimyrna figs, softened in warm water and halved)",
+      "3 tablespoons fig jam or fig preserves",
+      "2 oz crumbled gorgonzola or aged goat cheese",
+      "4 brioche burger buns",
+      "1 tablespoon unsalted butter (for toasting buns)",
+      "4 leaves arugula or baby arugula",
+      "1 teaspoon fresh thyme leaves",
+      "1 teaspoon kosher salt",
+      "1 teaspoon freshly ground black pepper",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon garlic powder",
+      "2 tablespoons balsamic glaze (store-bought or reduced balsamic vinegar)",
+      "2 tablespoons mayonnaise",
+      "1 teaspoon whole grain mustard",
+      "1 teaspoon honey",
+      "Neutral oil (such as canola) for the cooking surface"
+    ],
+    "instructions": [
+      "1. Prepare the fig topping: In a small skillet over medium heat, add a thin film of oil and place the fig halves cut-side down. Cook without moving for 2 to 3 minutes until caramelized and softened. Remove from heat and set aside.",
+      "2. In a small bowl, stir together the fig jam, balsamic glaze, and fresh thyme leaves. Set aside as the finishing sauce.",
+      "3. In another small bowl, combine the mayonnaise, whole grain mustard, and honey. Stir until smooth and set aside for the bun spread.",
+      "4. Remove the ground beef from the refrigerator 20 minutes before cooking.",
+      "5. Divide the beef into 4 equal portions of approximately 6 oz each. Form into patties about 3/4 inch thick, pressing a dimple into the center of each.",
+      "6. Season both sides of each patty generously with kosher salt, black pepper, onion powder, and garlic powder.",
+      "7. Heat a cast-iron skillet or heavy griddle over high heat until lightly smoking. Add a thin film of neutral oil.",
+      "8. Place the patties in the skillet and cook undisturbed for 3 to 4 minutes to build a deep brown crust on the bottom.",
+      "9. Flip each patty once. Cook for 2 to 3 minutes on the second side.",
+      "10. Check internal temperature with an instant-read thermometer. The target is 130–135°F (54–57°C) for medium rare. Pull from heat the moment this range is reached.",
+      "11. Immediately after removing the patties, spoon a small amount of the fig jam and balsamic mixture over the top of each patty and allow it to glaze in the residual heat.",
+      "12. Tent the patties loosely with foil and rest for 3 to 4 minutes.",
+      "13. While the patties rest, melt the butter in the skillet and toast the cut sides of the brioche buns until golden, about 1 to 2 minutes.",
+      "14. Spread the honey-mustard mayonnaise on both cut sides of the toasted buns.",
+      "15. Build each burger: bottom bun, a handful of arugula, the medium rare fig-glazed patty, 2 to 3 caramelized fig halves, a crumble of gorgonzola, a drizzle of balsamic glaze, and the top bun.",
+      "16. Serve immediately while the figs are still warm and the patty holds its pink, juicy medium rare center."
+    ]
+  }
+}

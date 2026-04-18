@@ -1,0 +1,50 @@
+{
+  "id": 60,
+  "name": "Itsy Bitsy Teeny Weenie Yellow Polka-Dot Zucchini Burger",
+  "price": "$5.95",
+  "season": 3,
+  "episode": 3,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/25",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/60",
+  "recipe": {
+    "history": "Zucchini — known in much of the world as courgette — traces its ancestry back thousands of years to the wild gourds of Mesoamerica, where the Aztec and other indigenous peoples cultivated squash as one of the foundational crops of the \"Three Sisters\" alongside maize and beans. These early squashes bore little resemblance to the slender, tender vegetable we know today; they were tough-skinned, seedy, and grown primarily for their nutritious flesh and oil-rich seeds. It was not until European colonizers carried New World seeds across the Atlantic in the late 15th and 16th centuries that the squash family began its long transformation. The modern zucchini — delicate, mild, and unmistakably elongated — was developed through careful cultivation in northern Italy, particularly in the Lombardy and Liguria regions, during the 19th century. Italian farmers selected for smaller, more tender fruit harvested young, and by the late 1800s the zucchino (literally \"little squash\") had become a staple of Italian home cooking, sautéed in olive oil, stuffed with herbs and cheese, or sliced thin and fried to a golden crisp.\n\nZucchini arrived in American kitchens in earnest with the great waves of Italian immigration in the late 19th and early 20th centuries, tucked into the culinary memories of families settling in cities like New York, Boston, and Chicago. For decades it remained an ethnic curiosity to mainstream American palates, grown quietly in backyard gardens by nonnas who knew its worth. The vegetable's big cultural moment came in the 1970s, when the back-to-the-land movement and a growing interest in fresh, garden-to-table eating pushed zucchini into the American spotlight — so successfully, in fact, that it became something of a joke, with gardeners legendarily leaving bags of surplus zucchini on neighbors' porches under cover of darkness. Its transition to the burger world followed naturally from the rise of gourmet and gastropub burger culture in the 1990s and 2000s, when chefs began piling vegetables onto patties with the same ambition they brought to whole menus. Grilled zucchini rounds, with their slight char and yielding texture, turned out to be a revelatory burger topping — substantial enough to hold their own against beef, mild enough not to overwhelm, and visually striking with their pale green flesh and flecked skin.\n\nI remember the first time I truly understood what zucchini could do on a burger. It was a muggy August afternoon, the kind where the air itself feels like a warm, wet towel draped over your shoulders, and my aunt had pulled an absolute armload of zucchini from her garden — more than any household could reasonably consume. She sliced them into thick coins, tossed them in olive oil, salt, and a pinch of red pepper flake, and laid them on a screaming-hot cast iron grill pan while my uncle shaped beef patties at the counter nearby. The kitchen smelled of caramelizing alliums and char, and when she stacked those blistered zucchini rounds onto a medium rare patty and handed me the burger wrapped in a paper towel, I took a bite expecting something wholesome but unremarkable. Instead I got the full spectrum — the rich iron depth of the beef, the sweet, almost custardy interior of the zucchini, a little hit of acid from the pickled yellow squash she had tucked in alongside, and the butter-toasted bun holding everything together like punctuation at the end of a very good sentence. It was the moment zucchini stopped being a garden surplus problem and became, for me, a genuine ingredient.\n\nCooking a burger patty to medium rare is not merely a preference — it is a philosophy rooted in respect for the ingredient and an understanding of what heat does to protein and fat. At an internal temperature of 130 to 135 degrees Fahrenheit (54 to 57 degrees Celsius), the myosin proteins in the beef have set while the actin proteins remain largely intact, yielding a texture that is firm enough to hold its structure yet tender enough to yield with the gentlest bite. The fat has begun to render and redistribute throughout the meat, carrying with it the fat-soluble flavor compounds that make a well-sourced beef patty taste like something worth building a whole burger around. Going beyond medium rare — pushing into the gray, steamed interior of a well-done patty — is to sacrifice all of that: the juice runs out, the fat renders away entirely, and you are left with something closer to a dry protein disk than a burger. The zucchini in this recipe deserves a partner cooked with the same care and intention that went into selecting and preparing the vegetable itself. Medium rare is non-negotiable.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 lean-to-fat ratio, formed into a loose 3/4-inch patty",
+      "1 teaspoon kosher salt",
+      "1/2 teaspoon freshly cracked black pepper",
+      "1 tablespoon neutral oil (such as grapeseed or canola) for the cooking surface",
+      "1 medium zucchini, sliced into 1/4-inch rounds (approximately 6–8 rounds)",
+      "1 tablespoon olive oil",
+      "1/4 teaspoon garlic powder",
+      "1/4 teaspoon crushed red pepper flakes",
+      "Kosher salt and black pepper to taste for zucchini",
+      "1 brioche hamburger bun",
+      "1 tablespoon unsalted butter, softened (for toasting the bun)",
+      "1 slice yellow American cheese or provolone",
+      "2 tablespoons mayonnaise, homemade or quality store-bought",
+      "1 teaspoon lemon zest (stirred into the mayonnaise)",
+      "1 teaspoon fresh lemon juice (stirred into the mayonnaise)",
+      "2–3 leaves butter lettuce",
+      "2 thin slices ripe beefsteak tomato",
+      "4–5 bread-and-butter pickle chips",
+      "2 thin slices white or yellow onion, separated into rings"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 30 minutes before cooking and allow it to come to room temperature. This ensures even cooking throughout the patty.",
+      "2. Gently form the beef into a patty approximately 4 inches in diameter and 3/4 inch thick. Press a shallow dimple into the center with your thumb — this prevents the patty from doming as it cooks. Season both sides generously with kosher salt and freshly cracked black pepper. Do not overwork the meat.",
+      "3. Prepare the lemon-zest mayonnaise: combine the mayonnaise, lemon zest, and lemon juice in a small bowl. Stir to incorporate. Cover and refrigerate until assembly.",
+      "4. Prepare the zucchini: toss the zucchini rounds in olive oil, garlic powder, red pepper flakes, salt, and black pepper until evenly coated.",
+      "5. Heat a cast iron skillet or heavy grill pan over high heat until smoking. Working in a single layer and without crowding, sear the zucchini rounds for 2 minutes per side until they develop distinct char marks and the flesh has softened but still holds its shape. Remove to a plate and set aside.",
+      "6. Reduce heat to medium-high. Add the neutral oil to the skillet and heat until shimmering. Place the seasoned patty in the pan and do not press it down.",
+      "7. Cook the patty for 3 to 4 minutes on the first side until a deep mahogany crust has formed. Flip once.",
+      "8. Cook the second side for 2 to 3 minutes. In the final 60 seconds of cooking, lay the cheese slice over the patty and tent loosely with a small piece of foil to encourage melting.",
+      "9. Begin checking the internal temperature using an instant-read thermometer inserted horizontally into the center of the patty. Remove the patty from heat when the internal temperature reads 130–135°F (54–57°C) for medium rare. This is the target — do not cook beyond 135°F.",
+      "10. Transfer the patty to a wire rack or warm plate and rest for 3 to 4 minutes. Residual carry-over heat will bring the final internal temperature to approximately 133–137°F. Resting allows the juices to redistribute throughout the patty.",
+      "11. While the patty rests, toast the bun: heat the same skillet over medium heat and melt the butter. Place the bun cut-side down and toast for 60 to 90 seconds until golden brown.",
+      "12. Assemble the burger: spread lemon-zest mayonnaise on both the top and bottom bun halves. On the bottom bun, layer the butter lettuce, followed by the tomato slices (lightly seasoned with salt), then the onion rings.",
+      "13. Place the rested patty (cheese side up) on top of the onion rings. Shingle the grilled zucchini rounds over the melted cheese, overlapping them slightly.",
+      "14. Add the bread-and-butter pickle chips over the zucchini.",
+      "15. Close with the top bun, press gently, and serve immediately."
+    ]
+  }
+}

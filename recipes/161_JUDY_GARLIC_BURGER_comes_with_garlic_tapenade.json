@@ -1,0 +1,47 @@
+{
+  "id": 161,
+  "name": "JUDY GARLIC BURGER (comes with garlic tapenade)",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 12,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/141",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/161",
+  "recipe": {
+    "history": "Garlic — Allium sativum — is one of the oldest cultivated plants on earth, with origins tracing back over 5,000 years to Central Asia, likely in the region that now spans western China, Kazakhstan, and Kyrgyzstan. Ancient Egyptians revered it as a source of strength and endurance, feeding it to the laborers who built the pyramids, and it appears in the Ebers Papyrus, one of the oldest medical texts ever discovered, as a remedy for everything from headaches to heart conditions. From Egypt, garlic spread through the Mediterranean world — the Greeks and Romans used it extensively, soldiers ate it before battle, and Hippocrates himself prescribed it for a wide range of ailments. Tapenade, the Provençal olive-based condiment often enriched with garlic, capers, and anchovies, takes its name from the Occitan word for capers, tapenas, and has been a staple of southern French cooking since at least the 19th century, though its roots are far older in the olive-growing traditions of the Mediterranean coast.\n\nGarlic arrived in the Americas with European colonizers and quickly embedded itself in the cooking of immigrant communities across the continent. In the United States, garlic was long considered an ethnic ingredient — associated with Italian, Greek, and Eastern European immigrant kitchens — before it slowly crept into mainstream American cooking through the mid-20th century. The explosion of garlic's popularity in the American burger scene can be traced in part to California's Gilroy Garlic Festival, founded in 1979, which helped rehabilitate garlic's image from pungent outsider to beloved culinary superstar. Garlic aioli, roasted garlic, and garlic-infused tapenade began appearing on upscale burger menus in the 1980s and 1990s as chefs sought to elevate the humble patty with bold, complex flavors. Today, garlic tapenade on a burger is a mark of care — a nod to Mediterranean tradition translated into the language of American comfort food.\n\nI remember the first time I made a garlic tapenade from scratch, standing in my kitchen on a Sunday afternoon with a head of roasted garlic and a jar of good Kalamata olives. The smell that came out of the oven as the garlic caramelized was something close to magic — sweet, nutty, impossibly deep. I smeared that tapenade on everything for a week, but it wasn't until I put it on a burger that I understood what I'd been missing my whole life. The salt from the olives and capers, the richness of the olive oil, the gentle funk of anchovy — it all wrapped around the beef like it had been meant for it all along. My kids wrinkled their noses at first. By the second bite, they were asking for more.\n\nCooking a burger to medium rare is an act of faith and respect — faith in your ingredients and respect for the animal whose life gave you this meal. The window between 130 and 135°F (54–57°C) is where the beef's natural fat begins to render just enough, where the myoglobin releases its rosy blush, where the texture shifts from raw potential to something silky and yielding. To cook beyond that is to chase away everything that makes a great burger great. Medium rare is not a preference; it is a philosophy — a commitment to letting good meat be what it is, and trusting that a little pink in the center is not a flaw but a signature.",
+    "ingredients": [
+      "1.5 lbs (680g) freshly ground beef chuck, 80/20 fat ratio",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "1 tbsp neutral oil (canola or grapeseed) for cooking",
+      "4 brioche burger buns, split",
+      "2 tbsp unsalted butter, softened, for toasting buns",
+      "4 slices aged Gruyère cheese",
+      "1 cup fresh arugula",
+      "1 large heirloom tomato, sliced",
+      "For the garlic tapenade:",
+      "1 whole head of garlic",
+      "1 cup pitted Kalamata olives",
+      "2 tbsp capers, drained and rinsed",
+      "2 oil-packed anchovy fillets",
+      "1 tsp fresh thyme leaves",
+      "1 tsp fresh lemon juice",
+      "1/4 tsp freshly cracked black pepper",
+      "3 tbsp extra-virgin olive oil",
+      "For roasting the garlic:",
+      "1 tsp olive oil",
+      "Pinch of salt"
+    ],
+    "instructions": [
+      "1. Preheat your oven to 400°F (200°C). Slice the top 1/4 inch off the head of garlic to expose the cloves, drizzle with 1 tsp olive oil and a pinch of salt, wrap tightly in foil, and roast for 40–45 minutes until the cloves are deep golden and completely tender. Remove from oven and let cool enough to handle.",
+      "2. Squeeze all roasted garlic cloves out of their skins and into a food processor. Add the Kalamata olives, capers, anchovy fillets, thyme leaves, lemon juice, and black pepper. Pulse 8–10 times until a rough, chunky paste forms.",
+      "3. With the processor running, drizzle in the 3 tbsp extra-virgin olive oil until the tapenade is cohesive but still has texture. Taste and adjust salt and lemon as needed. Transfer to a bowl and set aside at room temperature.",
+      "4. Divide the ground beef into 4 equal portions (about 6 oz / 170g each). Gently form each into a patty roughly 3/4 inch thick, pressing a slight dimple in the center with your thumb to prevent doming. Season generously on both sides with kosher salt and cracked black pepper. Do not overwork the meat.",
+      "5. Set a cast iron skillet or heavy griddle over high heat for 2–3 minutes until smoking hot. Add the neutral oil and swirl to coat.",
+      "6. Place patties in the skillet and cook undisturbed for 3 minutes for the first side, developing a deep mahogany crust. Flip once.",
+      "7. After flipping, lay a slice of Gruyère on each patty. Cook for 2–2.5 minutes more. Begin checking internal temperature with an instant-read thermometer — target 130–135°F (54–57°C) for medium rare. Remove patties from heat when they hit 130°F (54°C), as carryover cooking will bring them to 132–135°F (55–57°C) while resting.",
+      "8. Transfer patties to a wire rack or warm plate and rest, uncovered, for 3–4 minutes. Do not press or cut into them during this time.",
+      "9. While the patties rest, butter the cut sides of the brioche buns and toast in the same skillet over medium heat for 1–2 minutes until golden.",
+      "10. To assemble: spread a generous tablespoon of garlic tapenade on the cut side of each bottom bun. Place the cheesy patty on top. Add a slice of heirloom tomato, then a small handful of arugula. Spread a thin layer of tapenade on the top bun as well. Cap and serve immediately."
+    ]
+  }
+}

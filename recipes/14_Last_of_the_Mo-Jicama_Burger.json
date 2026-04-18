@@ -1,0 +1,62 @@
+{
+  "id": 14,
+  "name": "Last of the Mo-Jicama Burger (Comes with Jicama)",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 5,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/5",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/14",
+  "recipe": {
+    "history": "Jicama — known in Nahuatl as xicamatl — is a tuberous root vegetable native to Mexico and Central America, where it has been cultivated and eaten for centuries before European contact. The Aztecs and other Mesoamerican peoples prized it for its crisp, water-rich flesh and mild sweetness, eating it raw with lime juice and chili powder at markets and festivals. It thrived in the volcanic soils of the Mexican highlands and spread through trade routes into South America and eventually across the Pacific to Southeast Asia via Spanish galleons in the 16th century. Long before it was trendy, jicama was simply food — everyday, essential, and honest.\n\nJicama's arrival in American burger culture was quiet and sideways, the way the best ingredients usually show up. It first appeared in California fusion kitchens in the 1980s and 1990s, where chefs looking for textural contrast began julienning it into slaws alongside cabbage and carrot, dressing it with citrus vinaigrettes that cut through the fat of a well-smashed patty. The crunch it provided was different from lettuce — sturdier, more architectural, holding its snap under heat and sauce in a way that romaine never could. From there it migrated into taco trucks, then into upscale burger bars, then into the hands of home cooks who found it cheap, forgiving, and wildly satisfying as a topping that rewarded anyone willing to peel past its rough brown skin.\n\nI remember the first time someone handed me a burger with jicama slaw on it — it was August, one of those evenings where the air doesn't cool down even after the sun drops, and we were eating outside on a folding table with paper plates going soft from the humidity. I didn't know what the pale, crunchy stuff was, and I almost picked it off. I didn't. That first bite was a revelation: the cool crispness against the seared beef, the lime cutting through the char, the way it made the whole thing feel lighter and brighter without losing any of the satisfaction. I've been chasing that bite ever since, and this burger is the closest I've gotten.\n\nCooking a burger patty to medium rare — 130 to 135 degrees Fahrenheit at the center — is not a preference; it is a considered position arrived at through failure and repetition. Below that temperature, the fat hasn't fully rendered and the texture is dense in the wrong way. Above it, the proteins have tightened past the point of tenderness, and the juice that should run into your hand is gone, cooked into steam. At 130 to 135, the center is still pink and yielding, the fat is liquid and fragrant, and the Maillard crust on the outside provides the contrast that makes every bite coherent. Use fresh, never-frozen beef with enough fat content — 80/20 is the floor — source it from a butcher you trust if you're eating it pink, and do not press the patty down on the grill. Medium rare is the only correct approach because it respects what the animal was.",
+    "ingredients": {
+      "patty": [
+        "8 oz (225g) ground beef, 80/20 fat ratio, freshly ground preferred",
+        "3/4 teaspoon kosher salt",
+        "1/2 teaspoon freshly cracked black pepper",
+        "1/4 teaspoon garlic powder",
+        "1 teaspoon neutral oil (vegetable or canola) for the pan or grill"
+      ],
+      "jicama_slaw": [
+        "1 cup jicama, peeled and julienned into thin matchsticks (about 1/4 of a medium jicama)",
+        "1/2 cup red cabbage, thinly shredded",
+        "1 medium carrot, peeled and julienned",
+        "2 tablespoons fresh cilantro leaves, roughly chopped",
+        "1 scallion, thinly sliced",
+        "1/2 jalapeño, seeded and minced (optional, for heat)",
+        "Zest of 1 lime",
+        "2 tablespoons fresh lime juice (about 1 lime)",
+        "1 tablespoon apple cider vinegar",
+        "1 tablespoon olive oil",
+        "1 teaspoon honey",
+        "1/2 teaspoon kosher salt",
+        "1/4 teaspoon freshly cracked black pepper"
+      ],
+      "bun": [
+        "1 brioche or potato bun, split",
+        "1 tablespoon unsalted butter, softened"
+      ],
+      "toppings_and_condiments": [
+        "1 tablespoon mayonnaise",
+        "1 teaspoon Dijon mustard",
+        "2 slices ripe tomato",
+        "2 leaves butter lettuce",
+        "2 thin slices red onion",
+        "2 slices American or mild cheddar cheese (optional)"
+      ]
+    },
+    "instructions": [
+      "Make the jicama slaw first, as it benefits from resting. Peel the jicama with a sharp knife or vegetable peeler, removing both the brown skin and the fibrous layer just beneath it. Julienne the jicama into thin matchsticks roughly 2 inches long and 1/8 inch thick.",
+      "Combine the jicama, shredded red cabbage, julienned carrot, cilantro, scallion, and jalapeño (if using) in a medium bowl. In a small separate bowl, whisk together the lime zest, lime juice, apple cider vinegar, olive oil, honey, salt, and pepper until emulsified.",
+      "Pour the dressing over the slaw and toss thoroughly to coat. Taste and adjust seasoning — it should be bright, tangy, and lightly sweet. Cover and refrigerate for at least 20 minutes while you prepare everything else. This rest time softens the slaw slightly and lets the flavors meld.",
+      "Remove the ground beef from the refrigerator 15 minutes before cooking to take the chill off. Divide it into one 8-oz portion and gently form it into a patty roughly 4 inches in diameter and 3/4 inch thick. Do not overwork the meat — handle it as little as possible. Press a shallow dimple into the center of the patty with your thumb to prevent it from doming as it cooks.",
+      "Season both sides of the patty generously with kosher salt and cracked black pepper, plus the garlic powder on the exterior. Season just before cooking, not more than a few minutes ahead, to avoid drawing out moisture prematurely.",
+      "Heat a cast iron skillet or heavy-bottomed pan over high heat for 2 to 3 minutes until it is very hot. Alternatively, prepare a grill to high heat and clean the grates thoroughly. Add the neutral oil to the pan and swirl to coat, or brush the grill grates lightly with oil.",
+      "Place the patty in the pan or on the grill and do not touch it. Sear for 2 to 2.5 minutes on the first side until a deep mahogany crust has developed and the patty releases naturally from the surface. Flip once. If adding cheese, lay it on the patty now and tent loosely with a small piece of foil.",
+      "Cook the second side for 1.5 to 2 minutes, then begin checking the internal temperature with an instant-read thermometer inserted sideways into the center of the patty. Pull the patty off the heat when the thermometer reads 130°F — carryover heat will bring it to 133 to 135°F during the rest. Do not cook past 135°F.",
+      "Transfer the patty to a wire rack or warm plate and let it rest, uncovered, for 3 to 4 minutes. This rest is not optional — it allows the juices to redistribute back through the meat rather than running out onto the cutting board.",
+      "While the patty rests, butter the cut sides of the bun with the softened butter and place them cut-side down in the same skillet over medium heat. Toast for 60 to 90 seconds until golden and slightly crisp at the edges. Watch them — they go from toasted to burnt quickly in a residual-heat pan.",
+      "Stir together the mayonnaise and Dijon mustard. Spread the mayo-mustard mixture on both cut sides of the toasted bun.",
+      "Build the burger from the bottom up: bottom bun, butter lettuce, tomato slices, red onion, the rested patty (with melted cheese if using), a generous heap of jicama slaw — use more than you think you need, it compresses — and the top bun. Serve immediately."
+    ]
+  }
+}

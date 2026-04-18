@@ -1,0 +1,51 @@
+{
+  "id": 42,
+  "name": "WHERE HAVE YOU BEAN ALL MY LIFE BURGER - (Comes with baked beans)",
+  "price": "$5.95",
+  "season": 2,
+  "episode": 5,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/18",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/42",
+  "recipe": {
+    "history": "Long before colonists set foot on North American shores, Native Americans had already mastered the art of slow-cooking beans. Tribes across the Northeast, particularly the Haudenosaunee (Iroquois) and the Wampanoag, combined dried beans with bear fat and maple syrup, sealing clay pots and burying them in coal-lined pits to cook overnight. This method of low-and-slow subterranean cooking coaxed out a deep, sweet, smoky flavor that no open-fire method could replicate. The beans — often navy or kidney varieties cultivated as one of the foundational \"Three Sisters\" crops alongside corn and squash — were a staple of survival and ceremony alike. When English colonists arrived and observed these techniques, they adapted the recipe to their own pantry staples, swapping bear fat for salt pork and maple syrup for molasses, a thick byproduct of the colonial sugar trade. Boston, with its thriving molasses import economy (the city received so much of it that a catastrophic storage tank rupture in 1919 sent a wave of the stuff through the streets), became the undisputed capital of baked beans in America. Puritan tradition forbade cooking on the Sabbath, so pots of beans were prepared on Saturday, left to bake through the night in communal bread ovens, and served cold on Sunday morning alongside brown bread. This ritual cemented baked beans as a cultural institution in New England, earning Boston the enduring nickname \"Beantown.\"\n\nThe leap from the ceramic pot to the burger bun is a story of American ingenuity and an almost stubborn refusal to let a good thing stay in its lane. By the mid-twentieth century, roadside diners and backyard cookouts had already begun pushing the boundaries of what constituted a legitimate burger topping. Cheese was a given. Bacon was inevitable. But somewhere along the line — most food historians point loosely to the barbecue culture of the American South and Midwest during the 1960s and 70s — someone looked at a pot of slow-simmered, molasses-darkened baked beans and thought: that belongs on a patty. The logic is not as strange as it first sounds. Baked beans carry a sweet, savory, slightly smoky depth that functions like a sauce, a condiment, and a side dish simultaneously. They add moisture, they add texture, and they add a rusticity that cuts through the richness of ground beef in a way that ketchup simply cannot. Regional BBQ joints in the Carolinas and Texas began experimenting with bean-topped burgers as a way to differentiate themselves, and the combination slowly earned its place in the broader American burger canon. By the time Bob Belcher put it on his chalkboard, it was less an act of culinary rebellion and more a belated acknowledgment of something that had been quietly delicious all along.\n\nI remember the first time I truly understood what baked beans could do to a burger. It was a Saturday in late October, the kind of day where the air smells like woodsmoke and the light turns everything amber by three in the afternoon. My grandmother had been at the stove since early morning, tending to her cast iron pot the way other people tend to fires — with patience, with occasional stirring, and with the unspoken understanding that rushing it was simply not an option. She used navy beans she'd soaked overnight, thick-cut bacon from the butcher two blocks over, a pour of dark molasses that she measured only with her eyes, dry mustard, a splash of apple cider vinegar, and a single onion left whole in the center of the pot \"to hold everything together,\" she said, though I'm still not entirely sure what that meant. When she spooned those beans over a burger patty I'd cooked myself for the first time — medium rare, pink and trembling in the center, just the way she'd taught me — something shifted. The sweetness of the beans met the mineral richness of the beef and the whole thing became more than the sum of its parts. I didn't have the vocabulary for it then. I just knew I'd been missing it my whole life.\n\nThere is a philosophy embedded in the instruction to cook a burger to medium rare, and it deserves to be stated plainly: restraint is a form of respect. To cook a beef patty to 130–135°F (54–57°C) and no further is to trust the ingredient, to acknowledge that ground beef made from quality cuts carries flavor compounds that heat will destroy if given the chance. The Maillard reaction — that cascade of browning and crust formation that happens at the surface — requires high heat, and you want it. But the interior is another matter entirely. A medium rare burger is still slightly warm and pink at its core, yielding under the tooth, releasing juice rather than surrendering it to the pan. It is not undercooked; it is precisely cooked. The difference between 130°F and 160°F is not just temperature — it is the difference between a burger that tastes like beef and a burger that tastes like effort without reward. When you top that carefully cooked patty with baked beans that have been hours in the making, you are stacking two acts of patience on top of one another. That is not an accident. That is a burger worth naming.",
+    "ingredients": [
+      "1 lb (450g) 80/20 ground beef chuck, freshly ground",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 tbsp neutral oil (canola or grapeseed) for cooking",
+      "4 brioche or potato burger buns",
+      "2 tbsp unsalted butter, softened (for toasting buns)",
+      "4 slices sharp cheddar cheese",
+      "1 cup dry navy beans, soaked overnight in cold water",
+      "4 oz (115g) thick-cut bacon, cut into lardons",
+      "1 medium yellow onion, left whole (plus 1/2 onion, finely diced, for the bean base)",
+      "3 tbsp unsulfured blackstrap molasses",
+      "2 tbsp dark brown sugar",
+      "1 tbsp dry mustard powder",
+      "1 tbsp apple cider vinegar",
+      "1 tsp Worcestershire sauce",
+      "1/2 tsp smoked paprika",
+      "1/4 tsp cayenne pepper",
+      "1 cup low-sodium beef or chicken stock",
+      "1/2 cup water",
+      "Fine sea salt and black pepper for the beans",
+      "Shredded iceberg lettuce",
+      "2 ripe tomatoes, sliced thick",
+      "Dill pickle chips",
+      "Yellow mustard (optional)",
+      "Mayonnaise (optional)"
+    ],
+    "instructions": [
+      "1. The night before, place dry navy beans in a large bowl and cover with cold water by at least 3 inches. Soak overnight (8–12 hours). Drain and rinse before using.",
+      "2. Preheat oven to 300°F (150°C). In a heavy Dutch oven over medium heat, render the bacon lardons until they begin to crisp and the fat is released, about 6–8 minutes. Remove bacon with a slotted spoon and set aside, leaving the fat in the pot.",
+      "3. Add the diced half-onion to the bacon fat and cook until softened and translucent, about 5 minutes. Add the drained navy beans, rendered bacon, molasses, brown sugar, dry mustard, apple cider vinegar, Worcestershire sauce, smoked paprika, and cayenne. Stir to combine.",
+      "4. Nestle the whole onion into the center of the bean mixture. Pour in the stock and water — liquid should just barely cover the beans. Season lightly with salt and pepper. Bring to a gentle simmer on the stovetop.",
+      "5. Cover the Dutch oven with its lid and transfer to the preheated 300°F oven. Bake for 4–5 hours, checking every hour to stir gently and ensure the beans are not drying out. Add small amounts of water as needed to keep beans just covered. Beans are done when they are completely tender and the sauce has thickened to a rich, glossy consistency. Remove and discard the whole onion. Taste and adjust seasoning with salt, pepper, or a touch more molasses. Keep warm.",
+      "6. Remove the ground beef from the refrigerator 20–30 minutes before cooking to take the chill off. Divide into 4 equal portions (about 4 oz / 115g each). Gently form each portion into a patty approximately 3/4 inch thick, pressing a slight dimple in the center with your thumb to prevent doming. Season both sides generously with kosher salt and black pepper immediately before cooking.",
+      "7. Heat a cast iron skillet or heavy griddle over high heat until smoking. Add the neutral oil and swirl to coat. Place patties dimple-side up in the pan — do not press down. Sear undisturbed for 2–3 minutes until a deep brown crust forms on the bottom.",
+      "8. Flip each patty once. Place a slice of cheddar cheese on top of each patty. Cook for an additional 1.5–2 minutes. Use an instant-read thermometer to verify the internal temperature reaches 130–135°F (54–57°C) for medium rare — this is the target and there are no exceptions. Remove patties from heat and tent loosely with foil; rest for 3 minutes (carryover will bring the temperature to approximately 135°F / 57°C).",
+      "9. While the patties rest, butter the cut sides of the buns and toast them in the same skillet over medium heat until golden brown, about 1–2 minutes. Remove and set aside.",
+      "10. Assemble the burgers: spread mayonnaise or mustard on the bottom bun if using. Layer with shredded lettuce, a thick tomato slice, and pickle chips. Place the rested, cheese-topped patty on top. Spoon a generous portion of warm baked beans (2–3 heaping tablespoons) directly over the patty, allowing the sauce to run down the sides. Cap with the top bun. Serve immediately."
+    ]
+  }
+}

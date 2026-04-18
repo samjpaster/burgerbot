@@ -1,0 +1,40 @@
+{
+  "id": 132,
+  "name": "Emergency Eggs-it Burger",
+  "price": "$5.95",
+  "season": 7,
+  "episode": 16,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/123",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/132",
+  "recipe": {
+    "history": "The egg is among the oldest and most universal ingredients in human culinary history, predating agriculture itself. Chickens were first domesticated from the red junglefowl (Gallus gallus) in Southeast Asia around 6000–8000 BCE, and the practice of collecting and eating their eggs spread westward through India, Persia, Egypt, and Greece over millennia. By ancient Rome, fried eggs — cooked in olive oil in ceramic pans — were a common street food and household staple. The fried egg as we understand it today, crisped at the edges with a molten, runny yolk, is a technique refined across countless cultures: the Spanish huevo frito, the British fried egg on toast, the pan-fried eggs of Japanese teishoku breakfasts. The egg's genius lies in its duality — it is both a binding, enriching ingredient and a finished dish in its own right, capable of transforming whatever it touches with its silky yolk.\n\nThe fried egg's arrival on the American hamburger is part of the broader tradition of the \"loaded\" burger that gained momentum in diners and roadside grills through the mid-twentieth century. In Australia, the egg burger — known colloquially as \"the lot\" — became a national institution as early as the 1940s, influencing American GIs and travelers who carried the idea home. By the 1970s and 80s, diner menus across the American South and Midwest featured eggs atop burgers as a hearty, protein-forward option, often appearing on breakfast burger specials. The runny yolk functions as a natural, rich sauce, making it arguably the most economical and flavor-efficient burger topping in existence. The gastropub revolution of the 2000s elevated the fried egg burger to fine dining menus, pairing it with brioche buns, artisan cheese, and high-quality beef.\n\nI became a convert to the fried egg burger on a Tuesday morning when nothing else was going right. The grill wasn't cooperating, a delivery was late, and I had exactly twelve minutes before we opened. I had a patty, one egg, and a stale-ish English muffin. I fried the egg in the beef drippings still pooled in the cast iron, keeping the yolk completely liquid, slid it onto the patty, and ate it standing at the prep counter. That yolk broke as I bit down, ran down the beef, soaked into the bread, and for a moment everything was completely fine. There is something about a runny egg yolk that acts as an instant reset — it is warm, fatty, rich, and wholly uncomplicated. That emergency burger has been my benchmark for every egg burger since.\n\nThe philosophy of medium rare is inseparable from the philosophy of the egg yolk: both are about preserving a living, molten center in the face of heat. When you cook a patty to 130–135°F (54–57°C), you are making the same decision you make when you pull a fried egg before the yolk clouds over — you are choosing richness over safety theater, trusting your sourcing, and honoring the ingredient. A medium rare patty and a runny fried egg together are a study in complementary textures: yielding beef, silky yolk, toasted bread. To overcook either is to choose the lesser version of the experience without good reason.",
+    "ingredients": [
+      "1 lb (450g) freshly ground beef, 80/20 chuck blend",
+      "2 large eggs",
+      "2 brioche burger buns or English muffins, split",
+      "2 tbsp unsalted butter",
+      "2 slices American or cheddar cheese",
+      "2 tbsp mayonnaise",
+      "1 tsp hot sauce (such as Tabasco or Crystal)",
+      "4 strips thick-cut bacon, cooked until crisp",
+      "4 slices ripe tomato",
+      "2 leaves butter lettuce",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1/2 tsp smoked paprika",
+      "1 tbsp neutral oil"
+    ],
+    "instructions": [
+      "1. Remove ground beef from the refrigerator 20 minutes before cooking. Divide into two 8 oz portions and form into patties about 3/4 inch thick, pressing a dimple into the center of each. Season both sides with kosher salt, black pepper, and smoked paprika.",
+      "2. Heat a cast-iron skillet over high heat until smoking. Add the neutral oil.",
+      "3. Cook the patties undisturbed for 3 minutes to build a crust. Flip once.",
+      "4. Lay a slice of cheese over each patty. Cook for 2 more minutes, then check the internal temperature. Pull the patties when they reach 130–135°F (54–57°C) for medium rare. Tent with foil and rest for 3 minutes.",
+      "5. While patties rest, reduce heat to medium and add 1 tbsp butter to the same skillet, using the residual beef fat. Crack the eggs into the pan gently. Season with a pinch of salt.",
+      "6. Fry the eggs sunny-side up, basting the whites occasionally with the butter, until the whites are fully set but the yolks are completely liquid and glossy — approximately 2–3 minutes. Do not flip.",
+      "7. Toast the buns in a separate pan with the remaining butter over medium heat until golden, about 1–2 minutes.",
+      "8. Mix mayonnaise with hot sauce and spread on both cut sides of each bun.",
+      "9. Build the burger: bottom bun, lettuce, tomato, bacon, cheese-topped patty, fried egg (yolk side up).",
+      "10. Cap with the top bun, press very gently to avoid breaking the yolk prematurely, and serve immediately — the yolk should break at first bite."
+    ]
+  }
+}

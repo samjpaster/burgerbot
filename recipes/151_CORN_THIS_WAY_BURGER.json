@@ -1,0 +1,47 @@
+{
+  "id": 151,
+  "name": "CORN THIS WAY BURGER",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 8,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/137",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/151",
+  "recipe": {
+    "history": "Corn — Zea mays — is one of the oldest and most consequential crops in human history, originating in the Balsas River valley of southern Mexico approximately 9,000 years ago. Indigenous Mesoamerican civilizations, including the Olmec, Maya, and Aztec, cultivated corn as a sacred staple, developing the process of nixtamalization — soaking dried kernels in an alkaline solution — to unlock its full nutritional profile. Corn spread northward through trade routes across the continent long before European contact, and by the time Spanish colonizers arrived in the early sixteenth century, it had already become the dietary backbone of cultures stretching from the Andes to the Great Lakes. Dozens of varieties existed: flint corn, flour corn, popcorn, and the sweet corn we recognize today, each bred for specific climates, tastes, and ceremonial uses.\n\nWhen European settlers arrived in North America, Indigenous peoples introduced them to corn cultivation, and it quickly became a survival crop for the fledgling colonies. By the eighteenth and nineteenth centuries, corn had woven itself into the fabric of American identity — ground into cornmeal for johnnycakes and cornbread, fermented into bourbon whiskey, and fed to livestock that would eventually become the beef industry. Sweet corn arrived on American tables as a summer luxury in the 1800s, celebrated at county fairs and backyard cookouts. Its natural sweetness made it an instinctive pairing with grilled and charred foods, and by the mid-twentieth century, corn relishes, charred corn salsas, and creamed corn were appearing alongside burgers at diners and barbecue joints from coast to coast. The smokiness of a charcoal grill draws out the sugars in corn, caramelizing them into something that bridges the gap between vegetable side dish and savory condiment — a perfect foil for the richness of a beef patty.\n\nI remember the first time I truly understood what corn could do to a burger. It was late August — that narrow window when sweet corn is so fresh it barely needs cooking — and I was at a roadside stand somewhere in central Illinois where a woman was grilling ears directly over hardwood coals until the husks blackened and the kernels steamed inside. She shaved those kernels off in great crackling sheets and piled them onto a burger dressed with nothing more than butter, salt, and a swipe of aioli. I stood there in the gravel parking lot eating it in the fading afternoon heat and thought: this is what summer tastes like when it finally decides to be honest. The corn was sweet and smoky and slightly charred at the edges, and it made every other burger topping seem unnecessarily complicated.\n\nA burger cooked to medium rare is a philosophical commitment as much as a culinary instruction. It is a declaration that you respect the ingredient enough not to destroy it — that you understand fat as flavor, and that the pink, yielding center of a properly cooked patty is not a safety compromise but an aesthetic achievement. At 130–135°F (54–57°C), the proteins in the beef have tightened just enough to hold the patty together while the intramuscular fat remains liquid and fragrant, basting the meat from within. The crust, built through the Maillard reaction on a screaming-hot cast iron or griddle, provides the textural contrast that makes each bite complete. To cook a burger beyond this point is to boil away the conversation between fat and protein — to trade nuance for mere doneness. Medium rare is not a preference; it is the correct answer.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 fat ratio",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 tablespoon neutral oil (canola or grapeseed)",
+      "1 brioche burger bun",
+      "1 tablespoon unsalted butter (for toasting bun)",
+      "2 ears fresh sweet corn, husked",
+      "1 tablespoon unsalted butter (for corn)",
+      "1 teaspoon smoked paprika",
+      "1/4 teaspoon cayenne pepper",
+      "1 tablespoon fresh lime juice",
+      "2 tablespoons mayonnaise",
+      "1 teaspoon chipotle in adobo, minced",
+      "1 teaspoon honey",
+      "2 leaves butter lettuce",
+      "2 slices ripe tomato",
+      "1/4 small red onion, thinly sliced",
+      "Fresh cilantro leaves, for garnish",
+      "Flaky sea salt, for finishing"
+    ],
+    "instructions": [
+      "1. Remove the beef from the refrigerator 30 minutes before cooking to bring it to room temperature. Divide into one 8 oz portion and gently form into a patty approximately 3/4-inch thick, pressing a shallow dimple in the center with your thumb. Season both sides generously with kosher salt and black pepper. Do not overwork the meat.",
+      "2. Prepare the chipotle-honey aioli: whisk together the mayonnaise, minced chipotle in adobo, honey, and a pinch of salt in a small bowl. Taste and adjust seasoning. Refrigerate until needed.",
+      "3. Grill or char the corn: place the ears directly over a high-heat gas burner or under a broiler, turning every 2–3 minutes, until kernels are charred in spots and tender, about 10 minutes total. Alternatively, grill over high heat. Allow to cool slightly, then slice the kernels off the cob into a bowl.",
+      "4. Season the corn kernels with melted butter, smoked paprika, cayenne, lime juice, and a pinch of kosher salt. Toss to combine and set aside at room temperature.",
+      "5. Heat a cast iron skillet or heavy griddle over high heat until it just begins to smoke. Add the neutral oil and swirl to coat.",
+      "6. Place the patty in the skillet and press gently with a spatula to ensure full contact. Cook undisturbed for 3 minutes to develop a deep brown crust.",
+      "7. Flip the patty once. Cook for an additional 2–3 minutes until the internal temperature reads 130–135°F (54–57°C) on an instant-read thermometer. This is medium rare — do not cook beyond this point.",
+      "8. Transfer the patty to a wire rack or plate and tent loosely with foil. Rest for 3 minutes — carryover cooking will bring it to a perfect 133–135°F (56–57°C).",
+      "9. While the patty rests, melt the tablespoon of butter in the same skillet over medium heat. Place the bun cut-side down and toast until golden brown, about 60–90 seconds.",
+      "10. Assemble the burger: spread chipotle-honey aioli generously on both the top and bottom bun. Layer butter lettuce on the bottom bun, followed by the tomato slices and red onion.",
+      "11. Place the rested patty on top of the vegetables. Pile the charred corn mixture generously over the patty, allowing it to spill over the edges.",
+      "12. Scatter fresh cilantro leaves over the corn and finish with a pinch of flaky sea salt. Cap with the top bun, press lightly, and serve immediately."
+    ]
+  }
+}

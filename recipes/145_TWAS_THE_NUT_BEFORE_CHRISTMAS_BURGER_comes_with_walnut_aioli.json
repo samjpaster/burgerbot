@@ -1,0 +1,45 @@
+{
+  "id": 145,
+  "name": "TWAS THE NUT BEFORE CHRISTMAS BURGER (comes with walnut aioli)",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 6,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/135",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/145",
+  "recipe": {
+    "history": "The walnut — Juglans regia, the Persian or English walnut, and Juglans nigra, the Black walnut native to North America — holds one of the longest and most geographically expansive culinary histories of any nut on earth. Archaeological evidence from the Shanidar Cave in present-day Iraq suggests that Neanderthals may have consumed walnuts as far back as 60,000 years ago, and the tree has been cultivated continuously in the region stretching from the Balkans through Central Asia to China for at least 9,000 years. The ancient Romans called them Jovis glans — the acorn of Jupiter — and considered them a food of divine origin, spreading their cultivation across the empire from Britain to North Africa. Persian traders carried walnuts along the Silk Road eastward; Arab scholars wrote extensively about their medicinal and culinary properties; medieval European monastic orders planted walnut orchards as both food source and income. The nut's high fat content — predominantly beneficial polyunsaturated and monounsaturated fats — made it an extraordinary caloric resource in an era before refrigeration, and its rich, slightly tannic, deeply savory flavor made it one of the most versatile ingredients in pre-industrial cooking: pounded into sauces (the Persian fesenjan, the Italian salsa di noci), pressed for oil, toasted and eaten whole, or incorporated into sweet preparations from baklava to Christmas confections.\n\nIn American cuisine, walnuts arrived with both European colonists, who found the native Black walnut already in use by Indigenous peoples for food, medicine, and dye, and with 19th-century Persian and Armenian immigrant communities who brought the Juglans regia variety and its associated culinary traditions. The Black walnut occupies a particularly evocative place in American food history — its flavor is more intense, more bitter, and more complex than the milder English walnut, and it appears in traditional Appalachian cooking, Southern desserts, and the holiday baking of dozens of immigrant food cultures across the Midwest. Walnut oil became a prized salad dressing base in French-influenced American restaurant cooking in the late 20th century, and toasted walnuts found their way into compound butters, pesto variants, and eventually into aiolis that American chefs used to add texture and nuttiness to composed dishes. A walnut aioli on a burger is both ancient and modern: it draws on the nut's millennia-long role as a fat-based sauce foundation while delivering a richness and earthiness that no other aioli can replicate.\n\nI started making walnut aioli the winter I couldn't afford truffle oil and wanted something that would make a burger taste expensive without lying about what it was. I toasted Black walnuts in a dry pan until the kitchen smelled like December — that specific roasted-nut-and-cold-air smell that belongs to Christmas markets and late evenings — and let them cool before grinding them loosely with garlic, lemon, and good olive oil into a rough paste that I folded into mayonnaise. The result was nothing like truffle oil. It was better: earthy and slightly bitter and genuinely complex, with a texture that clung to the patty in a way that a thin aioli never does. I added a few whole toasted walnuts on top for crunch, some bitter greens to cut through the fat, and a slice of aged gruyère for its own nutty resonance. Eating it felt like sitting by a fire.\n\nThe walnut aioli on this burger is generous and rich, and it demands a medium-rare patty — 130–135°F / 54–57°C — to meet it honestly. A well-done patty is a dry patty, and a dry patty under a walnut aioli is just bread with a puck of protein getting in the way; the aioli has no juice to mingle with, no warmth to loosen into, no pink center to provide the sweet, yielding counterpoint that makes the bitterness of the walnut make sense. Medium rare is not simply a preference here — it is the structural condition that allows every other ingredient to do its job. The fat in the beef and the fat in the walnut exist in conversation at this temperature, and the dialogue they conduct is the entire point of the burger: rich meeting rich, earth meeting earth, the whole thing tasting unmistakably like the best version of December.",
+    "ingredients": [
+      "1 lb (450g) ground beef, 80/20 chuck blend",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "1 cup walnut halves and pieces (preferably Black walnuts, or English walnuts)",
+      "3/4 cup mayonnaise (full-fat)",
+      "2 cloves garlic, minced to a paste",
+      "1 tablespoon fresh lemon juice",
+      "1 teaspoon lemon zest",
+      "2 tablespoons good extra-virgin olive oil",
+      "1/4 teaspoon smoked paprika",
+      "Pinch of cayenne pepper",
+      "2 slices aged gruyère cheese",
+      "2 brioche burger buns",
+      "2 tablespoons unsalted butter, for toasting buns",
+      "1 cup frisée or arugula (bitter greens)",
+      "2 slices ripe tomato",
+      "1/4 cup whole toasted walnuts, roughly chopped (for topping)",
+      "Flaky sea salt, for finishing"
+    ],
+    "instructions": [
+      "1. Toast walnuts for the aioli: spread 1 cup walnut pieces in a dry skillet over medium heat. Toast, stirring frequently, for 4–5 minutes until fragrant and lightly darkened. Watch carefully — walnuts burn quickly. Transfer immediately to a plate and allow to cool completely.",
+      "2. Make the walnut aioli: combine cooled toasted walnuts, garlic paste, lemon juice, lemon zest, olive oil, smoked paprika, and cayenne in a food processor. Pulse until a rough, slightly chunky paste forms — you want texture, not a smooth purée. Transfer to a bowl and fold in mayonnaise until fully incorporated. Season with salt to taste. Refrigerate until needed (up to 3 days).",
+      "3. In the same dry skillet, toast the remaining 1/4 cup walnuts over medium heat until fragrant, about 3–4 minutes. Roughly chop and set aside for garnish.",
+      "4. Divide ground beef into two 8-oz portions. Form each gently into a 3/4-inch-thick patty with a shallow dimple pressed in the center. Season both sides generously with kosher salt and cracked black pepper immediately before cooking.",
+      "5. Heat a cast-iron skillet or flat-top griddle over high heat until smoking.",
+      "6. Place patties dimple-side up. Cook undisturbed for 3–3.5 minutes to develop a substantial, mahogany crust on the underside.",
+      "7. Flip patties. Lay one slice of gruyère over each patty. Cook for 2–2.5 more minutes, monitoring internal temperature with an instant-read thermometer. Remove from heat at 130–135°F / 54–57°C for medium rare. Tent loosely with foil and rest for 3 minutes.",
+      "8. While patties rest, toast the brioche buns cut-side down in butter over medium heat until golden, about 1–2 minutes.",
+      "9. Build the burger: spread a generous layer of walnut aioli on both the top and bottom buns. Place frisée or arugula and a tomato slice on the bottom bun. Set the gruyère-covered, rested patty on top.",
+      "10. Spoon an additional dollop of walnut aioli over the melted cheese. Scatter the roughly chopped toasted walnuts over the top for crunch. Finish with a pinch of flaky sea salt.",
+      "11. Cap with the top bun and serve immediately, with extra walnut aioli on the side."
+    ]
+  }
+}

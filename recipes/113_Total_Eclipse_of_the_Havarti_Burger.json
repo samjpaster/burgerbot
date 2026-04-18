@@ -1,0 +1,49 @@
+{
+  "id": 113,
+  "name": "Total Eclipse of the Havarti Burger",
+  "price": "$5.95",
+  "season": 6,
+  "episode": 9,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/97",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/113",
+  "recipe": {
+    "history": "Havarti is a semi-soft washed-curd cheese that traces its origins to mid-nineteenth century Denmark, and more specifically to the experimental dairy farm of Hanne Nielsen, a remarkable and largely unsung figure in the history of cheesemaking. Nielsen traveled extensively through Europe in the 1850s studying cheese production techniques in Switzerland, France, and Britain, then returned to her farm — called Havarthigaard, located north of Copenhagen — and applied what she had learned to Danish milk. The result was a smooth, supple, ivory-yellow cheese with a mild buttery flavor and an even, almost creamy texture interrupted by small irregular holes. Havarti was a departure from the harder, more assertive cheeses of the European tradition; it was gentle and accommodating, a cheese that did not demand attention but repaid it generously. It became the signature cheese of Danish cuisine and eventually one of the most exported Scandinavian food products in the world.\n\nHavarti arrived in the United States in large quantities through Scandinavian immigrant communities in the upper Midwest — Minnesota, Wisconsin, and the Dakotas — where Danish, Norwegian, and Swedish settlers brought with them the dairy traditions of their homelands. American dairies quickly began producing domestic versions, and by the latter half of the twentieth century, Havarti had found its way into mainstream American grocery stores and delicatessens. Its particular virtue for the American burger was immediately apparent to anyone who tried it: Havarti melts with almost supernatural ease, flowing over the contours of a hot beef patty like warm silk, forming a glossy, slightly stretchy blanket that seals in steam and amplifies every aromatic compound in the meat beneath it. Unlike sharper cheeses that can compete with the burger, Havarti collaborates — it rounds the edges, enriches the fat, and lets the beef remain the protagonist.\n\nThe first time I used Havarti on a burger instead of the usual cheddar, I expected to be underwhelmed. It seemed too mild, too polite — a cheese for people who were not quite sure about cheese. I was wrong in the specific way that cooks are wrong when they mistake subtlety for weakness. The Havarti melted in a single, uninterrupted sheet over the patty, and when I bit through it, I realized it had done something the cheddar never had: it had become part of the burger rather than a topping on it. Every bite had the cheese threaded through it, inseparable from the beef. I added dill — a natural Scandinavian pairing — and a quick-pickled cucumber, and the whole thing tasted like a summer afternoon in a country I have never visited but now feel I understand.\n\nMedium rare is not a temperature preference — it is the correct temperature, the temperature to which beef aspires if you are patient and attentive enough to let it get there without going further. At 130 to 135 degrees Fahrenheit (54 to 57 degrees Celsius), the patty achieves what the Japanese call 'ma' — the perfect interval, the right amount of something in the right proportion. The exterior has undergone the Maillard reaction, producing hundreds of new flavor compounds through the browning of proteins and sugars. The interior remains pink and warm, its moisture intact, its fat in solution within the meat rather than fled to the bottom of the pan. For the Total Eclipse of the Havarti Burger, this matters doubly: the Havarti needs a hot, juicy surface to melt into, and only a properly cooked medium-rare patty provides it. An overcooked patty dries the cheese; a medium-rare patty invites it.",
+    "ingredients": [
+      "1.5 lbs (680g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "8 slices plain Havarti cheese (about 6 oz / 170g total)",
+      "4 brioche buns",
+      "2 tablespoons unsalted butter, softened",
+      "1 tablespoon neutral oil",
+      "1 English cucumber, thinly sliced into rounds",
+      "1/2 cup white wine vinegar",
+      "1/2 cup water",
+      "1 tablespoon sugar",
+      "1 teaspoon kosher salt (for pickling brine)",
+      "1 teaspoon mustard seeds",
+      "1 teaspoon dried dill (or 1 tablespoon fresh dill fronds)",
+      "3 tablespoons mayonnaise",
+      "1 tablespoon sour cream",
+      "2 teaspoons fresh dill, finely chopped",
+      "1 teaspoon lemon zest",
+      "1 teaspoon fresh lemon juice",
+      "1/2 teaspoon garlic powder",
+      "4 leaves green leaf lettuce",
+      "Flaky sea salt for finishing"
+    ],
+    "instructions": [
+      "1. Make the quick-pickled cucumbers at least 30 minutes in advance: combine the white wine vinegar, water, sugar, kosher salt, and mustard seeds in a small saucepan. Bring to a simmer and stir until the sugar and salt dissolve. Remove from heat and add the dried dill. Pour the brine over the sliced cucumbers in a heatproof bowl or jar. Let cool to room temperature, then refrigerate until needed.",
+      "2. Prepare the dill cream sauce: whisk together the mayonnaise, sour cream, fresh dill, lemon zest, lemon juice, and garlic powder. Season with salt and pepper to taste. Refrigerate until needed.",
+      "3. Remove the beef from the refrigerator 20 minutes before cooking. Divide into 4 equal portions (approximately 6 oz / 170g). Form into patties about 3/4 inch thick with a center dimple. Season both sides generously with kosher salt and black pepper.",
+      "4. Heat a cast iron skillet or griddle over high heat until it just begins to smoke. Add the neutral oil and swirl to coat.",
+      "5. Place the patties in the pan. Cook undisturbed for 3 to 3.5 minutes until a deep, even crust has formed on the underside.",
+      "6. Flip the patties once. Immediately lay 2 slices of Havarti on each patty, slightly overlapping, to create a full coverage 'eclipse' of cheese over the beef.",
+      "7. Cook for 2 to 2.5 more minutes. Check with an instant-read thermometer — pull patties at 130–135°F (54–57°C). The Havarti should be fully melted and glossy. Rest patties on a wire rack for 3 minutes.",
+      "8. While the patties rest, butter the bun halves and toast cut-side down in the skillet over medium heat for 1 to 2 minutes until golden.",
+      "9. Spread the dill cream sauce on both cut sides of the bun.",
+      "10. Assemble: bottom bun, green leaf lettuce, the rested patty draped in its total eclipse of Havarti, a generous layer of drained pickled cucumber rounds, a pinch of flaky sea salt, and the top bun.",
+      "11. Serve immediately while the Havarti is still warm and flowing."
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 149,
+  "name": "HAVARTI LIKE IT'S 1999 BURGER",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 8,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/137",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/149",
+  "recipe": {
+    "history": "Havarti is a Danish semi-soft cow's milk cheese developed in the mid-19th century by Hanne Nielsen, a pioneering Danish cheesemaker who studied cheese production across Europe and returned to her farm — Havarthigaard, north of Copenhagen — to experiment with her own style. Nielsen was one of the first women in Danish agricultural history to be recognized for scientific contributions to her field, and her cheese reflected her methodical approach: a washed-curd process that produces a supple, buttery paste riddled with small irregular holes and a flavor that is mild, creamy, and faintly tangy. True Havarti is a protected designation of origin product in Denmark today, where it continues to be made with the same basic technique Nielsen codified over 150 years ago. It is a cheese built on curiosity and craft, not accident.\n\nHavarti came to the United States primarily through Danish and Scandinavian immigrant communities in the upper Midwest — Minnesota, Wisconsin, the Dakotas — where its mild character made it broadly appealing to American palates that were still warming up to European-style cheeses. By the 1970s and 1980s, American-made Havarti was widely available in deli cases, and its exceptional melting properties — it flows smoothly and evenly without separating or turning greasy — made it a favorite for hot sandwiches and melts. The 1990s in particular were the decade of Havarti's American peak: it appeared on upscale diner menus, in gourmet burger joints opening across cities, and in home kitchens where ambitious cooks were discovering that cheese selection was actually a significant lever in burger quality.\n\nHavarti like it's 1999 means something specific to me: it means a Saturday afternoon, a countertop CD player running through a playlist of songs that all felt urgent then and feel nostalgic now, and a cast-iron skillet I'd inherited from my uncle that I hadn't yet learned to properly season. I made burgers that afternoon with deli Havarti — the kind pre-sliced in the blue package — and the cheese melted into something glossy and perfect over the patty while I stood at the stove in a tiny apartment feeling, briefly and completely, like I had figured something out. The burger was simple. The moment was not. That's the thing about food: it doesn't just mark time, it makes time.\n\nMedium rare — 130 to 135°F, 54 to 57°C — is particularly important for a burger built around Havarti, because Havarti's butter-soft texture and mild flavor profile require a juicy, mineral-forward patty as their backbone. Havarti does not assert itself the way a sharp cheddar or a funky blue does. It enriches and softens. Without the full beefiness and juice of a medium-rare patty underneath it, a Havarti cheeseburger risks becoming bland — rich without depth, creamy without contrast. Medium rare is what gives this burger its spine.",
+    "ingredients": [
+      "1 lb (450g) ground beef, 80/20 chuck blend",
+      "2–3 slices Havarti cheese (plain or dill Havarti)",
+      "1 brioche bun or soft potato roll, split",
+      "1 tbsp unsalted butter for toasting",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1 tbsp neutral oil for cooking patty",
+      "2 tbsp mayonnaise",
+      "1 tsp Dijon mustard",
+      "1 tsp white wine vinegar",
+      "1/2 tsp sugar",
+      "1 cup thinly shredded green cabbage (for quick slaw)",
+      "1 tbsp finely sliced chives",
+      "2 slices ripe beefsteak tomato",
+      "3–4 thin cornichon slices or bread-and-butter pickles"
+    ],
+    "instructions": [
+      "1. Make quick slaw: toss shredded cabbage with white wine vinegar, sugar, a pinch of salt, and half the chives. Let sit at room temperature for 15 minutes while you prepare everything else.",
+      "2. Stir together mayonnaise and Dijon mustard for the spread. Set aside.",
+      "3. Gently form ground beef into a single patty about 3/4 inch thick. Press a shallow dimple in the center. Season both sides generously with kosher salt and black pepper. Refrigerate 10 minutes.",
+      "4. Heat oil in a cast-iron skillet over high heat until just smoking.",
+      "5. Place patty in the pan and sear without moving for 3 minutes, until a deep golden-brown crust develops.",
+      "6. Flip once. Drape Havarti slices over the patty, overlapping to cover fully. Cook for 2–3 minutes.",
+      "7. Start checking internal temperature at 2 minutes. Remove from heat when the center reads 130–135°F (54–57°C). Transfer to a rack and rest tented under foil for 3–4 minutes. Havarti will finish melting during the rest.",
+      "8. Butter cut faces of the bun and toast in the same pan over medium heat for 1–2 minutes until golden.",
+      "9. Spread Dijon mayonnaise on both toasted bun faces.",
+      "10. Build the burger: tomato slices on the bottom bun, then the rested patty with melted Havarti, then a tangle of quick slaw, cornichons or pickles, and a scatter of remaining chives. Cap with the top bun and serve immediately."
+    ]
+  }
+}

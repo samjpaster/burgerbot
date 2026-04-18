@@ -1,0 +1,45 @@
+{
+  "id": 121,
+  "name": "Aw Nuts Burger (comes with peanut butter)",
+  "price": "$5.95",
+  "season": 6,
+  "episode": 18,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/106",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/121",
+  "recipe": {
+    "history": "Peanut butter traces its roots to the ancient civilizations of South America, where the Aztecs and Incas ground roasted peanuts into a paste long before European contact. The peanut itself — Arachis hypogaea — is native to the lowlands of Bolivia and northwestern Argentina, cultivated for at least 7,600 years. Early peanut pastes were thick, unsweetened, and served as a protein-dense staple rather than a condiment. It was the Spanish conquistadors who carried the groundnut back to Europe and onward to Africa and Asia, setting in motion a global dispersal that would eventually bring the humble legume to North American shores.\n\nIn the United States, peanut butter's modern form emerged in the late 19th century, with patents filed as early as 1884 by Marcellus Edson in Canada and later by John Harvey Kellogg in 1895. Its arrival in American cuisine accelerated during both World Wars, when meat rationing made high-protein spreads essential pantry staples. By the mid-20th century, peanut butter had transcended the lunchbox and begun appearing in savory applications — glazes, sauces, and eventually burger toppings, inspired in part by Southeast Asian peanut-based sauces and the Southern American tradition of pairing salty-sweet flavors with grilled meats. Burger joints experimenting with peanut butter toppings in the 1980s and 1990s found that its fat content and umami depth complemented a beef patty in ways that no standard condiment could replicate.\n\nI remember the first time I put peanut butter on a burger — I was skeptical, standing in my cousin's backyard in August, the kind of heat that makes the air shimmer over the grill grates. She slid a jar of chunky peanut butter across the picnic table like it was the most natural thing in the world, and I held it for a long moment, weighing the absurdity against the authority with which she'd offered it. One bite and the skepticism dissolved: the fat from the peanut butter melted into the beef drippings, the salt amplified everything, and there was this low, roasted sweetness that made each mouthful feel complete in a way I hadn't expected. I've never built a burger without considering it since.\n\nCooking a burger to medium rare is not a shortcut — it is a philosophy. At an internal temperature of 130–135°F (54–57°C), the proteins in the beef have begun to set while the intramuscular fat is still liquid, basting the meat from within with every chew. The crust is dark and crackling, the center is rosy and yielding, and the juices run freely when you press the bun. To cook beyond this point is to chase safety at the cost of soul. A medium rare burger is a statement of trust — in your sourcing, in your technique, and in the belief that food tastes best when it still carries the memory of what it was.",
+    "ingredients": [
+      "1.5 lbs (680g) ground beef, 80/20 chuck blend",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "4 brioche burger buns",
+      "4 tbsp unsalted butter, softened (for toasting buns)",
+      "1/2 cup creamy peanut butter (natural, no sugar added)",
+      "4 slices sharp cheddar cheese",
+      "4 strips thick-cut applewood smoked bacon",
+      "1/2 cup mayonnaise",
+      "2 tbsp sriracha or hot sauce",
+      "1 tbsp honey",
+      "1 large red onion, thinly sliced into rings",
+      "2 tbsp olive oil (for caramelizing onion)",
+      "1 tsp balsamic vinegar",
+      "1 tsp brown sugar",
+      "1 head butter lettuce, leaves separated",
+      "2 ripe tomatoes, sliced 1/4-inch thick",
+      "Dill pickle slices",
+      "Neutral oil or beef tallow (for the grill or griddle)"
+    ],
+    "instructions": [
+      "1. Remove ground beef from the refrigerator 30 minutes before cooking to bring it closer to room temperature. Divide into 4 equal portions (approximately 6 oz each) and gently form into patties about 3/4-inch thick, pressing a shallow dimple in the center of each with your thumb to prevent puffing. Season generously on both sides with kosher salt and freshly ground black pepper. Do not overwork the meat.",
+      "2. Prepare the caramelized onions: heat olive oil in a heavy skillet over medium-low heat. Add the sliced red onion with a pinch of salt and cook, stirring occasionally, for 25–30 minutes until deeply golden and soft. Stir in balsamic vinegar and brown sugar in the final 5 minutes. Remove from heat and set aside.",
+      "3. Cook the bacon in a skillet over medium heat until crisp and rendered. Transfer to a paper towel-lined plate. Reserve a small amount of bacon fat in the skillet if desired for toasting buns.",
+      "4. Make the spicy honey aioli: whisk together mayonnaise, sriracha, and honey in a small bowl until smooth. Taste and adjust heat and sweetness to preference. Refrigerate until ready to use.",
+      "5. Gently warm the peanut butter in a small saucepan over very low heat, stirring until it loosens to a spreadable, pourable consistency. Keep warm.",
+      "6. Preheat a cast-iron skillet, griddle, or grill to high heat. Lightly grease the cooking surface with neutral oil or beef tallow.",
+      "7. Cook the patties over high heat for approximately 3 minutes on the first side without moving them, allowing a deep crust to form. Flip once. Place a slice of cheddar cheese on each patty immediately after flipping.",
+      "8. Continue cooking for approximately 2–2.5 minutes on the second side. Begin checking internal temperature at the 2-minute mark. Pull the patties when an instant-read thermometer inserted into the thickest part reads 130–135°F (54–57°C) for medium rare. Tent loosely with foil and rest for 3 minutes — carryover cooking will bring the final temperature to approximately 133–137°F.",
+      "9. While the patties rest, toast the brioche buns cut-side down in butter over medium heat for 1–2 minutes until golden.",
+      "10. Build each burger: spread spicy honey aioli on the bottom bun. Layer with butter lettuce, a tomato slice, and pickle slices. Place the cheesed patty on top. Spoon a generous tablespoon of warm peanut butter directly over the melted cheese, letting it drape over the sides. Top with caramelized onions and a strip of bacon. Cap with the top bun and serve immediately."
+    ]
+  }
+}

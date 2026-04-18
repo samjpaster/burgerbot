@@ -1,0 +1,47 @@
+{
+  "id": 107,
+  "name": "Who Wants To Be A Scallionaire Burger?",
+  "price": "$5.95",
+  "season": 5,
+  "episode": 21,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/88",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/107",
+  "recipe": {
+    "history": "The scallion — Allium fistulosum, also called green onion, spring onion, or Welsh onion depending on where in the world you happen to be standing — has been cultivated in China for more than two thousand years, predating many of the ingredients we now consider kitchen staples. Archaeological and textual evidence traces its origins to Central Asia and western China, where it grew wild before being domesticated and absorbed into the vast culinary traditions of Chinese, Japanese, Korean, and Vietnamese cooking. In China, scallions became one of the five pungent roots alongside garlic, ginger, onion, and chive — ingredients so fundamental to flavor-building that entire cooking philosophies were constructed around their use. In Japan, negi — the thick, leek-like scallion variety — appears in everything from miso soup to yakitori, where charred scallion segments are threaded onto skewers beside chicken thigh and glazed with tare. In Korea, pa — the word for scallion — gives its name to pajeon, the savory scallion pancake that has been a rainy-day ritual food for centuries. Across the Vietnamese table, raw scallions finish a bowl of pho, providing fresh, bright counterpoint to the long-simmered broth beneath.\n\nScallions entered American cuisine through multiple doors simultaneously. Chinese railroad workers in the nineteenth century brought their cooking traditions to the American West, and scallions became staples of early Chinese-American restaurant cooking — appearing in stir-fries, fried rice, and dumpling fillings at a time when most Anglo-American palates were still skeptical of alliums beyond yellow onions. Simultaneously, Eastern European Jewish immigrants brought their own scallion traditions through dishes like bialys and cream cheese preparations, embedding the ingredient into the deli culture of New York and Chicago. By the late twentieth century, the farm-to-table movement and the rise of chef-driven burger culture created space for scallions to appear not merely as a garnish but as a structural element — mixed directly into patties, caramelized into compotes, charred whole on a grill and laid alongside beef.\n\nI have a particular memory of scallions that has nothing to do with fine dining. I was working a summer job at a noodle shop, and every morning at six o'clock the prep cook — a quiet man named Henry who had been cooking since before I was born — would sit at the prep table with a bundle of scallions and a thin-bladed knife and slice them on a precise diagonal, the green parts falling in neat discs onto the cutting board. He did it without looking, the blade moving in a steady rhythm while he watched something out the window. He told me once that the diagonal cut wasn't decorative — it exposed more surface area, released more of the volatile compounds, and let the scallion breathe into a dish rather than sitting on top of it. I think about that cut every time I handle scallions. There is so much knowledge packed into a gesture that looks simple.\n\nCooking a burger to medium rare — 130 to 135 degrees Fahrenheit, or 54 to 57 degrees Celsius — is the central act of honesty in a burger kitchen. It is a refusal to hide behind condiments and toppings by first destroying the ingredient you are supposed to be celebrating. Beef at this temperature retains its mineral richness, the fat carries the fat-soluble flavor compounds to every corner of your palate, and the texture gives back when you press it — resilient, not rubbery. The scallion, with its sharp, grassy bite, is one of the few aromatics assertive enough to hold its own against medium-rare beef without overwhelming it. Whether mixed raw into the patty, caramelized slowly in butter until sweet and jammy, or charred quickly over high heat to develop smoky bitterness, the scallion meets the beef as an equal. This is not a topping. This is a partnership.",
+    "ingredients": [
+      "1.5 lbs (680g) 80/20 ground chuck, freshly ground if possible",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "2 large bunches scallions (about 16 stalks), divided",
+      "3 tablespoons unsalted butter, divided",
+      "2 tablespoons neutral oil, divided",
+      "4 potato buns or brioche buns",
+      "4 slices sharp white cheddar cheese",
+      "1/2 cup sour cream",
+      "2 tablespoons cream cheese, softened",
+      "1 tablespoon fresh chives, finely minced",
+      "1 teaspoon white wine vinegar",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon garlic powder",
+      "1/4 teaspoon cayenne pepper",
+      "1 tablespoon soy sauce",
+      "1 teaspoon toasted sesame oil",
+      "1 teaspoon honey",
+      "Iceberg lettuce leaves",
+      "1 large ripe tomato, sliced"
+    ],
+    "instructions": [
+      "1. Prepare the scallions: trim the root ends and any wilted green tips from all 16 stalks. Separate into three groups — (a) 4 whole stalks for charring, (b) 6 stalks to be finely sliced for the patty mix, and (c) the remaining 6 stalks to be caramelized for the topping.",
+      "2. Make the scallion cream: finely mince the 6 stalks designated for the patty mix. Combine half of the minced scallion with the sour cream, cream cheese, chives, white wine vinegar, onion powder, and a pinch of salt in a small bowl. Whisk until smooth and fully combined. Refrigerate until needed.",
+      "3. Mix the patties: in a large bowl, combine the ground chuck with the remaining half of the finely minced scallion, garlic powder, soy sauce, sesame oil, honey, 1 teaspoon kosher salt, and 1/2 teaspoon black pepper. Mix gently with your hands until just combined — do not overwork. Divide into 4 equal portions and form into patties approximately 3/4 inch thick with a dimple pressed into the center of each. Refrigerate for 15 minutes to firm up.",
+      "4. Caramelize the scallions: slice the 6 designated stalks into 2-inch segments. Melt 2 tablespoons of butter with 1 tablespoon of oil in a skillet over medium-low heat. Add the scallion segments and a pinch of salt. Cook, stirring occasionally, for 15 to 20 minutes until deeply golden, sweet, and jammy. Season with a pinch of cayenne. Transfer to a small bowl and set aside.",
+      "5. Char the whole scallions: heat a cast iron grill pan or skillet over high heat until smoking. Toss the 4 whole scallion stalks with 1/2 tablespoon of oil and a pinch of salt. Sear them in the dry pan for 2 to 3 minutes per side until charred in spots and slightly wilted. Set aside.",
+      "6. Remove the patties from the refrigerator. Heat the remaining oil in a large cast iron skillet over high heat until it begins to smoke.",
+      "7. Cook the patties without moving for 3 to 4 minutes until a deep, dark crust forms on the underside.",
+      "8. Flip each patty once. Immediately place a slice of sharp white cheddar on each patty. Cook for 2 to 3 more minutes, monitoring with an instant-read thermometer. Pull the patties when the internal temperature reaches 130 to 135°F (54 to 57°C). This is medium rare and is the only correct target temperature for a juicy, flavorful burger.",
+      "9. Transfer patties to a wire rack and rest for 3 to 5 minutes. Do not cover them — you want the crust to remain intact.",
+      "10. Toast the buns: wipe the skillet, reduce heat to medium-low, and add the remaining tablespoon of butter. Toast the buns cut-side down until golden brown, about 1 to 2 minutes.",
+      "11. Assemble: spread the scallion cream generously on both bun halves. On the bottom bun, place a leaf of iceberg lettuce, then a tomato slice, then the rested patty with melted cheddar. Spoon a mound of caramelized scallions over the patty and lay one charred whole scallion stalk across the top. Close with the top bun and serve immediately."
+    ]
+  }
+}

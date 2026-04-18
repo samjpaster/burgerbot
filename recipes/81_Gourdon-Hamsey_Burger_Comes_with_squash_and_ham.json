@@ -1,0 +1,46 @@
+{
+  "id": 81,
+  "name": "The Burger of the Day didn't fully appear on-screen, but according to the writers tumblr blog it's the Gourdon-Hamsey Burger (Comes with squash and ham).",
+  "price": "$5.95",
+  "season": 4,
+  "episode": 5,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/50",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/81",
+  "recipe": {
+    "history": "Squash is one of the oldest cultivated crops in the Americas, with archaeological evidence placing its domestication in Mesoamerica — present-day Mexico and Central America — as far back as 10,000 years ago. Long before European contact, indigenous peoples of the Americas were cultivating squash alongside corn and beans in the agricultural triad known as the Three Sisters. Winter squash varieties such as butternut, acorn, and delicata were prized for their dense, sweet flesh and remarkable shelf life, making them indispensable staples through harsh seasons. Ham, by contrast, traces its roots to ancient China and Rome, where the practice of salt-curing pork legs was documented as early as the second century BCE. The combination of sweet, earthy squash and salty, smoky ham reflects a culinary contrast — sweet and savory, soft and chewy — that has captivated cooks across continents and centuries.\n\nWhen European settlers arrived in the Americas they encountered squash in abundance and quickly incorporated it into their cooking alongside preserved pork products they brought from the Old World. Ham had long been a cornerstone of American frontier and Southern cooking, cured in smokehouses and hung through winter. The pairing of roasted squash and ham became a fixture of early American harvest cooking, appearing on colonial tables and in farmhouse kitchens throughout the Northeast and Mid-Atlantic states. As American cuisine evolved and the hamburger emerged as a cultural touchstone in the late nineteenth and early twentieth centuries, creative cooks began reaching beyond lettuce and tomato for toppings that told a story. The Gourdon-Hamsey Burger is a natural heir to that tradition — roasted squash bringing autumn sweetness, thinly sliced ham lending a cured, smoky salinity that elevates the humble beef patty into something genuinely seasonal.\n\nI remember the first time someone put squash on a burger for me. It was a fall afternoon at a friend's backyard cookout, the kind where the leaves had just turned and the air smelled faintly of woodsmoke. She had roasted thick slices of butternut squash with a little brown butter and sage, and when she laid one on top of a just-off-the-grill patty alongside a fold of thin-sliced Black Forest ham, I thought she was joking. I bit in anyway, and the sweetness of the squash against the salt of the ham and the deep iron char of the beef hit me all at once like a chord I hadn't heard before. I've chased that bite ever since at every autumn cookout I've attended, and I still haven't found one that quite matched it — though I keep trying.\n\nMedium rare is not a compromise; it is a conviction. When a beef patty is cooked to an internal temperature of 130 to 135 degrees Fahrenheit — 54 to 57 degrees Celsius — something specific and irreversible happens inside the meat. The proteins have set just enough to give the patty structure and a satisfying chew, but the fat has not fully rendered away, and the myoglobin that gives beef its red color has only partially denatured, leaving the center blushing and juicy. That moisture is not rawness — it is flavor in its most concentrated form. A burger cooked beyond this range loses the juice that carries the beef's character, becoming dry and dense regardless of the quality of the grind. To cook a burger medium rare is to respect the ingredient, to understand that heat is a tool and not a punishment, and to trust that the person eating it deserves the best version of what you can offer.",
+    "ingredients": [
+      "1.5 lbs (680g) 80/20 ground beef chuck, freshly ground",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "1 small butternut squash, peeled and sliced into 1/4-inch rounds",
+      "2 tablespoons unsalted butter",
+      "1 tablespoon fresh sage leaves, finely chopped",
+      "1/2 teaspoon ground nutmeg",
+      "1 teaspoon light brown sugar",
+      "4 oz (115g) thinly sliced Black Forest ham",
+      "4 slices Gruyère cheese",
+      "4 brioche burger buns",
+      "2 tablespoons mayonnaise",
+      "1 tablespoon Dijon mustard",
+      "1 teaspoon apple cider vinegar",
+      "1 cup arugula",
+      "2 tablespoons olive oil",
+      "Neutral oil for grilling (such as canola or vegetable oil)"
+    ],
+    "instructions": [
+      "1. Preheat your oven to 400°F (205°C). Line a baking sheet with parchment paper.",
+      "2. Toss the butternut squash rounds with olive oil, brown sugar, nutmeg, chopped sage, a generous pinch of kosher salt, and black pepper. Spread in a single layer on the prepared baking sheet.",
+      "3. Roast the squash for 20–25 minutes, flipping once halfway through, until tender and caramelized at the edges. Remove from oven and set aside.",
+      "4. While the squash roasts, divide the ground beef into 4 equal portions (approximately 6 oz / 170g each). Gently form each portion into a patty about 3/4-inch thick, pressing a slight dimple in the center to prevent puffing during cooking. Season both sides liberally with kosher salt and freshly cracked black pepper. Refrigerate until ready to cook.",
+      "5. Whisk together the mayonnaise, Dijon mustard, and apple cider vinegar in a small bowl. Season lightly with salt and pepper. Set aside.",
+      "6. Heat a cast-iron skillet or grill pan over high heat until smoking. Lightly oil the surface with neutral oil.",
+      "7. Place the patties in the pan and cook undisturbed for 3 minutes to develop a deep sear. Flip once.",
+      "8. After flipping, lay a slice of Gruyère on each patty and a fold of Black Forest ham on top of the cheese. Cook for an additional 2–3 minutes, tenting loosely with foil if needed to melt the cheese.",
+      "9. Check the internal temperature with an instant-read thermometer. Remove the patties from heat when they reach 130–135°F (54–57°C) for medium rare. Rest on a clean plate for 3 minutes — the carry-over heat will bring them to the perfect finished temperature.",
+      "10. While the patties rest, toast the brioche buns cut-side down in the residual heat of the pan for 1–2 minutes until golden.",
+      "11. Spread the mustard-mayo sauce on both halves of each bun.",
+      "12. Place a patty (with ham and melted Gruyère) on each bottom bun. Top with 1–2 roasted squash rounds, a small handful of arugula, and the top bun.",
+      "13. Serve immediately."
+    ]
+  }
+}

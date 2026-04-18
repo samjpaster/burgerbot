@@ -1,0 +1,43 @@
+{
+  "id": 124,
+  "name": "Muenster Under the Bun Burger",
+  "price": "$5.95",
+  "season": 7,
+  "episode": 3,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/110",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/124",
+  "recipe": {
+    "history": "Muenster cheese — known in its French homeland as Munster or Munster-Géromé — originates from the Vosges mountains region of Alsace, northeastern France, where Irish and Benedictine monks are believed to have developed it as early as the 7th century CE. The name derives from the town of Munster in the Haut-Rhin department, itself rooted in the Latin monasterium, meaning monastery — an acknowledgment of the clerical origins of so many aged European cheeses. Traditional Alsatian Munster is a washed-rind cheese: during its aging period of several weeks to months, the rind is regularly rubbed with brine, beer, or marc (a local grape spirit), which fosters the growth of Brevibacterium linens bacteria that give the cheese its characteristic orange rind and pungent, assertive aroma. The interior, by contrast, is creamy, mild, and springy — a study in contrasts between an aggressive exterior and a gentle core. Munster-Géromé received its Appellation d'Origine Contrôlée (AOC) designation from France in 1969, protecting the name and traditional production methods.\n\nThe American version of Muenster — spelled without the umlaut — is a considerably milder product, developed by German and Alsatian immigrants in the Midwest during the 19th century. Stripped of the washed-rind aging process and produced with pasteurized cow's milk under refrigerated conditions, American Muenster loses the sharp bacterial pungency of its ancestor but gains in meltability what it sacrifices in complexity. Its smooth, supple texture and low melting point made it ideal for sandwiches and diner fare, and it became a quiet staple of American deli counters through the 20th century. Burger culture discovered Muenster as part of the gourmet cheese-on-burgers wave of the 1990s and 2000s: it melts beautifully, covers uniformly, and provides a creamy, slightly tangy backdrop that enhances rather than overwhelms the beef beneath it.\n\nI came to Muenster late — it was always there on the deli board but I'd spend years reaching past it for cheddar out of habit. Then a short-order cook at a place I used to eat at after late shifts put Muenster on a burger without asking, and when I lifted the bun and saw that pale, perfectly draped melt, I understood immediately what I'd been missing. It didn't announce itself the way blue cheese does, or compete with the beef the way sharp cheddar can. It was a collaborator — creamy and quietly present, pulling the whole bite together. I've had a brick of it in my refrigerator ever since, reserved specifically for burgers and for the occasional grilled cheese at midnight.\n\nThe philosophy of medium rare is the philosophy of restraint and respect. A burger cooked to 130–135°F (54–57°C) is beef that has been heated just enough to unlock its full range of flavors without closing any doors. The surface is Maillard-browned and complex; the interior is pink, juicy, and warm. Muenster, with its low melting point, is particularly suited to this temperature range — it will spread into a luxurious, even layer over a medium rare patty while the patty still has moisture and heat to give. Cook the patty beyond medium rare, and you lose both the juiciness that carries the cheese and the tenderness that makes the bite worth taking.",
+    "ingredients": [
+      "1.5 lbs (680g) ground beef, 80/20 chuck blend",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "4 sesame seed brioche buns",
+      "4 tbsp unsalted butter, softened (for toasting buns)",
+      "8 thick slices American Muenster cheese (2 per patty for full coverage)",
+      "1/2 cup mayonnaise",
+      "2 tbsp yellow mustard",
+      "1 tbsp prepared horseradish",
+      "1 tsp apple cider vinegar",
+      "1 tsp hot sauce",
+      "4 strips thick-cut bacon",
+      "1 large white onion, sliced into 1/2-inch rings",
+      "2 tbsp unsalted butter (for onion rings)",
+      "1 head green leaf lettuce, leaves separated",
+      "2 vine-ripened tomatoes, sliced",
+      "Bread and butter pickle slices",
+      "Neutral oil or beef tallow (for cooking patties)"
+    ],
+    "instructions": [
+      "1. Remove ground beef from the refrigerator 30 minutes before cooking. Divide into 4 equal portions (approximately 6 oz each) and form gently into patties about 3/4-inch thick, pressing a dimple into the center of each to prevent doming. Season both sides generously with kosher salt and freshly ground black pepper.",
+      "2. Make the horseradish aioli: whisk together mayonnaise, yellow mustard, prepared horseradish, apple cider vinegar, and hot sauce until smooth. Taste and adjust horseradish and heat to preference. Refrigerate until needed.",
+      "3. Cook the bacon over medium heat in a cast-iron skillet until crisp and well-rendered. Transfer to a paper towel-lined plate. Pour off most of the bacon fat, leaving a thin coating in the skillet.",
+      "4. In the same skillet over medium heat, add 2 tablespoons of butter and the sliced white onion rings. Cook for 20–25 minutes, stirring occasionally, until deeply caramelized, golden, and sweet. Season with salt and set aside.",
+      "5. Preheat a separate cast-iron skillet or grill to high heat. Lightly grease the cooking surface with neutral oil or beef tallow.",
+      "6. Cook the patties over high heat without moving for approximately 3 minutes on the first side, building a substantial crust. Flip once. Immediately place 2 slices of Muenster cheese on each patty, overlapping them to ensure full coverage.",
+      "7. Cook the second side for 2–2.5 minutes, using a dome or inverted bowl to trap steam and help the Muenster melt evenly. Check internal temperature at the 2-minute mark. Pull the patties at 130–135°F (54–57°C) for medium rare. Rest loosely tented with foil for 3 minutes.",
+      "8. While the patties rest, toast the sesame-seed buns cut-side down in butter over medium heat until golden, approximately 1–2 minutes.",
+      "9. Build each burger: spread horseradish aioli on both bun halves. On the bottom bun, layer green leaf lettuce, sliced tomato, and bread and butter pickle slices. Place the double-Muenster-draped patty on top. Add a generous spoonful of caramelized onions and a strip of bacon across the melted cheese. Cap with the top bun and serve immediately."
+    ]
+  }
+}

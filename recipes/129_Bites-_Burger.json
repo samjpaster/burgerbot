@@ -1,0 +1,45 @@
+{
+  "id": 129,
+  "name": "Bites-",
+  "price": "$5.95",
+  "season": 7,
+  "episode": 12,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/119",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/129",
+  "recipe": {
+    "history": "The slider — a miniature burger typically served on a small soft roll — traces its American lineage to White Castle, founded in Wichita, Kansas in 1921. White Castle's small, square patties cooked on a bed of onions and steamed under the bun were designed for speed, economy, and volume, and they became the archetype of the American slider long before the word itself came into common usage. The term 'slider' likely derives from the practice of the small patties sliding easily off the griddle, though its exact etymological origin is disputed. In its earliest incarnation, the slider was working-class fast food, engineered for efficiency rather than craft. Mini burgers as a concept, however, have antecedents in many culinary traditions: köfte, kefta, and bitok are all small, hand-formed ground-meat preparations served in bun-like breads or flatbreads across the Middle East, Central Asia, and Eastern Europe, suggesting that humans have been making miniaturized meat-and-bread combinations across many cultures for centuries.\n\nThe slider underwent a dramatic rehabilitation in the 2000s, when gastropubs and upscale American restaurants began presenting trios of gourmet mini burgers as appetizers and shareable plates. This trend was driven partly by the small-plates dining culture popularized by Spanish tapas and East Asian dim sum, and partly by a collective desire to eat more variety in a single meal without committing to one large format. Food writers began calling sliders the perfect party food — a claim with genuine structural merit, since their size makes them easy to eat standing up, easy to dress in multiple ways, and easy to share. By the 2010s, slider bars at weddings and corporate events had become a reliable catering staple, cementing the mini burger as a format that transcended its fast-food origins entirely.\n\nI have always believed the slider format reveals something that the full-size burger sometimes conceals: the ratio of bun to beef to topping is compressed and honest, and there is nowhere to hide a mediocre patty under a large pile of condiments. The first time I made sliders for a gathering rather than a line cook shift, I treated every small patty with the same attention I would give a full-size one — seasoned properly, cooked to temperature, rested. The response from the people eating them was disproportionate to the size of the food. Something about receiving a thing that is clearly handmade and precisely cooked at miniature scale communicates care in a way a single large burger, eaten alone at a counter, never quite does. Sliders are social food, and social food should be made seriously.\n\nThe argument for medium rare does not shrink with the patty. A slider cooked to 130–135°F (54–57°C) is still a burger obeying the same physics as its full-size counterpart: fat rendered just enough to baste the interior without evacuating it, myoglobin retaining the blush that signals moisture and flavor, the crust seared hard against a yielding interior. Because the slider is small and the bun-to-beef ratio is higher, a dry, overcooked patty is even more punishing than in a full-size burger — there is simply less of it to carry the experience. Medium rare is therefore not a luxury in a slider; it is the minimum requirement for the format to work at all.",
+    "ingredients": [
+      "1.5 lbs ground beef chuck (80/20 blend)",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 tablespoon neutral oil (canola or vegetable)",
+      "8 slices American cheese (or mild cheddar), halved",
+      "8 small soft slider buns (potato rolls work well)",
+      "2 tablespoons unsalted butter, softened",
+      "1 medium yellow onion, very finely minced",
+      "1 tablespoon unsalted butter (for onions)",
+      "1 teaspoon Worcestershire sauce",
+      "1/3 cup mayonnaise",
+      "2 tablespoons ketchup",
+      "1 tablespoon yellow mustard",
+      "1 tablespoon sweet pickle relish",
+      "1 teaspoon white wine vinegar",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon smoked paprika",
+      "Dill pickle chips",
+      "Shredded iceberg lettuce"
+    ],
+    "instructions": [
+      "1. Make the smash sauce: whisk together mayonnaise, ketchup, yellow mustard, sweet pickle relish, white wine vinegar, garlic powder, and smoked paprika until smooth. Refrigerate until needed.",
+      "2. Cook the onions: melt 1 tablespoon butter in a small skillet over medium-low heat. Add minced onion, season with a pinch of salt, and cook, stirring occasionally, for 12–15 minutes until softened and translucent. Stir in Worcestershire sauce, cook 1 more minute, and set aside.",
+      "3. Divide ground beef into 8 equal portions (approximately 3 oz each). Loosely roll each into a ball — do not compact. Season the tops generously with kosher salt and black pepper.",
+      "4. Heat a cast-iron skillet or large griddle over high heat until smoking. Add neutral oil and swirl to coat.",
+      "5. Working in batches if needed, place beef balls seasoned-side down on the hot surface. Immediately smash each ball flat with a stiff spatula or burger press, pressing firmly to create a thin, wide patty with jagged edges. Season the tops with salt and pepper. Cook undisturbed for 2 minutes until the edges are brown and the underside has a deep crust.",
+      "6. Flip each patty once. Immediately place a half-slice of cheese on each patty and spoon a small mound of cooked onion on top of the cheese.",
+      "7. Cook for 1 to 2 more minutes until an instant-read thermometer inserted into the thickest part of the patty reads 130–135°F (54–57°C) for medium rare. Remove from heat and rest for 1 minute.",
+      "8. While patties rest, butter the cut sides of the slider buns and toast in the same pan over medium heat until golden, about 45 seconds.",
+      "9. Spread smash sauce on both cut sides of each toasted slider bun.",
+      "10. Layer the bottom bun with a small pinch of shredded iceberg lettuce and two pickle chips. Set the cheese-and-onion-topped mini patty on top. Cap with the top bun and repeat for all 8 sliders. Arrange on a platter and serve immediately."
+    ]
+  }
+}

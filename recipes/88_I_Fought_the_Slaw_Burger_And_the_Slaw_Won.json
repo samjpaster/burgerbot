@@ -1,0 +1,44 @@
+{
+  "id": 88,
+  "name": "I Fought the Slaw Burger (And the Slaw Won)",
+  "price": "$5.95",
+  "season": 4,
+  "episode": 16,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/61",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/88",
+  "recipe": {
+    "history": "Coleslaw is a dish of Dutch origin — the word itself derives from the Dutch 'koolsla,' meaning cabbage salad (kool = cabbage, sla = salad) — and its earliest recorded recipes appear in Dutch cookbooks from the late 18th century. The dish was brought to America by Dutch settlers in the 17th and 18th centuries and quickly became embedded in the fabric of American regional cooking. Cabbage, after all, was one of the hardiest and most practical vegetables available to early colonial kitchens: it grew abundantly, kept well through winter, required minimal labor to prepare, and was filling. The original Dutch preparation was often dressed with a warm mixture of vinegar, butter, and sometimes cream. As the dish evolved across different American regions, the dressing split into two schools that persist to this day: the creamy mayonnaise-based slaw, associated with Southern and Midwestern cuisine, and the sharper, vinegar-dressed slaw common in the Carolinas and parts of the Northeast. Both versions hinge on the same essential tension — the slight bitterness of raw cabbage held in balance against sweet, acidic, or creamy elements — and it is this balance that makes coleslaw one of the most versatile condiments in the American kitchen.\n\nColeslaw arrived on American burgers and hot dogs through the traditions of Southern barbecue and roadside diner culture, where its cooling, acidic crunch was understood as a natural foil to fatty, smoky, grilled meats. In North Carolina, pulled pork sandwiches have long been served with coleslaw directly inside the bun — not beside it, but on it — a practice that recognized something important: the slaw was not a side dish but a structural and flavor component. This logic translated seamlessly to the burger. A scoop of well-seasoned coleslaw on a beef patty provides textural contrast (crunchy against yielding), temperature contrast (cool against hot), and flavor contrast (bright and acidic against rich and savory). Roadside burger stands, diners, and BBQ joints across the American South cemented coleslaw's place as a legitimate and beloved burger topping through the mid-20th century, and today it is a badge of regional pride and unpretentious good taste.\n\nThe first time someone put coleslaw on my burger, I almost refused. I was twelve, at a Fourth of July cookout at my uncle's house in Tennessee, and he plopped a spoonful of his wife's slaw directly onto my patty with the casual confidence of a man who had never once questioned this decision. I remember the feeling of betrayal — I had constructed that burger carefully, with mustard and pickles, and now there was this white, cabbagey intrusion. But I ate it because I was hungry and too polite to complain. Somewhere between the first and second bite, my entire understanding of what a burger could be quietly rearranged itself. The slaw was tangy and cold and it made the hot, fatty beef taste cleaner and brighter. My uncle watched me take a third bite and said nothing, just nodded once. He knew. That is the thing about coleslaw — it wins every argument it enters.\n\nMedium rare is the only honest answer to the question of how to cook a burger. At 130 to 135°F, you are working within the range where beef expresses its fullest character: the crust is deeply browned and savory from the Maillard reaction, the interior is rosy and tender, and the fat — which is the primary carrier of flavor in ground beef — has softened without disappearing. A well-done burger is not a safer burger in a home setting with quality fresh-ground beef; it is simply a drier, less flavorful one. The coleslaw on this burger, with its vinegar and creaminess, is calibrated for a juicy, medium rare patty. The acidity of the slaw brightens the richness of the beef, and that interplay only works when the beef still has richness to offer. Cook it to 160°F and you have a dry disc under a pile of salad. Cook it to 130–135°F and you have a burger worth fighting over.",
+    "ingredients": [
+      "1 lb (450g) ground beef chuck, 80/20 fat ratio",
+      "2 soft potato buns or brioche buns, split",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1/2 tsp smoked paprika",
+      "2 slices American cheese",
+      "1 tbsp neutral oil (canola or grapeseed)",
+      "2 cups green cabbage, finely shredded (about 1/4 small head)",
+      "1/2 cup red cabbage, finely shredded",
+      "1 medium carrot, peeled and grated",
+      "3 tbsp mayonnaise",
+      "1 tbsp apple cider vinegar",
+      "1 tsp granulated sugar",
+      "1 tsp celery seed",
+      "1/4 tsp dry mustard powder",
+      "Salt and pepper to taste for slaw",
+      "2 tbsp yellow mustard",
+      "4 slices dill pickle"
+    ],
+    "instructions": [
+      "1. Make the coleslaw first so it has time to marinate. In a large bowl, combine the shredded green cabbage, red cabbage, and grated carrot. In a separate small bowl, whisk together the mayonnaise, apple cider vinegar, sugar, celery seed, and dry mustard powder. Pour the dressing over the cabbage and toss thoroughly to coat. Season with salt and pepper. Cover and refrigerate for at least 20 minutes — the slaw is better the longer it sits.",
+      "2. Let the ground beef rest at room temperature for 15 to 20 minutes. Divide into two 8 oz portions and form into patties about 3/4 inch thick, pressing a dimple into each center. Season both sides with kosher salt, black pepper, and smoked paprika.",
+      "3. Heat a cast iron skillet or heavy griddle over high heat until smoking. Add the neutral oil and swirl to coat.",
+      "4. Cook the patties undisturbed for 3 to 4 minutes on the first side until a deep brown crust develops. Flip once and cook for 2 to 3 more minutes.",
+      "5. Place one slice of American cheese on each patty in the final minute of cooking. Cover loosely to melt.",
+      "6. Check internal temperature with an instant-read thermometer. Pull patties from heat at 130–135°F (54–57°C) for medium rare. Rest for 3 minutes.",
+      "7. While the patties rest, toast the buns cut-side down in the same pan over medium heat until golden, about 2 minutes.",
+      "8. Spread yellow mustard on the bottom bun. Lay the pickles on top of the mustard.",
+      "9. Place the cheesed patty on the pickles. Heap a generous portion of the chilled coleslaw directly on top of the patty — do not be shy, the slaw should be a visible, substantial layer.",
+      "10. Place the top bun over the slaw and press down gently. Serve immediately with extra slaw on the side."
+    ]
+  }
+}

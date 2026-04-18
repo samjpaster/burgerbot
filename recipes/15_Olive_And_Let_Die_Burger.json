@@ -1,0 +1,51 @@
+{
+  "id": 15,
+  "name": "Olive And Let Die Burger",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 6,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/6",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/15",
+  "recipe": {
+    "history": "The olive tree is among the oldest cultivated plants in human history, with evidence of domestication stretching back over six thousand years across the Mediterranean basin. Originating in the Levant and spreading westward through Greece, Italy, and Spain, the olive became the backbone of entire civilizations — pressed into oil for cooking, lamp fuel, and ritual, or cured and eaten as a staple food. Ancient Greeks considered the olive tree sacred to Athena, and the fruit appears throughout Homer, the Bible, and Roman agricultural writing. To eat an olive is to eat something that connects you to the very foundations of Western food culture, a flavor shaped by sun-baked hillsides, sea air, and thousands of years of patient cultivation.\n\nOlives arrived in American cooking largely through the wave of Mediterranean immigrants in the late nineteenth and early twentieth centuries who brought their curing traditions and their tapenade — that magnificent Provençal paste of black olives, capers, anchovies, garlic, and olive oil pounded together into something far greater than its parts. For decades tapenade lived on charcuterie boards and crostini, a sophisticated appetizer at best. But somewhere in the 1990s and 2000s, as American burger culture began shedding its diner-booth conservatism and reaching for bolder, brined, umami-forward flavors, cooks started spreading tapenade directly onto patties. The result was a revelation: the salt and fat of the beef met the funky, briny depth of crushed olives and the sharpness of capers, and suddenly the hamburger felt like something you could order in a bistro in Nice without embarrassment.\n\nI remember the first time I made this burger on a slow Tuesday, the restaurant empty, the grill finally behaving itself. I had a jar of Castelvetrano olives I'd been saving, bright green and buttery, and I blitzed them with some capers and a tin of anchovy fillets and a clove of raw garlic until it became this dark, glistening paste. I spread it on a toasted brioche bun and put a medium-rare patty on top and took a bite standing right there at the prep counter. The name came to me immediately — Olive And Let Die — because that first bite genuinely felt like the opening sequence of a Bond film: all drama, all swagger, a little dangerous. James would approve, even if he'd insist the olive be shaken, not stirred, into the tapenade.\n\nCooking a burger to medium rare — an internal temperature of 130 to 135 degrees Fahrenheit — is not a preference, it is the correct answer to a question with only one correct answer. Below that threshold the fat in the patty has not fully rendered into the meat; above it the proteins tighten, moisture escapes, and you are left with something that resembles a hockey puck in texture and aspiration. At 130 to 135 the center of the patty is still pink and yielding, the juices are running freely but not pooling on the plate, and the Maillard crust on the exterior provides the contrast in texture that makes each bite structurally interesting. A burger cooked to well done is not a moral failing, but it is a culinary one, and on a burger like this one — where the tapenade brings so much assertive salt and brine — you need that yielding, juicy interior to balance the boldness of every other component on the bun.",
+    "ingredients": {
+      "patty": [
+        "8 oz (225g) freshly ground beef, 80/20 chuck blend",
+        "1/2 teaspoon kosher salt",
+        "1/4 teaspoon freshly ground black pepper",
+        "1/2 teaspoon neutral oil (canola or vegetable), for the grill or pan"
+      ],
+      "olive_tapenade": [
+        "1/2 cup pitted Kalamata olives (about 60g)",
+        "1/4 cup pitted Castelvetrano or green Sicilian olives (about 30g)",
+        "2 tablespoons capers, drained and rinsed",
+        "3 oil-packed anchovy fillets",
+        "1 small garlic clove, peeled",
+        "1 teaspoon fresh lemon juice",
+        "1 teaspoon fresh thyme leaves (or 1/4 teaspoon dried)",
+        "2 tablespoons extra-virgin olive oil",
+        "Freshly ground black pepper, to taste"
+      ],
+      "bun": [
+        "1 brioche burger bun (or a soft potato roll)",
+        "1 tablespoon unsalted butter, softened"
+      ],
+      "toppings_and_garnish": [
+        "2 leaves butter lettuce or arugula",
+        "2 thin slices ripe tomato",
+        "2–3 thin rounds of red onion",
+        "4–5 whole pitted Castelvetrano olives, halved, for garnish",
+        "Flaky sea salt, for finishing"
+      ]
+    },
+    "instructions": [
+      "Make the tapenade: Combine the Kalamata olives, Castelvetrano olives, capers, anchovy fillets, garlic clove, lemon juice, and thyme in the bowl of a food processor. Pulse 8 to 10 times until the mixture is coarsely chopped. Scrape down the sides, then with the processor running, drizzle in the olive oil and process until the tapenade is finely textured but still has some body — not a smooth puree. Season with black pepper (it will not need salt). Transfer to a small bowl, cover, and refrigerate until ready to use. The tapenade can be made up to five days ahead.",
+      "Form the patty: Divide the ground beef into a single 8-ounce portion. Using your hands, gently press it into a round patty approximately 4 inches in diameter and 3/4 inch thick. Use your thumb to press a shallow dimple into the center of the patty — this prevents it from doming as it cooks. Season both faces generously with kosher salt and black pepper immediately before cooking. Do not overwork the meat.",
+      "Preheat your cooking surface: Place a cast-iron skillet or heavy stainless-steel pan over high heat for at least 3 minutes, until the surface is smoking hot. Alternatively, preheat a gas or charcoal grill to high (450–500°F / 230–260°C) and clean the grates well. Brush the cooking surface lightly with neutral oil.",
+      "Cook the patty to medium rare: Place the patty on the hot surface and do not move it for 3 minutes. You are building a deep Maillard crust. Flip once and cook for an additional 2 to 3 minutes on the second side. Begin checking the internal temperature at the 2-minute mark using an instant-read thermometer inserted horizontally into the center of the patty. Remove the patty from the heat when it registers 130–135°F (54–57°C). Transfer to a wire rack or warm plate and rest, uncovered, for 3 minutes. The carry-over heat will bring the final internal temperature to approximately 133–137°F.",
+      "Toast the bun: While the patty rests, spread the softened butter evenly on the cut faces of the brioche bun. Place cut-side down in the residual heat of the pan or on the cooler edge of the grill. Toast for 60 to 90 seconds until golden and lightly crisped at the edges. Watch carefully — brioche burns quickly.",
+      "Assemble the burger: Spread a generous tablespoon of olive tapenade on the cut face of the bottom bun. Layer the butter lettuce or arugula over the tapenade. Place the rested patty on top, then layer on the tomato slices and red onion rounds. Spread another teaspoon of tapenade on the cut face of the top bun. Set the top bun on the stack.",
+      "Finish and serve: Scatter the halved Castelvetrano olives around or on top of the burger. Finish with a pinch of flaky sea salt over the patty if desired. Serve immediately with fries or a simple green salad. The tapenade is salty and bold — keep the sides light."
+    ]
+  }
+}

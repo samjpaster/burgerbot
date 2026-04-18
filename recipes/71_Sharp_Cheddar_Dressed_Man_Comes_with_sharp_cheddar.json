@@ -1,0 +1,44 @@
+{
+  "id": 71,
+  "name": "Sharp Cheddar Dressed Man (Comes with sharp cheddar)",
+  "price": "$5.95",
+  "season": 3,
+  "episode": 15,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/37",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/71",
+  "recipe": {
+    "history": "Sharp cheddar cheese traces its origins to the village of Cheddar in Somerset, England, where cheesemakers were crafting this now-iconic variety as far back as the 12th century. The natural limestone caves of the Cheddar Gorge provided the cool, humid conditions ideal for aging, and it was this extended maturation — months, sometimes years — that transformed a mild, pliable curd into the firm, crumbly, intensely flavored cheese the world would come to love. The longer the cheese aged, the more moisture it lost, concentrating the proteins and fats and triggering complex enzymatic reactions that produced the sharp, tangy, almost crystalline bite that distinguishes a truly aged cheddar from its younger, milder counterparts. King Henry II was said to be among its earliest admirers, purchasing it by the hundredweight for the royal court — a testament to how commanding its flavor profile was even in an era before refrigeration or mass production.\n\nWhen cheddar crossed the Atlantic with English settlers in the 17th and 18th centuries, it found fertile ground — literally and figuratively — in the dairy-rich regions of New England and the Great Lakes. American cheesemakers adapted the technique to local milk, local climates, and local tastes, and by the 19th century, American cheddar had become one of the most widely produced cheeses on the continent. As the hamburger rose to cultural dominance in the 20th century — propelled by diners, drive-ins, and the post-war suburban boom — sharp cheddar was the natural companion. Its bold, assertive flavor stood up to a well-seasoned beef patty in a way that milder cheeses could not. It melted with a satisfying pull, offered enough fat to coat the palate, and its slight acidity cut through the richness of the meat. Processed American cheese had its era, but for those who wanted something with character, sharp cheddar was always the answer. It became the cheese of the serious burger — ordered by people who knew what they wanted.\n\nI remember the first time a burger made me stop mid-bite and actually think. I was maybe twelve years old, sitting at a diner counter on a rainy Tuesday afternoon, still in my school clothes, backpack shoved under the stool. The cook — a heavyset man who moved with the unhurried confidence of someone who had made the same thing ten thousand times — laid a slice of sharp cheddar on the patty while it was still on the griddle and covered it with a battered metal dome. When the plate arrived in front of me, the cheese had melted into every crevice of the beef, its edges crisping slightly where they touched the hot metal. I picked it up, took a bite, and for the first time understood that a burger could taste like something — like a decision someone had made, like an opinion held with conviction. That sharp, almost tart edge of the cheddar against the deep savory funk of the beef lodged itself somewhere permanent in my memory. Every good burger since has been measured against that moment.\n\nTo cook a burger to anything beyond medium rare is to misunderstand what a burger is. At 130 to 135 degrees Fahrenheit — 54 to 57 degrees Celsius — the fat within a well-chosen beef blend has begun to render and baste the surrounding muscle fibers from the inside out, the exterior carries a deep, Maillard-browned crust, and the interior remains a rosy, yielding, supremely juicy pink. The proteins have tightened just enough to hold the patty together without squeezing out the moisture that makes each bite worth taking. Cook it further and you are simply extracting water, contracting muscle, and diminishing everything that made the beef worth buying. A medium-well or well-done burger is not a safer burger — ground beef sourced responsibly and handled correctly is no more hazardous at medium rare than a steak is — it is merely a drier, tougher, less flavorful one. Medium rare is not a preference. It is the temperature at which a burger fulfills its potential, and every degree beyond it is a concession to timidity rather than a triumph of caution.",
+    "ingredients": [
+      "500g ground beef chuck (80/20 fat ratio), freshly ground",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1/2 tsp garlic powder",
+      "4 thick slices (about 28g each) aged sharp cheddar cheese",
+      "4 brioche-style burger buns",
+      "2 tbsp unsalted butter (for toasting buns)",
+      "1 tbsp neutral oil (such as canola or vegetable, for the griddle)",
+      "4 tbsp mayonnaise",
+      "2 tsp Dijon mustard",
+      "1 tsp apple cider vinegar",
+      "1 tsp honey",
+      "1/4 tsp smoked paprika",
+      "4 leaves butter lettuce",
+      "2 medium vine-ripened tomatoes, sliced 1/4-inch thick",
+      "1/2 medium red onion, sliced into thin rings",
+      "8 bread-and-butter pickle chips",
+      "Flaky sea salt, for finishing"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 20 minutes before cooking to take the chill off. Divide it into 4 equal portions of approximately 125g each. Gently form each portion into a patty about 4 inches wide and 3/4 inch thick — do not overwork the meat. Press a shallow dimple into the center of each patty with your thumb to prevent doming during cooking. Season both sides generously with kosher salt, black pepper, and garlic powder immediately before cooking.",
+      "2. Prepare the dressed-man sauce by whisking together the mayonnaise, Dijon mustard, apple cider vinegar, honey, and smoked paprika in a small bowl until fully combined and smooth. Taste and adjust seasoning if needed. Set aside.",
+      "3. Slice the tomatoes and red onion. Wash and dry the butter lettuce leaves. Set all toppings aside at room temperature so they do not shock the hot patty when assembled.",
+      "4. Heat a cast-iron skillet or heavy griddle over medium-high heat for at least 3 minutes until it is thoroughly and evenly hot. Add the neutral oil and swirl to coat. The oil should shimmer immediately — if it smokes heavily, reduce the heat slightly.",
+      "5. Place the patties in the skillet without crowding. Cook undisturbed for 3 minutes to develop a deep brown crust. Do not press down on the patties — pressing expels the juices that keep the burger moist.",
+      "6. Flip the patties once using a wide spatula. Immediately lay one slice of sharp cheddar on top of each patty. Cover the skillet with a lid or a heatproof metal bowl to trap steam and help the cheese melt evenly.",
+      "7. Cook for a further 2 to 2.5 minutes until the internal temperature reads 130–135°F (54–57°C) on an instant-read thermometer inserted into the side of the patty. The center should be rosy pink and the cheese should be fully melted with slightly crisped edges. Remove patties from the heat and rest on a wire rack for 2 minutes — do not skip this step, as resting allows the juices to redistribute.",
+      "8. While the patties rest, wipe out any excess grease from the skillet and return it to medium heat. Add the butter and, once foaming, place the buns cut-side down. Toast for 60 to 90 seconds until golden brown. Remove and set aside.",
+      "9. To assemble, spread the dressed-man sauce generously on both the top and bottom bun cut surfaces. Layer the bottom bun with a leaf of butter lettuce, two tomato slices, and a few rings of red onion. Place the rested cheddar-topped patty on top. Add the bread-and-butter pickle chips directly onto the melted cheese. Finish with a pinch of flaky sea salt over the patty before closing with the top bun.",
+      "10. Serve immediately. The burger should be eaten within 3 minutes of assembly while the bun is still warm and the cheese is still soft."
+    ]
+  }
+}

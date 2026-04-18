@@ -1,0 +1,49 @@
+{
+  "id": 154,
+  "name": "THE WHAT'S KALA-MATA YOU",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 9,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/138",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/154",
+  "recipe": {
+    "history": "The Kalamata olive — Olea europaea var. 'Kalamon' — is named for the city of Kalamata in the Messenia region of the southern Peloponnese, Greece, one of the oldest continuously inhabited regions in Europe. Olive cultivation in Greece dates back at least 7,000 years, with archaeological evidence of olive oil production found at Bronze Age sites on Crete that predate the classical Greek civilization by millennia. The Kalamata variety is distinguished from other Mediterranean olives by its almond shape, dark purple-black skin, and the way it is harvested: traditionally by hand or by gently shaking branches onto nets spread below the tree, to avoid the bruising that mechanical harvesting causes. They are never harvested green — Kalamata olives must ripen fully on the tree to develop their characteristic rich, fruity, wine-like flavor with notes of dark stone fruit and a firm, meaty texture that survives curing far better than softer varieties. Authentic Kalamata olives carry a Protected Designation of Origin (PDO) under European Union law, meaning that only olives from the Kalamata region of Greece processed in the traditional manner may legally carry the name.\n\nKalamata olives came to American kitchens primarily through Greek immigrant communities on the East Coast in the early twentieth century, but it was the explosion of Mediterranean cuisine's popularity in the 1980s and 1990s that brought them to mainstream American tables. Greek salads, antipasto platters, and tapenade — a Provençal paste of olives, capers, and anchovies — introduced Americans to the specific, assertive flavor of the Kalamata at a time when the country's palate was expanding rapidly beyond the canned black olive. In burger culture, the Kalamata arrived via Mediterranean-influenced gastropubs and fast-casual restaurants in the 2000s, paired with feta cheese and tzatziki to create the 'Greek burger,' a genre that proved surprisingly durable. The olive's intense brininess and meaty texture make it a natural counterpoint to the richness of ground beef — not a mere topping but a genuine flavor component that reframes the entire burger.\n\nMy introduction to Kalamata olives on a burger happened entirely by accident. I was at a small Greek-owned diner somewhere in Astoria, Queens, and the owner had run out of standard burger toppings mid-service. What emerged instead was a patty topped with a rough tapenade, a crumble of barrel-aged feta, and a handful of sliced Kalamatas that had been lightly warmed in olive oil with a pinch of dried oregano. I ordered it skeptically and ate it in a kind of reverent silence. The olives brought something I hadn't expected from a burger topping: depth. Not just flavor on the surface but a low, resonant, almost savory bass note that anchored everything else. I have put Kalamata olives on burgers deliberately ever since.\n\nThe case for medium rare is, at its core, the case for paying attention. When a burger is built around ingredients as specific and characterful as Kalamata olives — ingredients with centuries of agricultural history behind them, with a PDO designation protecting their integrity, with a flavor profile that is genuinely irreplaceable — it would be a waste to pair them with a patty cooked gray all the way through. At 130–135°F (54–57°C), the beef is its most expressive: the fat carries flavor, the juice is present, and the meat tastes of itself. The olives need a partner of equal presence, not a dry disk of cooked-out protein. Medium rare is the temperature at which the burger earns the company it keeps.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 fat ratio",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 tablespoon extra-virgin olive oil (for cooking)",
+      "1 brioche or ciabatta burger bun",
+      "1 tablespoon unsalted butter (for toasting bun)",
+      "1/2 cup pitted Kalamata olives",
+      "1 tablespoon extra-virgin olive oil (for tapenade)",
+      "1 teaspoon capers, rinsed",
+      "1 small anchovy fillet (optional, for depth)",
+      "1 small clove garlic",
+      "1 teaspoon fresh lemon juice",
+      "1/2 teaspoon dried oregano",
+      "2 oz (55g) barrel-aged feta cheese, crumbled",
+      "3 tablespoons tzatziki (store-bought or homemade)",
+      "2 leaves romaine or butter lettuce",
+      "3–4 thin slices English cucumber",
+      "4–5 slices ripe tomato",
+      "1/4 small red onion, thinly sliced",
+      "Fresh flat-leaf parsley, for garnish",
+      "Flaky sea salt, for finishing"
+    ],
+    "instructions": [
+      "1. Remove the beef from the refrigerator 30 minutes before cooking. Form into a single 8 oz patty about 3/4-inch thick with a dimple pressed into the center. Season both sides generously with kosher salt and black pepper.",
+      "2. Make the Kalamata tapenade: combine the pitted Kalamata olives, extra-virgin olive oil, capers, anchovy fillet (if using), garlic, lemon juice, and dried oregano in a small food processor. Pulse until the mixture is roughly chopped — you want texture, not a smooth paste. Taste and adjust seasoning. The olives and capers are already salty; you likely will not need additional salt.",
+      "3. Prepare the tzatziki if making from scratch: combine strained Greek yogurt, grated and squeezed cucumber, minced garlic, fresh dill or mint, lemon juice, and olive oil. Season with salt and refrigerate.",
+      "4. Heat a cast iron skillet over high heat until it smokes lightly. Add the olive oil and swirl to coat.",
+      "5. Add the patty and press gently with a spatula. Cook undisturbed for 3 minutes to develop a deep, even crust.",
+      "6. Flip the patty once. Cook for an additional 2–3 minutes, monitoring the internal temperature with an instant-read thermometer until it reads 130–135°F (54–57°C). Remove immediately at this temperature — medium rare is the target and the limit.",
+      "7. Transfer the patty to a wire rack and rest, loosely tented with foil, for 3 minutes.",
+      "8. In the final minute of resting, spoon a small amount of tapenade onto the top of the patty and scatter crumbled feta over it, allowing the residual heat to soften the feta slightly.",
+      "9. Toast the bun: melt the butter in the skillet over medium heat and toast the bun cut-side down until golden, 60–90 seconds.",
+      "10. Assemble the burger: spread tzatziki generously on both the top and bottom bun. Place romaine or butter lettuce on the bottom bun, followed by cucumber slices, tomato, and red onion.",
+      "11. Place the rested patty with tapenade and feta on top. Add an additional spoonful of tapenade directly on top of the patty if desired.",
+      "12. Garnish with fresh flat-leaf parsley leaves and a pinch of flaky sea salt. Cap with the top bun and serve immediately."
+    ]
+  }
+}

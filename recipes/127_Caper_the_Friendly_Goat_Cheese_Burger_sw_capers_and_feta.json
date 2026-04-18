@@ -1,0 +1,44 @@
+{
+  "id": 127,
+  "name": "Caper the Friendly Goat Cheese Burger (s/w capers & feta)",
+  "price": "$5.95",
+  "season": 7,
+  "episode": 8,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/115",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/127",
+  "recipe": {
+    "history": "Capers are the pickled or salt-cured flower buds of Capparis spinosa, a thorny, drought-resistant shrub native to the Mediterranean basin and parts of Asia. Archaeological evidence places caper consumption in the human diet as far back as 9,000 years — caper remains have been found at Neolithic sites in southern Europe and the Near East. The ancient Greeks and Romans prized capers both as a condiment and a medicine, believing them to aid digestion and stimulate appetite. They were traded extensively across the Roman Empire, packed in vinegar or salt, and appear in Apicius's De Re Coquinaria, one of the oldest surviving cookbooks. Goat cheese shares an equally ancient pedigree: the domestication of goats preceded that of cattle, and fermented goat's milk cheeses were produced in the Fertile Crescent and along the Mediterranean coast for millennia, with the Loire Valley of France eventually becoming the modern standard-bearer for fresh chèvre.\n\nCapers entered American kitchens primarily through French, Italian, and Jewish deli traditions — they were a fixture of smoked fish preparations, piccata sauces, and salad nicoise long before anyone thought to put them on a burger. Goat cheese made its American mainstream debut in the 1980s, when California cuisine pioneered by chefs like Alice Waters and Jeremiah Tower placed warm chèvre salads on menus across the country. As gourmet burger culture expanded in the 2000s and 2010s, chefs began reaching into those Mediterranean and French pantries, pairing the briny pop of capers with the tangy creaminess of goat and feta cheeses on premium patties. The combination telegraphs the whole arc of American food culture: classical European ingredients repurposed through the democratic medium of the burger.\n\nI have a strong memory of capers tied to a tiny apartment kitchen and a very limited grocery budget. I had a jar of them that I had bought for a recipe I never actually made, and one afternoon I started putting them on everything just to justify the purchase. They landed on scrambled eggs, on toast, eventually on a pan-fried beef patty with some crumbled feta I had leftover from a salad. The saltiness of both the capers and the feta against the beef was almost aggressive in the best possible sense — sharp, briny, demanding your full attention. I understood immediately why those flavors have persisted across thousands of years of cooking. They do not ask for your approval.\n\nMedium rare is the honest temperature for a beef patty, the setting that asks nothing to be hidden. At 130 to 135°F, the fat in an 80/20 grind has begun its slow release without being driven completely out, and the interior of the patty stays blush-pink, tender, and expressive. With assertive toppings like capers and feta — ingredients that carry centuries of preservation and salt — the juicy, yielding texture of a medium rare patty is not just preferable, it is structurally necessary. A well-done burger under that much salinity would be punishing. Medium rare provides the softness that lets those bold flavors breathe and balance rather than overwhelm.",
+    "ingredients": [
+      "1 lb ground beef chuck (80/20 blend)",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 tablespoon neutral oil (canola or vegetable)",
+      "3 oz fresh goat cheese (chèvre), crumbled",
+      "2 oz feta cheese, crumbled",
+      "3 tablespoons capers, drained and roughly chopped",
+      "1 tablespoon caper brine (reserved from jar)",
+      "1/2 cup mayonnaise",
+      "1 tablespoon Dijon mustard",
+      "1 teaspoon fresh lemon juice",
+      "1 clove garlic, minced",
+      "1/2 cup sun-dried tomatoes (oil-packed), thinly sliced",
+      "1 cup baby spinach",
+      "1/4 red onion, very thinly sliced",
+      "4 brioche or kaiser burger buns",
+      "2 tablespoons unsalted butter, softened",
+      "Fresh flat-leaf parsley, roughly chopped, for garnish"
+    ],
+    "instructions": [
+      "1. In a small bowl, stir together goat cheese, feta, chopped capers, and caper brine until roughly combined. The mixture should be crumbly but cohesive. Set aside.",
+      "2. Make the caper aioli: whisk together mayonnaise, Dijon mustard, lemon juice, and minced garlic. Season lightly with black pepper (hold salt — the capers and feta provide plenty). Refrigerate until needed.",
+      "3. Divide ground beef into 4 equal portions (approximately 4 oz each). Form into patties about 3/4 inch thick, pressing a shallow dimple in the center of each. Season both sides generously with kosher salt and black pepper.",
+      "4. Heat a cast-iron skillet or heavy griddle over high heat until smoking. Add neutral oil and swirl to coat.",
+      "5. Place patties on the hot surface and cook undisturbed for 3 minutes. Flip once.",
+      "6. Immediately spoon a generous mound of the goat cheese and caper mixture on top of each patty. Cook for a further 2 to 3 minutes until an instant-read thermometer inserted into the center reads 130–135°F (54–57°C) for medium rare. The cheese topping will warm and soften but not fully melt — that is correct.",
+      "7. Remove patties from heat and tent loosely with foil. Rest for 2 minutes.",
+      "8. While patties rest, butter the cut sides of the buns and toast in the same pan over medium heat until golden, about 1 minute.",
+      "9. Spread caper aioli generously on both cut sides of each toasted bun.",
+      "10. Layer the bottom bun with baby spinach and sliced sun-dried tomatoes. Set the topped patty on top, then finish with a few thin slices of red onion and a pinch of chopped parsley. Cap with the top bun and serve immediately."
+    ]
+  }
+}

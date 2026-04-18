@@ -1,0 +1,44 @@
+{
+  "id": 105,
+  "name": "If You've Got It, Croissant It Burger",
+  "price": "$5.95",
+  "season": 5,
+  "episode": 17,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/84",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/105",
+  "recipe": {
+    "history": "The croissant is a paradox of culinary history: a pastry that is thoroughly French in identity yet Viennese in origin. The kipferl, a crescent-shaped yeasted roll, had existed in Austria since at least the thirteenth century, and its legend was tied to the Ottoman siege of Vienna in 1683. The story — likely apocryphal but widely repeated — holds that Viennese bakers, working before dawn, heard the Ottoman forces tunneling beneath the city walls and raised the alarm, and the crescent-shaped roll was baked in celebration and mockery of the Ottoman emblem. Whether or not the legend is true, the crescent shape persisted. It was Marie Antoinette, an Austrian by birth, who is said to have introduced the kipferl to the French court, and it was French bakers who transformed it: by incorporating a laminated dough technique — layering butter between sheets of dough through a process of folding and rolling called tourage — they created something architecturally new. The croissant's hundreds of crisp, shatteringly thin layers of pastry, each separated by a film of butter, are a French invention built on an Austrian skeleton.\n\nThe croissant crossed the Atlantic in waves throughout the twentieth century, carried first by French immigrants and then by American food writers — most notably Julia Child, whose 1961 television appearances and Mastering the Art of French Cooking brought French technique into American home kitchens with unprecedented enthusiasm. But it was the café and bakery boom of the 1980s and 1990s that truly nationalized the croissant. American bakeries began producing them; chain sandwich shops offered croissant sandwiches as upscale alternatives to the standard roll; fast food restaurants launched croissant breakfast sandwiches that sold in enormous volumes. The logic of using a croissant as a burger bun follows directly from this trajectory: if a croissant sandwich works for egg and ham at breakfast, its buttery, laminated richness and structural crispness are equally compelling arguments for containing a well-made beef patty at lunch.\n\nI made croissants from scratch exactly once, and it took three days. The first day was the détrempe — the base dough, mixed and left to rest overnight. The second day was the beurrage and the first series of folds, a process that required cold butter, a cold kitchen, patience, and a rolling pin that felt more like a weapon by hour three. The third day I baked them, and they came out lopsided and slightly under-laminated, their layers pressed too closely together in places, their color uneven. They were also the best thing I had eaten in months. The sheer labor embedded in each one made tasting them feel like reading a letter — every bite communicated something about the effort, the waiting, the care. When I put a burger patty inside one, I understood it immediately as an act of respect: here is the finest bun I know how to make, and I am giving it to a beef patty cooked precisely to the temperature it deserves.\n\nOf all the unconventional buns one might choose for a burger, the croissant is the most demanding of technical precision in the patty, and that is precisely why medium rare — 130–135°F (54–57°C) — is non-negotiable here. A croissant's laminated layers are rich with butter and possess a delicacy that a brioche bun lacks; they will absorb juices and compress under weight, becoming soggy if the patty is overcooked and weeping excess moisture. A medium rare patty releases its juices slowly and in smaller quantity than a well-done patty, which has already expelled most of its liquid into the pan. The pink, yielding interior of a medium rare patty provides structural contrast to the shattering crunch of the croissant exterior, creating a textural interplay that makes every bite a small event. Cook the patty past this point and the croissant becomes a greasy compress, the contrast collapses, and the whole enterprise falls apart — architecturally and gastronomically.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "1 large, high-quality all-butter croissant (bakery-made preferred), split horizontally",
+      "1 tsp neutral oil (canola or grapeseed)",
+      "1 tsp flaky sea salt",
+      "1/2 tsp freshly cracked black pepper",
+      "1/4 tsp white pepper",
+      "2 slices Brie or triple-cream cheese (rind removed), or 2 slices Gruyère",
+      "2 tbsp unsalted butter",
+      "1 large shallot, thinly sliced into rings",
+      "1 tsp sugar",
+      "1 tbsp dry white wine or champagne vinegar",
+      "2 tbsp crème fraîche",
+      "1 tsp Dijon mustard",
+      "1 tsp fresh tarragon leaves, finely chopped (or 1/4 tsp dried)",
+      "1 tsp lemon zest",
+      "4 leaves frisée or butter lettuce",
+      "2 slices ripe heirloom tomato",
+      "Cornichons, for serving"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 20 minutes before cooking. Form gently into a patty slightly larger than the base of your croissant (it will shrink during cooking) and about 3/4 inch thick. Press a shallow dimple into the center. Season both sides with flaky sea salt, black pepper, and white pepper.",
+      "2. In a small skillet over medium heat, melt 1 tablespoon of butter. Add the shallot rings and a pinch of salt. Cook, stirring occasionally, for 8–10 minutes until softened and golden. Add the sugar and cook 2 more minutes until lightly caramelized. Deglaze with white wine or champagne vinegar and cook until the liquid evaporates. Set aside.",
+      "3. In a small bowl, combine crème fraîche, Dijon mustard, chopped tarragon, and lemon zest. Stir until smooth. Taste and adjust seasoning. Refrigerate until assembly.",
+      "4. Preheat the oven to 300°F (150°C). Place the split croissant cut-side up on a baking sheet and warm for 5 minutes — just enough to crisp the cut face without drying out the layers. Remove and set aside.",
+      "5. Heat a cast-iron skillet over high heat until smoking. Add the neutral oil and swirl to coat.",
+      "6. Place the patty in the skillet. Press gently with a spatula for the first 10 seconds. Cook undisturbed for 3 minutes to develop a firm, deeply browned crust.",
+      "7. Flip once. Lay the Brie or Gruyère slices on top immediately. Cook for an additional 2 to 2.5 minutes until an instant-read thermometer inserted into the thickest part reads 130–135°F (54–57°C) for medium rare. Transfer to a wire rack and rest for 3 minutes.",
+      "8. While the patty rests, spread the tarragon crème fraîche generously on both cut faces of the warmed croissant.",
+      "9. Layer the bottom half of the croissant with frisée or butter lettuce and tomato slices. Place the rested patty on top, then spoon the caramelized shallots over the melted cheese.",
+      "10. Close carefully with the top half of the croissant. Serve immediately with cornichons on the side. Handle gently — the croissant is architectural and deserves to arrive at the table intact."
+    ]
+  }
+}

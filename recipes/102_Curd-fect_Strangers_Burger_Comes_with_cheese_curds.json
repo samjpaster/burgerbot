@@ -1,0 +1,43 @@
+{
+  "id": 102,
+  "name": "Curd-fect Strangers Burger - Comes with cheese curds",
+  "price": "$5.95",
+  "season": 5,
+  "episode": 13,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/80",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/102",
+  "recipe": {
+    "history": "Cheese curds are one of the most direct and unadorned expressions of the cheesemaker's craft — the fresh, rubbery, salt-kissed solids that form when rennet is added to warm, acidified milk and the whey is drained away. Their origins are inseparable from the history of cheesemaking itself, which stretches back at least 7,500 years to Neolithic Europe and the Near East, where nomadic herders discovered that milk stored in animal stomachs would coagulate from naturally occurring rennet. The curd is the first thing cheesemaking produces; every wheel of aged cheese — every wedge of cheddar, every round of Gouda — began as a curd. In Wisconsin, Quebec, and other dairy heartlands, the curd never made it to the aging cave. It was eaten fresh, still warm from the vat, squeaking against the teeth: a living, immediate thing that tasted of milk, salt, and possibility.\n\nCheese curds arrived in American popular consciousness largely through two channels: the dairy culture of the Upper Midwest — particularly Wisconsin, which produces more cheese than any other state — and the Quebecois dish poutine, which sent curds careening into mainstream American food culture in the 2000s as poutine crossed the border and captured the imagination of chefs and food writers alike. In diners and state fairs across Wisconsin and Minnesota, fried cheese curds had long been a beloved staple, battered and deep-fried until the exterior was shatteringly crisp and the interior molten. Burger culture adopted curds as a topping with the same logic it adopted everything else that melts: if cheese in any form belongs on a burger, fresh curds — with their higher moisture content, their squeak, and their clean dairy flavor — belong on a burger more than most.\n\nThe first time I encountered cheese curds had nothing to do with a burger. I was eleven, and my uncle had driven us up to a small dairy farm outside of Madison for reasons I no longer remember. A woman in an apron handed me a small wax paper bag of fresh curds still warm from that morning's batch, and I ate one without knowing what to expect. The squeak surprised me — that rubbery resistance against the teeth, that clean, milky saltiness — and I ate the entire bag before we reached the car. Years later, when I started putting curds on burgers in my own kitchen, I was always chasing that warmth, that freshness, that dairy brightness against the deep savory fat of a medium rare patty. No aged cheese ever quite replicated it.\n\nThe medium rare patty is the foundation upon which every topping negotiates its place. At 130–135°F (54–57°C), the beef patty is at its most expressive — its fat rendered into fragrant liquid that bastes the proteins from within, its crust the product of several minutes of Maillard-driven transformation, its center still blushing and yielding. Against fresh cheese curds, which are themselves mild and clean-flavored, the medium rare patty provides the full depth of umami and fat that the topping alone cannot supply. To overcook the patty — to grey it out past 160°F — is to flatten all of that and leave the curds with nothing to play against. Medium rare is not a preference here. It is a structural necessity.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "4 oz (115g) fresh white cheddar cheese curds, squeaky and fresh",
+      "1 brioche burger bun, split",
+      "1 tbsp unsalted butter, softened",
+      "1 tsp neutral oil (canola or grapeseed)",
+      "1 tsp flaky sea salt",
+      "1/2 tsp freshly cracked black pepper",
+      "1/2 tsp garlic powder",
+      "2 tbsp mayonnaise",
+      "1 tbsp pickle brine",
+      "1 tsp whole grain mustard",
+      "1 tsp apple cider vinegar",
+      "1 tsp honey",
+      "4 leaves green leaf lettuce",
+      "2 slices beefsteak tomato",
+      "4 bread and butter pickle slices",
+      "3 thin rings white onion"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 20 minutes before cooking. Form gently into a patty about 4 inches wide and 3/4 inch thick. Press a shallow dimple into the center. Season both sides with flaky sea salt, cracked black pepper, and garlic powder.",
+      "2. In a small bowl, whisk together mayonnaise, pickle brine, whole grain mustard, apple cider vinegar, and honey until smooth and emulsified. Taste and adjust salt if needed. Refrigerate until assembly.",
+      "3. Place the cheese curds in a small oven-safe dish. Set aside — they will be warmed briefly just before serving.",
+      "4. Heat a cast-iron skillet over high heat until smoking. Add the neutral oil and swirl to coat the surface.",
+      "5. Place the patty in the skillet. Press gently with a spatula for the first 10 seconds. Cook undisturbed for 3 minutes to build a firm, deeply browned crust.",
+      "6. Flip the patty once. Cook for an additional 2 to 2.5 minutes, checking with an instant-read thermometer, until the internal temperature reaches 130–135°F (54–57°C) for medium rare. Transfer to a wire rack and rest for 3 minutes.",
+      "7. While the patty rests, reduce the oven broiler to high (or use a kitchen torch). Scatter the cheese curds over the patty on the rack, or briefly pass them under the broiler for 30–45 seconds until they are just beginning to soften and blister at the edges but still retain some structure. They should be warm and slightly melty, not fully dissolved.",
+      "8. Butter the cut sides of the brioche bun and toast in the residual heat of the skillet until golden, about 1 minute.",
+      "9. Spread the pickle-brine mayonnaise on both cut faces of the toasted bun.",
+      "10. Build the burger: layer lettuce, tomato, and white onion on the bottom bun. Set the patty on top, then spoon or pile the warm cheese curds over the patty. Add pickle slices and close with the top bun. Serve immediately while the curds are still warm and slightly squeaky."
+    ]
+  }
+}

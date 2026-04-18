@@ -1,0 +1,43 @@
+{
+  "id": 46,
+  "name": "GIRLS JUST WANNA HAVE FENNEL BURGER",
+  "price": "$5.95",
+  "season": 2,
+  "episode": 7,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/20",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/46",
+  "recipe": {
+    "history": "Fennel — Foeniculum vulgare — is one of the oldest cultivated plants in the human record, native to the sun-scorched shores of the Mediterranean basin and deeply woven into the culinary and medicinal traditions of ancient Greece, Rome, and the Italian peninsula. The Greeks called it marathon, and according to legend it was in a hollow fennel stalk that Prometheus smuggled fire down from the gods to mankind — a fitting vessel for something that has always carried its own quiet heat. Roman soldiers chewed fennel seeds before battle, believing the plant conferred strength and courage. Pliny the Elder catalogued it as a remedy for more than twenty ailments. In the kitchens of ancient Rome, fennel fronds perfumed roasted meats, and the swollen bulb was braised in wine and olive oil until it surrendered its crisp anise bite into something altogether softer and more complex. Italian cuisine has never let go of that inheritance: from the wild fennel pollen dusted over porchetta in Umbria, to the shaved finocchio salads of Sicily dressed with nothing more than good oil and sea salt, fennel has remained a cornerstone of Italian cooking for millennia.\n\nFennel arrived in America in waves — first in the kitchen gardens of Italian immigrants who planted it in the same backyard soil they had worked in Calabria and Campania, then slowly, stubbornly, into the broader American palate. For most of the twentieth century it was a vegetable that mainstream America quietly ignored, sold in supermarkets with a plastic tag that read \"anise\" as though the name itself needed an apology. But the farm-to-table movement of the late 1990s and early 2000s changed everything. Chefs began shaving raw fennel paper-thin over arugula, caramelizing it low and slow until it turned jammy and gold, braising it in white wine alongside sausage or chicken. Burger culture was not far behind. As the American hamburger evolved from a fast-food staple into a canvas for serious culinary creativity, fennel found its place — raw and crunchy for textural contrast, caramelized for sweetness, or braised for depth — as a topping that could hold its own against a boldly seasoned beef patty. On a burger, fennel is a revelation: it cuts through fat, brightens richness, and adds a faintly floral, anise-forward note that no other vegetable quite replicates.\n\nI remember the first time fennel stopped me in my tracks on a burger. It was at a small counter-service place on the ground floor of a building that smelled permanently of bread and old rain. I had ordered without reading the description carefully — I was hungry, it was late, the board overhead was hand-chalked and slightly smudged — and when the burger arrived it had this pale, feathery crown of something I didn't immediately recognize. I took a bite and the flavors hit in sequence: the deep sear of the beef, the yielding give of the bun, and then — unexpected, arresting — that cool, clean, faintly sweet anise crunch. I put the burger down and looked at it. I ate the rest of it more slowly than I have eaten almost anything before or since. I went home and bought a fennel bulb the next morning, and I have kept fennel in my kitchen without interruption ever since. There are ingredients that change how you cook, and fennel, for me, was one of them.\n\nThere is only one correct temperature for a beef patty, and that temperature is medium rare — an internal reading of 130 to 135 degrees Fahrenheit, or 54 to 57 degrees Celsius. This is not a preference or a stylistic choice; it is a philosophy grounded in the biochemistry of beef. At medium rare, the myoglobin in the muscle fibers has only partially denatured, which means the interior of the patty remains a warm, rosy pink, retaining the moisture and the fat-soluble flavor compounds that higher heat would drive off or destroy. The Maillard reaction has done its work on the exterior crust — complex, savory, slightly bitter in the best possible way — but the inside has not been pushed past the threshold where beef becomes gray and dry and diminished. A fennel burger demands this discipline more than most: the delicate, slightly sweet character of the fennel is not strong enough to rescue an overcooked patty. It needs a partner that is fully present, juicy and pink at the center, mineral and alive. Cook your patty to medium rare, rest it properly, and the fennel will do the rest.",
+    "ingredients": [
+      "1 lb (450g) ground beef, 80/20 chuck blend",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 large fennel bulb, stalks trimmed, fronds reserved",
+      "2 tablespoons extra-virgin olive oil",
+      "1 tablespoon unsalted butter",
+      "1 teaspoon granulated sugar",
+      "2 tablespoons dry white wine or dry vermouth",
+      "1 teaspoon fresh lemon juice",
+      "2 brioche burger buns",
+      "2 tablespoons mayonnaise",
+      "1 teaspoon Dijon mustard",
+      "1 teaspoon whole-grain mustard",
+      "2 slices provolone cheese (optional)",
+      "Flaky sea salt, for finishing"
+    ],
+    "instructions": [
+      "1. Remove the fennel fronds from the stalks and set aside for garnish. Halve the fennel bulb through the core, then slice each half into thin half-moons approximately 1/4-inch thick. Keep the core intact so the slices hold together.",
+      "2. Heat olive oil and butter in a heavy skillet over medium heat. Add the fennel slices in a single layer, season with a pinch of kosher salt and the sugar, and cook undisturbed for 4–5 minutes until the undersides are golden.",
+      "3. Flip the fennel slices, add the white wine, and reduce heat to medium-low. Continue cooking, stirring occasionally, for another 8–10 minutes until the fennel is deeply caramelized, tender, and jammy. Add the lemon juice, stir to combine, and remove from heat. Set aside.",
+      "4. Divide the ground beef into two equal portions (approximately 8 oz / 225g each). Gently form each into a round patty about 3/4-inch thick, handling the meat as little as possible to avoid compacting it. Press a shallow dimple into the center of each patty with your thumb to prevent doming during cooking.",
+      "5. Season both sides of each patty generously with kosher salt and freshly ground black pepper immediately before cooking.",
+      "6. Heat a cast-iron skillet or heavy griddle over high heat until it begins to smoke. Place the patties in the pan and cook for 3 minutes without moving them to develop a deep sear.",
+      "7. Flip the patties once. For a medium rare result, cook for an additional 2–3 minutes until an instant-read thermometer inserted into the thickest part of the patty reads 130–135°F (54–57°C). If adding provolone, lay a slice over each patty in the final 60 seconds of cooking and tent loosely with foil to melt.",
+      "8. Transfer the patties to a wire rack or plate and rest for 3–4 minutes. Do not skip the rest — carry-over cooking will bring the internal temperature up by a few degrees and allow the juices to redistribute.",
+      "9. While the patties rest, lightly toast the brioche buns cut-side down in the residual fat in the pan over medium heat for 60–90 seconds until golden.",
+      "10. Mix the mayonnaise, Dijon mustard, and whole-grain mustard together and spread on both cut sides of the toasted buns.",
+      "11. Place a patty on the bottom bun. Pile a generous portion of the caramelized fennel directly on top of the patty. Garnish with a few reserved fennel fronds and a pinch of flaky sea salt.",
+      "12. Cap with the top bun and serve immediately."
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 84,
+  "name": "Is This Your Chard Burger",
+  "price": "$5.95",
+  "season": 4,
+  "episode": 10,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/55",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/84",
+  "recipe": {
+    "history": "Swiss chard — Beta vulgaris subsp. cicla — is not actually Swiss in origin despite its enduring misnomer. The plant is native to the Mediterranean basin, with its earliest recorded cultivation in Sicily and along the coasts of North Africa and the Levant. Ancient Greeks and Romans valued chard highly as both a food and a medicinal plant; Aristotle wrote of it in the fourth century BCE, and Roman agricultural writers classified multiple varieties by their colored stems. The 'Swiss' designation is thought to have been applied by nineteenth-century seed cataloguers, possibly French or German, to distinguish Mediterranean chard from French spinach varieties in commercial seed listings — a bureaucratic accident of nomenclature that stuck. The characteristic brilliance of rainbow chard's stems — scarlet, golden, white, and magenta — made it a prized ornamental as much as a culinary plant, and by the Renaissance it was common in both kitchen gardens and pleasure gardens across Europe.\n\nSwiss chard traveled to North America with European settlers and found enthusiastic reception in the kitchen gardens of the American Northeast and Pacific Coast, where its tolerance for both heat and cool weather made it a reliable season-extending green. In American cooking it was long overshadowed by spinach and kale, but the farm-to-table movement of the late twentieth century restored it to prominence in restaurant and home kitchens alike. Chefs discovered that chard's bitter, mineral-forward flavor — sharper than spinach, more complex than kale — paired beautifully with rich, fatty proteins. Wilted in butter or olive oil with garlic and a squeeze of lemon, the bitterness softens into something almost sweet, and the silky texture of cooked chard provides a counterpoint to the char and fat of a well-made beef patty. The Is This Your Chard Burger channels this pairing with full conviction: the chard is not a garnish here but a genuine architectural element.\n\nI planted Swiss chard in my first garden mostly because the seed packet photograph was beautiful — those electric-colored stems seemed like something that should not exist in nature. I cooked it badly at first, drowning it in too much liquid and turning it to a gray, bitter mush that tasted like disappointment. The turning point came when a neighbor showed me her method: a screaming-hot pan with good olive oil, garlic added when the oil shimmered, the chard stems first because they needed more time, then the leaves, a lid for thirty seconds only, then off the heat and a splash of red wine vinegar to cut the bitterness. The result was dark, glossy, and deeply savory, with just enough residual bitterness to make you want another bite. I put it on a burger that same evening out of pure convenience and never looked back. The trick, I've found, is to treat chard like it deserves the pan and not like it's a last-minute substitution.\n\nMedium rare is a philosophy before it is a temperature. The number — 130 to 135 degrees Fahrenheit, 54 to 57 degrees Celsius — is simply the empirical expression of something cooks have understood by instinct for as long as beef has been eaten: that heat is a threshold beyond which the thing you are cooking becomes irreversibly less than it was. At medium rare, a beef patty retains its full matrix of dissolved fats and proteins in solution, releasing them with each bite in a wave of flavor that is simultaneously rich, mineral, and clean. The exterior crust — achieved by searing in a pan hot enough to brown without steaming — provides textural contrast and a concentration of Maillard compounds that would not exist if the heat were lower. Together, the crust and the medium-rare interior constitute a burger that is greater than the sum of its components. To cook a burger past this point is to make a different, lesser thing and call it by the same name. The Is This Your Chard Burger is too honest a sandwich to deserve that fate.",
+    "ingredients": [
+      "1.5 lbs (680g) 80/20 ground beef chuck, freshly ground",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "1 large bunch Swiss chard (rainbow or standard), stems and leaves separated",
+      "4 cloves garlic, thinly sliced",
+      "3 tablespoons extra-virgin olive oil",
+      "1 tablespoon unsalted butter",
+      "1 teaspoon red chili flakes",
+      "1.5 tablespoons red wine vinegar",
+      "1 teaspoon sugar",
+      "4 slices provolone or fontina cheese",
+      "4 brioche burger buns",
+      "3 tablespoons mayonnaise",
+      "1 tablespoon lemon juice",
+      "1 teaspoon lemon zest",
+      "1 small clove garlic, grated to a paste",
+      "1 medium white onion, thinly sliced into rings",
+      "1 tablespoon neutral oil for frying onions",
+      "Neutral oil for cooking patties"
+    ],
+    "instructions": [
+      "1. Cut the chard stems into 1/2-inch pieces and roughly chop the leaves, keeping them separate.",
+      "2. Heat 2 tablespoons of olive oil in a wide skillet over medium-high heat. Add the sliced garlic and chili flakes, stirring for 30 seconds until fragrant but not browned.",
+      "3. Add the chard stems, season with salt, and cook for 3–4 minutes until beginning to soften. Add the chard leaves, toss to coat with the oil, and cover with a lid for 30 seconds to wilt.",
+      "4. Remove the lid, add the butter, red wine vinegar, and sugar. Toss and cook for 1–2 more minutes until the liquid evaporates and the chard is glossy and tender. Season to taste. Remove from heat.",
+      "5. In a separate small pan, heat 1 tablespoon of neutral oil over medium heat. Add the onion rings, a pinch of salt, and a pinch of sugar. Cook, stirring occasionally, for 15–20 minutes until softened and caramelized to a deep golden color. Set aside.",
+      "6. Stir together the mayonnaise, lemon juice, lemon zest, and grated garlic in a small bowl. Season with salt and pepper. Refrigerate until needed.",
+      "7. Divide the ground beef into 4 equal portions (approximately 6 oz / 170g each). Form each into a patty about 3/4-inch thick with a slight center dimple. Season both sides generously with kosher salt and black pepper. Refrigerate until ready to cook.",
+      "8. Heat a cast-iron skillet or grill pan over high heat until smoking. Lightly coat with neutral oil.",
+      "9. Cook the patties undisturbed for 3 minutes to achieve a deep, even sear. Flip once. Lay a slice of provolone or fontina on each patty immediately after flipping.",
+      "10. Cook for an additional 2–3 minutes. Check doneness with an instant-read thermometer — remove patties from heat at 130–135°F (54–57°C) for medium rare. Rest on a clean plate, loosely tented, for 3 minutes.",
+      "11. Toast the brioche buns cut-side down in the residual heat of the skillet for 1–2 minutes until lightly golden.",
+      "12. Spread the lemon-garlic mayo on both halves of each bun.",
+      "13. Place each patty (with melted cheese) on the bottom bun. Layer caramelized onions over the cheese, then pile a generous portion of the garlicky wilted chard on top.",
+      "14. Close with the top bun and serve immediately."
+    ]
+  }
+}

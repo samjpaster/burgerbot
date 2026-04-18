@@ -1,0 +1,43 @@
+{
+  "id": 143,
+  "name": "THE CATCH ME IF YOU CRAN BURGER (Served with cranberry sauce)",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 5,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/134",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/143",
+  "recipe": {
+    "history": "The cranberry — Vaccinium macrocarpon — is one of only three fruits native to North America that are commercially cultivated on a significant scale today, alongside blueberries and Concord grapes, and its history on this continent stretches back thousands of years before European contact. Indigenous peoples across what is now the northeastern United States and eastern Canada — Algonquian-speaking nations including the Wampanoag, Lenape, and Ojibwe — used cranberries in pemmican (a calorie-dense mixture of dried meat, fat, and berries), as a natural dye for textiles, and as a medicinal poultice for wounds. The Wampanoag people introduced cranberries to the Plymouth colonists, and though the romanticized Thanksgiving connection came much later through Victorian-era mythology, the berry's association with autumn harvest and communal feasting is genuinely ancient. Dutch and German settlers in North America called it kraanbere — crane berry — because the plant's stamens resembled the beak of a crane, and the Anglicized form stuck. Commercial cultivation began in the early 19th century in Massachusetts, where Captain Henry Hall noticed that cranberries flourished when sand drifted over the vines, pioneering the bog-flooding harvest method still used today across Cape Cod, Wisconsin, and the Pacific Northwest.\n\nCranberry sauce entered the American culinary mainstream as a condiment primarily through its association with roasted poultry — turkey and duck in particular — where its tartness cuts through the richness of dark meat in the same way that acidic fruit preparations have functioned across culinary traditions globally (think Cumberland sauce in England or lingonberry jam in Scandinavia). The transition to burgers is, in retrospect, obvious: a beef patty shares much of the same fat profile as a roasted bird, and the tart-sweet gel of whole-berry cranberry sauce does exactly the same work against the char and grease of a griddle-cooked patty that it does against a Thanksgiving breast. American gastropub culture in the 2000s and 2010s accelerated this pairing, particularly around November when seasonal burger specials leaned deliberately into holiday flavor territory — cranberry compote with brie, candied pecans, arugula, and a beef patty became a menu staple at ambitious burger restaurants from coast to coast.\n\nI built this burger for the first time the week after Thanksgiving, out of stubborn resourcefulness and a refrigerator full of leftovers. There was a half-jar of whole-berry cranberry sauce my aunt had made from scratch — orange zest, a cinnamon stick, just enough sugar — and a pound of good chuck I'd been saving. I spread the sauce on the bun the way you'd spread mustard, stacked a slice of sharp white cheddar on the patty while it finished to medium rare, and watched the cheese melt into the pink beef. The first bite was startling: tart, fatty, savory, faintly sweet, with the specific nostalgia of a holiday dinner compressed into a handheld format. I put it on the menu for two weeks. People kept asking for it in July.\n\nMedium rare is not a preference — it is the scientifically and culinarily correct endpoint for a quality beef patty, and at 130–135°F / 54–57°C the meat retains every micron of moisture that the grind and the fat distribution promised it would. The cranberry sauce in this burger is particularly unforgiving of overcooked beef: its acidity has nowhere productive to go against dry, gray meat, and what should be a bright counterpoint becomes an aggressive intrusion. But against a yielding, pink-centered patty — where the beef's natural sweetness is still intact and the fat is liquid and present — cranberry sauce behaves like a perfectly tuned condiment, its tartness a complement, its sweetness an echo, its color against the pink beef as visually compelling as any dish I know how to make.",
+    "ingredients": [
+      "1 lb (450g) ground beef, 80/20 chuck blend",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "12 oz (340g) fresh or frozen cranberries",
+      "1/2 cup granulated sugar",
+      "1/2 cup water",
+      "1 tablespoon orange zest",
+      "2 tablespoons fresh orange juice",
+      "1/4 teaspoon ground cinnamon",
+      "Pinch of kosher salt (for cranberry sauce)",
+      "2 slices sharp white cheddar cheese",
+      "2 brioche burger buns",
+      "2 tablespoons unsalted butter, for toasting buns",
+      "2 leaves green leaf lettuce",
+      "2 slices red onion",
+      "1 tablespoon whole-grain mustard",
+      "Flaky sea salt, for finishing"
+    ],
+    "instructions": [
+      "1. Make the cranberry sauce (can be done 1–3 days ahead): combine cranberries, sugar, water, orange zest, orange juice, cinnamon, and a pinch of salt in a medium saucepan over medium heat. Cook, stirring occasionally, until cranberries burst and sauce thickens, about 10–12 minutes. The sauce should coat the back of a spoon. Remove from heat, let cool to room temperature, then refrigerate. The sauce will thicken further as it cools.",
+      "2. Remove cranberry sauce from refrigerator 20 minutes before service to take the chill off.",
+      "3. Divide ground beef into two 8-oz portions. Form each gently into a 3/4-inch-thick patty, pressing a shallow dimple in the center. Season both sides generously with kosher salt and cracked black pepper immediately before cooking.",
+      "4. Heat a cast-iron skillet or flat-top griddle over high heat until smoking.",
+      "5. Place patties dimple-side up on the hot surface. Cook undisturbed for 3–3.5 minutes until a deep crust forms on the bottom.",
+      "6. Flip patties. Immediately place one slice of sharp white cheddar on each patty. Cook for 2–2.5 more minutes. Check internal temperature with an instant-read thermometer — target is 130–135°F / 54–57°C for medium rare. Remove from heat, tent loosely with foil, and rest for 3 minutes.",
+      "7. While patties rest, toast the brioche buns cut-side down in butter in the same pan over medium heat for 1–2 minutes until golden.",
+      "8. Build the burger: spread a thin layer of whole-grain mustard on the bottom bun. Add a leaf of green lettuce and slices of red onion. Place the cheesy, rested patty on top.",
+      "9. Spoon a generous 2–3 tablespoons of cranberry sauce directly over the melted cheddar and patty. Finish with a pinch of flaky sea salt.",
+      "10. Cap with the top bun and serve immediately, with extra cranberry sauce on the side."
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 86,
+  "name": "It's Only Sourdough Burger (But I Like It)",
+  "price": "$5.95",
+  "season": 4,
+  "episode": 14,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/59",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/86",
+  "recipe": {
+    "history": "Sourdough bread is one of the oldest leavened breads in human history, with origins tracing back at least 5,000 years to ancient Egypt and Mesopotamia. The process relies on wild yeast and lactic acid bacteria naturally present in flour and the surrounding environment, creating a living culture called a starter — or levain — that bakers feed and maintain like a living organism. Unlike commercial yeast, which produces a uniform and predictable rise, sourdough fermentation is deeply regional: the wild microbes in San Francisco, where American sourdough culture is most famously rooted, produce a distinctly tangy loaf unlike any other in the world. That tang comes from acetic acid produced during slow, cold fermentation, and it is this complexity — sour, chewy, with a crackling crust — that has made sourdough one of the most cherished and culturally significant breads across every civilization that has ever baked.\n\nSourdough made its way into American culinary identity most forcefully during the California Gold Rush of 1848, when miners and settlers carried their starters westward as precious cargo. It became the bread of the American frontier — hardy, self-sufficient, and deliciously alive. As burger culture blossomed in the mid-20th century, particularly in California, sourdough naturally migrated to the bun slot. Diners and backyard cooks discovered that a thick slice of sourdough, toasted on a griddle, could stand up to a juicy beef patty in a way that a soft brioche or potato bun simply could not. The crust provided structural integrity; the tang cut through the richness of the beef and cheese; the dense crumb absorbed drippings without dissolving. Today, sourdough burger buns are a staple of artisan burger joints from coast to coast, celebrated for the dimension of flavor they bring to what might otherwise be a straightforward sandwich.\n\nI remember the first time I truly understood what sourdough could do to a burger. It was a Sunday afternoon in late October, the kind of day when the sky is low and grey and the kitchen smells like cast iron and rendered fat. My father had a sourdough starter he'd kept alive for eleven years — fed every Friday evening, stored in a ceramic crock on the second shelf of the refrigerator. He baked rounds that morning and by noon they had cooled enough to slice. He cut them thick, pressed them face-down into the butter foaming in the pan, and when they came up they were amber and ridged and smelled like something between a bakery and a dream. The burger that landed between those slices was everything — medium rare, deeply salted, draped in sharp cheddar — but what I remember most is the sound of biting through that crust, and the way the sour note of the bread made the beef taste more like itself.\n\nThere is a philosophy behind cooking a burger to medium rare that I hold as close to a moral conviction as any food belief I carry. A beef patty cooked to medium rare — an internal temperature of 130 to 135°F — is not undercooked; it is correctly cooked. The proteins have set enough to hold the patty together, but the fat has not fully rendered out, so the burger remains juicy, tender, and self-basting from within. The center carries a rosy warmth that is not raw but alive — a color and texture that tells you the animal's effort was respected. To cook a burger beyond this point is to drive out the moisture that makes the whole endeavor worthwhile. On sourdough especially, where the bread is strong and assertive, you need a patty that can hold its own. A well-done patty shrinks, tightens, and dries; a medium rare patty stays plump, yielding, and generous. The sourdough and the beef, both complex and a little fierce, find their perfect meeting point here.",
+    "ingredients": [
+      "1 lb (450g) ground beef chuck, 80/20 fat ratio",
+      "2 thick slices sourdough bread (cut from a round loaf, about 3/4 inch thick)",
+      "2 tbsp unsalted butter, softened",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1/2 tsp garlic powder",
+      "2 slices sharp cheddar cheese",
+      "2 tbsp mayonnaise",
+      "1 tbsp whole-grain mustard",
+      "1 tsp apple cider vinegar",
+      "4 leaves butter lettuce",
+      "2 slices ripe tomato",
+      "4 thin slices red onion",
+      "4 slices dill pickle",
+      "1 tbsp neutral oil (such as canola or grapeseed)"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 20 minutes before cooking to bring it slightly toward room temperature — this promotes even cooking throughout the patty.",
+      "2. Divide the beef into two equal portions (approximately 8 oz each). Gently form each into a patty about 3/4 inch thick, pressing a slight dimple into the center with your thumb to prevent doming during cooking. Season both sides generously with kosher salt, black pepper, and garlic powder.",
+      "3. In a small bowl, whisk together the mayonnaise, whole-grain mustard, and apple cider vinegar until smooth. Set aside as the burger sauce.",
+      "4. Heat a cast iron skillet or heavy griddle over high heat until smoking. Add the neutral oil and swirl to coat.",
+      "5. Place the patties in the skillet. Cook undisturbed for 3 to 4 minutes on the first side until a deep brown crust forms. Flip once. Cook for 2 to 3 minutes on the second side.",
+      "6. In the final minute of cooking, lay one slice of sharp cheddar on each patty. Cover the skillet loosely with a lid or foil to encourage the cheese to melt.",
+      "7. Check internal temperature with an instant-read thermometer. Remove patties from heat when they reach 130–135°F (54–57°C) for medium rare. Rest on a wire rack or plate for 3 minutes — the temperature will climb slightly and the juices will redistribute.",
+      "8. While the patties rest, butter the cut faces of the sourdough slices generously with softened butter. Place them butter-side down in the same skillet over medium heat. Toast for 2 to 3 minutes until deeply golden and crisp. Remove and set aside.",
+      "9. Spread the mustard-mayonnaise sauce on both toasted faces of each sourdough slice.",
+      "10. Build the burger: on the bottom slice, layer butter lettuce, tomato, red onion, and pickles. Set the cheesed patty on top. Crown with the top sourdough slice. Serve immediately."
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 103,
+  "name": "The Six Scallion Dollar Man Burger",
+  "price": "$5.95",
+  "season": 5,
+  "episode": 15,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/82",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/103",
+  "recipe": {
+    "history": "Scallions — also known as green onions, spring onions, or Welsh onions depending on geography and context — are among the oldest cultivated alliums on earth, with a history of cultivation in China stretching back more than 2,000 years. The species Allium fistulosum, the hollow-stemmed bunching onion that most scallions belong to, is believed to have originated in Central Asia and was thoroughly domesticated by Chinese farmers centuries before it reached the rest of the world. In Chinese cuisine, scallions occupy a foundational role: they are simultaneously an aromatic base, a finishing herb, and a vegetable in their own right, used raw, wilted, fried, pickled, and incorporated into doughs. They traveled the Silk Road into the Middle East and eventually into Europe, where they became standard in French classical cuisine as a gentler alternative to the shallot or yellow onion.\n\nScallions entered American culinary life through multiple immigration waves and regional traditions simultaneously. Southern cooking embraced them raw in salads and slaws. Asian-American cuisine, particularly in the latter half of the twentieth century, introduced them to broader audiences as a garnish and flavor component in noodle soups, stir-fries, and dumplings. Burger culture adopted scallions as both a fresh topping and a mixed-in flavoring agent — cooks discovered that finely sliced raw scallion rings added a clean, sharp bite and a visual brightness to a burger that yellow onion, with its more pungent raw flavor, could not always provide. Scallion-blended patties, scallion compound butters, and scallion relishes all found their way onto craft burger menus in the restaurant boom of the 2010s.\n\nScallions were the first thing my grandmother taught me to cut. She would set a bunch on the cutting board beside me, show me how to hold them flat with my knuckles curled under, and then guide my hand through the motions: quick, even slices, white parts first, then the green. She used scallions in almost everything — in scrambled eggs, in cold noodles dressed with sesame oil, in pan-fried dumplings that she folded by hand while I watched. The green of the scallion against any plate was, to me, a signal that the dish had been finished with care, that someone had taken the extra moment to add something fresh and bright at the end. When I started making burgers as an adult and reached for the scallions almost by reflex, I understood that some ingredients are not just flavors. They are inherited habits.\n\nA burger patty cooked to medium rare — 130–135°F (54–57°C) — is the ideal canvas for scallions because the residual heat of the meat gently wilts the white parts of any scallions placed atop it while leaving the green tops fresh and slightly crisp. This temperature gradient — a hot, crusted exterior giving way to a warm, yielding, pink interior — creates a microclimate on the plate where the scallion can perform two roles at once: cooked and raw, mellow and sharp, soft and crunchy. Cook the patty to well-done and there is no gradient left, no heat differential to coax the allium into that dual expression. Medium rare is not incidental to this burger. It is what makes the scallion topping sing.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "1 bunch scallions (approximately 6), roots trimmed",
+      "1 tsp neutral oil (canola or grapeseed), plus more for brushing scallions",
+      "1 tsp flaky sea salt",
+      "1/2 tsp freshly cracked black pepper",
+      "1/2 tsp onion powder",
+      "1 brioche burger bun, split",
+      "1 tbsp unsalted butter, softened",
+      "2 slices aged white cheddar or Gruyère",
+      "2 tbsp mayonnaise",
+      "1 tsp toasted sesame oil",
+      "1 tsp soy sauce",
+      "1 tsp rice wine vinegar",
+      "1/2 tsp grated fresh ginger",
+      "1 tsp sriracha or chili-garlic sauce (optional)",
+      "4 leaves butter lettuce",
+      "2 slices ripe tomato",
+      "Sesame seeds, for garnish"
+    ],
+    "instructions": [
+      "1. Remove ground beef from the refrigerator 20 minutes before cooking. Form gently into a patty about 4 inches wide and 3/4 inch thick. Press a shallow dimple into the center. Season both sides with flaky sea salt, cracked black pepper, and onion powder.",
+      "2. Prepare the scallions: separate 3 scallions for charring whole and slice the remaining 3 thinly on the bias (both white and green parts). Keep the sliced scallions in a bowl of ice water for 10 minutes to crisp them, then drain and pat dry. Set both preparations aside.",
+      "3. Whisk together mayonnaise, toasted sesame oil, soy sauce, rice wine vinegar, grated ginger, and sriracha (if using) until smooth. Taste and adjust seasoning. Refrigerate until assembly.",
+      "4. Lightly brush the 3 whole scallions with neutral oil and season with a pinch of salt.",
+      "5. Heat a cast-iron skillet or grill pan over high heat until smoking. Add the neutral oil and swirl to coat.",
+      "6. Place the whole scallions in the pan first. Cook, turning occasionally, for 3–4 minutes until charred in spots and softened. Remove and set aside.",
+      "7. In the same hot pan, place the patty and press gently for the first 10 seconds. Cook undisturbed for 3 minutes to develop a deep crust.",
+      "8. Flip once. Lay the cheese slices on top immediately. Cook for an additional 2 to 2.5 minutes until an instant-read thermometer inserted into the center reads 130–135°F (54–57°C) for medium rare. Transfer to a wire rack and rest 3 minutes.",
+      "9. Butter the cut faces of the brioche bun and toast in the residual pan heat until golden, about 1 minute.",
+      "10. Spread the sesame-ginger mayonnaise on both cut faces of the toasted bun. Layer the bottom bun with butter lettuce and tomato. Place the rested patty on top. Lay the charred whole scallions across the melted cheese, then scatter the crisp sliced scallions over everything. Sprinkle with sesame seeds and close with the top bun. Serve immediately."
+    ]
+  }
+}

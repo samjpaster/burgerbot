@@ -1,0 +1,48 @@
+{
+  "id": 112,
+  "name": "The Say Cheese Burger",
+  "price": "$5.95",
+  "season": 6,
+  "episode": 8,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/96",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/112",
+  "recipe": {
+    "history": "Cheese is arguably the oldest and most complex processed food in human history, with origins stretching back at least eight thousand years to the Fertile Crescent and the early domestication of cattle, sheep, and goats in what is now the Middle East and Anatolia. The earliest evidence of cheese-making — perforated pottery shards consistent with draining curds — has been found in Poland dating to approximately 5500 BCE. The happy accident of fermentation transformed surplus milk into a storable, protein-rich food that could sustain communities through lean seasons, and with that discovery, human civilization gained an ingredient it would never willingly surrender. Over millennia, geography, climate, available cultures, and the particular minerals in local milk shaped cheese into thousands of distinct regional varieties: the chalky fetas of Greece, the bloomy-rinded bries of the Île-de-France, the sharp, crystalline aged cheddars of Somerset, the nutty, mountain-born Gruyères of Switzerland. Each cheese is, in essence, a portrait of a place.\n\nCheese came to the American burger by way of practical accident — or so one popular story goes. In the 1920s, a teenager named Lionel Sternberger is said to have laid a slice of American cheese atop a sizzling hamburger patty at his father's roadside stand in Pasadena, California, letting it melt and pool over the beef. Whether or not this precise origin is true, the cheeseburger became a defining feature of American fast food culture with remarkable speed, spreading across the country through diners, roadside stands, and drive-ins over the following decades. American processed cheese — easy to melt, mild in flavor, perfectly engineered for the job — became the default. But as American food culture matured through the late twentieth and early twenty-first centuries, chefs and home cooks began asking a different question: what happens when you take cheese seriously? The answer was a burger transformed — richer, more complex, more deeply itself.\n\nI became a dedicated student of the cheese blend the hard way: by destroying several dozen burgers in the process of perfecting one. My first attempt at a signature blend was an embarrassingly earnest mix of whatever was in the cheese drawer — some rubbery jack, a heel of cheddar, a sliver of leftover brie that had no business being anywhere near a hot patty. The result was a greasy, broken mess that pooled onto the griddle and tasted of nothing in particular. I went back to basics. I read about how cheeses melt — about the role of fat content and moisture and pH in determining whether a cheese melts smoothly or seizes and separates. I started thinking about cheese blends the way a winemaker thinks about grape blends: each variety contributing something the others lack, the whole arriving at a harmony no single component could achieve alone. When I finally landed on my blend — a ratio of sharp white cheddar for bite, young Gouda for melt, and a whisper of blue for depth — it felt less like a recipe and more like a revelation.\n\nThe medium rare burger is the only honest burger. This is not sentiment — it is physics and chemistry in agreement. When beef reaches an internal temperature of 130 to 135 degrees Fahrenheit (54 to 57 degrees Celsius), the myosin proteins have denatured and set while the actin proteins remain largely intact, leaving the meat firm enough to hold its shape but soft enough to yield pleasurably under pressure. The intramuscular fat has begun its slow conversion from solid to liquid, basting the meat from within. A thermometer is not optional here — it is the difference between intention and accident. And when you consider that The Say Cheese Burger is built around the thesis that cheese deserves to be taken seriously, it would be a profound contradiction to crown a beautifully crafted blend atop a grey, overdone patty. The cheese and the beef must be equals.",
+    "ingredients": [
+      "1.5 lbs (680g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "3 oz (85g) sharp white cheddar, freshly grated",
+      "2 oz (57g) young Gouda, freshly grated",
+      "1 oz (28g) mild blue cheese (such as Gorgonzola Dolce), crumbled",
+      "4 brioche or potato burger buns",
+      "2 tablespoons unsalted butter, softened",
+      "1 tablespoon neutral oil (canola or grapeseed)",
+      "3 tablespoons mayonnaise",
+      "1 tablespoon Dijon mustard",
+      "1 teaspoon Worcestershire sauce",
+      "1 teaspoon apple cider vinegar",
+      "1 teaspoon honey",
+      "1 small yellow onion, halved and thinly sliced",
+      "1 tablespoon unsalted butter (for caramelizing onions)",
+      "Pinch of sugar",
+      "4 leaves butter lettuce",
+      "1 large heirloom tomato, sliced",
+      "Flaky sea salt for finishing"
+    ],
+    "instructions": [
+      "1. Begin with the caramelized onions, as they take the longest: melt 1 tablespoon butter in a skillet over medium-low heat. Add the sliced onion and a pinch of sugar and salt. Cook slowly, stirring every 5 minutes, for 30 to 40 minutes until deeply golden and jammy. Set aside.",
+      "2. Make the signature cheese blend: combine the grated white cheddar, grated Gouda, and crumbled blue cheese in a bowl. Toss gently to distribute. Divide into 4 equal portions.",
+      "3. Prepare the sauce: whisk together the mayonnaise, Dijon mustard, Worcestershire sauce, apple cider vinegar, and honey until smooth. Taste and adjust seasoning. Refrigerate until needed.",
+      "4. Remove the beef from the refrigerator 20 minutes before cooking. Divide into 4 equal portions (approximately 6 oz / 170g each). Form into patties about 3/4 inch thick, pressing a dimple in the center. Season both sides liberally with kosher salt and black pepper.",
+      "5. Heat a cast iron skillet or heavy griddle over high heat until smoking. Add the neutral oil.",
+      "6. Cook the patties undisturbed for 3 to 3.5 minutes until a deep crust forms. Flip once.",
+      "7. Immediately after flipping, pile one portion of the cheese blend atop each patty. If the cheese is slow to melt, tent loosely with a small piece of foil or add a splash of water to the pan and cover briefly to create steam.",
+      "8. Cook for an additional 2 to 2.5 minutes. Check internal temperature — you are aiming for 130–135°F (54–57°C). Pull the patties from the heat and rest on a wire rack for 3 minutes.",
+      "9. Meanwhile, butter the bun halves and toast them cut-side down in the skillet over medium heat until golden, about 1 to 2 minutes.",
+      "10. Spread the sauce on both cut sides of each bun.",
+      "11. Build the burger: bottom bun, butter lettuce leaf, tomato slice (seasoned with a pinch of flaky salt), rested patty with melted cheese blend, a generous spoonful of caramelized onions, top bun.",
+      "12. Press lightly and serve immediately. The cheese blend is the star — do not let it cool."
+    ]
+  }
+}

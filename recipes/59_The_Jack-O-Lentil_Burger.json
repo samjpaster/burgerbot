@@ -1,0 +1,48 @@
+{
+  "id": 59,
+  "name": "The Jack-O-Lentil Burger",
+  "price": "$5.95",
+  "season": 3,
+  "episode": 2,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/24",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/59",
+  "recipe": {
+    "history": "Lentils are among the oldest cultivated crops in human history, with archaeological evidence placing their domestication in the Near East and Fertile Crescent as far back as 8,000 to 9,000 BCE. Among the very first legumes to be tamed from the wild, lentils sustained early agricultural civilizations across Mesopotamia, the Levant, and the Nile Delta. They appear in the tomb offerings of ancient Egypt, in the pages of the Bible — famously traded by Esau for a bowl of red lentil stew — and in the cookbooks of ancient Rome. Their resilience as a crop, their exceptional shelf life when dried, and their remarkable nutritional density made them indispensable to armies, monasteries, and peasant households across millennia. Long before anyone thought to grind beef and press it between two buns, lentils were already feeding the world.\n\nLentils arrived in American kitchens by way of European immigrant communities in the late nineteenth and early twentieth centuries, particularly among Eastern European and Middle Eastern settlers who carried their dried pulse traditions across the Atlantic. For decades they occupied a humble corner of the American pantry — health food store staple, Depression-era soup ingredient, the quiet backbone of vegetarian cooking. But the craft food movement of the late twentieth and early twenty-first centuries brought lentils roaring back to the center of the plate. Chefs began folding cooked lentils into burger patties to add earthiness, moisture, and body, or piling spiced lentil ragù directly on top of beef patties as a bold, textural topping. The Jack-O-Lentil Burger leans hard into that second tradition, layering a warmly spiced lentil mixture over a beef patty in a nod both to culinary history and to the grinning, gap-toothed face of a Halloween jack-o-lantern — because if you squint at the word lentil long enough, and you are Bob Belcher, you absolutely see the pun hiding inside it.\n\nI remember the first time I made a lentil-topped burger for myself on a late October weeknight, the kitchen windows fogged with steam and the smell of cumin and smoked paprika filling the apartment like incense. I had a bag of French green lentils I'd been meaning to use for weeks, a pound of eighty-twenty ground chuck in the refrigerator, and a vague memory of a burger I'd read about somewhere that combined the two. I cooked the lentils down with onion, garlic, a pinch of cayenne, and a splash of apple cider vinegar until they were tender but still holding their shape — jammy and dark and faintly sweet. I seared the patty in a cast iron skillet until it hit that perfect blushing medium rare. When I stacked it all together, the lentils pooled over the edges of the bun like a slow, savory lava flow. It was one of those accidental meals that becomes a standard, the kind of thing you make again the following week and then the week after that without ever writing it down, trusting your hands to remember what your notes never captured.\n\nThere is a philosophy behind cooking a burger to medium rare — 130 to 135 degrees Fahrenheit, 54 to 57 degrees Celsius — that goes beyond mere preference, touching something closer to respect. A beef patty at medium rare retains its internal moisture, its fat rendering just enough to carry flavor without flooding the bun, the myoglobin still pink and the texture yielding rather than firm. To cook past that window is to spend the time and money on good ground beef and then systematically drive out everything that made it worth buying. The Maillard crust on the outside provides all the structural integrity and caramelized depth you need; the interior asks only to be left alone, warm and rosy, doing exactly what good beef was always meant to do. Pull the patty at 130°F, tent it for two minutes, and trust the carry-over. The thermometer does not lie, and neither does the first bite.",
+    "ingredients": [
+      "1 lb (450g) ground beef, 80/20 chuck",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 tbsp neutral oil (such as canola or vegetable)",
+      "1/2 cup green or black lentils, rinsed",
+      "1 1/2 cups low-sodium beef or vegetable broth",
+      "1/2 medium yellow onion, finely diced",
+      "3 cloves garlic, minced",
+      "1 tsp ground cumin",
+      "1/2 tsp smoked paprika",
+      "1/4 tsp ground coriander",
+      "1/4 tsp cayenne pepper",
+      "1 tsp apple cider vinegar",
+      "1 tsp tomato paste",
+      "1 tbsp unsalted butter",
+      "4 brioche burger buns",
+      "4 slices sharp cheddar cheese",
+      "Dijon mustard, for spreading",
+      "Mayonnaise, for spreading",
+      "4 leaves green leaf lettuce",
+      "4 slices ripe tomato",
+      "Bread and butter pickle slices"
+    ],
+    "instructions": [
+      "1. Cook the lentils: Combine the rinsed lentils and broth in a small saucepan. Bring to a boil over medium-high heat, then reduce to a gentle simmer. Cook uncovered for 20–25 minutes, until the lentils are tender but still holding their shape. Drain any excess liquid and set aside.",
+      "2. Make the lentil topping: In a skillet over medium heat, melt the butter. Add the diced onion and cook, stirring occasionally, for 6–8 minutes until softened and lightly golden. Add the garlic and cook for 1 minute more until fragrant.",
+      "3. Add the tomato paste to the onion and garlic, stirring to coat, and cook for 1 minute. Add the cumin, smoked paprika, coriander, and cayenne. Stir to combine and toast the spices for 30 seconds.",
+      "4. Add the cooked lentils to the skillet and stir to coat them in the spiced onion mixture. Add the apple cider vinegar, stir, and cook for 2–3 minutes until the mixture is cohesive and fragrant. Season to taste with salt and pepper. Keep warm over very low heat.",
+      "5. Form the patties: Divide the ground beef into 4 equal portions (approximately 4 oz / 113g each). Gently form each portion into a patty about 3/4 inch thick, pressing a slight dimple in the center with your thumb to prevent doming during cooking. Season generously on both sides with kosher salt and black pepper immediately before cooking.",
+      "6. Cook the patties: Heat a cast iron skillet or heavy-bottomed pan over high heat until smoking. Add the neutral oil and swirl to coat. Place the patties in the pan — do not press down. Sear for 2 minutes undisturbed to build a deep Maillard crust.",
+      "7. Flip the patties and immediately place a slice of cheddar on each. Continue cooking for 1.5–2 minutes. Begin checking internal temperature with an instant-read thermometer. Remove the patties when the internal temperature reads 130–135°F (54–57°C) for medium rare — no exceptions.",
+      "8. Rest the patties: Transfer the patties to a clean plate or rack and tent loosely with foil. Allow to rest for 2 minutes. Carry-over cooking will bring the internal temperature to approximately 135°F (57°C).",
+      "9. Toast the buns: While the patties rest, split the brioche buns and toast cut-side down in the residual fat in the skillet over medium heat for 60–90 seconds, until golden.",
+      "10. Assemble: Spread Dijon mustard on the bottom bun and mayonnaise on the top bun. Layer the bottom bun with lettuce, then the tomato slice, then pickles. Place the rested, cheese-topped patty on the stack. Spoon a generous mound of the warm spiced lentil topping directly over the melted cheddar, allowing it to spill over the edges of the patty. Cap with the top bun and serve immediately."
+    ]
+  }
+}

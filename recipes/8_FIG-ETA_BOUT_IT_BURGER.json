@@ -1,0 +1,57 @@
+{
+  "id": 8,
+  "name": "FIG-ETA BOUT IT BURGER",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 4,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/4",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/8",
+  "recipe": {
+    "history": "The fig is one of humanity's oldest cultivated fruits, with evidence of its domestication stretching back over 11,000 years to the Jordan Valley — predating even wheat and barley. Revered across ancient Egypt, Greece, and Rome, figs spread through the entire Mediterranean basin and into the Middle East as a staple of sustenance and ritual. The tree's gnarled, silvery limbs became symbols of fertility and abundance; the fruit itself was dried for long journeys, pressed into cakes, and fermented into wine. Long before anyone thought to put one on a burger, the fig was already carrying the weight of civilization on its small, seedy shoulders.\n\nFigs arrived in American kitchens largely through European immigrant traditions — Italian, Greek, and Middle Eastern communities who refused to leave the fruit behind when they crossed the Atlantic. By the late twentieth century, the artisan food movement began rescuing figs from the jam jar on the charcuterie board and asking a bolder question: what if you put this on a burger? Fig jam, reduced to a thick, sweet-tangy glaze with a splash of balsamic and a whisper of fresh thyme, turned out to answer the umami richness of ground beef the way a great jazz countermelody answers the main riff. Upscale gastropubs ran with it; food trucks refined it; and eventually, the fig burger stopped being a novelty and started being a revelation.\n\nI remember the first time I made this one — it was a Sunday, the kind of grey October afternoon that smells like radiator heat and old paperbacks. I had a pint of fresh Black Mission figs that were one day from turning, a pound of 80/20 chuck, and a cast-iron skillet that had seen better decades. Somewhere in the background, a Sopranos rerun was on, and Tony Soprano was in the middle of explaining to some associate why certain things simply could not be done — \"fuhgeddaboudit,\" he said, with that particular New Jersey finality that means both forget about it and don't even ask. When I pulled that burger off the heat, pink and glistening under a lacquer of fig glaze, I understood exactly what he meant. Some combinations are so right that debating them is pointless. Fuhgeddaboudit.\n\nCooking a burger to medium rare — an internal temperature of 130 to 135 degrees Fahrenheit — is not a preference; it is a philosophy. Below that threshold lives a burger that is still alive with juice, where the fat has begun to render but not flee, where the Maillard crust seals in something the well-done crowd will never know. Above it, you are simply evaporating what makes ground beef worth eating. The fig glaze on this burger only deepens that argument: its sugar caramelizes against the sear, its acidity cuts the fat, and it needs the rosy, yielding interior as a counterpart — a soft landing for a bold topping. Cook it further and you have leather under jam. Cook it to 130–135°F and you have a burger that justifies the name. This is the only correct approach.",
+    "ingredients": {
+      "patty": [
+        "8 oz (225g) ground beef, 80/20 chuck, freshly ground preferred",
+        "1/2 tsp kosher salt",
+        "1/4 tsp freshly cracked black pepper",
+        "1/4 tsp garlic powder",
+        "1 tsp neutral oil (canola or grapeseed) for the pan"
+      ],
+      "fig_glaze": [
+        "6 fresh Black Mission figs (or 8 dried figs, rehydrated), stems removed and roughly chopped",
+        "2 tbsp balsamic vinegar",
+        "1 tbsp honey",
+        "1 tbsp unsalted butter",
+        "2 sprigs fresh thyme (leaves stripped)",
+        "1 small shallot, minced",
+        "1 clove garlic, minced",
+        "Pinch of kosher salt",
+        "Pinch of red pepper flakes"
+      ],
+      "bun": [
+        "2 brioche burger buns (or sturdy potato rolls)",
+        "1 tbsp unsalted butter, softened, for toasting"
+      ],
+      "toppings_and_assembly": [
+        "2 oz (55g) aged Gruyere or sharp white cheddar, sliced",
+        "2 leaves butter lettuce or arugula",
+        "2 thin slices red onion",
+        "4 slices applewood-smoked bacon, cooked until just crisp",
+        "1 tsp Dijon mustard (for the bottom bun)"
+      ]
+    },
+    "instructions": [
+      "Make the fig glaze: In a small saucepan over medium heat, melt butter. Add shallot and cook, stirring, until softened and translucent, about 3 minutes. Add garlic and red pepper flakes; cook 30 seconds until fragrant.",
+      "Add the chopped figs, balsamic vinegar, honey, and thyme leaves to the saucepan. Stir to combine and bring to a gentle simmer.",
+      "Cook the glaze, stirring occasionally and pressing the figs with the back of a spoon, until the figs break down and the mixture thickens to a jam-like consistency, about 10–12 minutes. Season with a pinch of salt. Remove from heat and set aside. The glaze will continue to thicken as it cools.",
+      "Form the patty: Divide the ground beef into one 8 oz portion. Gently form it into a round patty roughly 3/4 inch thick. Use your thumb to press a shallow dimple into the center of the patty — this prevents it from doming during cooking. Season both sides generously with salt, pepper, and garlic powder. Do not overwork the meat.",
+      "Cook the bacon: In a cast-iron skillet or heavy pan over medium heat, cook bacon strips until just crisp. Transfer to a paper-towel-lined plate. Pour off excess bacon fat, leaving a thin film in the pan.",
+      "Sear the patty: Increase heat to medium-high and add 1 tsp neutral oil to the skillet. When the oil shimmers and just begins to smoke, lay the patty in the pan. Do not press it. Sear undisturbed for 3–4 minutes until a deep mahogany crust forms.",
+      "Flip the patty once. Immediately lay the cheese slices on top. Cook for 2–3 minutes more. Begin checking internal temperature with an instant-read thermometer inserted through the side of the patty into the center.",
+      "Pull the patty from the heat when it registers 130–135°F (54–57°C) for medium rare. Transfer to a wire rack or warm plate and rest, loosely tented with foil, for 3–4 minutes. The carry-over heat will bring it to a perfect rosy medium rare throughout.",
+      "Toast the buns: While the patty rests, wipe out the skillet and return it to medium heat. Butter the cut faces of the buns and place them butter-side down in the pan. Toast until golden, 1–2 minutes. Watch them — they go from golden to burnt quickly.",
+      "Warm the fig glaze gently if it has seized up, adding a teaspoon of water and stirring over low heat until loose and spreadable.",
+      "Assemble the burger: Spread Dijon mustard on the bottom bun. Layer on butter lettuce or arugula, then red onion slices. Set the rested, cheese-draped patty on top. Lay the bacon strips over the melted cheese. Spoon 2–3 tablespoons of warm fig glaze generously over the bacon and cheese, letting it run down the sides.",
+      "Cap with the top bun. Press gently. Serve immediately — the glaze is at its best warm, and the patty will not wait."
+    ]
+  }
+}

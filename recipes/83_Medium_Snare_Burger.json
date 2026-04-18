@@ -1,0 +1,49 @@
+{
+  "id": 83,
+  "name": "Medium Snare Burger",
+  "price": "$5.95",
+  "season": 4,
+  "episode": 9,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/54",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/83",
+  "recipe": {
+    "history": "The snare drum is one of the most ancient percussion instruments in human history, with antecedents traceable to frame drums found in Mesopotamian and Egyptian art dating back more than 4,000 years. The modern snare drum as we recognize it — a cylindrical shell with two heads and a set of wire or gut snares stretched across the resonant bottom head — evolved in Europe during the medieval period, carried by military drummers to regulate troop movements during battle and parade. The 'snare' itself, the rattling wire that gives the drum its crisp, cutting attack, is the instrument's defining innovation. In culinary terms, the mushroom is the snare drum's natural analog: earthy, resonant in flavor, and capable of producing — when properly seared in a screaming-hot pan — a sharp, crackling pop of Maillard-browned crust that echoes the drum's characteristic snap. The cremini and shiitake mushrooms used in this burger trace their culinary lineage to East Asia, where shiitake cultivation in China dates to the Song Dynasty (960–1279 CE), spreading through Japan and eventually to Western kitchens by the twentieth century.\n\nMushrooms came to the American hamburger by way of the steakhouse, where sautéed mushrooms had long been a classic accompaniment to grilled beef. As burger culture matured in the 1970s and 1980s and toppings moved beyond the standard architecture of lettuce, tomato, and pickle, the mushroom-and-Swiss burger emerged as a beloved variation that bridged the gap between fine dining and fast food. Diner cooks discovered that mushrooms cooked down in butter with garlic and a splash of Worcestershire developed an umami depth that amplified rather than competed with the beef beneath them. The percussion analogy here is musically apt: just as the snare drum provides the backbeat that makes a rhythm section cohere, sautéed mushrooms provide the savory undertone that ties all the other elements of a burger together into something greater than its parts. The Medium Snare Burger takes this tradition and orchestrates it with intention.\n\nI played snare drum in my middle school band — badly, with great enthusiasm, and with a complete inability to maintain a steady tempo. My band teacher, Mr. Ferretti, used to say that the snare was the easiest instrument to play and the hardest instrument to play well, and I proved his point weekly for three years. What I lacked in musical talent I made up for later in the kitchen, where I discovered that cooking mushrooms properly requires the same kind of restraint and timing that drumming demands: too much fussing and they steam instead of sear, too little patience and the heat never develops the crust that makes them sing. The first time I got a pan of shiitakes genuinely right — dark, crackling edges, a deep nutty aroma filling the kitchen — I actually said 'there it is' out loud to an empty room. Mr. Ferretti would have been unmoved, but I think Bob Belcher would have understood.\n\nMedium rare is the tempo marking for a perfect burger — it is the andante of doneness, unhurried and purposeful, achieving something that faster or slower cooking cannot. At 130 to 135 degrees Fahrenheit (54 to 57 degrees Celsius), the beef's internal proteins have organized themselves just enough to give the patty body and resistance without seizing up into the chewy, moisture-stripped texture of overcooked meat. The juices remain dispersed throughout the interior rather than having been driven out by excessive heat, and when you cut or bite into the patty, that juice wells up into the crust and mingles with the mushroom butter and the cheese in a way that requires no further explanation. A drummer knows that the space between the notes is as important as the notes themselves. A burger cook who understands medium rare knows the same thing about heat: it is what you do not apply, the restraint you exercise at 130 degrees, that makes the difference between a great burger and a merely adequate one.",
+    "ingredients": [
+      "1.5 lbs (680g) 80/20 ground beef chuck, freshly ground",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "8 oz (225g) cremini mushrooms, thinly sliced",
+      "6 oz (170g) shiitake mushrooms, stems removed, caps thinly sliced",
+      "3 tablespoons unsalted butter",
+      "3 cloves garlic, minced",
+      "1 tablespoon fresh thyme leaves",
+      "1 tablespoon Worcestershire sauce",
+      "1 tablespoon soy sauce",
+      "1 tablespoon dry sherry or dry white wine",
+      "4 slices Swiss cheese",
+      "4 brioche burger buns",
+      "3 tablespoons mayonnaise",
+      "1 tablespoon whole grain mustard",
+      "1 teaspoon sherry vinegar",
+      "1/2 teaspoon smoked paprika",
+      "1 cup watercress or baby arugula",
+      "Neutral oil for cooking"
+    ],
+    "instructions": [
+      "1. Heat a wide skillet over high heat until very hot. Add 1 tablespoon of neutral oil and then the mushrooms in a single layer — do not stir. Allow them to sear undisturbed for 3–4 minutes until deeply browned on one side. This is the snare hit: resist the urge to move them.",
+      "2. Stir the mushrooms and continue cooking for 2 more minutes. Reduce heat to medium, add the butter, garlic, and thyme, and toss to coat. Cook for another 2 minutes until fragrant.",
+      "3. Add the Worcestershire sauce, soy sauce, and sherry. Toss and cook for 1 minute until the liquid evaporates and the mushrooms are glazed. Season with salt and pepper. Remove from heat and set aside.",
+      "4. Divide the ground beef into 4 equal portions (approximately 6 oz / 170g each). Form into patties about 3/4-inch thick with a slight center dimple. Season both sides generously with kosher salt and freshly cracked black pepper. Refrigerate until ready to cook.",
+      "5. Whisk together the mayonnaise, whole grain mustard, sherry vinegar, and smoked paprika in a small bowl. Season with salt and pepper. Set aside.",
+      "6. Heat a cast-iron skillet or grill pan over high heat until smoking. Lightly coat with neutral oil.",
+      "7. Cook the patties undisturbed for 3 minutes to build a hard crust. Flip once. Lay a slice of Swiss cheese on each patty immediately after flipping.",
+      "8. Cook for an additional 2–3 minutes. Use an instant-read thermometer to monitor doneness — remove patties from heat at 130–135°F (54–57°C) for medium rare. Tent loosely with foil and rest for 3 minutes.",
+      "9. While the patties rest, toast the brioche buns cut-side down in the residual heat of the skillet for 1–2 minutes until golden.",
+      "10. Gently rewarm the mushrooms in the skillet over low heat for 1 minute.",
+      "11. Spread the mustard-mayo sauce on both halves of each bun.",
+      "12. Place each patty (with melted Swiss) on a bottom bun. Spoon a generous mound of the mushroom mixture on top of the cheese.",
+      "13. Lay a small bunch of watercress or arugula over the mushrooms. Cap with the top bun.",
+      "14. Serve immediately."
+    ]
+  }
+}

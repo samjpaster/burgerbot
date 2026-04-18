@@ -1,0 +1,47 @@
+{
+  "id": 162,
+  "name": "\"The Trouble with Doubles\"",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 12,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/141",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/162",
+  "recipe": {
+    "history": "The double patty burger has its roots in mid-20th century American diner culture, born of a simple and irrefutable logic: if one beef patty is good, two must be better. The concept likely emerged in the late 1940s and 1950s alongside the explosion of drive-ins and roadside burger stands that reshaped American eating habits after World War II. The double was not merely a larger burger — it was a statement, an architectural commitment, a declaration that more was possible and more was welcome. The double cheeseburger as a standardized menu item was codified in fast food history when McDonald's introduced its double in the late 1950s and early 1960s, but long before that, regional diners and short-order cooks across the American South and Midwest had already been stacking patties for hungry customers who wanted something more substantial than the standard single.\n\nThe concept of doubling everything — not just the patty but the cheese, the toppings, the condiments — is a later refinement, one that grew out of the gourmet burger movement of the 1990s and 2000s. As upscale burger joints began competing on complexity and abundance, chefs discovered that doubling was a creative act, not just a caloric one. Two cheeses instead of one meant contrast — perhaps a sharp cheddar below and a melted American on top, each playing a different role. Double pickles, double onion, double sauce introduced a layered experience that a single-patty burger simply could not achieve. The doubled burger became its own genre: maximalist, generous, demanding both hands and your full attention.\n\nI had my first great double burger at a tiny roadside spot in New Jersey during a road trip in my twenties, sitting on a picnic bench in the parking lot with paper napkins tucked into my collar like a bib. The patties were thin and smashed, each one lacquered with melted cheese, the whole stack trembling on a potato roll that was losing the structural battle but refusing to surrender. I ate it in what felt like three bites and immediately considered ordering another. What struck me wasn't just the quantity — it was how the two patties created something the single never could: a meat-to-cheese ratio so perfectly calibrated that every bite delivered an even distribution of everything. That is the genius of the double. It is not gluttony. It is balance.\n\nTo cook two thin patties to medium rare is a discipline all its own. The target is unchanged — 130 to 135°F (54 to 57°C) — but the thinner patties demand faster, hotter cooking and vigilance at the thermometer. Each patty must reach that rosy interior individually before being stacked, because once assembled, carryover heat from two patties combined can push the center further than you intend. Medium rare is the philosophy, the non-negotiable, the reason the whole exercise matters. A well-done double patty is just a dry stack of sadness. A medium rare double, with its yielding pink centers and crisp lacy edges, is a small masterpiece.",
+    "ingredients": [
+      "1.5 lbs (680g) freshly ground beef chuck, 80/20 fat ratio",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "1 tbsp neutral oil (canola or grapeseed) for cooking",
+      "4 brioche burger buns, split",
+      "2 tbsp unsalted butter, softened, for toasting buns",
+      "8 slices American cheese (2 per burger)",
+      "8 strips thick-cut bacon, cooked until crispy (2 per burger)",
+      "8 slices dill pickles (2 per burger)",
+      "1/2 large white onion, thinly sliced into rings (doubled portion)",
+      "1 large heirloom tomato, sliced (2 slices per burger)",
+      "8 leaves green leaf lettuce (2 per burger)",
+      "For the double sauce (makes enough for all 4 burgers):",
+      "1/2 cup mayonnaise",
+      "2 tbsp yellow mustard",
+      "2 tbsp ketchup",
+      "1 tbsp sweet pickle relish",
+      "1 tsp white wine vinegar",
+      "1/2 tsp smoked paprika",
+      "1/4 tsp garlic powder",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "1. Make the double sauce: whisk together mayonnaise, yellow mustard, ketchup, sweet pickle relish, white wine vinegar, smoked paprika, and garlic powder in a small bowl. Season with salt and pepper. Refrigerate until ready to use.",
+      "2. Divide the ground beef into 8 equal portions (about 3 oz / 85g each). Gently form each into a thin patty roughly 1/2 inch thick and slightly wider than the bun (they will shrink). Press a slight dimple in the center of each with your thumb. Season both sides generously with kosher salt and cracked black pepper.",
+      "3. Set a cast iron skillet or heavy griddle over high heat for 2–3 minutes until very hot and just beginning to smoke. Add the neutral oil and swirl to coat.",
+      "4. Working in batches if needed, cook patties undisturbed for 2 minutes on the first side until a deep crust forms.",
+      "5. Flip each patty and immediately lay one slice of American cheese on each. Cook for 90 seconds to 2 minutes more. Begin checking internal temperature — target 130–135°F (54–57°C) for medium rare. Remove from heat at 130°F (54°C) to allow carryover cooking.",
+      "6. Transfer cooked patties to a wire rack and rest, uncovered, for 2–3 minutes. Repeat for any remaining patties.",
+      "7. While patties rest, butter the cut sides of the brioche buns and toast in the same skillet over medium heat for 1–2 minutes until golden.",
+      "8. Stack each burger by spreading a generous layer of double sauce on the bottom bun. Add 2 leaves of lettuce, then 2 tomato slices, then the first cheesy patty.",
+      "9. Add 2 strips of bacon, 2 pickle slices, and a handful of onion rings directly on top of the first patty.",
+      "10. Place the second cheesy patty on top of the stack. Spread double sauce on the inside of the top bun. Cap the burger and serve immediately, securing with a bamboo skewer if needed to hold the doubled stack together."
+    ]
+  }
+}

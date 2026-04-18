@@ -1,0 +1,48 @@
+{
+  "id": 77,
+  "name": "National Pass-Thyme Burger",
+  "price": "$5.95",
+  "season": 3,
+  "episode": 23,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/45",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/77",
+  "recipe": {
+    "history": "Thyme (Thymus vulgaris) is one of the oldest cultivated herbs in human history, originating in the Mediterranean basin — most specifically the sun-scorched hillsides of the southern Mediterranean, where ancient Egyptians used it in embalming rituals and the Greeks burned it as temple incense, believing its smoke imparted courage. The Sumerians documented thyme medicinally as far back as 3000 BCE, and by the Roman era it had spread across Europe as both a culinary and apothecary staple. It is indigenous to the rocky, limestone-rich soils of southern France, Spain, and the western Mediterranean coast, where it grows wild and fragrant among the garrigue scrubland. The Romans carried it northward into Britain and the rest of Europe during their campaigns, and it quickly embedded itself into the culinary DNA of French, Italian, and Provençal cooking — becoming one of the cornerstones of the bouquet garni and the herbes de Provence blend that defines an entire regional cuisine.\n\nThyme made its journey into American cooking through multiple waves of immigration and colonial influence. French Creole settlers brought their Provençal herb traditions to Louisiana in the 17th and 18th centuries, where thyme became a defining note in gumbo, jambalaya, and the Holy Trinity-based cooking of New Orleans. Later, as European immigrants flooded into the United States in the 19th and early 20th centuries — Italians, Greeks, and French among them — they carried their herb gardens and flavor memories with them. The American hamburger itself, already evolving from the Hamburg steak of German immigrant communities, began absorbing these Mediterranean herb influences as cooks sought to elevate the humble ground-beef patty. By the mid-20th century, thyme appeared regularly in meatloaf, meatball, and burger seasoning blends across home kitchens, diners, and eventually the craft burger movement that exploded in the early 2000s, which embraced fresh herbs as a sophisticated counter to fast-food monotony.\n\nI still remember the first time I cooked a thyme-seasoned burger for myself — I was in a cramped apartment kitchen with one working burner and a cast-iron skillet I'd inherited from my grandmother, who had used it so long that it was essentially seasoned with decades of memory. I'd picked up a small bunch of fresh thyme from a farmers market on a whim, and I pressed the stripped leaves directly into the beef with my hands, mixing in a little garlic and cracked black pepper. The moment those patties hit the hot iron, the thyme bloomed in the heat and filled the whole apartment with something that smelled ancient and alive at the same time — herbal, slightly floral, deeply savory. I served it on a toasted brioche bun with nothing but a swipe of Dijon and some caramelized onions, and I sat on my kitchen floor because there was no table, and I ate it in about four bites. It was one of those meals that quietly rearranges something in you. Thyme has been non-negotiable in my burger seasoning ever since.\n\nA burger cooked to medium rare — an internal temperature of 130–135°F (54–57°C) — is not a preference. It is the only philosophically defensible endpoint for a beef patty, and I will die on this hill with a pink, juicy burger in my hand. The Maillard reaction on the exterior crust delivers complexity, char, and depth; the medium-rare interior preserves the fat's ability to coat the palate, the myoglobin's contribution to that characteristic beefy richness, and the moisture that makes every bite feel complete rather than punishing. A well-done burger is not a safe burger — it is a sad one, a patty that has had everything interesting cooked out of it in the name of a fear that proper sourcing and handling already address. Use fresh, quality ground beef from a reputable butcher, handle it cold and minimally, and cook it to medium rare. The result is a burger that respects the animal, the herb, the craft, and the person eating it. Anything beyond 135°F is entropy. Medium rare is the answer.",
+    "ingredients": [
+      "1 lb (450g) freshly ground beef, 80/20 chuck blend",
+      "2 teaspoons fresh thyme leaves, stripped from stems",
+      "1 teaspoon fresh thyme leaves, for thyme butter",
+      "1 teaspoon kosher salt",
+      "1/2 teaspoon freshly cracked black pepper",
+      "1/2 teaspoon garlic powder",
+      "2 tablespoons unsalted butter, softened (for thyme compound butter)",
+      "1 small garlic clove, minced (for compound butter)",
+      "1/2 teaspoon lemon zest (for compound butter)",
+      "2 brioche burger buns",
+      "1 tablespoon unsalted butter (for toasting buns)",
+      "1 large yellow onion, thinly sliced (for caramelized onions)",
+      "1 tablespoon olive oil (for caramelized onions)",
+      "1 teaspoon balsamic vinegar (for caramelized onions)",
+      "1 teaspoon granulated sugar (for caramelized onions)",
+      "2 slices Gruyère cheese",
+      "2 tablespoons Dijon mustard",
+      "2 tablespoons mayonnaise",
+      "1 teaspoon fresh thyme leaves (for Dijon-thyme aioli)",
+      "1 teaspoon lemon juice (for Dijon-thyme aioli)",
+      "4 leaves butter lettuce",
+      "4 slices heirloom tomato",
+      "Flaky sea salt, for finishing",
+      "Neutral oil (such as canola or grapeseed), for the skillet"
+    ],
+    "instructions": [
+      "1. Prepare the thyme compound butter: In a small bowl, combine 2 tablespoons softened unsalted butter with 1 teaspoon fresh thyme leaves, 1 minced garlic clove, and 1/2 teaspoon lemon zest. Mix until fully incorporated. Roll into a small log using plastic wrap and refrigerate until firm, at least 30 minutes.",
+      "2. Caramelize the onions: Heat 1 tablespoon olive oil in a heavy skillet over medium-low heat. Add the thinly sliced onion and 1 teaspoon sugar with a pinch of salt. Cook slowly, stirring every 5–7 minutes, for 35–45 minutes until deep golden brown and jammy. Add 1 teaspoon balsamic vinegar in the last 5 minutes. Remove from heat and set aside.",
+      "3. Make the Dijon-thyme aioli: Whisk together 2 tablespoons mayonnaise, 2 tablespoons Dijon mustard, 1 teaspoon fresh thyme leaves, and 1 teaspoon lemon juice in a small bowl. Season with a pinch of salt and pepper. Refrigerate until needed.",
+      "4. Form the patties: Place the ground beef in a large bowl. Add 2 teaspoons fresh thyme leaves, 1 teaspoon kosher salt, 1/2 teaspoon cracked black pepper, and 1/2 teaspoon garlic powder. Using your hands, gently fold the mixture together — do not overwork. Divide into 2 equal portions and form into patties approximately 3/4 inch thick and slightly wider than your buns. Press a shallow dimple in the center of each patty with your thumb. Refrigerate for 15 minutes.",
+      "5. Toast the buns: Heat a skillet or griddle over medium heat. Melt 1 tablespoon unsalted butter and place the buns cut-side down. Toast for 60–90 seconds until golden. Remove and set aside.",
+      "6. Cook the patties to medium rare: Heat a cast-iron skillet or heavy pan over high heat until smoking. Add a thin film of neutral oil. Place the cold patties in the pan and do not press or move them. Sear for 2.5–3 minutes until a deep brown crust forms on the bottom. Flip once. Immediately place one slice of Gruyère on each patty. Cook for an additional 2–2.5 minutes. Check the internal temperature with an instant-read thermometer — remove from heat at 130–135°F (54–57°C) for medium rare. This is non-negotiable.",
+      "7. Rest and finish with compound butter: Transfer the patties to a wire rack or warm plate. Immediately slice a round of the chilled thyme compound butter and place it on top of each patty. Allow the butter to melt over the patty as it rests for 3 minutes. Finish with a pinch of flaky sea salt.",
+      "8. Assemble the burger: Spread a generous layer of Dijon-thyme aioli on both the top and bottom bun. On the bottom bun, layer butter lettuce, then tomato slices (lightly salted), then the rested patty with its melted compound butter and Gruyère. Crown with a heap of caramelized onions. Cap with the top bun, press gently, and serve immediately."
+    ]
+  }
+}

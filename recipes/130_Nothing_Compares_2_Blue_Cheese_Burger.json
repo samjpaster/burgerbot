@@ -1,0 +1,48 @@
+{
+  "id": 130,
+  "name": "Nothing Compares 2 Blue (Cheese) Burger",
+  "price": "$5.95",
+  "season": 7,
+  "episode": 13,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/120",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/130",
+  "recipe": {
+    "history": "Blue cheese is among the most ancient of the mold-ripened cheeses, and the legends surrounding its discovery are practically uniform across cultures: a shepherd, a cave, a forgotten wheel of cheese, a return weeks later to find the interior magnificently transformed by Penicillium mold. Roquefort, perhaps the world's most celebrated blue, is legally required to be aged in the natural limestone caves of Combalou in southern France and has been produced in the region since at least the 11th century — a royal charter from 1411 granted the village of Roquefort exclusive rights to its production. Italian Gorgonzola has similarly ancient roots, with records suggesting production near Milan as early as the 9th or 10th century CE. Stilton, the English contender, is a relative newcomer by comparison, with documented production beginning in the 18th century in the East Midlands. What unites these geographically distant traditions is the same biological process: Penicillium roqueforti or closely related molds colonizing the interior of the cheese through deliberate piercing, producing the characteristic veins, the peppery bite, and the complex ammonia-edged funk that defines the category.\n\nBlue cheese made its way into American cuisine through fine dining before descending democratically into salad bars, steak houses, and eventually burger culture. The classic American pairing of blue cheese with beef has its clearest expression in the steakhouse tradition — a wedge salad dressed in blue cheese dressing alongside a ribeye — and it was a short conceptual step from there to crumbling blue cheese directly onto a burger patty. Anchor Bar in Buffalo, New York, which also gave the world Buffalo wings with their canonical blue cheese dipping sauce, represents the American vernacular blue cheese tradition. By the 1990s, the blue cheese burger had become a fixture on gastropub menus, often paired with caramelized onions and arugula, and it has retained that premium-casual positioning ever since. The sharpness and salinity of blue cheese make it one of the most effective foils for beef fat in the entire cheese lexicon.\n\nI have a very specific memory attached to blue cheese and burgers: it is late on a Tuesday, the restaurant has been closed for an hour, and I am eating a staff meal I made from the ingredients I know need to be used before Wednesday's delivery. There is some Gorgonzola that has grown more pungent than the tickets called for and a portion of ground beef I had been saving for exactly this kind of evening. I crumble the cheese directly onto the patty while it rests, let the residual heat soften it without fully melting it, and eat the whole thing standing at the pass with a glass of whatever is open. The intensity of the cheese against the beef — that assertive, almost confrontational combination — has never once failed to feel like a reward. Blue cheese on a burger is not subtle, and it does not apologize for that.\n\nThe philosophy of medium rare is perhaps most legible with blue cheese, because blue cheese punishes a dry burger more than almost any other topping. Blue cheese is pungent, salty, and bold — at its best it is a complexity enhancer, drawing out the minerality and umami in beef rather than masking it. But against a patty cooked past 135°F, where the fat is gone and the proteins have tightened into a dry, grainy mass, that same blue cheese becomes oppressive, a flavoring with nothing to season. At 130–135°F (54–57°C), the patty is still fat-rich and moist, the interior blush-pink and yielding, and the blue cheese finds its counterpart in the beef's own richness. They push against each other and both become greater. Medium rare is not a concession to softness; it is the structural prerequisite for complexity.",
+    "ingredients": [
+      "1 lb ground beef chuck (80/20 blend)",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 tablespoon neutral oil (canola or vegetable)",
+      "4 oz blue cheese (Gorgonzola, Roquefort, or Stilton), crumbled",
+      "2 large yellow onions, thinly sliced",
+      "2 tablespoons unsalted butter",
+      "1 tablespoon olive oil",
+      "1 teaspoon balsamic vinegar",
+      "1 teaspoon fresh thyme leaves",
+      "Pinch of sugar",
+      "1/3 cup mayonnaise",
+      "2 tablespoons sour cream",
+      "1 oz blue cheese (for aioli)",
+      "1 teaspoon Worcestershire sauce",
+      "1 teaspoon fresh lemon juice",
+      "1 clove garlic, minced",
+      "4 brioche buns",
+      "2 tablespoons unsalted butter, softened (for buns)",
+      "1 cup baby arugula",
+      "4 slices thick-cut bacon, cooked until crispy",
+      "Freshly cracked black pepper, to finish"
+    ],
+    "instructions": [
+      "1. Caramelize the onions: melt 2 tablespoons butter with olive oil in a wide, heavy-bottomed skillet over medium-low heat. Add sliced onions and a pinch of sugar and salt. Cook, stirring every 5–7 minutes, for 40–50 minutes until deeply golden, jammy, and reduced. Deglaze with balsamic vinegar, stir in fresh thyme, cook 2 more minutes, and set aside.",
+      "2. Make the blue cheese aioli: mash 1 oz of blue cheese in a small bowl until mostly smooth, then whisk in mayonnaise, sour cream, Worcestershire sauce, lemon juice, and minced garlic. Season with black pepper. Refrigerate until needed.",
+      "3. Cook the bacon until crispy in a skillet over medium heat. Transfer to a paper towel-lined plate and set aside.",
+      "4. Divide ground beef into 4 equal portions (approximately 4 oz each). Form into patties about 3/4 inch thick, pressing a shallow dimple in the center of each. Season both sides generously with kosher salt and black pepper.",
+      "5. Heat a cast-iron skillet or heavy griddle over high heat until smoking. Add neutral oil and swirl to coat.",
+      "6. Place patties on the hot surface and cook undisturbed for 3 minutes. Flip once.",
+      "7. Immediately mound a generous portion of crumbled blue cheese on top of each patty. Cook for a further 2 to 3 minutes until an instant-read thermometer inserted into the center reads 130–135°F (54–57°C) for medium rare. The blue cheese should be softened and just beginning to melt at the edges.",
+      "8. Remove patties from heat and tent loosely with foil. Rest for 2 minutes.",
+      "9. While patties rest, butter the cut sides of the brioche buns and toast in the same pan over medium heat until golden, about 1 minute.",
+      "10. Spread blue cheese aioli generously on both cut sides of each toasted bun. Layer the bottom bun with baby arugula, then top with the blue-cheese-capped patty. Lay a slice of crispy bacon across the cheese, then spoon a mound of caramelized onions over the top. Finish with a crack of fresh black pepper, cap with the top bun, and serve immediately."
+    ]
+  }
+}

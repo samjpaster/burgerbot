@@ -1,0 +1,43 @@
+{
+  "id": 144,
+  "name": "THE EBENEEZER BLEU-GE BURGER",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 6,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/135",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/144",
+  "recipe": {
+    "history": "Bleu cheese — or blue cheese, as the Americans spell it — belongs to one of the oldest and most geographically rooted families of fermented food in Western culinary tradition, and its origins are inseparable from the cold, damp cave systems of preindustrial Europe. The legend most often repeated about Roquefort, the French king of blue cheeses, holds that a young shepherd left his lunch of bread and curd cheese in the Combalou caves near Roquefort-sur-Soulzon and returned weeks later to find the cheese threaded with the distinctive blue-green Penicillium roqueforti mold — and decided to eat it anyway, a decision that changed European gastronomy permanently. Whether apocryphal or not, documentary evidence of Roquefort's production dates to the 11th century, and the cheese received what may be the world's first recorded food protection decree from King Charles VI of France in 1411, granting the village of Roquefort-sur-Soulzon exclusive rights to the cheese's ripening. English Stilton followed in the 18th century; Italy's Gorgonzola, one of the oldest blue cheeses in existence, has origins claimed as early as the 10th century near Milan. Each of these cheeses shares the defining characteristic of controlled mold inoculation and careful cave aging, practices that create the sharp, ammonia-edged, deeply savory flavor profile that has made bleu cheese one of the world's most polarizing and beloved ingredients.\n\nBleu cheese arrived in American cuisine primarily through French and Italian immigrant culinary traditions in the 19th and early 20th centuries, but its status as a mainstream American condiment was turbocharged by the invention of bleu cheese dressing — a Buffalo wing accompaniment born in upstate New York — and the rise of the steakhouse tradition, in which bleu cheese crumbled or melted over a rare steak became a marker of sophistication. The burger was an inevitable next stop. By the 1970s, bleu cheese burgers had become a steakhouse staple, the cheese's funky, salty assertiveness providing a counterweight to the beef's fattiness in a way that mild American or Swiss cheese simply could not. The Dickensian winter theme of this particular burger — inspired by Ebenezer Scrooge himself — calls for doubling down on the cheese's aged, almost austere complexity: caramelized onions provide the warmth that Scrooge famously withheld, a red wine reduction adds Victorian depth, and the whole assembly is as rich and unapologetic as a reformed miser's Christmas feast.\n\nI think about Dickens when the cold sets in and the restaurant gets quiet in that specific November way — fewer tourists, the regulars pulling their chairs closer to the counter, ordering heavier things. I built this burger one December when the walk-in was full of bleu cheese I'd over-ordered and I had a bottle of cheap Burgundy I'd been meaning to open for a sauce. I reduced the wine with shallots and a sprig of thyme until it was almost syrupy, and when I tasted it against a crumble of the bleu cheese the combination was Gothic and perfect — dark, rich, slightly bitter, with an aftertaste of something cold and stone-walled. I caramelized a pan of onions low and slow for forty minutes until they were the color of old mahogany and piled them on the patty under the melted cheese. It tasted like redemption. It tasted like Christmas morning when you've finally figured something out.\n\nThere is something philosophically Dickensian about cooking a patty to medium rare — it is a refusal of excess in either direction. Scrooge in his miserliness cooked nothing at all; the reformed Scrooge might have been tempted to overcook everything in a display of reckless abundance. Medium rare is the third way: the temperature of generosity properly calibrated, 130–135°F / 54–57°C, where the beef gives everything it has while keeping its integrity. The fat hasn't fled, the juices haven't left, the muscle hasn't seized into something joyless. To cook a patty to well-done under a heap of bleu cheese and red wine reduction is a kind of cruelty — you have assembled all the right elements of a magnificent burger and then desiccated the foundation. The pink center is the ghost of Christmas present: warm, generous, present, and impossible to ignore.",
+    "ingredients": [
+      "1 lb (450g) ground beef, 80/20 chuck blend",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "3 oz (85g) good-quality bleu cheese (Roquefort, Gorgonzola, or Maytag Blue), crumbled",
+      "2 large yellow onions, thinly sliced",
+      "3 tablespoons unsalted butter (for caramelizing onions)",
+      "1 teaspoon fresh thyme leaves",
+      "1 cup dry red wine (Burgundy or Côtes du Rhône)",
+      "2 shallots, finely minced",
+      "1 cup beef stock",
+      "1 tablespoon unsalted butter (for finishing reduction)",
+      "1 teaspoon Worcestershire sauce",
+      "2 brioche burger buns",
+      "2 tablespoons unsalted butter, for toasting buns",
+      "2 leaves radicchio or endive (for bitter counterpoint)",
+      "Flaky sea salt",
+      "Fresh thyme sprigs, for garnish"
+    ],
+    "instructions": [
+      "1. Begin the caramelized onions at least 45 minutes before service: melt 3 tablespoons butter in a wide, heavy skillet over medium-low heat. Add sliced onions and a pinch of salt. Cook, stirring every 5–7 minutes, for 40–45 minutes until deep amber-brown and jammy. Add fresh thyme in the last 5 minutes. If the pan dries out, add a splash of water to deglaze and continue cooking. Set aside and keep warm.",
+      "2. Make the red wine reduction: in a small saucepan, combine minced shallots and red wine over medium-high heat. Reduce by half, about 8 minutes. Add beef stock and Worcestershire sauce. Continue reducing until the sauce coats a spoon and is almost syrupy, about 15 more minutes. Remove from heat, swirl in 1 tablespoon cold butter, and season with salt and pepper. Keep warm.",
+      "3. Divide ground beef into two 8-oz portions. Form each gently into a 3/4-inch-thick patty with a dimple pressed into the center. Season both sides generously with kosher salt and cracked black pepper.",
+      "4. Heat a cast-iron skillet or flat-top griddle over high heat until smoking.",
+      "5. Place patties dimple-side up on the hot surface. Cook undisturbed for 3–3.5 minutes to build a deep, dark crust.",
+      "6. Flip patties. Immediately heap crumbled bleu cheese generously over each patty. For extra melt, place a metal bowl or lid loosely over the patties to trap steam for 1 minute. Cook for 2–2.5 more minutes total. Monitor internal temperature — pull at 130–135°F / 54–57°C for medium rare. Tent loosely with foil and rest 3 minutes.",
+      "7. While patties rest, toast the brioche buns cut-side down in butter in the same pan over medium heat until golden.",
+      "8. Build the burger: spoon a pool of red wine reduction onto the bottom bun. Place a leaf of radicchio or endive for bitterness. Set the bleu-cheese-crowned patty over the leaves.",
+      "9. Pile a generous heap of caramelized onions over the melted cheese. Drizzle another spoonful of red wine reduction over the onions. Finish with a pinch of flaky sea salt and a small sprig of fresh thyme.",
+      "10. Cap with the top bun and serve immediately, with additional reduction on the side."
+    ]
+  }
+}

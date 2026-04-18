@@ -1,0 +1,53 @@
+{
+  "id": 93,
+  "name": "Texas Chainsaw Massa-curd Burger",
+  "price": "$5.95",
+  "season": 5,
+  "episode": 2,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/69",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/93",
+  "recipe": {
+    "history": "Cheese curds are fresh, unaged curd pieces separated from whey during the cheesemaking process, most commonly associated with cheddar production. Their origins in North America trace directly to the dairy cultures of Wisconsin, Minnesota, and the Great Lakes region, where cheesemaking became a dominant industry in the mid-nineteenth century as German, Swiss, and Scandinavian immigrants brought their fermenting and curdling traditions to America's dairyland. What made cheese curds unique was what cheesemakers did — or rather, didn't do — with them: instead of pressing and aging them into wheels, they packaged and sold them fresh, within hours of production. Fresh curds have a characteristic squeakiness against the teeth caused by their protein structure, which degrades within a day at room temperature and becomes supple and stretchy when heated. In Canada, cheese curds became the defining ingredient of poutine, the Québécois dish of fries, gravy, and curd invented in rural Quebec in the late 1950s. In Wisconsin, they became a snack food of near-sacred status — battered and deep-fried at county fairs, served in paper baskets alongside cold beer, their molten interiors pulling apart in long, elastic strings. The curd's homeland is inextricably tied to the flat fields and cold winters of America's northern heartland.\n\nCheese curds crossed into mainstream American food culture largely through two channels: the Wisconsin State Fair and the proliferation of Midwestern fast-casual restaurants in the 1990s and 2000s. Culver's, founded in Sauk City, Wisconsin in 1984, brought battered cheese curds to a national audience through its drive-through windows, introducing millions of Americans to the specific pleasure of biting through a crunchy batter shell into a pocket of molten, squeaky cheese. Burger joints — particularly those in the Midwest — began incorporating curds into their menus as a topping and a side, understanding that the cheese curd's greatest quality is its melting behavior: unlike aged cheddar slices, curds melt into irregular, gooey pools that run into the crevices of a burger patty and bind the whole structure together with pulls of molten dairy. The Texas Chainsaw Massacre title nod is pure Bob's Burgers wordplay — a horror film pun wrapped around a cheese-forward burger that is aggressive in the best possible way, all curd-pull and beefy ferocity.\n\nI grew up nowhere near Wisconsin, which meant I had to discover cheese curds at a county fair in my mid-twenties, standing at a red-and-white striped booth in the heat of an August afternoon. I was handed a paper basket of them, still steaming, battered in something that tasted like seasoned cornmeal, and I bit into the first one without waiting for it to cool down. The batter shattered and the cheese inside came out in a single, elastic rope that stretched between my lips and the basket for an embarrassing length. The flavor was clean and milky and salty and exactly what you want from fresh dairy. I made the drive to a dairy farm stand on the way home and bought a bag of raw, unseasoned curds to take back to my kitchen. I put them on everything that week. On a burger they were a revelation — the curds melted unevenly across the top of the patty, some parts fully liquid, some still holding their structure, creating a topography of cheese that was completely different from the uniform, flat melt of a cheddar slice. It felt wild and a little dangerous, which made it perfect.\n\nFor the Texas Chainsaw Massa-curd Burger, medium rare is the non-negotiable anchor of the entire recipe. The curds need a hot patty — they begin their melt from residual heat and the brief moment under a burger lid — and a medium rare interior at 130–135°F (54–57°C) provides exactly enough heat to start that process without turning the burger dry. Over-cooked beef shrinks aggressively, squeezing fat and juice out of the patty and leaving behind a dense, tight disc that is too firm to absorb any of the cheese. A properly medium rare patty is still open, still yielding, still carrying its full complement of warm fat — and when cheese curds hit that surface, they begin to meld with the burger rather than simply sitting on top of it. The curd's protein strings, when melted slowly from the heat of a resting medium rare patty, pull in a way that is physically satisfying in a manner that no other cheese topping quite replicates. Temperature is everything here. 130–135°F (54–57°C) is the number, and the thermometer does not lie.",
+    "ingredients": [
+      "1.5 lbs (680g) ground beef, 80/20 chuck, freshly ground",
+      "1 teaspoon kosher salt",
+      "1/2 teaspoon freshly cracked black pepper",
+      "1 teaspoon garlic powder",
+      "1 teaspoon onion powder",
+      "1/2 teaspoon smoked paprika",
+      "1 tablespoon Worcestershire sauce",
+      "1 tablespoon unsalted butter (for basting)",
+      "8 oz (225g) fresh white cheddar cheese curds, at room temperature",
+      "4 brioche burger buns",
+      "2 tablespoons unsalted butter, softened (for toasting buns)",
+      "4 strips thick-cut bacon",
+      "3 tablespoons mayonnaise",
+      "2 tablespoons yellow mustard",
+      "1 tablespoon dill pickle brine",
+      "1 teaspoon hot sauce",
+      "1 large white onion, thinly sliced into rings",
+      "1 tablespoon neutral oil (for onions)",
+      "1/2 teaspoon sugar (for onions)",
+      "1/4 teaspoon kosher salt (for onions)",
+      "1 large beefsteak tomato, sliced",
+      "4 leaves green leaf lettuce",
+      "Dill pickle chips",
+      "Flaky sea salt for finishing"
+    ],
+    "instructions": [
+      "1. Cook bacon strips in a skillet over medium heat until rendered and crispy, about 8–10 minutes, turning occasionally. Transfer to a paper towel-lined plate. Reserve 1 tablespoon bacon fat in the pan.",
+      "2. In the same pan over medium heat, add the sliced onion rings to the bacon fat with 1 tablespoon neutral oil. Season with sugar and kosher salt. Cook over medium-low heat, stirring occasionally, for 20–25 minutes until soft, golden, and lightly caramelized. Set aside.",
+      "3. Make the pickle-mustard sauce: whisk together mayonnaise, yellow mustard, pickle brine, and hot sauce. Season with salt and pepper to taste. Refrigerate until needed.",
+      "4. Combine ground beef, kosher salt, black pepper, garlic powder, onion powder, smoked paprika, and Worcestershire sauce in a large bowl. Mix gently with hands until just combined.",
+      "5. Divide into 4 equal portions (approximately 6 oz / 170g each). Form into patties about 3/4 inch thick, pressing a slight dimple in the center with your thumb. Refrigerate for at least 20 minutes.",
+      "6. Remove cheese curds from the refrigerator 15 minutes before cooking to bring them to room temperature, which helps them melt more evenly.",
+      "7. Heat a cast iron skillet or heavy griddle over high heat until smoking. Brush lightly with neutral oil.",
+      "8. Season the outside of each patty with flaky salt. Cook for 3–4 minutes on the first side without moving, until a deep mahogany crust has developed.",
+      "9. Flip each patty. Pile cheese curds generously on top of each patty. Add the tablespoon of butter to the pan, cover the pan with a lid or dome, and cook for 2–3 minutes. The steam will help the curds melt. Cook until an instant-read thermometer inserted into the center reads 130–135°F (54–57°C) for medium rare.",
+      "10. Transfer patties to a wire rack and rest for 3–4 minutes. The curds will continue melting during the rest.",
+      "11. Butter the cut sides of the brioche buns and toast cut-side down in the skillet over medium heat for 1–2 minutes until golden.",
+      "12. Assemble each burger: spread pickle-mustard sauce on both bun halves. Place a lettuce leaf and tomato slice on the bottom bun. Add the rested patty with melted curds — they should be pulling and gooey in irregular puddles.",
+      "13. Top with 1–2 strips of crispy bacon broken in half, a spoonful of caramelized onions, and several dill pickle chips. Crown with the top bun and serve immediately."
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 133,
+  "name": "Creminis and Misdemeanies Burger (comes with cremini mushrooms)",
+  "price": "$5.95",
+  "season": 7,
+  "episode": 17,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/124",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/133",
+  "recipe": {
+    "history": "The cremini mushroom — known scientifically as Agaricus bisporus in its brown-capped form — is the same species as the white button mushroom and the portobello, differing only in age and pigmentation. Its origins are firmly rooted in Europe: cultivated mushroom farming is believed to have begun in France in the seventeenth century, where farmers noticed mushrooms growing spontaneously in the beds of melons fertilized with horse manure and began deliberately cultivating them in dark, cool caves outside Paris. The name \"cremini\" (sometimes spelled \"crimini\") derives from an Italian diminutive, reflecting the mushroom's popularity in Italian cuisine as a component of pasta sauces, risottos, and antipasti. Brown creminis have a slightly earthier, meatier flavor than their white counterparts owing to higher concentrations of glutamic acid, the naturally occurring compound responsible for umami — that savory fifth taste that makes food feel deeply satisfying and complete.\n\nMushrooms arrived on the American burger scene as part of the broader \"mushroom and Swiss\" movement that swept casual dining chains and steakhouses in the 1970s and 1980s. The combination of sautéed mushrooms — typically sliced and cooked down in butter and Worcestershire sauce — with melted Swiss or Gruyère cheese over a beef patty became one of the definitive American burger variations of its era, appearing on menus from Friendly's to Applebee's to upscale chop houses. Creminis specifically became favored over white buttons in this application because their firmer texture holds up better to high-heat sautéing without releasing excessive water and collapsing into mush. The mushroom's natural umami also reinforces and amplifies the savory depth of beef, creating an effect where the whole is far greater than the sum of its parts.\n\nI have sautéed more pounds of cremini mushrooms than I can count, and I have never once found it boring. There is a specific moment in the pan — about four minutes in, when the mushrooms have released their moisture and that liquid has cooked off and the edges begin to caramelize and turn golden — where the smell shifts from vegetal to deeply savory, almost like a second sear happening in miniature. I started adding a splash of dry sherry after the butter because a cook I admired did it, and then I never stopped. The mushrooms take on a glossy, almost lacquered quality, and when they go on a medium rare beef patty under a blanket of melted Gruyère, the whole thing becomes something close to elemental. It is the kind of topping that makes people ask what you did differently even when the answer is just patience.\n\nMedium rare is the temperature at which a burger patty is most honest. At 130–135°F (54–57°C), the beef has not yet had its fat driven out, its proteins have not yet tightened into a dry, fibrous matrix, and the interior still carries the full complexity of the meat — its minerality, its fat-soluble flavor compounds, its depth. Sautéed cremini mushrooms are themselves a lesson in patience and restraint: push them too hard or too fast and they steam instead of sear, turning pallid and limp. The mushroom and the medium rare patty share a philosophy — they both ask you to apply the right amount of heat for exactly the right amount of time, and to stop before you have gone too far.",
+    "ingredients": [
+      "1 lb (450g) freshly ground beef, 80/20 chuck blend",
+      "8 oz (225g) cremini mushrooms, cleaned and sliced 1/4 inch thick",
+      "2 slices Gruyère or Swiss cheese",
+      "2 brioche burger buns, split",
+      "3 tbsp unsalted butter, divided",
+      "1 tbsp dry sherry or dry white wine",
+      "1 tsp Worcestershire sauce",
+      "2 cloves garlic, minced",
+      "1 tbsp fresh thyme leaves",
+      "2 tbsp mayonnaise",
+      "1 tsp whole-grain Dijon mustard",
+      "4 slices ripe tomato",
+      "2 leaves green leaf lettuce",
+      "1 tsp kosher salt, plus more for seasoning",
+      "1/2 tsp freshly ground black pepper",
+      "1 tbsp neutral oil"
+    ],
+    "instructions": [
+      "1. Remove ground beef from the refrigerator 20 minutes before cooking. Divide into two 8 oz portions and shape into patties about 3/4 inch thick with a center dimple. Season both sides generously with kosher salt and black pepper.",
+      "2. Heat a large cast-iron skillet over medium-high heat. Add 2 tbsp butter. Once foaming subsides, add the sliced cremini mushrooms in a single layer. Do not stir — allow them to sear undisturbed for 3 minutes until golden on the bottom.",
+      "3. Stir the mushrooms, add the garlic, and cook for 1 more minute. Add the sherry and Worcestershire sauce, scraping up any browned bits. Cook until the liquid evaporates and the mushrooms are glazed and deeply golden, about 2 minutes more. Stir in the thyme, season with salt and pepper, and transfer to a bowl. Wipe the skillet clean.",
+      "4. Return the skillet to high heat and add the neutral oil. When smoking, add the patties and cook undisturbed for 3 minutes.",
+      "5. Flip the patties. Cook for 2 minutes, then heap a generous portion of sautéed mushrooms over each patty and lay a slice of Gruyère on top.",
+      "6. Cook 1 additional minute, or until the internal temperature reaches 130–135°F (54–57°C) for medium rare and the cheese has melted over the mushrooms. Remove from heat, tent with foil, and rest for 3 minutes.",
+      "7. Toast the buns in the same skillet with the remaining 1 tbsp butter over medium heat until golden, about 1–2 minutes.",
+      "8. Stir together mayonnaise and whole-grain Dijon and spread on both cut sides of each bun.",
+      "9. Build the burger: bottom bun, lettuce, tomato, then the mushroom-and-cheese-topped patty.",
+      "10. Cap with the top bun, press gently, and serve immediately."
+    ]
+  }
+}

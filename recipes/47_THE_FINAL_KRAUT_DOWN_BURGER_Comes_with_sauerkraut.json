@@ -1,0 +1,53 @@
+{
+  "id": 47,
+  "name": "THE FINAL KRAUT DOWN BURGER - (Comes with sauerkraut)",
+  "price": "$5.95",
+  "season": 2,
+  "episode": 7,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/20",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/47",
+  "recipe": {
+    "history": "Long before it found its way onto a greasy spoon diner menu or a Bob Belcher special, sauerkraut was already ancient. The earliest records of fermented cabbage trace back over two thousand years to China, where laborers building the Great Wall were said to subsist on rice and cabbage preserved in rice wine. When Mongol armies swept westward across Central Asia, they carried fermented cabbage with them as a durable, nutrient-dense field ration. By the time this culinary tradition reached Europe, it had been absorbed and transformed by Germanic peoples who replaced the wine-based brine with salt alone, relying on the natural lactobacillus bacteria present on cabbage leaves to do the work. The Germans refined the process into something close to an art form — tightly packed crocks, precise salting ratios, weeks of patient fermentation in cool cellars — and the word sauerkraut, literally 'sour cabbage,' became a permanent fixture in the culinary vocabulary of Central Europe.\n\nWhen waves of German immigrants arrived in America throughout the eighteenth and nineteenth centuries, they brought their crock pots and their fermentation traditions with them. Sauerkraut became a staple of German-American communities from Pennsylvania Dutch country to the beer halls of Milwaukee and Cincinnati. As the American hamburger rose to cultural dominance in the twentieth century — a democratized, handheld meal built for speed and satisfaction — sauerkraut quietly earned its place as one of the great burger toppings. Its sharp acidity cuts through the fat of a well-marbled beef patty with precision, the way a good wine cuts through a rich sauce. The Reuben sandwich had already proven the concept on rye bread with corned beef; it was only natural that the fermented cabbage would migrate to the bun. Diners, ballparks, and backyard grills across America eventually embraced the kraut-topped burger as a regional and sometimes rebellious alternative to the standard lettuce-tomato-onion formula.\n\nI still remember the first time a sauerkraut burger stopped me cold. I was nineteen, traveling through a small town in Ohio on a road trip that had no real destination, and I ducked into a diner that looked like it hadn't updated its menu since 1974. The laminated card listed a 'Kraut Burger' like it was the most ordinary thing in the world. I ordered it mostly out of curiosity and mild hunger-induced desperation. What arrived was a thick, slightly pink patty on a toasted bun, draped with a generous pile of cold, tangy sauerkraut and a stripe of spicy brown mustard. The contrast hit me immediately — the warm, yielding beef against the cool, crunchy, sour kraut — and I sat there in that vinyl booth eating slowly, actually paying attention to the food for the first time in days. That burger taught me something about balance. It didn't need much else. It was already complete.\n\nThere is a philosophy embedded in cooking a burger to medium rare, and it is a philosophy worth defending. At 130 to 135 degrees Fahrenheit, the internal fat of a quality beef patty has begun to render and distribute through the meat without fully evacuating it. The proteins have set enough to hold structure but retain their moisture. The result is a patty that is tender, juicy, and genuinely flavorful — beef that tastes like beef, not like a hockey puck that has been punished into submission by an overcautious cook. Medium rare is not laziness or recklessness; it is respect for the ingredient. A sauerkraut burger demands it especially, because the acidity of the kraut needs a rich, yielding counterpart to achieve the balance that makes the whole thing sing. Cook the patty to well done and you have two harsh elements fighting each other on a bun. Cook it to medium rare and you have harmony — the sour and the savory, the crisp and the soft, the ancient fermentation tradition of two continents landing perfectly on a Tuesday afternoon in your kitchen.",
+    "ingredients": [
+      "For the homemade sauerkraut:",
+      "1 medium head green cabbage (about 2 lbs / 900g), outer leaves removed",
+      "1 tablespoon kosher salt (non-iodized)",
+      "1 teaspoon caraway seeds (optional but traditional)",
+      "For the burger patties:",
+      "1.5 lbs (680g) ground beef, 80/20 fat ratio, freshly ground if possible",
+      "1 teaspoon kosher salt",
+      "1/2 teaspoon freshly ground black pepper",
+      "1/2 teaspoon garlic powder",
+      "1 tablespoon unsalted butter (for pan searing)",
+      "1 tablespoon neutral oil (such as canola or vegetable)",
+      "For the buns:",
+      "4 cups (480g) bread flour",
+      "2 1/4 teaspoons (1 packet) active dry yeast",
+      "1 cup (240ml) whole milk, warmed to 110°F (43°C)",
+      "2 tablespoons granulated sugar",
+      "1 1/2 teaspoons kosher salt",
+      "2 large eggs (1 for dough, 1 for egg wash)",
+      "3 tablespoons unsalted butter, softened",
+      "1 tablespoon sesame seeds (for topping)",
+      "For assembly:",
+      "4 teaspoons spicy brown mustard",
+      "4 slices Swiss cheese",
+      "1/2 small white onion, thinly sliced",
+      "Softened butter for toasting buns"
+    ],
+    "instructions": [
+      "1. MAKE THE SAUERKRAUT (3–7 days ahead): Finely shred the cabbage using a sharp knife or mandoline, discarding the core. Place shredded cabbage in a large bowl, sprinkle with kosher salt, and massage firmly with your hands for 8–10 minutes until the cabbage releases a significant amount of liquid and becomes limp and glossy. Mix in caraway seeds if using.",
+      "2. Pack the cabbage tightly into a clean 1-quart mason jar, pressing down firmly after each addition so the liquid (brine) rises above the cabbage. Leave at least 1 inch of headspace at the top. If the brine does not fully cover the cabbage after packing, mix 1 cup water with 1 teaspoon kosher salt and add enough to submerge the cabbage completely.",
+      "3. Weigh down the cabbage with a small zip-lock bag filled with brine, a clean stone, or a smaller jar to keep it submerged. Cover the jar loosely with a cloth or lid left slightly open to allow gas to escape. Ferment at room temperature (65–75°F / 18–24°C) away from direct sunlight for at least 3 days and up to 7 days, tasting daily starting on day 3. When pleasantly sour to your taste, seal and refrigerate. Sauerkraut keeps refrigerated for up to 6 months.",
+      "4. MAKE THE BURGER BUNS (same day or 1 day ahead): Dissolve yeast and sugar in warm milk and let stand 5–10 minutes until foamy, confirming the yeast is active. In a large bowl or stand mixer, combine bread flour and salt. Add the yeast mixture, 1 egg, and softened butter. Mix until a shaggy dough forms, then knead by hand (10 minutes) or with a dough hook (6–7 minutes on medium) until the dough is smooth, elastic, and slightly tacky.",
+      "5. Shape the dough into a ball, place in a lightly oiled bowl, cover with plastic wrap or a damp towel, and let rise at room temperature until doubled in size, approximately 1 to 1.5 hours.",
+      "6. Punch down the dough and divide into 4 equal portions (roughly 180g each). Shape each portion into a smooth ball by pulling the surface taut and pinching the seam underneath. Place on a parchment-lined baking sheet, spacing at least 3 inches apart. Flatten gently to about 3/4 inch thickness. Cover loosely and let proof 45 minutes to 1 hour until noticeably puffed.",
+      "7. Preheat oven to 375°F (190°C). Whisk the remaining egg with 1 tablespoon of water and brush gently over each bun. Sprinkle with sesame seeds. Bake for 16–18 minutes until deep golden brown. Transfer to a wire rack and cool completely before slicing.",
+      "8. FORM THE PATTIES: Remove the ground beef from the refrigerator 20 minutes before cooking to take the chill off. Divide into 4 equal portions (roughly 6 oz / 170g each). Handle the meat as little as possible — overworking develops tough proteins. Form each portion into a patty approximately 3/4 inch thick and slightly wider than the bun, as it will shrink during cooking. Press a shallow thumbprint dimple into the center of each patty to prevent doming. Season both sides generously with salt, pepper, and garlic powder immediately before cooking.",
+      "9. COOK THE PATTIES TO MEDIUM RARE (130–135°F / 54–57°C): Heat a cast iron skillet or heavy stainless pan over high heat until smoking. Add the neutral oil and swirl to coat. Place patties in the pan without crowding — cook in batches if necessary. Sear undisturbed for 2.5 to 3 minutes until a deep mahogany crust forms on the bottom. Flip once. Add the tablespoon of butter to the pan and, as it foams, tilt the pan slightly and baste the patties with the butter using a spoon for 30 seconds. Continue cooking 1.5 to 2 minutes more.",
+      "10. Lay a slice of Swiss cheese on each patty in the final 60 seconds of cooking, tenting the pan loosely with foil or a lid to trap steam and melt the cheese. Remove patties from heat when an instant-read thermometer inserted into the thickest part reads 130–135°F (54–57°C). Rest patties on a wire rack for 3–4 minutes — the internal temperature will rise a few degrees and the juices will redistribute. Do not skip this step.",
+      "11. TOAST THE BUNS: While patties rest, heat a clean skillet or griddle over medium heat. Butter the cut sides of each bun and toast face-down until golden and lightly crisped, about 1–2 minutes. Watch closely to avoid burning.",
+      "12. ASSEMBLE: Spread 1 teaspoon of spicy brown mustard on the top bun of each burger. Place the cheese-topped patty on the bottom bun. Heap a generous mound of sauerkraut (approximately 1/4 cup, drained slightly but not dry) directly on top of the patty. Add sliced onion if desired. Cap with the top bun and serve immediately."
+    ]
+  }
+}

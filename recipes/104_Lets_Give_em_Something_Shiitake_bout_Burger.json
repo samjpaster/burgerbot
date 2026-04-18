@@ -1,0 +1,47 @@
+{
+  "id": 104,
+  "name": "Let's Give 'em Something Shiitake 'bout Burger",
+  "price": "$5.95",
+  "season": 5,
+  "episode": 16,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/83",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/104",
+  "recipe": {
+    "history": "Shiitake mushrooms (Lentinula edodes) have been cultivated in East Asia for over a thousand years, with the earliest documented cultivation records appearing in Song Dynasty China around the twelfth century. The name itself is Japanese — shii for the type of tree (Castanopsis cuspidata) on which the mushrooms were traditionally grown, and take meaning mushroom — and Japan became the primary center of shiitake cultivation and culture for centuries, developing intricate techniques for scoring and tending logs to encourage fruiting. In traditional Chinese and Japanese medicine, shiitakes were ascribed remarkable properties: they were believed to boost qi, support immune function, and extend life. Emperors consumed them. They were offered as tribute. Long before Western nutritional science confirmed their lentinan content and antioxidant properties, East Asian cultures had treated the shiitake with a reverence bordering on the sacred.\n\nShiitake mushrooms arrived in American kitchens in a meaningful way during the natural food movement of the 1970s and 1980s, then accelerated into mainstream grocery availability through the 1990s as Asian cuisines gained wider appreciation and American chefs began incorporating umami-forward ingredients into non-Asian cooking. The burger industry noticed shiitakes for two reasons: their meaty texture and their extraordinary depth of savory flavor, amplified dramatically by the cooking process. Sautéed in butter with garlic and thyme, shiitakes develop a concentrated, almost smoky richness that mirrors and amplifies the umami of ground beef. By the 2000s, the mushroom-swiss burger had become a diner staple, and shiitake was its most prestigious variation, signaling a step beyond the ordinary cremini.\n\nI grew up eating shiitakes in a broth my mother made on cold weekends — a simple thing, really, just dried shiitakes soaked overnight and simmered with a little soy sauce and ginger, the stems still chewy and the caps silky and dark. She would lay slices over rice with a spoonful of the broth, and the steam rising from the bowl smelled like forest floor and rain. I did not appreciate it the way I should have when I was young. I was the kid who wanted something familiar. It was only much later, working in a kitchen and splitting open a fresh shiitake for the first time, smelling that earthy, slightly garlicky perfume rise off the blade, that I understood what she had been giving me all those years. Some ingredients teach you patience. Shiitakes taught me mine.\n\nThe medium rare burger — held carefully at 130–135°F (54–57°C) — is the only proper partner for a shiitake topping, and the reason is umami stacking. At medium rare, the beef's own glutamates are at their most available, the fat still liquid and aromatic, the interior pink and yielding. Sautéed shiitakes are themselves extraordinarily rich in glutamic acid and guanylic acid — two of the primary compounds responsible for the perception of savory depth. When these two umami sources meet on a bun, the effect is synergistic: each makes the other taste more intensely of itself. Cooking the patty to well-done would diminish the beef's contribution to this equation, drying out the fat, graying the proteins, and leaving the shiitakes as the sole source of savory complexity. That is not a burger. That is a mushroom dish with a beef-colored disc underneath it.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "5 oz (140g) fresh shiitake mushrooms, stems removed, caps sliced 1/4 inch thick",
+      "2 tbsp unsalted butter",
+      "2 cloves garlic, thinly sliced",
+      "2 sprigs fresh thyme",
+      "1 tbsp dry sherry or dry white wine",
+      "1 tsp soy sauce",
+      "1 tsp neutral oil (canola or grapeseed)",
+      "1 tsp flaky sea salt",
+      "1/2 tsp freshly cracked black pepper",
+      "1/2 tsp smoked paprika",
+      "2 slices Swiss or Gruyère cheese",
+      "1 brioche burger bun, split",
+      "1 tbsp unsalted butter, softened (for bun)",
+      "2 tbsp mayonnaise",
+      "1 tsp Dijon mustard",
+      "1 tsp whole grain mustard",
+      "1 tsp white wine vinegar",
+      "4 leaves arugula or butter lettuce",
+      "2 slices ripe tomato",
+      "3 thin rings shallot"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 20 minutes before cooking. Form gently into a patty about 4 inches wide and 3/4 inch thick. Press a shallow dimple in the center. Season both sides with flaky sea salt, cracked black pepper, and smoked paprika.",
+      "2. In a small bowl, combine mayonnaise, Dijon mustard, whole grain mustard, and white wine vinegar. Stir until smooth. Taste and adjust seasoning. Set aside.",
+      "3. Heat a medium skillet over medium-high heat. Add 2 tablespoons of butter. When the foam subsides, add the sliced garlic and thyme sprigs. Cook 30 seconds until fragrant.",
+      "4. Add the sliced shiitake caps in a single layer. Do not stir for the first 2 minutes — let them develop color. Season with a pinch of salt. Toss and continue cooking for 3–4 minutes until deeply golden and slightly caramelized.",
+      "5. Deglaze the pan with dry sherry and soy sauce. Toss to coat the mushrooms and cook until the liquid evaporates, about 1 minute. Remove the thyme sprigs. Set the mushrooms aside, keeping them warm.",
+      "6. Heat a cast-iron skillet over high heat until smoking. Add the neutral oil and swirl to coat.",
+      "7. Place the patty in the skillet and press gently with a spatula for the first 10 seconds. Cook undisturbed for 3 minutes to build a deep, even crust.",
+      "8. Flip once. Lay the Swiss or Gruyère slices on top immediately. Cook for an additional 2 to 2.5 minutes until an instant-read thermometer reads 130–135°F (54–57°C) for medium rare. Transfer to a wire rack and rest for 3 minutes.",
+      "9. Butter the cut faces of the brioche bun and toast in the residual skillet heat until golden brown, about 1 minute.",
+      "10. Spread the mustard mayonnaise on both cut faces of the toasted bun. Layer the bottom bun with arugula or lettuce, tomato slices, and shallot rings. Place the rested patty on top, then pile the sautéed shiitake mushrooms generously over the melted cheese. Close with the top bun and serve immediately."
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 6,
+  "name": "PEPPER DON'T PREACH BURGER",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 3,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/3",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/6",
+  "recipe": {
+    "history": "Long before Columbus stumbled onto a continent he refused to believe wasn't Asia, the people of Mesoamerica had already spent thousands of years in a devoted, reciprocal relationship with the pepper. Capsicum annuum — ancestor to the bell pepper, the poblano, the jalapeño, and the serrano — was domesticated in what is now central-eastern Mexico somewhere around 5,000 BCE, making it one of the oldest cultivated crops in the Western Hemisphere. Archaeological evidence from the Tehuacan Valley places chili use alongside early maize and squash, the so-called Three Sisters of indigenous agriculture. When Spanish and Portuguese traders finally carried Capsicum seeds back across the Atlantic in the late 1400s and early 1500s, they unleashed a slow-motion flavor revolution on every cuisine from Hungary to Korea. The bell pepper — sweet, thick-walled, and blessedly mild — is the result of centuries of selective breeding that bred out the capsaicin heat while preserving the fruit's structural integrity and its deep vegetal sweetness. It is, in essence, a pepper that learned patience.\n\nThe American hamburger and the pepper found each other the way most great partnerships do: out of necessity, proximity, and a shared refusal to be boring. By the mid-twentieth century, diner cooks from New Jersey to New Mexico were loading griddle-smashed patties with sautéed green bells and onions, a combination so instinctively correct that it required no manifesto. The Philly-style pepper-and-onion burger became a regional institution. In the Southwest, roasted Hatch chiles began appearing on patties as a matter of local pride and practical genius — the smoky, fruity heat of a roasted green chile cutting through beef fat the way nothing else can. As American burger culture matured and diversified through the 1970s and 1980s, the pepper in all its forms became a reliable signal that a cook was paying attention: pickled banana peppers for acid brightness, charred shishito for bitterness, a smear of roasted red pepper aioli to tie the whole thing together. The pepper doesn't just top a burger. It finishes the thought.\n\nI remember the first time a burger genuinely stopped me mid-bite and demanded my full attention. I was nineteen, working a summer job I hated, eating lunch at a counter I loved. The cook — a compact, unhurried man who never looked flustered — had taken a thick-cut bell pepper, charred it directly on the open burner until the skin blistered black, then peeled it over the sink without a word, like it was the most obvious thing in the world. He laid those sweet, smoky strips over a patty that was still resting, still pink at the center, still giving off the kind of heat that means something was cooked with intention. I didn't know anything about food then. I just knew that eating it felt like being let in on a secret. That burger is the reason I believe cooking is, at its best, a form of argument — a position taken, defended with heat and fat and a little char.\n\nMedium rare — 130 to 135 degrees Fahrenheit at the thickest point of the patty — is not a preference. It is a conclusion reached by anyone who has thought seriously about what ground beef is and what it can become. At that internal temperature, the myoglobin proteins have begun to denature but have not fully done so: the result is a center that is warm, deeply pink, tender, and still carrying the full complexity of the fat's flavor. Cook a burger past 140 and you are not making a choice — you are making a mistake. The fat renders out, the fibers tighten, the moisture evacuates, and what you are left with is a disk of protein that requires condiments to be edible rather than to be elevated. A properly sourced, freshly ground patty cooked to medium rare needs nothing to justify itself. Everything else on the burger — the charred pepper strips, the aioli, the toasted bun — exists in conversation with that pink center, not in compensation for its absence. Cook it right, or don't call it a burger.",
+    "ingredients": {
+      "patty": [
+        "8 oz freshly ground beef, 80/20 chuck blend (ground same day if possible)",
+        "3/4 tsp kosher salt",
+        "1/2 tsp freshly cracked black pepper",
+        "1/2 tsp garlic powder",
+        "1 tbsp unsalted butter (for basting)"
+      ],
+      "pepperToppings": [
+        "1 large red bell pepper",
+        "1 large yellow bell pepper",
+        "1 medium poblano pepper",
+        "1 tbsp olive oil",
+        "1/4 tsp kosher salt",
+        "1/4 tsp smoked paprika"
+      ],
+      "roastedRedPepperAioli": [
+        "1/2 cup mayonnaise (homemade or high-quality store-bought)",
+        "1/4 cup roasted red pepper (jarred or from your roasted peppers above), finely chopped",
+        "1 small garlic clove, minced and smashed to a paste",
+        "1 tsp fresh lemon juice",
+        "1/4 tsp cayenne pepper",
+        "1/4 tsp kosher salt",
+        "1/4 tsp smoked paprika"
+      ],
+      "bun": [
+        "1 brioche or potato roll bun",
+        "1 tbsp unsalted butter, softened (for toasting)"
+      ],
+      "assembly": [
+        "2 leaves green leaf lettuce",
+        "2 slices ripe beefsteak tomato",
+        "4 thin rings pickled banana pepper (store-bought or homemade)",
+        "1 slice sharp white cheddar cheese"
+      ]
+    },
+    "instructions": [
+      "Make the roasted pepper strips and aioli base first: Set a gas burner to high or position an oven rack 4 inches under the broiler at maximum heat. Place the red bell pepper, yellow bell pepper, and poblano directly on the burner grate or on a foil-lined baking sheet under the broiler.",
+      "Char the peppers on all sides, turning with tongs every 3 to 4 minutes, until the skin is fully blackened and blistered, approximately 12 to 15 minutes total. The flesh should feel soft when pressed.",
+      "Transfer the charred peppers immediately to a bowl and cover tightly with plastic wrap. Let them steam for 15 minutes — this loosens the skin and continues to gently cook the flesh.",
+      "Peel the peppers over the sink or a cutting board, removing and discarding all charred skin. Do not rinse — the smoky residue left on the flesh is flavor. Remove stems and seeds, then slice the flesh into strips roughly 1/2 inch wide. Toss with olive oil, salt, and smoked paprika. Set aside.",
+      "Prepare the roasted red pepper aioli: Combine the mayonnaise, finely chopped roasted red pepper, garlic paste, lemon juice, cayenne, salt, and smoked paprika in a small bowl. Stir until fully incorporated. Taste and adjust salt and lemon. Refrigerate until assembly.",
+      "Form the patty: Divide the 8 oz of ground beef into a single loosely packed ball — do not compress it. Season all surfaces generously with kosher salt, black pepper, and garlic powder. Using your thumb, press a shallow dimple into the center of the patty (this prevents the patty from doming as it cooks). The patty should be approximately 4.5 inches in diameter and 3/4 inch thick.",
+      "Heat a cast iron skillet or heavy stainless pan over high heat for at least 3 minutes until smoking. Add no oil — the fat in the patty is sufficient.",
+      "Place the patty dimple-side up in the pan. Do not press it. Do not move it. Cook undisturbed for 3 minutes to develop a deep, dark crust.",
+      "Flip the patty once. Immediately add the butter to the pan. As the butter foams, tilt the pan and baste the top of the patty continuously with the butter using a spoon, for 1 to 2 minutes.",
+      "Lay the slice of white cheddar on the patty and add 1 tablespoon of water to the pan. Immediately cover with a lid or baking sheet for 45 seconds to melt the cheese with steam.",
+      "Check the internal temperature at the center of the patty with an instant-read thermometer. Target 130 to 135°F for medium rare. Remove from heat and let the patty rest on a wire rack for 2 full minutes — carryover cooking will bring it to the upper edge of the range.",
+      "While the patty rests, toast the bun: Spread softened butter on the cut sides of the bun and place them cut-side down in the same skillet over medium heat for 60 to 90 seconds until golden brown.",
+      "Assemble the burger: Spread roasted red pepper aioli generously on both the top and bottom bun. On the bottom bun, layer lettuce, then tomato slices, then the rested patty with melted cheddar.",
+      "Arrange the charred pepper strips from the red bell, yellow bell, and poblano over the cheese in an overlapping layer. Add the pickled banana pepper rings on top of the pepper strips.",
+      "Close the bun. Press gently. Serve immediately — do not wrap, do not wait."
+    ]
+  }
+}

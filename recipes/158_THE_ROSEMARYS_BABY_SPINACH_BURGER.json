@@ -1,0 +1,42 @@
+{
+  "id": 158,
+  "name": "THE ROSEMARY'S BABY SPINACH BURGER",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 10,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/139",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/158",
+  "recipe": {
+    "history": "Rosemary is one of the great herbs of the Mediterranean basin, native to the rocky, sun-battered coastlines of southern Europe and the Middle East, where it has grown wild since before recorded history. Its Latin name, Rosmarinus officinalis, means 'dew of the sea,' a nod to its preference for coastal hillsides where morning mist replaces rain. The ancient Greeks and Romans burned it as incense and wove it into funeral garlands, associating its resinous, camphor-laden fragrance with memory and loyalty. Medieval European herbalists prescribed it for everything from hair loss to plague. By the Renaissance, rosemary had migrated from the apothecary to the kitchen, becoming indispensable to the roasting traditions of Italy, France, Spain, and Provence — stuffed into lamb, crushed into focaccia, infused into olive oil. Baby spinach has a quieter but equally distinguished lineage, developed from the ancient spinach of Persia and brought west through the Arab world into Spain during the Moorish period, arriving in Europe around the 11th century. By the 20th century, the young, tender leaves of baby spinach had become a staple of salad culture worldwide.\n\nRosemary's entry into American burger culture followed the broader herb revolution of the 1980s and 1990s, when American home cooks began to abandon dried spice racks in favor of fresh herbs. California cuisine, championed by Alice Waters and the Chez Panisse school, put fresh rosemary on grilled meats as a matter of philosophy — the herb was a bridge between the garden and the fire. Baby spinach appeared on burgers not as a garnish but as a serious alternative to iceberg lettuce, offering iron, earthiness, and a slight bitterness that cut through the fat of the patty. The pairing of rosemary and baby spinach on a burger is a marriage of the rugged and the delicate: the herb's piney assertiveness tempered by the spinach's quiet, mineral gentleness.\n\nI grew rosemary in a cracked clay pot on the windowsill above the prep sink for three years before it finally died — not from neglect, but from too much attention, which I think is a lesson I keep having to relearn. During those three years I put rosemary on everything. I pressed sprigs into burger patties before cooking so the needles would char and perfume the crust from the inside. I made rosemary butter and spread it on every toasted bun that left the kitchen. One night a customer sent back a note that said the burger smelled like a pine forest and they meant it as a complaint. I chose to take it as a compliment. Baby spinach I discovered later, as a way of keeping the plate alive with something green that could hold its own against the rosemary without disappearing.\n\nA patty cooked to medium rare — 130–135°F (54–57°C) at the center — is the ideal canvas for rosemary because the residual fat in the beef carries the herb's volatile aromatic oils in a way that heat-destroyed, well-done fat cannot. The fat at medium rare is still a vehicle, still a living thing in the culinary sense, capable of absorbing and transmitting flavor. Rosemary demands this. It is not a subtle herb; it will announce itself on any patty. But at medium rare, that announcement lands as an invitation rather than an intrusion. The baby spinach, wilted slightly by the warmth of the rested patty placed atop it, becomes something between raw and cooked — softened, bright, and threaded through with the fragrance of the rosemary that preceded it.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "1 ciabatta burger bun or sesame brioche bun, split",
+      "2 tbsp unsalted butter, softened",
+      "1 tsp flaky sea salt",
+      "1/2 tsp freshly cracked black pepper",
+      "2 sprigs fresh rosemary, needles stripped and finely minced (about 1 tbsp)",
+      "1 tbsp extra-virgin olive oil",
+      "3 garlic cloves, 2 minced finely and 1 halved for rubbing the bun",
+      "1 slice fontina cheese",
+      "1 cup loosely packed baby spinach, washed and dried",
+      "2 slices ripe tomato",
+      "2 tbsp rosemary aioli (mayonnaise, 1 tsp minced rosemary, 1/2 tsp lemon juice, pinch of salt)",
+      "1 tsp Dijon mustard",
+      "1 tsp neutral oil for the griddle",
+      "Freshly cracked black pepper to finish"
+    ],
+    "instructions": [
+      "1. Make the rosemary aioli: whisk together mayonnaise, minced rosemary, lemon juice, and a pinch of salt. Refrigerate until needed.",
+      "2. Combine minced rosemary, minced garlic, and olive oil in a small bowl. Let stand 10 minutes to bloom the aromatics.",
+      "3. Remove ground beef from refrigerator 20 minutes before cooking. Place beef in a bowl and drizzle the rosemary-garlic-oil mixture over the surface. Gently fold to distribute — do not overwork the meat. Form into a single 8 oz patty, about 4 inches wide and 3/4 inch thick. Press a shallow dimple in the center. Season both sides with flaky sea salt and cracked black pepper.",
+      "4. Butter both cut faces of the bun. Heat a cast-iron skillet over medium-high heat until smoking. Toast buns cut-side down until golden, about 90 seconds. Remove and immediately rub the toasted cut face of each bun half with the halved raw garlic clove. Set aside.",
+      "5. Increase heat to high. Add neutral oil to the skillet. Add the patty and press gently to ensure full contact with the surface. Cook undisturbed for 3 minutes, allowing the rosemary in the crust to char slightly and perfume the fat.",
+      "6. Flip the patty once. Lay the fontina slice on top. Cook for 2–2.5 minutes.",
+      "7. Check internal temperature at the center of the patty. Pull at 130–135°F (54–57°C) for medium rare. Rest on a wire rack for 2 minutes. The fontina will continue to melt during the rest.",
+      "8. While the patty rests, place baby spinach on the bottom bun. The residual warmth from the toasted bun will begin to wilt the spinach gently.",
+      "9. Add tomato slices on top of the spinach.",
+      "10. Spread rosemary aioli on the cut face of the top bun. Spread Dijon mustard on the bottom bun beneath the spinach layer.",
+      "11. Place the rested, cheese-crowned patty onto the tomato and spinach. Finish with a few cracks of black pepper. Close the burger, press gently, and serve immediately while the fontina is still fluid."
+    ]
+  }
+}

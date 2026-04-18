@@ -1,0 +1,48 @@
+{
+  "id": 109,
+  "name": "The Yam Ship Burger (comes with yams)",
+  "price": "$5.95",
+  "season": 6,
+  "episode": 2,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/90",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/109",
+  "recipe": {
+    "history": "The true yam — Dioscorea species, not to be confused with the orange-fleshed sweet potato that Americans incorrectly call a yam — is one of the oldest cultivated food crops in human history, with archaeological evidence of its use in West Africa and Southeast Asia dating back more than ten thousand years. In West Africa, where the crop is most deeply embedded in culture, the yam is not merely food but symbol and ceremony. The Igbo people of Nigeria hold annual New Yam Festivals — Iwa Ji — to celebrate the harvest, a ritual that marks the new year and honors ancestors, during which the oldest man in the community must eat the first yam of the season before anyone else may consume it. Nigeria and Ghana together account for the majority of the world's yam production, and in these countries the yam appears in foundational dishes like pounded yam — a smooth, elastic, intensely satisfying starch made by pounding boiled yam in a large wooden mortar until it becomes a cohesive, gluey mass — and yam porridge, cooked with palm oil, peppers, and leafy greens. In the Caribbean, the yellow yam and name varieties arrived with the transatlantic slave trade and became embedded in Jamaican and Trinidadian cooking, where they are boiled in one-pot soups and stews or roasted in coals.\n\nThe American relationship with the term yam is, frankly, a confusion of marketing and botany. In the mid-twentieth century, Louisiana sweet potato growers began labeling their moister, orange-fleshed sweet potato variety as yams to distinguish them from drier, paler varieties, and the USDA allowed the mislabeling to persist so long as the true name sweet potato appeared somewhere on the label. What this means in practice is that the American pantry yam is almost always a sweet potato. However, in cities with large West African and Caribbean immigrant communities — Houston, Atlanta, New York, Washington D.C. — true yams are increasingly available at specialty grocers, and the real thing is starchier, less sweet, and more texturally complex than its orange impersonator. Both varieties have found their way into American burger culture, the sweet potato variety appearing as oven-roasted wedge fries and burger toppings, the true yam making rarer, more adventurous appearances in the kitchens of chefs interested in the breadth of the African diaspora's culinary contributions.\n\nMy mother kept a single large yam in the pantry for most of my childhood, a gnarly brown thing that looked vaguely geological and sat beside the onion basket with a sort of permanent authority. She cooked it exactly one way: boiled until very tender, drained, then mashed with butter, a little evaporated milk, and white pepper. No cinnamon, no marshmallow — she thought the sweet potato casserole tradition was an injustice done to a respectable vegetable. She would serve that mash beside anything — roast chicken, braised short ribs, even fried fish — and it always worked because she understood that the yam's job was not to be the sweetest thing on the plate but to be the most grounding. I have carried that lesson into burger cooking. A yam element on a burger should not be candy. It should be the thing that holds everything else in place.\n\nMedium rare is not a compromise between raw and well-done; it is a destination in its own right. At 130 to 135 degrees Fahrenheit — 54 to 57 degrees Celsius — the beef patty is at the peak of its flavor expression. The intramuscular fat has liquefied and is distributed throughout the meat, coating every fiber with richness. The proteins have firmed just enough to provide resistance without toughening. The center of the patty remains a vivid, blushing pink that signals to every part of your brain that the animal has been treated with care from pasture to plate. Against the earthy, slightly sweet, dense texture of properly prepared yam — whether roasted, mashed, or crisped into chips — the medium-rare patty sings with contrast. The yam is dense and quiet; the beef is electric and open. This is the balance we are building toward.",
+    "ingredients": [
+      "1.5 lbs (680g) 80/20 ground chuck, freshly ground if possible",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "2 medium yams or garnet sweet potatoes (about 1.5 lbs total)",
+      "3 tablespoons olive oil, divided",
+      "1 teaspoon ground cinnamon",
+      "1/2 teaspoon ground allspice",
+      "1/2 teaspoon cayenne pepper",
+      "1/4 teaspoon ground nutmeg",
+      "2 tablespoons unsalted butter",
+      "2 tablespoons heavy cream or whole milk",
+      "4 sesame seed brioche buns",
+      "4 slices smoked gouda cheese",
+      "1/2 cup mayonnaise",
+      "2 tablespoons pure maple syrup",
+      "1 tablespoon apple cider vinegar",
+      "1 teaspoon Dijon mustard",
+      "1 teaspoon chipotle pepper in adobo, minced (or chipotle hot sauce)",
+      "1/2 teaspoon smoked paprika",
+      "2 cups arugula, washed and dried",
+      "1/2 red onion, very thinly sliced",
+      "Neutral oil, for cooking"
+    ],
+    "instructions": [
+      "1. Roast the yams: preheat your oven to 400°F (205°C). Peel the yams and cut them into 1/2-inch thick rounds or half-moon slices. Toss with 2 tablespoons of olive oil, the cinnamon, allspice, 1/4 teaspoon of the cayenne, nutmeg, 1 teaspoon kosher salt, and a few grinds of black pepper. Spread in a single layer on a rimmed baking sheet. Roast for 20 to 25 minutes, flipping once halfway through, until tender and caramelized on both sides. Set aside.",
+      "2. Make the maple-chipotle mayo: whisk together the mayonnaise, maple syrup, apple cider vinegar, Dijon mustard, minced chipotle, smoked paprika, and a pinch of salt in a small bowl. Taste and adjust for heat and sweetness. Refrigerate until needed.",
+      "3. Make a small yam mash for patty topping: while the roasted yams are still hot, transfer about a quarter of them to a small bowl. Mash roughly with the butter and heavy cream until just combined but still a little chunky. Season with salt and the remaining cayenne. Set aside.",
+      "4. Form the patties: season the ground chuck with 1 teaspoon kosher salt and 1/2 teaspoon black pepper. Mix gently and divide into 4 equal portions. Shape into patties approximately 3/4 inch thick, pressing a dimple into the center of each. Let rest at room temperature for 15 minutes before cooking.",
+      "5. Heat 1 tablespoon of neutral oil in a large cast iron skillet over high heat until it just begins to smoke.",
+      "6. Cook the patties without moving for 3 to 4 minutes until a well-developed, dark brown crust forms on the bottom.",
+      "7. Flip each patty once. Immediately lay a slice of smoked gouda on each patty. Cook for an additional 2 to 3 minutes. Begin checking the internal temperature with an instant-read thermometer at the 2-minute mark. Remove the patties from the heat when they read 130 to 135°F (54 to 57°C) — medium rare. This is the correct and only acceptable target temperature for a burger with this flavor profile.",
+      "8. Transfer patties to a wire rack and rest for 3 to 5 minutes without covering.",
+      "9. Toast the buns: split the brioche buns and toast cut-side down in a skillet over medium heat with a small amount of butter until golden, about 1 to 2 minutes.",
+      "10. Assemble: spread the maple-chipotle mayo generously on both bun halves. On the bottom bun, place a small handful of arugula. Lay 3 to 4 roasted yam slices over the arugula. Place the rested patty with its melted smoked gouda on top. Spoon a tablespoon or two of the chunky yam mash directly onto the patty. Top with a few rings of thinly sliced red onion. Close with the top bun and serve immediately alongside any remaining roasted yam slices."
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 116,
+  "name": "To Thine Own Self be Bleu Burger (served with bleu cheese)",
+  "price": "$5.95",
+  "season": 6,
+  "episode": 12,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/100",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/116",
+  "recipe": {
+    "history": "Bleu cheese — or blue cheese — is one of the oldest and most storied dairy creations in the world, with origins tracing back over a thousand years to the caves and cellars of France. The most celebrated varieties, Roquefort, Gorgonzola, and Stilton, each hail from distinct regions of France, Italy, and England respectively, where naturally occurring Penicillium mold spores colonized aging wheels of cheese in cool, humid limestone caverns. Roquefort, considered by many to be the king of blue cheeses, is protected by French law and must be aged exclusively in the caves of Combalou near the village of Roquefort-sur-Soulzon. Legend holds that the cheese was discovered by a young shepherd who left his lunch of bread and ewe's milk cheese in a cave while chasing a beautiful girl, returning months later to find it transformed by mold into something extraordinary — a fitting origin for a cheese so bold it demands attention.\n\nBleu cheese made its way into American cuisine gradually, carried across the Atlantic by European immigrants who brought their cheesemaking traditions with them. By the mid-twentieth century, American producers had begun crafting their own blue-veined cheeses, most notably Maytag Blue, developed in 1941 by the Maytag family of Iowa using milk from their Holstein herd. The sharp, funky, assertive character of blue cheese found a natural home in American steakhouse culture, where its intense flavor could hold its own against rich, well-marbled cuts of beef. From there, the leap to burgers was inevitable — the combination of a juicy beef patty with the creamy, salty tang of crumbled bleu proved to be one of the great flavor pairings in casual American dining, appearing on pub menus and burger joints from coast to coast throughout the 1970s and 1980s.\n\nI remember the first time bleu cheese truly made sense to me. I was working a lunch rush on a Tuesday, the kind of day where everything runs just a little behind and the tickets blur together into one long ribbon of need. A regular — a retired English teacher who always ordered quietly and tipped exactly twenty percent — asked for a bleu cheese burger, no substitutions. I pressed the crumbles into the patty just before pulling it off the heat, watched them soften and pool at the edges, and sent it out without much thought. She came back to the counter before she left, not to complain, but just to say it was perfect. That's the thing about bleu cheese — it doesn't ask permission. It announces itself, and when it's right, it's completely, unarguably right.\n\nCooking a burger to medium rare is not a compromise or a shortcut — it is a philosophy, a commitment to respecting the integrity of the beef itself. At an internal temperature of 130 to 135 degrees Fahrenheit, the proteins in the patty have tightened just enough to hold their structure while the fat has rendered into the meat, creating that characteristic pink, juicy center that no higher temperature can replicate. To cook beyond this point is to cook away the very qualities that make a good burger great. The Maillard reaction has already done its work on the exterior, building a dark, savory crust full of complexity, while the interior remains tender and yielding. With bleu cheese resting on top, softening in the residual heat, the medium rare patty becomes a vehicle for contrast — cool and pungent against warm and beefy — and that contrast is the whole point.",
+    "ingredients": [
+      "1.5 lbs ground beef chuck, 80/20 fat ratio",
+      "4 oz bleu cheese, crumbled (Roquefort, Gorgonzola, or Maytag Blue)",
+      "4 brioche burger buns",
+      "1 tablespoon unsalted butter (for toasting buns)",
+      "1 teaspoon kosher salt",
+      "1 teaspoon freshly ground black pepper",
+      "1 teaspoon garlic powder",
+      "4 leaves green leaf lettuce",
+      "2 medium roma tomatoes, sliced 1/4 inch thick",
+      "1 small red onion, thinly sliced into rings",
+      "2 tablespoons mayonnaise",
+      "1 tablespoon Dijon mustard",
+      "1 teaspoon Worcestershire sauce",
+      "1 teaspoon hot sauce (such as Tabasco)",
+      "Neutral oil (such as canola) for the cooking surface"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 20 minutes before cooking to bring it closer to room temperature, which promotes more even cooking.",
+      "2. Divide the ground beef into 4 equal portions of approximately 6 oz each. Handle the meat as little as possible to avoid compacting it.",
+      "3. Form each portion into a round patty approximately 3/4 inch thick. Press a shallow dimple into the center of each patty with your thumb to prevent it from doming during cooking.",
+      "4. Season both sides of each patty generously with kosher salt, black pepper, and garlic powder. Add a few drops of Worcestershire sauce to the top of each patty.",
+      "5. Heat a cast-iron skillet or heavy griddle over high heat until it begins to smoke lightly. Add a thin layer of neutral oil and swirl to coat.",
+      "6. Place the patties dimple-side up in the skillet. Do not press down on the patties. Cook undisturbed for 3 to 4 minutes until a deep brown crust forms on the bottom.",
+      "7. Flip each patty once. Cook for an additional 2 to 3 minutes on the second side.",
+      "8. In the last 60 seconds of cooking, distribute the crumbled bleu cheese evenly across the top of each patty. Allow the cheese to begin softening in the residual heat of the pan.",
+      "9. Use an instant-read thermometer to verify the internal temperature of each patty has reached 130–135°F (54–57°C) for medium rare. Remove from heat immediately once this temperature is achieved.",
+      "10. Transfer the patties to a clean plate and tent loosely with foil. Rest for 3 to 4 minutes — the internal temperature will rise a few degrees during resting.",
+      "11. While the patties rest, melt the butter in the skillet over medium heat and toast the cut sides of the brioche buns until golden, about 1 to 2 minutes.",
+      "12. In a small bowl, combine the mayonnaise, Dijon mustard, and hot sauce. Stir until smooth and spread on the cut sides of the toasted buns.",
+      "13. Build each burger: bottom bun, lettuce leaf, tomato slice, red onion rings, patty with softened bleu cheese, and top bun.",
+      "14. Serve immediately while the bleu cheese is still warm and yielding against the medium rare patty."
+    ]
+  }
+}

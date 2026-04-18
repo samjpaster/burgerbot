@@ -1,0 +1,50 @@
+{
+  "id": 137,
+  "name": "THE BLANC CANVAS BURGER (comes with a fromage blanc)",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 1,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/130",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/137",
+  "recipe": {
+    "history": "Fromage blanc — literally 'white cheese' in French — is one of the oldest dairy preparations in European culinary history, predating the Roman Empire and likely originating in the pastoral regions of what are now France, Belgium, and the German Rhineland. Made by culturing whole or skimmed cow's milk with a small amount of rennet or acid and then draining the curds only partially, fromage blanc occupies the compelling territory between thick yogurt and fresh ricotta: it is tangy, voluptuously creamy, and extraordinarily mild, allowing the quality of the milk itself to come forward without interruption. Medieval French peasant households kept crocks of it perpetually, using it spread on bread, folded into savory tarts, or eaten simply with a drizzle of honey as dessert. It was cheese in its most elemental and democratic form — requiring no aging, no cave, no particular equipment beyond patience and a cloth to drain through.\n\nFromage blanc arrived in American kitchens through two distinct channels: first through the Cajun and Creole cooking traditions of Louisiana, where French Acadian settlers brought their dairy practices and adapted them to the humid southern climate, producing a local variant sometimes called 'cream cheese' before that term was codified by commercial producers; and second through the wave of artisanal cheesemaking that swept American farmers' markets and specialty grocers beginning in the 1980s and 1990s. American chefs discovered that fromage blanc's gentle tang made it an extraordinarily versatile foil for bold, fatty, and smoky flavors — and from that realization it was a short step to the burger kitchen, where it functions as a cooling, acidic counterweight to the richness of a well-seared beef patty and the caramelized sweetness of grilled onions.\n\nI came to fromage blanc the way I come to most good things — sideways, by accident, because someone handed it to me and told me not to think too hard about it. A friend had picked up a container at the farmers' market on a whim and set it on the table with a bowl of radishes and some flaky salt, and the four of us stood in the kitchen eating it off the backs of our hands and talking about nothing in particular for an hour. What struck me was its blankness — not in a boring sense, but in the sense of a fresh page, a clean white canvas. It tasted like the idea of dairy distilled to its purest form, and it made everything around it taste more precise. I started keeping a container in the refrigerator not for any specific recipe but simply to have it available, because it makes almost anything it touches better.\n\nThe philosophy of cooking a beef patty to medium rare is ultimately a philosophy about restraint and trust. When you pull a burger at 130 to 135 degrees Fahrenheit — 54 to 57 degrees Celsius — you are making the deliberate decision to stop intervening before you've gone too far. The Maillard reaction has done its work on the exterior, building the crust and the deep, roasted complexity that defines a proper burger. But inside, the muscle fibers have relaxed rather than seized, the fat has softened without rendering out completely, and the juice — the actual liquid that carries flavor through every bite — has stayed where it belongs. Cooking beyond this point is not safer; it is simply a different, lesser dish. Medium rare is what beef tastes like when you respect it.",
+    "ingredients": [
+      "For the patty:",
+      "8 oz (225g) ground beef, 80/20 chuck blend",
+      "1/2 tsp kosher salt",
+      "1/4 tsp freshly ground black pepper",
+      "For the fromage blanc spread:",
+      "3 oz fromage blanc (full-fat)",
+      "1 tsp fresh chives, finely minced",
+      "1 tsp fresh thyme leaves",
+      "1/2 tsp lemon zest",
+      "1/4 tsp fine sea salt",
+      "1/8 tsp white pepper",
+      "For the burger assembly:",
+      "1 brioche burger bun",
+      "1 tbsp unsalted butter (for toasting bun)",
+      "1 tsp neutral oil (for cooking patty)",
+      "2 oz Gruyère or Comté cheese, thinly sliced",
+      "1/4 cup caramelized shallots",
+      "1 tbsp unsalted butter (for shallots)",
+      "2 shallots, thinly sliced",
+      "1 tsp sherry vinegar",
+      "A handful of frisée or watercress",
+      "Flaky sea salt for finishing"
+    ],
+    "instructions": [
+      "1. Prepare the caramelized shallots: melt 1 tablespoon butter in a small skillet over medium-low heat. Add sliced shallots and a pinch of salt. Cook, stirring occasionally, for 20 to 25 minutes until deeply golden and jammy. Add sherry vinegar, stir to deglaze, and cook 1 minute more. Set aside.",
+      "2. Make the herbed fromage blanc: combine fromage blanc, chives, thyme, lemon zest, sea salt, and white pepper in a small bowl. Stir until evenly mixed. Refrigerate until ready to use.",
+      "3. Remove the ground beef from the refrigerator 20 minutes before cooking. Form gently into a single patty about 4 inches in diameter and 3/4-inch thick. Press a shallow dimple in the center. Season both sides with kosher salt and black pepper.",
+      "4. Heat a cast-iron skillet over high heat until smoking. Add the neutral oil and swirl to coat.",
+      "5. Place the patty in the pan and cook undisturbed for 3 minutes until a dark, even crust has formed on the bottom.",
+      "6. Flip the patty once. Lay the Gruyère slices on top immediately. Cook 2 to 3 minutes more.",
+      "7. Check internal temperature with an instant-read thermometer. Pull at 130–135°F (54–57°C) for medium rare. Tent loosely with foil and rest 3 minutes.",
+      "8. Melt butter in a separate pan over medium heat. Toast bun cut-side down until golden, 1 to 2 minutes.",
+      "9. Spread a generous layer of herbed fromage blanc on both the top and bottom bun.",
+      "10. Place a small handful of frisée or watercress on the bottom bun, then add the patty with melted cheese, then the caramelized shallots.",
+      "11. Finish with a pinch of flaky sea salt over the top before closing with the top bun.",
+      "12. Serve immediately with the remaining herbed fromage blanc on the side as a dipping sauce or accompaniment."
+    ]
+  }
+}

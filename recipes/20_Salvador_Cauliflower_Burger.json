@@ -1,0 +1,65 @@
+{
+  "id": 20,
+  "name": "Salvador Cauliflower Burger",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 8,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/8",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/20",
+  "recipe": {
+    "history": "Cauliflower is one of the oldest cultivated vegetables in human history, tracing its origins to the fertile coastal regions of the Middle East and the Mediterranean basin. Ancient Arab agronomists were cultivating early forms of it as far back as the 6th century, and it spread westward through Moorish Spain and into Italy, where Renaissance botanists took keen interest in its dense, creamy head. By the 16th century it had been adopted enthusiastically across Europe — Francis Bacon wrote of it, French chefs elevated it, and it became a staple of market gardens from Brittany to Flanders. Its Latin name, Brassica oleracea var. botrytis, hints at its grape-cluster appearance, and for centuries it was considered a refined, somewhat aristocratic vegetable, more at home on the tables of the well-heeled than on peasant plates.\n\nCauliflower's transformation into a beloved American burger element is a thoroughly modern story, born out of the low-carb and plant-forward food movements of the 2010s. What began as a curiosity — roasted florets tucked into wraps, blitzed into rice substitutes — quickly evolved into something more ambitious. Chefs discovered that when cauliflower is cut into thick steaks or florets and roasted at high heat with olive oil and smoked paprika, it develops a caramelized, almost meaty depth that holds up beautifully against a beef patty. Burger joints from Portland to Brooklyn started piling golden-edged cauliflower onto their boards as a topping, a foil, a textural counterpoint — and home cooks followed. The Salvador Cauliflower Burger is a product of exactly that moment: the realization that a humble brassica, handled with confidence, belongs alongside the best beef money can buy.\n\nI remember the first time I understood what roasted cauliflower could do on a burger. It was a Sunday, the kitchen smelled of cumin and browning butter, and I'd been staring at a head of cauliflower the way Salvador Dalí might have stared at a melting clock — convinced there was something stranger and more wonderful inside it than it first appeared. I cut it into fat florets, tossed them recklessly in olive oil and a pinch of turmeric, and slid them into a screaming-hot oven. When they came out — edges charred, centers yielding, color the deep gold of an afternoon in Catalonia — I piled them onto a medium-rare patty and took a bite. It was surreal in the best sense. The soft crunch of the cauliflower, the richness of the beef, the brightness of the lemon-herb aioli: nothing about it should have worked as well as it did, and yet there it was, defying logic with every bite.\n\nCooking a beef patty to medium rare — an internal temperature of 130 to 135°F — is not a preference; it is the correct answer to a question the cow has already answered. At that temperature, the muscle fibers have relaxed just enough to release their fat and juices without surrendering them entirely. The center is pink, warm, and yielding; the crust is deeply seared; the Maillard reaction has done its irreversible, glorious work on the outside while the inside remains a testament to restraint. Going beyond 135°F is technically permissible but philosophically indefensible — you are asking the burger to become something it was never meant to be. A well-done patty is a tragedy of good intent. Medium rare is the point at which everything the animal was, everything the grind promises, and everything the heat can offer converge into a single, perfect result. Cook to 130–135°F, rest for two minutes, and serve immediately. Everything else is commentary.",
+    "ingredients": {
+      "patty": [
+        "8 oz ground beef, 80/20 blend (chuck recommended)",
+        "1/2 tsp kosher salt",
+        "1/4 tsp freshly ground black pepper",
+        "1/2 tsp garlic powder",
+        "1 tsp neutral oil (canola or vegetable) for the pan or grill"
+      ],
+      "roasted_cauliflower_topping": [
+        "1 cup cauliflower florets, cut into bite-sized pieces (about 1/4 head)",
+        "1 1/2 tbsp olive oil",
+        "1/2 tsp smoked paprika",
+        "1/4 tsp ground cumin",
+        "1/4 tsp turmeric",
+        "1/4 tsp kosher salt",
+        "1/8 tsp black pepper",
+        "1 tsp fresh lemon juice (applied after roasting)"
+      ],
+      "lemon_herb_aioli": [
+        "3 tbsp mayonnaise",
+        "1 tsp fresh lemon juice",
+        "1/2 tsp lemon zest",
+        "1 small garlic clove, finely grated or minced",
+        "1 tbsp fresh flat-leaf parsley, finely chopped",
+        "1 tsp fresh chives, finely chopped",
+        "Salt and white pepper to taste"
+      ],
+      "bun": [
+        "1 brioche or potato burger bun",
+        "1 tbsp unsalted butter, softened (for toasting)"
+      ],
+      "assembly": [
+        "1 leaf green leaf or butter lettuce",
+        "2 slices ripe tomato",
+        "2 thin slices red onion",
+        "2 bread-and-butter pickle slices"
+      ]
+    },
+    "instructions": [
+      "Preheat your oven to 425°F (220°C) and line a baking sheet with parchment paper or foil.",
+      "In a mixing bowl, toss the cauliflower florets with olive oil, smoked paprika, cumin, turmeric, kosher salt, and black pepper until evenly coated.",
+      "Spread the cauliflower in a single layer on the prepared baking sheet, making sure florets are not crowded. Roast for 22–26 minutes, flipping once halfway through, until the edges are deeply caramelized and the centers are tender. Remove from the oven, squeeze fresh lemon juice over the top, and set aside.",
+      "While the cauliflower roasts, prepare the lemon-herb aioli by combining the mayonnaise, lemon juice, lemon zest, garlic, parsley, and chives in a small bowl. Season with salt and white pepper to taste. Cover and refrigerate until assembly.",
+      "Remove the ground beef from the refrigerator 15 minutes before cooking to bring it slightly toward room temperature. Divide into one 8 oz portion and gently form into a patty approximately 4 inches wide and 3/4 inch thick. Press a shallow dimple in the center with your thumb to prevent doming. Season both sides generously with kosher salt, black pepper, and garlic powder.",
+      "Heat a cast-iron skillet or heavy pan over high heat until it begins to smoke lightly. Add the neutral oil and swirl to coat.",
+      "Place the patty in the skillet. Cook undisturbed for 3 minutes to develop a deep, dark sear on the first side. Flip once and cook for an additional 2–3 minutes on the second side.",
+      "Check the internal temperature with an instant-read thermometer inserted horizontally into the center of the patty. Pull the patty off heat when it reads 128–130°F — carryover heat will bring it to 130–135°F (medium rare) during the rest. Do not press the patty at any point during cooking.",
+      "Transfer the patty to a cutting board or warm plate, tent loosely with foil, and rest for exactly 2 minutes.",
+      "While the patty rests, toast the bun. Melt the butter in the still-hot skillet (or a separate pan over medium heat) and place the bun cut-side down. Toast for 60–90 seconds until golden brown. Remove and set aside.",
+      "Build the burger: spread a generous layer of lemon-herb aioli on both the top and bottom bun. On the bottom bun, layer the lettuce leaf, then the tomato slices, then the red onion.",
+      "Place the rested patty on top of the onion. Pile the roasted cauliflower florets directly onto the patty.",
+      "Add the pickle slices, close the top bun, and serve immediately while the patty is still hot and the cauliflower is warm."
+    ]
+  }
+}

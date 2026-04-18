@@ -1,0 +1,53 @@
+{
+  "id": 180,
+  "name": "WON'T BAGUETTE FOOLED AGAIN BURGER",
+  "price": "$5.95",
+  "season": 9,
+  "episode": 2,
+  "episodeUrl": "",
+  "url": "",
+  "recipe": {
+    "history": "The baguette is arguably the most iconic object in French culinary identity — a slender, crackling tube of fermented dough that has been the daily bread of France since at least the early nineteenth century, though its precise origin remains contested among food historians. Some trace its lineage to Vienna, crediting Austrian entrepreneur August Zang with introducing steam-injected ovens to Paris in the 1840s that produced the crackling crust now considered definitive. Others insist the long shape was mandated by Napoleonic-era laws regulating baker work hours, with the elongated form baking faster than a round miche. Whatever its true genesis, the baguette became codified in French culture so completely that in 2022 UNESCO added French baguette-making traditions to its Intangible Cultural Heritage list — a remarkable honor for what is, at its core, four ingredients: flour, water, salt, and yeast. The baguette is not just bread; it is an argument about what bread should be: crisp and shattering outside, open-crumbed and chewy within, a vehicle that enhances everything it carries without apologizing for its own texture.\n\nThe baguette arrived in America through waves of francophilia that swept the country in the mid-twentieth century — accelerated dramatically by Julia Child, who in her 1961 masterwork described French bread in terms so reverential that American home cooks began importing French flours and building steam-injected home ovens. French-style boulangeries appeared in major cities in the 1970s and 1980s, and the baguette began appearing in American sandwiches: the po'boy has long used French-style bread, the banh mi uses a Vietnamese adaptation of the baguette introduced during French colonialism, and burger culture found its own use for the baguette when gastropub chefs in the 2000s began seeking alternatives to the soft brioche bun. A thick section of baguette — toasted, buttered, its crust scored so the structural integrity doesn't shatter the contents — became the mark of a confident, French-inflected burger.\n\nThe first baguette sandwich I ever made was a disaster. I was seventeen, staying with a family in Lyon for a summer language program, and I had watched the father of the house build his lunch with the kind of practiced ease that made it look effortless — a little Dijon, some cornichons, a slice of pâté, a few leaves of butter lettuce. I tried to recreate it and forgot to score the crust. When I bit in, the entire thing fired cornichons across the kitchen like a slingshot. The mother laughed until she cried. She sat me down and showed me, slowly, how to score the bread, how to press the filling firmly but gently, how to understand the bread's geometry before you committed to the bite. That sandwich, done correctly on my second attempt, remains one of the best things I have ever eaten.\n\nA burger cooked to medium rare — between 130 and 135 degrees Fahrenheit — is the only honest version of the dish. The baguette bun in this recipe has real structural authority: its crust holds up to moisture, its crumb absorbs juices without dissolving. It would be a tragedy to fill that architecture with an overcooked patty — a gray, desiccated disk that leaks no juice because it has none left to give. Medium rare beef is alive inside, warm and yielding, still rosy at the core where the fat has softened but not rendered away entirely. The baguette demands a worthy passenger. The medium-rare patty is the only one with enough character for the ride.",
+    "ingredients": [
+      "For the baguette buns (makes 4 short baguette sections):",
+      "500g bread flour (plus more for shaping)",
+      "375ml cool water (approximately 68°F)",
+      "10g fine sea salt",
+      "4g instant yeast",
+      "1 tsp sugar",
+      "2 tbsp unsalted butter, melted (for toasting)",
+      "For the patties:",
+      "700g ground beef (80% lean chuck, 20% fat)",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly cracked black pepper",
+      "For the Dijon herb butter:",
+      "115g unsalted butter, softened",
+      "2 tbsp whole-grain Dijon mustard",
+      "1 tbsp smooth Dijon mustard",
+      "2 tbsp fresh tarragon, finely chopped",
+      "1 tbsp fresh chives, finely chopped",
+      "1 clove garlic, grated",
+      "1/4 tsp kosher salt",
+      "For toppings:",
+      "4 slices Gruyère cheese",
+      "8 cornichons, sliced lengthwise",
+      "1 cup frisée lettuce, torn",
+      "1 large shallot, thinly sliced into rings",
+      "1 tbsp red wine vinegar",
+      "1 tsp sugar",
+      "1/2 tsp kosher salt",
+      "Freshly cracked black pepper to finish"
+    ],
+    "instructions": [
+      "1. Make the baguette dough: In a large bowl, combine flour, yeast, and sugar. Add water and mix with your hand or a wooden spoon until a shaggy dough forms. Rest 20 minutes (autolyse). Add salt and knead on a lightly floured surface for 10 minutes until smooth and extensible. Place in a lightly oiled bowl, cover, and refrigerate overnight (12 to 16 hours) for a slow cold ferment.",
+      "2. Remove dough from refrigerator and let it come to room temperature for 1 hour. Gently turn it out onto a floured surface and divide into 4 equal pieces. Shape each into a short baguette about 6 inches long by folding the long edges to the center, sealing, then rolling gently under your palms. Place seam-side down on a parchment-lined baking sheet, spacing apart. Cover and proof 1 hour until noticeably puffed.",
+      "3. Preheat oven to 475°F (245°C) with a heavy pan on the bottom rack. Score each baguette with 3 diagonal slashes using a sharp knife or lame. Place a cup of boiling water in the bottom pan to create steam. Bake 18 to 22 minutes until deep mahogany brown and hollow-sounding when tapped. Cool on a rack completely before slicing.",
+      "4. Make the Dijon herb butter: Beat softened butter with both mustards, tarragon, chives, garlic, and salt until fully combined. Transfer to a sheet of plastic wrap, roll into a log, and refrigerate until firm, at least 30 minutes.",
+      "5. Quick-pickle the shallots: Combine shallot rings, red wine vinegar, sugar, and salt in a small bowl. Toss and let sit 30 minutes, tossing occasionally. Drain before using.",
+      "6. Prepare the patties: Divide ground beef into 4 equal portions (about 175g). Shape each gently into an elongated oval patty that fits the baguette cross-section — approximately 5 inches long, 3 inches wide, and 3/4 inch thick. Make a thumb dimple in the center. Season both sides with salt and pepper just before cooking.",
+      "7. Cook the patties: Heat a cast-iron skillet over high heat until smoking. Sear patties 3 minutes undisturbed. Flip and lay a slice of Gruyère on each. Cook 2 to 2.5 minutes more until the internal temperature reaches 130 to 135°F (54 to 57°C). Remove from heat and rest 3 to 4 minutes.",
+      "8. Slice each cooled baguette section in half horizontally. Spread a thick layer of Dijon herb butter on both cut sides. Toast cut sides down in the residual skillet fat over medium heat until golden and crisp, about 2 minutes.",
+      "9. Assemble: Layer frisée on the bottom baguette half. Place the rested patty with melted Gruyère on top. Add a row of pickled shallot rings and sliced cornichons along the length of the patty. Crack black pepper generously over everything. Cap with the top half. Press gently and cut in half on the diagonal if desired. Serve immediately."
+    ]
+  }
+}

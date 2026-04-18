@@ -1,0 +1,41 @@
+{
+  "id": 54,
+  "name": "BRUSHETTA BOUT IT BURGER",
+  "price": "$5.95",
+  "season": 2,
+  "episode": 9,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/22",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/54",
+  "recipe": {
+    "history": "Bruschetta is one of the oldest and most honest preparations in the Italian culinary canon, tracing its roots back to central Italy — particularly Tuscany and Lazio — where olive oil producers would toast slabs of coarse bread over open flames to taste the fresh-pressed oil of each harvest season. The word itself derives from the Roman dialect verb \"bruscare,\" meaning to roast over coals, and the dish was fundamentally a peasant's vehicle: rough bread, raw garlic rubbed hard into the crumb until it melted and stung, a generous pour of grassy, peppery new oil, and a pinch of coarse salt. Over centuries, the tomato — introduced to Italy from the New World in the 16th century and only widely embraced by the 19th — transformed bruschetta into the version the world now recognizes: ripe Roma or San Marzano tomatoes diced and macerated with fresh basil, garlic, and olive oil, piled onto golden toast. In its homeland, this topping is called \"bruschetta al pomodoro,\" and it remains an exercise in restraint: the quality of each ingredient must stand entirely on its own.\n\nBy the latter half of the 20th century, bruschetta had crossed the Atlantic and embedded itself in the American appetite, first appearing in white-tablecloth Italian-American restaurants along the East Coast as an antipasto, then gradually migrating downmarket into chain restaurants and home kitchens throughout the 1990s food boom. American cooks, never ones to leave a good thing alone, began amplifying the formula — balsamic reductions, shredded mozzarella, roasted garlic instead of raw — and somewhere along that trajectory, someone looked at a beef patty sizzling on a flat-top and recognized a natural kinship. A burger is, after all, just another expression of the same peasant logic: good meat, good bread, bold aromatics. The bruschetta burger became a staple of gastropub menus and backyard cookouts alike, the fresh tomato-basil topping cutting through beef fat in exactly the way a great condiment should — not masking the meat, but arguing with it productively, brightening every bite with acid and herb.\n\nI remember the first time I understood what a bruschetta burger could be. It was a Tuesday, which is the best day to cook seriously because no one is watching and nothing is at stake. I had half a pound of 80/20 chuck, a cutting board full of dead-ripe tomatoes from the farmers market that were threatening to turn if I didn't use them that afternoon, a bunch of basil that had been sitting in a glass of water on the counter like a small bouquet, and a head of garlic with cloves so fat and juicy they practically jumped out of their skins. I made the topping first, the way you always should — let it macerate in olive oil and a pinch of salt while the cast iron climbed to temperature — and when I finally laid it over the finished patty and took that first bite, the warmth of the meat hit the cold tomatoes and everything bloomed. It tasted like something Bob Belcher would scrawl on a chalkboard on a whim and then quietly be proud of for a week.\n\nMedium rare is not a preference — it is a philosophy, and for a burger like this one, it is the only morally defensible position. A patty cooked to 130–135°F (54–57°C) retains the rendered fat channels that carry flavor through the meat, keeps the interior tender and yielding rather than compressed and mealy, and provides a warm, juicy foundation against which a cold bruschetta topping can do its best work. The contrast — hot meat, cool tomatoes, crunchy toasted bun — is the whole point. Cook it past medium and you have squandered the beef, flattened the fat, and turned a conversation into a monologue. A proper meat thermometer costs twelve dollars and will repay that investment every single time. Pull at 130°F, rest for three minutes, let carryover do its quiet work. The burger will finish at exactly the right place, and it will taste, as Bob would say, like you meant it.",
+    "ingredients": [
+      "1 lb (450g) ground beef, 80/20 chuck, formed into 2 patties (¾ inch thick)",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 tbsp neutral oil (canola or grapeseed) for the pan",
+      "2 brioche burger buns, split",
+      "1 tbsp unsalted butter, for toasting buns",
+      "4 ripe Roma tomatoes (about 300g), seeded and diced ¼ inch",
+      "12 fresh basil leaves, chiffonade (plus whole leaves for garnish)",
+      "2 cloves garlic — 1 minced fine for bruschetta, 1 halved for rubbing buns",
+      "2 tbsp extra-virgin olive oil",
+      "1 tsp red wine vinegar",
+      "¼ tsp flaky sea salt (for bruschetta)",
+      "Pinch of crushed red pepper flakes (optional)",
+      "2 leaves green leaf or butter lettuce",
+      "2 slices fresh mozzarella (optional, but encouraged)"
+    ],
+    "instructions": [
+      "1. Make the bruschetta topping first: combine diced tomatoes, basil chiffonade, minced garlic, olive oil, red wine vinegar, flaky sea salt, and red pepper flakes (if using) in a bowl. Toss gently, taste, and adjust salt. Set aside at room temperature to macerate for at least 20 minutes — the tomatoes will release juice and the garlic will mellow slightly.",
+      "2. Remove burger patties from the refrigerator 20 minutes before cooking to take the chill off. Season generously on both sides with kosher salt and black pepper just before they hit the pan.",
+      "3. Heat a cast iron skillet or heavy stainless pan over medium-high heat until smoking. Add the neutral oil and swirl to coat.",
+      "4. Place patties in the pan and do not move them. Cook for 3–4 minutes until a deep mahogany crust forms on the bottom.",
+      "5. Flip patties once. Cook for an additional 2–3 minutes, then begin checking internal temperature with an instant-read thermometer inserted horizontally through the side of the patty into the center.",
+      "6. Pull patties off heat when the internal temperature reads 130°F (54°C). Transfer to a wire rack or plate and rest uncovered for 3 minutes — carryover cooking will bring them to 133–135°F (56–57°C), a perfect medium rare. Do not skip the rest.",
+      "7. While patties rest, wipe out excess fat from the pan and reduce heat to medium. Add butter and toast bun halves cut-side down until golden brown, about 1–2 minutes. Remove from heat and immediately rub the cut side of the toasted buns with the halved raw garlic clove.",
+      "8. If using fresh mozzarella, lay a slice over each patty during the last 30 seconds of the rest period — residual heat will soften it gently without melting it into oblivion.",
+      "9. Assemble: place a lettuce leaf on the bottom bun, set the rested patty on top, and spoon a generous amount of bruschetta topping (including the accumulated juices) directly over the patty. Crown with the top bun.",
+      "10. Serve immediately. The contrast between the warm patty and the cool, acidic bruschetta topping is the entire point — do not let it sit."
+    ]
+  }
+}

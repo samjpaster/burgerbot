@@ -1,0 +1,49 @@
+{
+  "id": 48,
+  "name": "SIT AND SPINACH BURGER",
+  "price": "$5.95",
+  "season": 2,
+  "episode": 8,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/21",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/48",
+  "recipe": {
+    "history": "Spinach — Spinacia oleracea — traces its origins to ancient Persia, where it was cultivated as far back as the 6th century BCE in the region now known as Iran. Persian traders and scholars prized it not only as a food crop but as a medicinal plant, believing it to strengthen the blood and calm the stomach. From Persia, spinach traveled westward along the great Arab trade routes of the medieval world. Arab agronomists introduced it to Spain by the 11th century, and from the Iberian Peninsula it fanned outward across the European continent. The Moors called it 'the prince of vegetables,' a title that stuck in spirit if not in name as European courts adopted it into their kitchens. By the 14th century it had reached England, and the French so loved it that Catherine de' Medici, born in Florence, reportedly insisted on having spinach prepared at every royal meal when she became Queen of France — giving rise to the culinary term 'à la Florentine,' still used today to denote dishes garnished with spinach.\n\nSpinach arrived in North America with the earliest European colonists, appearing in kitchen gardens from Virginia to Massachusetts by the 17th century. For much of American culinary history it lived a quiet life as a boiled side dish, frequently overcooked and consequently maligned. That perception shifted dramatically in the early 20th century when nutritional science — later shown to contain a decimal-point error in the iron content data — catapulted spinach to superfood status. Then came Popeye the Sailor Man, debuting in 1929, and an entire generation of American children was told in no uncertain cartoon terms that spinach meant strength. Whether or not it actually moved the needle on childhood vegetable consumption, it cemented spinach firmly in the American imagination. From there it was only a matter of time before it migrated off the side plate and onto the burger — first in steakhouse salads, then tucked into gourmet patty melts, and eventually finding its rightful home as a sautéed, garlicky, wilted crown on top of a serious beef patty. Bob Belcher understood this trajectory intuitively.\n\nI remember the first time I had a burger with sautéed spinach instead of lettuce. It was at a small counter spot, the kind with eight stools and a short-order cook who didn't look up when you sat down. I'd ordered on instinct, pointing at a chalkboard special, and what arrived was unexpected: a thick beef patty, a deep pink interior bleeding into the bun, and a pile of glistening dark spinach that had been cooked down in garlic and finished with a little lemon. I ate it slowly. The spinach had none of the cold crunch I associated with burger toppings — instead it was silky, savory, collapsing into the meat juices in a way that felt less like a garnish and more like a co-author of the whole experience. I've chased that burger ever since. The Sit and Spinach is my attempt to reconstruct it from memory, and I think I've gotten close.\n\nMedium rare is not a preference — it is a position. A beef patty cooked to an internal temperature of 130–135°F (54–57°C) retains the myoglobin that gives it color and the intramuscular fat that gives it flavor. Beyond that range, proteins seize, moisture escapes, and what you are left with is something that requires condiments to be edible rather than condiments that complement something already excellent. The sear on the outside should be hard and dark, achieved through high heat and patience — do not press the patty, do not move it before it releases on its own. The crust is the contrast. Inside, the meat should yield. There is a philosophy of restraint embedded in medium rare cookery: the acknowledgment that the ingredient itself, given the right conditions and left mostly alone, will do the work. A thermometer is not a crutch. It is precision. Use it.",
+    "ingredients": [
+      "For the patty:",
+      "8 oz (225g) ground beef, 80/20 chuck blend",
+      "1/2 tsp kosher salt",
+      "1/4 tsp freshly ground black pepper",
+      "1/4 tsp garlic powder",
+      "For the sautéed spinach:",
+      "4 oz (115g) fresh baby spinach",
+      "2 cloves garlic, thinly sliced",
+      "1 tbsp unsalted butter",
+      "1 tsp olive oil",
+      "1/4 tsp red pepper flakes",
+      "1 tsp fresh lemon juice",
+      "Pinch of kosher salt",
+      "For the bun and assembly:",
+      "1 brioche hamburger bun",
+      "1 tbsp unsalted butter, softened (for toasting bun)",
+      "1 slice Swiss cheese",
+      "1 tbsp mayonnaise",
+      "1 tsp Dijon mustard",
+      "2 slices ripe tomato",
+      "Flaky sea salt, to finish"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 20–30 minutes before cooking to bring it closer to room temperature. This promotes even cooking throughout the patty.",
+      "2. Divide the beef into one 8 oz portion. Gently form it into a patty roughly 4 inches in diameter and 3/4 inch thick. Do not overwork the meat — handle it as little as possible. Use your thumb to press a shallow dimple in the center to prevent doming during cooking. Season both sides generously with kosher salt, black pepper, and garlic powder.",
+      "3. Place a cast iron skillet or heavy stainless pan over high heat. Allow it to preheat for at least 2 minutes until the pan is very hot and just beginning to smoke. Add a thin film of neutral high-smoke-point oil (such as canola or avocado oil).",
+      "4. Place the patty in the pan. Do not press it down. Do not move it. Sear undisturbed for 3–4 minutes until a deep mahogany crust has formed and the patty releases cleanly from the pan surface.",
+      "5. Flip the patty once. Immediately lay the slice of Swiss cheese on top. Continue cooking for 2–3 minutes. Begin checking internal temperature with an instant-read thermometer inserted horizontally through the side of the patty. Target range is 130–135°F (54–57°C) for medium rare. Remove from heat at 130°F (54°C) and tent loosely with foil — carryover cooking will bring it to temperature as it rests.",
+      "6. Rest the patty for 4–5 minutes. Do not skip this step. Resting allows the muscle fibers to relax and reabsorb juices that would otherwise flood the cutting board.",
+      "7. While the patty rests, prepare the sautéed spinach. In a separate skillet over medium heat, melt the butter with the olive oil. Add the sliced garlic and red pepper flakes and cook, stirring frequently, for 60–90 seconds until the garlic is fragrant and just beginning to turn golden at the edges.",
+      "8. Add the fresh spinach to the skillet all at once. Toss with tongs to coat in the garlic butter. Cook for 1–2 minutes, tossing occasionally, until the spinach is fully wilted and has reduced significantly in volume. Remove from heat, add the lemon juice, and season with a pinch of kosher salt. Set aside.",
+      "9. Split the brioche bun and butter the cut faces with the softened butter. Toast cut-side down in the same cast iron skillet over medium heat for 60–90 seconds until golden brown.",
+      "10. Assemble the burger. Spread mayonnaise on the bottom bun and Dijon mustard on the top bun. Layer the tomato slices on the bottom bun and season them lightly with flaky sea salt. Place the rested patty with melted Swiss cheese on top of the tomatoes.",
+      "11. Pile the sautéed spinach generously over the cheese. The spinach should be the tallest element of the burger — do not be timid with it. Cap with the top bun.",
+      "12. Serve immediately. The internal temperature of the finished patty should be 130–135°F (54–57°C) — verified, pink, and correct."
+    ]
+  }
+}

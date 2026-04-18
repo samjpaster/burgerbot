@@ -1,0 +1,71 @@
+{
+  "id": 7,
+  "name": "REST IN PEAS BURGER",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 3,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/3",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/7",
+  "recipe": {
+    "history": "Few vegetables carry as much quiet history as the pea. Pisum sativum has been cultivated for at least ten thousand years, with some of the earliest evidence of its use traced to Neolithic sites in the Middle East and the fertile valleys of South Asia. Ancient Egyptians stored dried peas in tombs. Greek and Roman farmers grew them as a reliable field crop, and by the Middle Ages, dried peas had become a staple protein for peasants across Europe — thick pease pottage ladled into wooden bowls, sustaining entire populations through hard winters when meat was scarce or unaffordable. Fresh peas, the kind eaten sweet and green rather than dried and gray, only became widely accessible after the development of faster seed varieties in the 17th century, when they briefly became a fashionable obsession among the French court. From there, peas traveled with European settlers to the New World, taking root in kitchen gardens from New England to the Carolinas.\n\nThe road from pease pottage to burger topping is not as strange as it sounds. American diner culture has always been about pragmatic creativity — using what is on hand, making it work, making it delicious. By the mid-20th century, as the American hamburger codified itself as a cultural institution, cooks began experimenting with vegetable-based condiments and spreads beyond the standard ketchup-mustard binary. Peas, with their natural sweetness and ability to be pureed into a smooth, vibrant spread, found a quiet niche. Smashed pea purees started appearing on pub menus in the 1990s alongside fish and chips, a British influence that bled into American gastropub culture in the 2000s. From there it was a short leap to the burger — a schmear of bright green pea puree acting as both condiment and vegetable in one, cutting through the richness of a beef patty with something fresh and earthy and a little unexpected.\n\nI remember the first time someone put a pea puree on a burger in front of me. I was skeptical in the way you are when something looks too verdant, too intentional, too much like someone is trying to make you feel good about eating a burger. I took a bite waiting to be disappointed. I was not disappointed. The sweetness of the peas against the char of the beef, the creaminess of the spread against the give of a soft brioche bun — it worked in the way that things work when they have been quietly inevitable all along. That burger tasted like late spring, like eating outside, like the specific pleasure of something humble elevated just enough without losing what it was.\n\nCooking a beef patty to medium rare — an internal temperature of 130 to 135 degrees Fahrenheit — is not a preference. It is the correct answer, arrived at through the same process by which all correct answers are arrived at: experience, repetition, and honesty. Below that temperature, fat has not fully rendered, the texture is dense, and the meat tastes raw in a way that distracts from everything else. Above 140 degrees, moisture leaves the patty faster than it can be replaced, and what you have is a disk of protein that requires condiments to be edible rather than condiments that enhance something already worth eating. At 130 to 135, the fat is melted through the grind, the center is pink and yielding, the exterior carries a crust from the heat of the pan or grill, and every bite delivers what beef actually tastes like. The pea puree on this burger deserves a patty that meets it as an equal. Cook it right.",
+    "ingredients": {
+      "brioche_buns": [
+        "3 1/2 cups (440g) bread flour, plus more for dusting",
+        "2 1/4 teaspoons (7g) instant yeast",
+        "1 1/2 teaspoons fine sea salt",
+        "3 tablespoons (38g) granulated sugar",
+        "3 large eggs, room temperature",
+        "1/2 cup (120ml) whole milk, warmed to 110°F",
+        "6 tablespoons (85g) unsalted butter, softened, cut into pieces",
+        "1 egg yolk + 1 tablespoon milk, for egg wash",
+        "Sesame seeds for topping (optional)"
+      ],
+      "beef_patty": [
+        "1.5 lbs (680g) ground beef, 80/20 chuck blend",
+        "1 teaspoon kosher salt",
+        "1/2 teaspoon freshly ground black pepper",
+        "1/2 teaspoon garlic powder",
+        "1 tablespoon neutral oil (canola or vegetable), for cooking"
+      ],
+      "pea_puree": [
+        "2 cups (280g) fresh or frozen peas, thawed if frozen",
+        "2 tablespoons unsalted butter",
+        "2 tablespoons creme fraiche or sour cream",
+        "1 small shallot, finely minced",
+        "1 clove garlic, minced",
+        "1 tablespoon fresh lemon juice",
+        "1 teaspoon lemon zest",
+        "2 tablespoons fresh mint leaves, chopped",
+        "1 tablespoon fresh flat-leaf parsley, chopped",
+        "1/4 teaspoon fine sea salt, plus more to taste",
+        "1/4 teaspoon white pepper",
+        "Pinch of red pepper flakes"
+      ],
+      "toppings_and_assembly": [
+        "4 slices aged white cheddar or gruyere",
+        "4 leaves butter lettuce",
+        "1 medium shallot, thinly sliced into rings",
+        "1 tablespoon unsalted butter, for toasting buns",
+        "Flaky sea salt, for finishing"
+      ]
+    },
+    "instructions": [
+      "MAKE THE BRIOCHE BUNS (begin 3–4 hours ahead or the day before): Combine bread flour, instant yeast, salt, and sugar in the bowl of a stand mixer fitted with the dough hook. Whisk to combine.",
+      "Add the eggs and warm milk to the dry ingredients. Mix on low speed until a shaggy dough forms, about 2 minutes. Increase to medium speed and knead for 5 minutes until the dough comes together and begins to pull away from the sides of the bowl.",
+      "With the mixer running on medium-low, add the softened butter one piece at a time, waiting for each piece to incorporate before adding the next. This will take 8–10 minutes. Once all butter is added, increase speed to medium-high and knead for another 5 minutes until the dough is smooth, elastic, and slightly tacky but not sticky.",
+      "Transfer dough to a lightly oiled bowl, cover with plastic wrap, and let rise at room temperature until doubled in size, about 1.5 to 2 hours. Alternatively, refrigerate overnight for a slower, more flavorful rise.",
+      "Turn dough out onto a lightly floured surface. Divide into 4 equal portions (approximately 160g each). Shape each into a tight ball by pulling the dough under itself and pinching the seam at the bottom. Place on a parchment-lined baking sheet, seam-side down, spacing them 3 inches apart. Flatten slightly with your palm.",
+      "Cover loosely with plastic wrap and let proof at room temperature until puffy and nearly doubled, 45 minutes to 1 hour. Preheat your oven to 375°F (190°C) during this time.",
+      "Brush the tops of the buns gently with the egg wash (1 egg yolk mixed with 1 tablespoon milk). Sprinkle with sesame seeds if using. Bake for 18–22 minutes until deep golden brown and the internal temperature reads 190°F. Transfer to a wire rack and cool completely before slicing.",
+      "MAKE THE PEA PUREE: Bring a small saucepan of salted water to a boil. Blanch the peas for 90 seconds, then immediately transfer to an ice bath to stop cooking and preserve their color. Drain well.",
+      "In a small skillet, melt 1 tablespoon butter over medium-low heat. Add the minced shallot and cook, stirring, until softened and translucent, about 3 minutes. Add the garlic and cook 1 minute more. Remove from heat.",
+      "Combine the blanched peas, sauteed shallot and garlic, creme fraiche, remaining 1 tablespoon butter, lemon juice, lemon zest, mint, parsley, salt, white pepper, and red pepper flakes in a food processor. Pulse 8–10 times for a chunky-rustic texture, or process for 20–25 seconds for a smoother spread. Taste and adjust seasoning. The puree should be bright, sweet, herby, and slightly tangy. Refrigerate until ready to use.",
+      "FORM THE PATTIES: Divide the ground beef into 4 equal portions (approximately 170g each). Gently form each into a ball — do not compact the meat more than necessary. Flatten each ball into a patty about 3/4 inch thick and slightly wider than your buns (they will shrink during cooking). Use your thumb to press a shallow dimple into the center of each patty to prevent doming. Season both sides generously with kosher salt, black pepper, and garlic powder. Let rest at room temperature for 15 minutes before cooking.",
+      "COOK THE PATTIES TO MEDIUM RARE: Heat a cast iron skillet or heavy-bottomed pan over high heat until it begins to smoke lightly. Add the neutral oil and swirl to coat. Place the patties in the pan, dimple-side up, without crowding (cook in batches if needed). Do not press them down.",
+      "Cook undisturbed for 3 minutes until a deep brown crust forms on the bottom. Flip once. Place a slice of cheese on each patty immediately after flipping. Cook for 2 to 2.5 minutes more. Begin checking the internal temperature with an instant-read thermometer at the 2-minute mark. You are pulling the patties at 130–135°F for medium rare. The carry-over heat will bring them up another 2–3 degrees while they rest.",
+      "Transfer patties to a clean plate or wire rack and tent loosely with foil. Rest for 3 minutes — this is not optional. Resting allows the juices, which have been driven to the center of the patty by heat, to redistribute throughout the meat. Skipping this step means those juices end up on your plate instead of in your burger.",
+      "TOAST THE BUNS: While the patties rest, melt 1 tablespoon butter in the same skillet over medium heat, scraping up any browned bits. Place the buns cut-side down and toast until golden, about 1 minute. Watch them — they go from golden to burned quickly.",
+      "ASSEMBLE: Spread a generous tablespoon of pea puree on the cut side of the bottom bun. Add a leaf of butter lettuce. Set the cheese-topped patty on the lettuce. Add a few rings of sliced raw shallot over the cheese. Finish with a pinch of flaky sea salt directly on the patty. Spread a smaller amount of pea puree on the cut side of the top bun. Close the burger. Serve immediately."
+    ]
+  }
+}

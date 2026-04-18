@@ -1,0 +1,43 @@
+{
+  "id": 160,
+  "name": "THE HEIRLOOM WHERE IT HAPPENS BURGER",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 11,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/140",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/160",
+  "recipe": {
+    "history": "The heirloom tomato is not a variety but a category — a broad designation for any tomato cultivar that has been open-pollinated and passed down through generations of farmers and gardeners without the intervention of industrial hybridization. Many heirloom varieties trace their lineages back centuries: the Brandywine, arguably the most celebrated of all American heirlooms, was documented among the Amish communities of Pennsylvania as early as the 1880s; the Cherokee Purple is believed to have origins with the Cherokee Nation of the American Southeast; the Green Zebra was developed in 1983 by Washington State tomato breeder Tom Wagner, making it one of the youngest varieties that has earned the cultural heirloom designation. At their origins, these tomatoes represent something the industrial food system nearly erased: biodiversity, flavor above yield, and the accumulated horticultural memory of specific communities in specific places. The tomato itself arrived in Europe from the Americas following the Spanish conquest of the 16th century, carried from the Andean and Mesoamerican civilizations that had cultivated it for at least two thousand years before Europeans arrived.\n\nHeirloom tomatoes re-entered American culinary consciousness through the farmers' market movement of the 1980s and the farm-to-table revolution that followed. For decades, the American supermarket tomato had been bred for uniform color, thick skin, and shelf life — the ability to travel thousands of miles without bruising — at the expense of taste. The heirloom tomato's return was a corrective, championed by chefs and small farmers who understood that a tomato that collapsed in your hand under its own juice was not a defective product but a perfect one. On a burger, the heirloom tomato transformed a role that had been played for years by a watery, pale, flavorless disk into something worthy of the patty it accompanied: sweet, acidic, complex, alive.\n\nI keep a list in the back of a notebook — a record of the best single ingredients I have ever tasted in isolation, before they became part of something else. A Brandywine tomato I bought from an older man at a farmers' market who had been growing the same seed stock for forty years is on that list. I ate it standing at the prep counter, sliced thick, with nothing but salt. It was so full of water and sugar and acidity that it felt less like eating and more like a weather event. I thought about it for days afterward. When I put a slice of that tomato on a burger — cradled in the bottom bun, beneath the patty so its juice soaked into the bread — the burger became a different thing. The tomato was not a garnish. It was the anchor, the argument, the reason.\n\nThe relationship between a medium rare patty and an heirloom tomato is one of productive contrast. The patty, pulled at 130–135°F (54–57°C), is warm and yielding at the center, its fat still present and expressive. The heirloom tomato is cool and acid-bright, its sugar sharpened by that acidity into something that cuts through the richness of the beef like a long knife through soft bread. A well-done patty loses its fat and its warmth before it even reaches the plate; it is dry enough to make the tomato's juice feel incongruous rather than complementary. At medium rare, the patty and the heirloom tomato are in dialogue — the heat against the cool, the fat against the acid, the meaty depth against the vegetal brightness. This is not a philosophical preference. It is how the burger tastes best, and taste is the only argument that matters at the table.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "1 brioche or potato burger bun, split",
+      "2 tbsp unsalted butter, softened",
+      "1 tsp flaky sea salt",
+      "1/2 tsp freshly cracked black pepper",
+      "1 thick slice (1/2 inch) ripe heirloom tomato (Brandywine, Cherokee Purple, or Green Zebra), at room temperature",
+      "1 additional thin slice heirloom tomato for the top of the burger",
+      "Flaky sea salt and freshly cracked black pepper for seasoning the tomato",
+      "1 slice aged gruyère or sharp white cheddar cheese",
+      "2 leaves butter lettuce or green leaf lettuce",
+      "2 tbsp heirloom tomato aioli (mayonnaise blended with 1 tsp sun-dried tomato paste, 1/2 tsp sherry vinegar, pinch of salt)",
+      "1 tsp whole-grain Dijon mustard",
+      "4 fresh basil leaves",
+      "1 tsp extra-virgin olive oil",
+      "1 tsp neutral oil for the griddle"
+    ],
+    "instructions": [
+      "1. Make the heirloom tomato aioli: whisk together mayonnaise, sun-dried tomato paste, sherry vinegar, and a pinch of salt until smooth. Taste and adjust seasoning. Refrigerate until needed.",
+      "2. Slice the heirloom tomato and lay the slices on paper towels for 5 minutes to drain excess moisture. Season the thick slice lightly with flaky sea salt and cracked black pepper on both faces. Set aside at room temperature — a cold tomato is a wasted tomato.",
+      "3. Remove ground beef from refrigerator 20 minutes before cooking. Form into a single 8 oz patty, about 4 inches wide and 3/4 inch thick. Press a shallow dimple into the center. Season both sides generously with flaky sea salt and cracked black pepper.",
+      "4. Butter both cut faces of the bun. Heat a cast-iron skillet over medium-high heat until smoking. Toast buns cut-side down until golden and caramelized, about 90 seconds. Remove and set aside.",
+      "5. Increase heat to high. Add neutral oil to the skillet. Place the patty and cook undisturbed for 3 minutes to develop a deep, even crust.",
+      "6. Flip the patty once. Lay the gruyère or cheddar slice on top. Cook for 2–2.5 minutes.",
+      "7. Check internal temperature at the center of the patty. Pull at 130–135°F (54–57°C) for medium rare. Rest on a wire rack for 2 minutes — do not skip this step, as the resting redistributes the juices that will mingle with the tomato.",
+      "8. While the patty rests, spread the heirloom tomato aioli on the cut face of both the top and bottom buns.",
+      "9. Spread whole-grain Dijon mustard on the bottom bun over the aioli. Lay lettuce leaves on the bottom bun.",
+      "10. Place the thick, seasoned heirloom tomato slice directly on the lettuce. Drizzle lightly with extra-virgin olive oil. Lay 2 basil leaves on the tomato.",
+      "11. Place the rested, cheese-topped patty on the basil and tomato. Lay the thin heirloom tomato slice and remaining 2 basil leaves on top of the cheese.",
+      "12. Close the burger with the top bun. Press gently — the tomato juice will begin to soak into the bread immediately, which is not a flaw but the entire point. Serve at once."
+    ]
+  }
+}

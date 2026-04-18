@@ -1,0 +1,39 @@
+{
+  "id": 146,
+  "name": "\"The Bleakening, Part 2\"",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 6,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/135",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/146",
+  "recipe": {
+    "history": "Black garlic is born from patience and darkness — a single head of raw garlic slow-aged at low heat and high humidity for weeks until its cloves transform from sharp and pungent to soft, jet-black, and molasses-sweet. The process originated in South Korea, where it was developed in the early 2000s as a health supplement before chefs discovered its extraordinary culinary potential. Dark rye bread, meanwhile, has roots stretching back centuries across Scandinavia and Eastern Europe, where harsh winters and poor soil made wheat a luxury and rye the grain of survival. Together, these two ingredients carry the soul of long, cold seasons — the kind of brooding, introspective flavors that belong to short days and long nights.\n\nBlack garlic made its American culinary debut around 2008–2009, arriving in upscale restaurant kitchens in New York and San Francisco where chefs were drawn to its umami depth and lack of raw garlic's bite. Food writers called it transformative. It spread quickly into burger culture as a bold alternative to conventional condiments — smeared as a paste, folded into aioli, or pressed into compound butters. Dark rye buns followed, championed by the craft burger movement that sought rustic, hearty alternatives to the standard brioche. Smoked cheeses and smoked salts completed the picture, lending burgers a campfire gravity that felt earned rather than contrived.\n\nI first made a version of this burger during a particularly bleak December, the kind where the sun sets before 4 p.m. and the whole world feels like it is holding its breath. I had black garlic cloves left over from a Korean braising project, a wedge of smoked Gouda I'd been rationing, and a loaf of dense dark rye I'd baked two days prior. I smashed those black garlic cloves into a rough paste with a pinch of smoked salt, spread it on both cut faces of the rye, and built the burger almost by feel in the dim kitchen light. When I took the first bite I understood something: bleakness, when you lean into it fully, stops being oppressive and becomes atmospheric. That burger tasted like December should taste.\n\nCooking a patty to medium rare — 130 to 135°F at the center — is not a compromise or a shortcut. It is a commitment to the full truth of what beef is. The exterior carries the Maillard reaction's complexity: bitter char, caramelized crust, rendered fat. But the interior, rosy and yielding, holds the mineral sweetness of the meat itself, the juice that would be driven out and lost by further heat. Medium rare is the honest middle — not raw ambition, not the resignation of well done. It is the point at which a burger is entirely itself, and every other temperature is a departure from that center.",
+    "ingredients": [
+      "1 lb (450g) ground beef, 80/20 chuck blend",
+      "2 slices dark rye bread, sliced thick (or 2 dark rye buns)",
+      "6 cloves black garlic",
+      "1 tbsp unsalted butter, softened",
+      "1 tsp smoked salt, plus more to season patty",
+      "1/2 tsp freshly ground black pepper",
+      "2 slices smoked Gouda cheese",
+      "1 tbsp olive oil or neutral oil for cooking",
+      "1 tsp black garlic aioli base: 2 tbsp mayonnaise + remaining black garlic paste",
+      "1/4 cup arugula or watercress",
+      "2 thin slices of pickled red onion",
+      "1 tsp whole-grain mustard",
+      "1 tsp Worcestershire sauce"
+    ],
+    "instructions": [
+      "1. Remove black garlic cloves from their skins and mash into a smooth paste using the flat of a knife and a pinch of smoked salt. Divide the paste: half for the bun spread, half stirred into mayonnaise for the aioli.",
+      "2. In a bowl, gently combine the ground beef with Worcestershire sauce, 1/2 tsp smoked salt, and black pepper. Handle minimally — overworking develops tough texture. Form into one thick patty (about 3/4 inch) slightly wider than the bread, as it will shrink. Press a shallow dimple in the center with your thumb to prevent doming.",
+      "3. Refrigerate the patty uncovered for 15 minutes to firm up.",
+      "4. Heat a cast-iron skillet or heavy pan over high heat until smoking. Add oil and swirl to coat.",
+      "5. Season the outside of the patty with a final pinch of smoked salt. Place in the pan and do not move it. Sear for 3 minutes until a deep mahogany crust forms.",
+      "6. Flip once. Immediately lay smoked Gouda slices on top. Cook 2–3 more minutes. Begin checking internal temperature at the 2-minute mark.",
+      "7. Pull the patty when the internal temperature reads 130–135°F (54–57°C) at the thickest point. Transfer to a wire rack and tent loosely with foil. Rest for 3–4 minutes — carryover will bring it to a perfect medium rare.",
+      "8. While the patty rests, spread softened butter on the cut faces of the dark rye bread and toast in the same pan over medium heat, buttered side down, for 1–2 minutes until crisp and golden.",
+      "9. Spread black garlic paste on the bottom slice of rye. Spread black garlic aioli on the top slice. Add a thin smear of whole-grain mustard to the top slice as well.",
+      "10. Layer arugula or watercress on the bottom bread, then the rested patty with melted smoked Gouda, then pickled red onion rings. Cap with the top slice. Press gently, slice on the diagonal, and serve immediately."
+    ]
+  }
+}

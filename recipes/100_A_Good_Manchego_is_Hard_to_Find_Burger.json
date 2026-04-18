@@ -1,0 +1,50 @@
+{
+  "id": 100,
+  "name": "A Good Manchego is Hard to Find Burger",
+  "price": "$5.95",
+  "season": 5,
+  "episode": 10,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/77",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/100",
+  "recipe": {
+    "history": "Manchego is Spain's most celebrated cheese, with a protected designation of origin (PDO) that legally requires it to be produced in the La Mancha region of central Spain — the same arid, windswept plateau immortalized by Cervantes in Don Quixote — from the milk of Manchega sheep, a breed whose lineage on the Iberian Peninsula stretches back over three thousand years. Archaeological evidence suggests that sheep-milk cheese was produced in La Mancha as far back as the Bronze Age, and the distinctive esparto grass basket molds that imprint Manchego's characteristic zigzag rind pattern have been documented since at least the Roman era. Manchego is aged in natural caves or curing rooms for a minimum of 60 days for semi-curado (semi-cured) and up to two years or more for viejo (aged), developing flavors that range from buttery and mild in young wheels to dry, crystalline, and intensely nutty in fully aged ones. The ivory-to-golden paste, firm yet never brittle, carries a gentle lanolin undertone from the sheep's milk that gives it a complexity no cow's milk cheese can fully replicate.\n\nManchego's journey to the American burger was gradual but inevitable, carried along by the broader wave of interest in Spanish cuisine that swept through American restaurants and food media in the early 2000s. As tapas bars and Spanish-inspired restaurants proliferated in major American cities, ingredients like Manchego, Serrano ham, smoked paprika, and Marcona almonds moved from specialty import shelves to mainstream supermarkets. Chefs experimenting with the gourmet burger format recognized Manchego as a remarkable melting cheese — particularly semi-curado, which softens beautifully over a hot patty — with a flavor profile distinct from any French or American burger cheese. The nutty, slightly tangy, faintly grassy character of Manchego proved to be a natural partner for beef, and pairings with Serrano ham, roasted peppers, or aioli turned the Manchego burger into a miniature survey of Spanish charcuterie tradition.\n\nI first encountered Manchego as a teenager, at a tapas restaurant where my parents had taken me for a birthday dinner and where I was given a small plate of the cheese with quince paste and marcona almonds. I remember being confused by the flavor — it was unlike any cheese I had eaten before, simultaneously familiar and foreign, with a richness and a faint grassiness that seemed to belong to an older, more patient food tradition than the cheeses I grew up with. I did not think of it as a burger cheese until years later, when I melted a thick slab of semi-curado Manchego over a beef patty on a whim and discovered that it transformed everything: the nuttiness deepened the beef, the slight tang cut through the fat, and the melt was long and slow and golden, like something from a different century. Manchego on a burger is a lesson in the unexpected rightness of certain pairings.\n\nMedium rare — 130 to 135°F (54 to 57°C) — is not just the correct temperature for a beef patty; it is the temperature at which Manchego cheese does its finest work. The slow, golden melt of semi-curado Manchego requires a surface that is hot from the sear but still yielding beneath — a medium rare patty provides exactly that thermal environment. A well-done patty radiates a dry, tight heat that rushes the Manchego's melt unevenly and offers the cheese no juice to merge with; medium rare provides a warm, fat-rich interior whose moisture rises through the patty to meet the melting cheese from below. The result is an integration rather than a layering — beef and Manchego becoming a single, coherent thing. This is why temperature precision is not pedantry. It is the difference between a burger that is assembled and a burger that is composed.",
+    "ingredients": [
+      "1 lb (450g) ground beef chuck, 80/20 fat ratio",
+      "4 oz (113g) semi-curado Manchego cheese, sliced 1/4 inch thick",
+      "2 oz (57g) Serrano ham, thinly sliced (optional but recommended)",
+      "2 brioche or ciabatta burger buns",
+      "2 tbsp unsalted butter, softened",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1/2 tsp smoked paprika (pimentón de la Vera)",
+      "1/4 tsp garlic powder",
+      "1 tsp neutral oil (vegetable or canola)",
+      "For the saffron aioli:",
+      "3 tbsp good-quality mayonnaise",
+      "1 clove garlic, finely grated",
+      "1 tsp fresh lemon juice",
+      "Small pinch of saffron threads, steeped in 1 tsp warm water for 10 minutes",
+      "Pinch of smoked paprika",
+      "Salt to taste",
+      "For assembly:",
+      "4 leaves butter lettuce or oak leaf lettuce",
+      "4 strips of roasted red pepper (jarred is fine, patted dry)",
+      "4 thin slices ripe tomato"
+    ],
+    "instructions": [
+      "1. Prepare the saffron aioli: combine the mayonnaise, grated garlic, lemon juice, saffron with its steeping liquid, and smoked paprika in a small bowl. Mix well, taste for salt, and refrigerate until needed.",
+      "2. Remove the ground beef from the refrigerator 20 minutes before cooking. Divide into two 8 oz (227g) portions. Gently form each into a patty about 3/4 inch thick. Press a shallow dimple into the center of each patty.",
+      "3. Combine the kosher salt, black pepper, smoked paprika, and garlic powder. Season both sides and edges of each patty generously with the spice mixture.",
+      "4. Heat a cast iron skillet over high heat until smoking. Add the neutral oil and swirl to coat.",
+      "5. Place the patties in the skillet. Cook undisturbed for 3 minutes to develop a deep, spiced sear.",
+      "6. Flip once. Cook for 2 minutes on the second side.",
+      "7. Lay the Manchego slices evenly over each patty. Cover the skillet with a lid for 60–90 seconds, allowing the cheese to melt into a slow, golden layer.",
+      "8. Check internal temperature with an instant-read thermometer. Target is 130–135°F (54–57°C) for medium rare. Remove from heat and rest under loose foil for 3 minutes.",
+      "9. If using Serrano ham, briefly warm the slices in the residual skillet heat for 20–30 seconds per side until just fragrant and slightly crisped at the edges.",
+      "10. Butter the cut sides of the buns and toast cut-side down in the residual skillet heat for 60–90 seconds until golden.",
+      "11. Spread the saffron aioli generously on both cut sides of each toasted bun.",
+      "12. Layer the bottom bun with butter lettuce, then the rested Manchego-topped patty. Arrange the roasted red pepper strips and tomato slices on top. Drape the Serrano ham over everything if using.",
+      "13. Cap with the top bun and serve immediately."
+    ]
+  }
+}

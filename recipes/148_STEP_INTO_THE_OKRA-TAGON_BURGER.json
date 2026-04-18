@@ -1,0 +1,46 @@
+{
+  "id": 148,
+  "name": "STEP INTO THE OKRA-TAGON BURGER",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 8,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/137",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/148",
+  "recipe": {
+    "history": "Okra — Abelmoschus esculentus — is a flowering plant in the mallow family whose edible seed pods have been cultivated in northeastern Africa for at least 3,500 years, with strong evidence pointing to Ethiopia or the Sudan as its center of origin. Ancient Egyptians recorded its cultivation along the Nile, and it spread steadily through North Africa, the Middle East, and into the Indian subcontinent along trade routes. The plant thrives in hot, humid climates and produces pods with a distinctive mucilaginous quality — a natural thickening agent that made it indispensable in the stewed dishes of West Africa, where it became a central ingredient in the soups and sauces that would later travel across the Atlantic. In the 17th and 18th centuries, enslaved West Africans brought okra to the Caribbean and the American South, where it became the foundational ingredient of Louisiana gumbo and one of the most culturally resonant vegetables in the entire American food tradition.\n\nOkra entered American mainstream consciousness largely through Southern cooking, where it was embraced both fried — dredged in cornmeal and cooked until shatteringly crisp, its sliminess entirely transformed by heat — and stewed in slow-cooked dishes alongside tomatoes and spices. The fried preparation is what made okra a natural companion to burgers: crispy, earthy, with a green vegetable flavor that cuts through the richness of beef and cheese. By the early 21st century, Southern-inflected burger joints began featuring fried okra as a topping, a side, or ground into patty seasoning blends. The \"Okra-Tagon\" name is a clever portmanteau with the UFC's Octagon, and indeed a properly fried okra pod has a crisp ferocity that earns the fight metaphor.\n\nThe first time I put fried okra on a burger I was at a backyard cookout in Tennessee, improvising out of necessity — we had leftover fried okra from lunch and not enough pickle slices to go around. I stacked three pods on a patty almost as a joke and took a bite expecting to be skeptical. The crunch of the cornmeal coating against the juicy beef stopped me mid-chew. The okra's earthy, grassy flavor worked as a bridge between the burger's richness and the brightness of hot sauce on the bun. I have been intentional about it ever since. Sometimes the best burger toppings are the ones that arrive sideways, uninvited, and then refuse to leave.\n\nCooking a burger to medium rare — internal temperature of 130 to 135°F, 54 to 57°C — is the one non-negotiable in a build as textured as this one. The fried okra brings crunch; the patty must bring yielding softness and juice to balance it. A well-done patty would be a dry wall behind an interesting facade. Medium rare ensures the meat stays supple enough to push back, to share the bite with the okra rather than surrender to it. Temperature is not just food safety theater — it is the architecture of how a burger eats.",
+    "ingredients": [
+      "1 lb (450g) ground beef, 80/20 chuck blend",
+      "8–10 fresh okra pods, tops trimmed, sliced lengthwise in half",
+      "1/2 cup fine cornmeal",
+      "1/4 cup all-purpose flour",
+      "1/2 tsp cayenne pepper",
+      "1/2 tsp garlic powder",
+      "1/2 tsp onion powder",
+      "1 tsp kosher salt for dredge, plus more for patty",
+      "1/2 tsp freshly ground black pepper",
+      "1 egg, beaten",
+      "1/4 cup buttermilk",
+      "Vegetable oil for frying okra (about 1 cup)",
+      "1 tbsp neutral oil for cooking patty",
+      "1 brioche or sesame bun, split",
+      "1 tbsp unsalted butter for toasting",
+      "2 slices pepper jack cheese",
+      "2 tbsp hot sauce mayonnaise (2 tbsp mayo + 1 tbsp hot sauce)",
+      "1/4 cup shredded iceberg lettuce",
+      "2 slices ripe tomato",
+      "Sliced pickled jalapeños to taste"
+    ],
+    "instructions": [
+      "1. Make hot sauce mayo by whisking together mayonnaise and hot sauce in a small bowl. Refrigerate until needed.",
+      "2. Whisk together cornmeal, flour, cayenne, garlic powder, onion powder, and 1 tsp kosher salt in a shallow bowl. In a separate bowl, mix beaten egg and buttermilk.",
+      "3. Dip halved okra pods in the egg-buttermilk mixture, then dredge thoroughly in the cornmeal mixture, pressing to adhere. Set on a wire rack.",
+      "4. Heat vegetable oil in a small heavy skillet or saucepan to 375°F (190°C). Fry okra in batches, cut side down first, for 2–3 minutes per side until deeply golden and crisp. Drain on paper towels and season immediately with a pinch of salt.",
+      "5. While oil heats, gently form ground beef into a single thick patty. Press a shallow dimple in the center. Season both sides with kosher salt and black pepper.",
+      "6. Heat 1 tbsp neutral oil in a cast-iron skillet over high heat until smoking. Place the patty in the pan and sear undisturbed for 3 minutes.",
+      "7. Flip once. Lay pepper jack cheese slices on top. Cook 2–3 minutes, checking internal temperature beginning at the 2-minute mark.",
+      "8. Pull patty from heat at 130–135°F (54–57°C). Rest on a wire rack tented with foil for 3–4 minutes.",
+      "9. Butter bun faces and toast in the pan over medium heat, buttered side down, 1–2 minutes until golden.",
+      "10. Spread hot sauce mayo on both toasted bun faces. Layer bottom bun with shredded iceberg, tomato slices, the rested patty with melted pepper jack, a generous pile of fried okra pods, and pickled jalapeños. Cap with the top bun, press lightly, and serve immediately."
+    ]
+  }
+}

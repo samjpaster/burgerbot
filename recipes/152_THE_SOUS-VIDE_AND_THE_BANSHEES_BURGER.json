@@ -1,0 +1,46 @@
+{
+  "id": 152,
+  "name": "THE SOUS-VIDE AND THE BANSHEES BURGER",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 9,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/138",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/152",
+  "recipe": {
+    "history": "Sous vide — French for 'under vacuum' — is a method of cooking food sealed in an airtight bag submerged in a precisely temperature-controlled water bath. The technique was developed in the early 1970s independently by French chef Georges Pralus and food scientist Bruno Goussault. Pralus initially used it to improve the texture and yield of foie gras at the Restaurant Troisgros in Roanne, France, while Goussault pursued it from a food-safety and texture research perspective in Paris. Together and separately, they spent the following decades refining the science — understanding how proteins denature at specific temperatures, how collagen converts to gelatin at controlled low heat, and how vacuum-sealing prevents moisture loss. By the 1990s, sous vide had become a quiet revolution in Michelin-starred kitchens across France, Spain, and the United Kingdom, used for everything from duck confit to perfectly cooked salmon, all with a consistency impossible to achieve through conventional methods.\n\nSous vide crossed into American professional kitchens in the early 2000s, championed by chefs like Thomas Keller, who documented its possibilities extensively in his 2008 book Under Pressure. For a time, it remained the province of fine dining — a technique that required expensive immersion circulators and vacuum sealers unavailable to home cooks. But the democratization of the technology changed everything. By the early 2010s, affordable consumer-grade immersion circulators from companies like Anova and Joule brought sous vide into home kitchens across America. Burger culture was an early and enthusiastic adopter. A burger patty cooked sous vide to precisely 130°F (54°C) for an hour and then seared in screaming-hot cast iron achieves something traditional grilling cannot: an edge-to-edge medium-rare interior with a crust built entirely through rapid, high-heat Maillard reaction rather than gradual heat penetration. Every millimeter of the patty reaches exactly the same temperature — no gradient, no gray band, no overcooked edges.\n\nI came to sous vide burgers late, resistant in the way that anyone who loves the ritual of grilling tends to be resistant to scientific shortcuts. My first attempt was in a cramped apartment kitchen, a zip-lock bag and a stockpot with a clip-on thermometer serving as a janky improvised water bath. The patty that came out looked alarmingly pale and unappetizing, steaming gently in its own juices. Then it hit the cast iron, already screaming hot with a thin coat of ghee, and something remarkable happened in about forty-five seconds per side: a crust that was darker and more uniform than anything I had achieved through grilling, and an interior so consistently pink it looked almost fabricated. I bit into it standing over the stove and understood immediately that this was not a gimmick. The technique simply removes all the variables that lead to failure.\n\nThe philosophy of cooking a burger to medium rare is inseparable from a philosophy of humility — an acknowledgment that the ingredient came first, and technique serves it rather than overrides it. At 130–135°F (54–57°C), beef exists in a state of ideal tension: the proteins have set just enough to provide structure, the fat is fully liquefied and distributed through the meat, and the juices run faintly pink when the patty is pressed. Sous vide perfects this not by making the cook unnecessary but by removing the anxiety of timing — the difference between medium rare and medium is often thirty seconds on a hot grill, a margin too narrow for distraction. The water bath holds the patty at exactly the right temperature for as long as needed, and the final sear is the cook's signature. The result is the truest expression of what medium rare means: not undercooked, not safe-but-sad, but precisely, intentionally, irreducibly right.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 fat ratio",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 sprig fresh thyme",
+      "1 clove garlic, smashed",
+      "1 tablespoon ghee or clarified butter (for searing)",
+      "1 brioche burger bun",
+      "1 tablespoon unsalted butter (for toasting bun)",
+      "2 slices aged white cheddar",
+      "2 tablespoons mayonnaise",
+      "1 teaspoon Dijon mustard",
+      "1 teaspoon Worcestershire sauce",
+      "1 tablespoon caramelized onions",
+      "2 leaves green leaf lettuce",
+      "2 slices beefsteak tomato",
+      "Bread-and-butter pickle slices",
+      "Flaky sea salt, for finishing"
+    ],
+    "instructions": [
+      "1. Set up an immersion circulator in a large pot or container filled with water. Set the temperature to 130°F (54°C) for a medium-rare result and allow the bath to come fully to temperature.",
+      "2. Form the ground beef into a single patty approximately 3/4-inch thick, pressing a shallow dimple in the center. Season both sides generously with kosher salt and black pepper.",
+      "3. Place the seasoned patty in a zip-lock freezer bag or vacuum-seal bag along with the thyme sprig and smashed garlic clove. Remove as much air as possible using the water displacement method (submerging the open bag slowly in water before sealing) or a vacuum sealer.",
+      "4. Submerge the sealed bag in the 130°F (54°C) water bath. Cook for 1 hour. The patty will reach a precise, edge-to-edge temperature of 130°F (54°C) — do not exceed this bath temperature or extend the time beyond 4 hours.",
+      "5. While the patty cooks, prepare the burger sauce: whisk together mayonnaise, Dijon mustard, and Worcestershire sauce in a small bowl. Season with a pinch of salt and black pepper. Refrigerate until needed.",
+      "6. Prepare caramelized onions if not already made: cook thinly sliced onions in butter over low heat for 30–40 minutes, stirring occasionally, until deeply golden and sweet.",
+      "7. When the patty is ready, remove it from the bag and pat it thoroughly dry with paper towels. Moisture is the enemy of crust — dry the surface completely.",
+      "8. Heat a cast iron skillet over the highest possible heat until it just begins to smoke. Add the ghee or clarified butter (it has a higher smoke point than whole butter).",
+      "9. Place the patty in the skillet. Sear for 45–60 seconds per side — no more. The goal is a deep mahogany crust through rapid Maillard reaction, not additional cooking of the interior. The interior is already at 130°F (54°C) and must stay there.",
+      "10. In the final 30 seconds of searing the second side, lay the aged cheddar slices on top of the patty and cover the skillet with a lid or dome to melt the cheese using trapped steam.",
+      "11. Transfer the patty to a wire rack. The internal temperature should read 130–135°F (54–57°C). Rest for 2 minutes.",
+      "12. Toast the bun: melt butter in the skillet over medium heat and place the bun cut-side down until golden, about 60 seconds.",
+      "13. Assemble: spread burger sauce on both bun halves. Layer lettuce and tomato on the bottom bun. Place the patty with melted cheddar on top. Add caramelized onions and pickles. Finish with flaky sea salt, cap with the top bun, and serve immediately."
+    ]
+  }
+}

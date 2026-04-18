@@ -1,0 +1,45 @@
+{
+  "id": 150,
+  "name": "SMELLS LIKE BEAN SPIRIT BURGER",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 8,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/137",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/150",
+  "recipe": {
+    "history": "Beans — Phaseolus vulgaris in their many forms — are among the oldest cultivated foods in human history, with archaeological evidence of domestication in the Andes and Mesoamerica dating back over 7,000 years. Black beans were a cornerstone of Aztec and Mayan diets long before European contact, treasured for their protein density, their storability through dry seasons, and their deep, earthy flavor. Pinto beans — their name meaning \"painted\" in Spanish, for their mottled reddish-brown markings that disappear during cooking — were similarly central to the indigenous food cultures of what is now the American Southwest and northern Mexico. When Spanish colonizers arrived in the 16th century, they found beans already woven into every level of indigenous civilization: sacred offerings, trade goods, daily sustenance. They brought them back to Europe, and from there beans spread around the world — though none of those migrations diminished the Americas' claim as their spiritual homeland.\n\nBlack and pinto beans entered American mainstream cooking most decisively through Mexican and Tex-Mex culinary traditions that spread northward throughout the 20th century. Refried pinto beans — frijoles refritos, slow-cooked and then mashed and fried in lard or oil — became a ubiquitous side dish and condiment across the Southwest. Black bean spreads, black bean patties, and whole-bean burger toppings followed as chefs looked for ways to bring earthy, substantial vegetable flavors into the American hamburger. The title's Nirvana reference — \"Smells Like Teen Spirit\" — grounds this burger firmly in the early 1990s, when alternative culture was blowing up mainstream America, and so was the first serious wave of vegetable-forward American cooking.\n\nI made this burger for the first time during a period when I was cooking through every bean variety I could find, trying to understand why some felt meaty and satisfying while others felt like a consolation prize. Black beans, I discovered, have a minerality that stands up to beef rather than running from it. I cooked a pot of dried black beans low and slow with a dried ancho chile, a smashed clove of garlic, and half an onion, then smashed a rough portion into a chunky spread. Spooned onto a charred burger over a slice of sharp cheddar, that bean spread did something unexpected: it grounded the whole burger, added an earthiness that made the beef taste more like beef. It was a supporting character that turned out to be load-bearing.\n\nMedium rare — 130 to 135°F, 54 to 57°C — is the temperature of conviction. Beans bring a starchy, earthy weight to this burger that could tip it toward heaviness if the patty is overcooked and dry. A medium-rare center keeps the meat juicy and lively, giving the bean spread something bright to play against rather than a dry foil to sit atop. The contrast of cool-ish bean spread against the warm, juice-forward patty is the entire sensory argument for this burger. Cook it past medium rare and you lose the tension. Tension, in a great burger as in great music, is what makes you pay attention.",
+    "ingredients": [
+      "1 lb (450g) ground beef, 80/20 chuck blend",
+      "1 cup cooked black beans or pinto beans (canned is fine, drained and rinsed)",
+      "1 dried ancho chile, stemmed and seeded (or 1 tsp ancho chile powder)",
+      "2 cloves garlic, minced",
+      "1/2 small white onion, finely diced",
+      "1 tbsp olive oil for bean mixture",
+      "1 tbsp neutral oil for cooking patty",
+      "1/2 tsp ground cumin",
+      "1/2 tsp smoked paprika",
+      "Juice of 1/2 lime",
+      "Kosher salt and freshly ground black pepper",
+      "2 slices sharp cheddar or Monterey Jack cheese",
+      "1 brioche or sesame bun, split",
+      "1 tbsp unsalted butter for toasting",
+      "2 tbsp sour cream or Mexican crema",
+      "1/4 cup pico de gallo or fresh salsa",
+      "1/4 cup shredded iceberg lettuce",
+      "Pickled jalapeño slices to taste",
+      "Fresh cilantro leaves, small handful"
+    ],
+    "instructions": [
+      "1. Make the bean spread: heat olive oil in a small saucepan over medium heat. Add onion and cook 3–4 minutes until soft. Add garlic, cumin, smoked paprika, and ancho chile powder (or rehydrated ancho chile, finely chopped). Cook 1 minute. Add beans and 3 tbsp water. Cook 5 minutes, mashing roughly with a fork or potato masher until you have a chunky, spreadable texture. Stir in lime juice and season with salt. Set aside to cool slightly.",
+      "2. Gently form ground beef into a single patty about 3/4 inch thick with a shallow dimple pressed in the center. Season both sides generously with kosher salt and black pepper.",
+      "3. Refrigerate patty for 10–15 minutes.",
+      "4. Heat neutral oil in a cast-iron skillet over high heat until just smoking.",
+      "5. Place patty in the pan. Sear undisturbed for 3 minutes until a rich crust forms.",
+      "6. Flip the patty once. Lay cheddar or Monterey Jack slices on top immediately. Cook 2–3 minutes.",
+      "7. Begin checking internal temperature at 2 minutes. Pull from heat when the center reads 130–135°F (54–57°C). Transfer to a wire rack, tent with foil, and rest 3–4 minutes.",
+      "8. Butter the cut bun faces and toast in the same pan over medium heat for 1–2 minutes until golden.",
+      "9. Spread sour cream or crema on the bottom bun. Spoon a generous layer of the black bean spread on the top bun.",
+      "10. Build the burger: shredded lettuce on the bottom bun, then the rested patty with melted cheese, then pico de gallo, pickled jalapeños, and fresh cilantro leaves. Press the bean-spread top bun firmly down onto the stack and serve immediately."
+    ]
+  }
+}

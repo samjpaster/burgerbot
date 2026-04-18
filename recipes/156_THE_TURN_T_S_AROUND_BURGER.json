@@ -1,0 +1,41 @@
+{
+  "id": 156,
+  "name": "THE TURN T ... S AROUND",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 10,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/139",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/156",
+  "recipe": {
+    "history": "The concept of deconstructed cuisine traces its roots to the avant-garde kitchens of late-20th-century Spain, most notably the laboratory of Ferran Adrià at elBulli on the Catalan coast. Adrià and his contemporaries pioneered what became known as molecular gastronomy — the idea that every dish carries assumptions about form, and that those assumptions are worth dismantling. Before elBulli, deconstruction in food was largely accidental: a dish plated in haste, a recipe improvised under pressure. After Adrià, it became an intentional philosophy. The upside-down or deconstructed burger belongs to this lineage — an act of culinary rebellion that forces the diner to confront what a burger actually is, stripped of its familiar silhouette.\n\nThe deconstructed burger arrived in American cuisine sometime in the early 2000s, carried on the coattails of the farm-to-table movement and the rise of gastropubs willing to challenge fast-food orthodoxy. American chefs, inspired by the European avant-garde but anchored in the democratic spirit of the backyard cookout, began flipping conventions — literally. Some served the bun beneath the patty. Others presented the components side by side on a long wooden board. The upside-down burger became a symbol of playful irreverence: here is everything you love, rearranged so you have to think about it again. In diners and food trucks from Portland to Brooklyn, the turned-tables burger earned a cult following among eaters who wanted their comfort food to surprise them.\n\nI remember the first time Bob made me a deconstructed burger on a Tuesday night when the restaurant was slow and he was in one of his experimental moods. He flipped the whole assembly — bottom bun on top, crown on the bottom — and slid it across the pass with a look that dared me to say something. I didn't say anything. I picked it up, turned it back over out of pure reflex, and he laughed so hard he knocked over the salt shaker. We never did agree on which way was right. But that burger, with its sesame seeds pressing into my palm instead of grazing the roof of my mouth, tasted different — more intentional, more alive. Sometimes all it takes to see something clearly is to look at it from a new angle.\n\nCooking a burger to medium rare is not a shortcut or a compromise — it is the correct answer to the question the beef is asking. A patty pulled from the heat at an internal temperature of 130–135°F (54–57°C) retains the fat's full contribution: its moisture, its silkiness, the way it coats the tongue and carries flavor deep into the experience of eating. Well-done beef is beef that has answered every question twice, until there is nothing left to say. Medium rare beef is a conversation still in progress, pink at the center, warm throughout, confident without being loud. Whether the bun is on top or the bottom, the temperature of the patty is the one thing you do not turn around.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "1 brioche burger bun, split",
+      "2 tbsp unsalted butter, softened",
+      "1 tsp flaky sea salt",
+      "1/2 tsp freshly cracked black pepper",
+      "1 slice sharp white cheddar cheese",
+      "2 leaves green leaf lettuce",
+      "2 slices ripe beefsteak tomato",
+      "3 thin slices red onion",
+      "3 slices dill pickle",
+      "1 tbsp yellow mustard",
+      "1 tbsp mayonnaise",
+      "1 tsp ketchup",
+      "1 tsp neutral oil (canola or vegetable) for the griddle"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 20 minutes before cooking to take the chill off. Divide into a single 8 oz portion and gently form into a patty roughly 4 inches in diameter and 3/4 inch thick. Press a shallow dimple into the center with your thumb to prevent doming. Season both sides generously with flaky sea salt and cracked black pepper.",
+      "2. Split the brioche bun and butter both cut faces with softened butter. Set aside.",
+      "3. Heat a cast-iron skillet or griddle over medium-high heat until smoking. Add the neutral oil and swirl to coat.",
+      "4. Place the buttered bun halves cut-side down on the skillet and toast until deep golden brown, about 90 seconds. Remove and set aside — here is where the turn begins: place the crown (top bun) on the plate first, cut-side up, and the heel (bottom bun) beside it, cut-side up. You are building upside-down.",
+      "5. Increase heat to high. Place the seasoned patty on the skillet and cook undisturbed for 3 minutes until a deep mahogany crust forms on the bottom.",
+      "6. Flip the patty once. Immediately lay the slice of cheddar on top. Cook for an additional 2–2.5 minutes, tenting loosely with a small piece of foil to encourage the cheese to melt.",
+      "7. Check internal temperature with an instant-read thermometer inserted through the side of the patty into the center. Pull at 130–135°F (54–57°C) for medium rare. Rest the patty on a wire rack for 2 minutes — this is non-negotiable.",
+      "8. While the patty rests, build the deconstructed assembly: spread mayonnaise on the crown (which is sitting cut-side up as your base). Layer on the lettuce, tomato slices, and red onion.",
+      "9. Spread mustard and ketchup on the heel (which will become your top). Lay the pickle slices on the heel.",
+      "10. Place the rested, cheese-draped patty directly onto the mayonnaise-crown base, on top of the vegetables.",
+      "11. Cap the entire stack with the heel of the bun, pickle-side down, condiment-side facing the patty. The sesame seeds are now on the bottom. The tables have been turned. Serve immediately."
+    ]
+  }
+}

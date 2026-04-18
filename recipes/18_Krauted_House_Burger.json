@@ -1,0 +1,58 @@
+{
+  "id": 18,
+  "name": "Krauted House Burger",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 7,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/7",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/18",
+  "recipe": {
+    "history": "Sauerkraut's story begins not in Germany but in ancient China, where laborers building the Great Wall were said to sustain themselves on shredded cabbage fermented in rice wine. The practice of lactic-acid fermentation — packing salted cabbage tightly until its own juices submerge it — spread westward along trade routes over centuries, finding its most famous home in Central Europe. By the 16th century, German and Alsatian farmers had refined the technique into a staple of winter survival: a crock of sauerkraut in the cellar meant vitamins and flavor when nothing green grew, and the slow tang of fermentation became as much a part of the regional identity as the language itself.\n\nWhen waves of German immigrants arrived in the United States throughout the 19th century, they brought their crocks, their recipes, and their unshakeable conviction that cabbage improved almost everything. Street vendors in cities like New York and Chicago were selling sauerkraut-topped hot dogs by the late 1800s, and the topping migrated naturally onto the hamburger as that distinctly American sandwich rose to dominance in the 20th century. The Reuben sandwich — corned beef, Swiss, sauerkraut on rye — crystallized the marriage of German fermentation tradition and American diner culture into an icon. The Krauted House Burger stands in that lineage: tangy kraut cutting through beef fat, a reminder that the best American food has always been a conversation between cultures.\n\nI made this burger for the first time on a gray October evening when the restaurant was quiet and the wind was doing something theatrical outside — the kind of night that makes you think of haunted houses and creaking floors. The name wrote itself. There is something genuinely spooky about how good warm sauerkraut smells when it hits a hot griddle, a sour-savory ghost rising off the pan that convinces you the burger is already half-eaten before it is even assembled. That first bite confirmed what I suspected: the kraut did not just top the burger, it haunted it, threading its way through every other flavor so you could not imagine the sandwich without it. Some combinations possess a place.\n\nA burger cooked to medium rare — an internal temperature of 130 to 135 degrees Fahrenheit — is not a preference, it is a destination. Below that range you have raw meat with warm edges; above it you begin sacrificing the myoglobin that gives beef its color, juice, and depth of flavor. At 130 to 135, the fat has begun to render and baste the meat from within, the exterior has developed a crust with real Maillard complexity, and the center remains a yielding, rosy, mineral-rich core. The sauerkraut on this burger is acidic and alive; it needs a patty with enough presence to hold its own against that acidity. Only a medium-rare patty has that presence. Cook it further and you are making a different, lesser burger — one that the kraut will simply overwhelm.",
+    "ingredients": {
+      "patty": [
+        "8 oz (225 g) ground beef, 80/20 chuck blend",
+        "1/2 tsp kosher salt",
+        "1/4 tsp freshly ground black pepper",
+        "1/4 tsp garlic powder",
+        "1 tbsp unsalted butter (for griddle)"
+      ],
+      "bun": [
+        "1 brioche or potato-roll burger bun",
+        "1 tsp unsalted butter (for toasting)"
+      ],
+      "homemade_sauerkraut": [
+        "1/2 medium green cabbage (about 1 lb / 450 g), cored and very thinly sliced",
+        "1 tsp kosher salt (approximately 2% of cabbage weight)",
+        "1/2 tsp caraway seeds (optional but traditional)"
+      ],
+      "quick_pickle_brine_alternative": [
+        "1/2 medium green cabbage, cored and thinly sliced",
+        "1/2 cup apple cider vinegar",
+        "1/2 cup water",
+        "1 tsp kosher salt",
+        "1 tsp granulated sugar",
+        "1/2 tsp caraway seeds"
+      ],
+      "toppings_and_condiments": [
+        "1 slice Swiss cheese",
+        "1 tbsp whole-grain or spicy brown mustard",
+        "1 tsp mayonnaise",
+        "2-3 thin slices dill pickle",
+        "1 leaf green-leaf or butter lettuce",
+        "1 thick slice ripe tomato",
+        "2-3 thin rings white onion"
+      ]
+    },
+    "instructions": [
+      "FERMENTED SAUERKRAUT (5–7 days ahead): Weigh your sliced cabbage and measure 2% of that weight in kosher salt. Combine cabbage and salt in a large bowl and massage aggressively with your hands for 8–10 minutes until the cabbage has released a significant amount of liquid and feels limp. Add caraway seeds if using. Pack the cabbage tightly into a clean quart-sized mason jar, pressing down firmly after each addition so the liquid rises above the cabbage. The cabbage must be submerged under its brine — weigh it down with a small zip-lock bag filled with water or a clean stone. Cover the jar loosely with a cloth or loosely-placed lid (do not seal airtight). Leave at room temperature (65–75°F / 18–24°C), away from direct sunlight. Press the cabbage down once daily for the first two days. Taste beginning on day 3. The kraut is ready when it is pleasantly sour and crunchy, typically day 5–7. Seal and refrigerate; it keeps for months.",
+      "QUICK-PICKLE KRAUT (same-day alternative): Combine vinegar, water, salt, sugar, and caraway seeds in a small saucepan over medium heat. Stir until salt and sugar dissolve, about 2 minutes. Pour hot brine over sliced cabbage in a heatproof bowl. Press cabbage down, cool to room temperature (about 30 minutes), then refrigerate for at least 1 hour. Drain before using. This version is bright and tangy but lacks the probiotic depth of true fermentation.",
+      "Remove the ground beef from the refrigerator 20–30 minutes before cooking to take the chill off. Divide into one 8-oz portion and form gently into a round patty approximately 4.5 inches in diameter and 3/4 inch thick. Press a shallow dimple in the center with your thumb to prevent the patty from doming during cooking. Season generously on both sides with salt, pepper, and garlic powder immediately before cooking.",
+      "Heat a cast-iron skillet or griddle over medium-high heat for 3–4 minutes until it just begins to smoke. Add 1 tbsp butter and swirl to coat. Place the patty on the hot surface and do not press or move it. Cook for 3–4 minutes until a deep mahogany crust forms on the bottom.",
+      "Flip the patty once. Lay the slice of Swiss cheese on top immediately. Cook for an additional 2.5–3 minutes. Check the internal temperature with an instant-read thermometer inserted horizontally into the center of the patty. Pull the burger off the heat at 130°F (54°C) for medium rare — it will carry over to 133–135°F (56–57°C) as it rests. If you do not have a thermometer, the patty should feel soft with slight resistance when pressed in the center, and the juices should run pink. Tent loosely with foil and rest for 3–4 minutes.",
+      "While the patty rests, melt 1 tsp butter in the same pan or a separate small skillet over medium heat. Place the bun cut-side down and toast for 60–90 seconds until golden brown. Remove and set aside.",
+      "Drain 1/2 cup of sauerkraut well, pressing out excess liquid. In a small skillet or in the residual fat in the burger pan, warm the kraut over medium heat for 2–3 minutes, stirring occasionally, until heated through and fragrant. Do not cook it so long that it loses its crunch entirely.",
+      "Assemble the burger: spread mustard on the bottom bun, then mayonnaise on the top bun. Layer the bottom bun with lettuce, then the tomato slice, then onion rings. Place the rested patty (with melted Swiss) on top of the onion. Pile the warm sauerkraut generously over the cheese. Lay dill pickle slices over the kraut. Cap with the top bun, press gently, and serve immediately.",
+      "Serve with fries, extra mustard on the side, and the quiet satisfaction of knowing you did not overcook the burger."
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": 12,
+  "name": "Totally Radish Burger (Comes with Radish)",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 5,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/5",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/12",
+  "recipe": {
+    "history": "The radish is one of the oldest cultivated vegetables on earth, with roots — quite literally — stretching back over four thousand years. Ancient Egyptians revered it enough to carve its likeness into the walls of the pyramids, and records suggest it was fed to the laborers who built them. Simultaneously, across the ancient world, China was cultivating its own varieties of daikon and water radish, developing a diverse family of the Raphanus sativus species that would eventually spread along trade routes through Persia, Greece, and Rome. The Greeks valued radishes so highly they made golden replicas of them as temple offerings. It is a humble root vegetable that has quietly outlasted empires.\n\nRadishes arrived in the Americas with European colonists in the 16th century and took to the soil of the New World with ease. For most of American culinary history, however, they were relegated to the salad bowl — a raw, peppery garnish, never the star. The burger topping story begins in earnest in the mid-20th century, when adventurous diners in California and the Southwest, influenced by Japanese and Mexican cuisines that treated the radish with far more respect, began experimenting with thinly sliced raw radish and quick-pickled versions on sandwiches and burgers. The sharp, peppery crunch cut through fat in a way that lettuce never could. Slowly, quietly, the radish earned its place between the bun.\n\nI remember the first time I put a radish on a burger. It was a Tuesday — it is always a Tuesday when the important things happen — and the lunch rush had just died down. I had a bunch of French breakfast radishes left over from a failed special, and rather than toss them I sliced them paper-thin on the mandoline, tossed them in a little rice wine vinegar, sugar, and salt, and let them sit for twenty minutes while I prepped the patty. When I put that burger together and took a single bite standing over the cutting board, I stopped moving. The cool, tangy crunch against the warm, fatty beef was one of those combinations that makes you feel like you discovered something, even though the ingredients have been there all along. That is what cooking does to you when you let it.\n\nCooking a burger to medium rare — an internal temperature of 130 to 135 degrees Fahrenheit — is not a preference, it is a philosophy. It is a declaration that you respect the animal, the cut, and the person eating. At that temperature the fat has begun to render and baste the meat from the inside, the proteins have tightened just enough to hold the patty together without squeezing out every drop of juice, and the center remains a deep, rosy pink that carries the full, mineral richness of good beef. Cook past 140 and you are extracting water and surrendering flavor in exchange for nothing. Well-done is a punishment. Medium rare is the only honest answer to the question of what a hamburger can be.",
+    "ingredients": {
+      "patty": [
+        "8 oz (225g) ground beef, 80/20 chuck blend",
+        "1/2 tsp kosher salt",
+        "1/4 tsp freshly ground black pepper",
+        "1/4 tsp garlic powder",
+        "1 tsp neutral oil (canola or vegetable), for the pan or grill"
+      ],
+      "quick_pickled_radishes": [
+        "6–8 radishes (French breakfast or red globe), thinly sliced (1/16 inch) on a mandoline",
+        "3 tbsp rice wine vinegar",
+        "1 tbsp granulated sugar",
+        "1/2 tsp kosher salt",
+        "1/4 tsp red pepper flakes (optional)"
+      ],
+      "bun": [
+        "1 brioche or potato burger bun",
+        "1 tbsp unsalted butter, softened"
+      ],
+      "toppings_and_condiments": [
+        "1 tbsp mayonnaise",
+        "1 tsp Dijon mustard",
+        "2 leaves butter lettuce",
+        "2 slices ripe tomato",
+        "2 slices sharp cheddar cheese (optional)",
+        "Flaky sea salt, for finishing"
+      ]
+    },
+    "instructions": [
+      "Make the quick-pickled radishes: combine rice wine vinegar, sugar, kosher salt, and red pepper flakes in a small bowl and stir until the sugar and salt dissolve. Add the thinly sliced radishes, toss to coat, and set aside at room temperature for at least 20 minutes. They can be made up to 3 days ahead and refrigerated.",
+      "Form the patty: divide the ground beef into one 8 oz portion. Gently form into a round disk about 3/4 inch thick and slightly wider than your bun — it will shrink during cooking. Press a shallow dimple into the center with your thumb to prevent doming. Season both sides generously with kosher salt, black pepper, and garlic powder. Do not overwork the meat.",
+      "Preheat a cast-iron skillet or heavy-bottomed pan over medium-high heat for at least 2 minutes until it is very hot. Alternatively, preheat a gas or charcoal grill to high. Add the oil and swirl to coat.",
+      "Cook the patty: place the patty in the pan or on the grill and do not touch it for 3 minutes. Flip once and cook for an additional 2–3 minutes. If adding cheese, place it on the patty after the flip and tent loosely with a lid or foil for the final 60 seconds. Begin checking internal temperature at the 2-minute mark after the flip.",
+      "Check doneness with an instant-read thermometer inserted horizontally into the center of the patty. Pull the burger at 130°F (54°C) for medium rare — it will carry over to 132–135°F (56–57°C) while resting. Do not cook past 135°F. Transfer to a plate and rest for 3 minutes, uncovered.",
+      "Toast the bun: while the patty rests, spread the cut sides of the bun with softened butter. Place cut-side down in the same skillet over medium heat for 60–90 seconds until golden brown. Remove and set aside.",
+      "Build the burger: spread mayonnaise on the bottom bun and Dijon mustard on the top bun. Layer the bottom bun with butter lettuce, then the tomato slices, seasoned with a pinch of flaky sea salt. Place the rested patty on top of the tomato. Drain the pickled radishes and pile them generously over the patty. Cap with the top bun.",
+      "Serve immediately. Press down gently before the first bite so everything holds together. Eat over the plate — this is not a burger that apologizes for its juices."
+    ]
+  }
+}

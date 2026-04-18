@@ -1,0 +1,56 @@
+{
+  "id": 11,
+  "name": "These Collards Don't Run Burger",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 4,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/4",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/11",
+  "recipe": {
+    "history": "Collard greens are one of the oldest cultivated vegetables in human history, tracing their roots back to the eastern Mediterranean and sub-Saharan Africa thousands of years before the common era. Enslaved Africans brought to the American South carried with them a profound culinary knowledge of leafy brassicas, and it was their hands that transformed a tough, bitter green into one of the most transcendent dishes in the Southern canon. Slow-braised with smoked pork, onion, and pot likker — the dark, potassium-rich broth left behind — collard greens became the backbone of soul food culture, a cuisine born from scarcity and elevated by genius. They appear on Sunday tables, at church suppers, on New Year's Day alongside black-eyed peas for good luck, and in the quiet kitchens of grandmothers who never once consulted a recipe because the knowledge lived in their hands.\n\nThe leap from the cast-iron pot to the flat-top grill was inevitable, because collard greens were always destined for the burger. The American hamburger, for all its perceived simplicity, is at its best a vehicle for layered, slow-developed flavor — and nothing in the Southern larder delivers that more completely than a pot of long-braised collards. Chefs in the American South began appearing with collard-topped burgers in the early 2000s, part of a broader movement reclaiming regional ingredients as serious culinary currency. The slight bitterness of the greens cuts through beef fat with elegant precision; the acidity from a splash of apple cider vinegar added during the braise acts as a built-in condiment; and the silky, collapsed texture of a properly braised collard leaf drapes over a patty the way a good sauce does — coating, clinging, completing. Bob Belcher understood this. The burger board does not lie.\n\nI remember the first time a plate of collard greens genuinely stopped me in my tracks. I was twelve years old, standing in a church fellowship hall somewhere in rural Georgia, holding a foam plate that was bending dangerously under the weight of food stacked on it by people who believed feeding you was a form of love. Someone had ladled a portion of collards onto my plate without asking, and the smell alone — smoky, vegetal, faintly sour, deeply savory — rewired something in me. I ate them standing up, leaning against a folding table, and I did not speak for a full minute afterward. Years later, the first time I put braised collards on a burger, I was taken immediately back to that fellowship hall, that foam plate, that unasked-for generosity. That is what food is supposed to do. This burger does that.\n\nA burger cooked to medium rare — an internal temperature of 130 to 135 degrees Fahrenheit — is not a preference, it is a position. At that temperature, the myoglobin in the beef has relaxed but not fully denatured, leaving a warm, pink, yielding center that retains the fat-carried flavor compounds that define why we eat beef in the first place. Cook beyond 140 and you are in medium territory, where moisture begins to flee and the fat starts rendering out of the patty rather than basting it from within. Cook to well done and you have made a different food entirely — a dry, gray disk that has had the soul cooked out of it. The collard greens on this burger are braised low and slow for a reason; they deserve a patty that has been treated with equal patience and equal respect. Medium rare is not a shortcut. It is the correct answer to the question the beef is asking.",
+    "ingredients": {
+      "patty": [
+        "8 oz ground beef chuck, 80/20 fat ratio",
+        "1/2 tsp kosher salt",
+        "1/4 tsp freshly ground black pepper",
+        "1/4 tsp garlic powder",
+        "1 tsp neutral oil (canola or vegetable), for the cooking surface"
+      ],
+      "briasedCollardGreens": [
+        "1 large bunch collard greens (about 1 lb), stems removed, leaves cut into 1-inch ribbons",
+        "3 oz smoked bacon or smoked ham hock, diced",
+        "1/2 medium yellow onion, thinly sliced",
+        "3 cloves garlic, minced",
+        "1 cup chicken stock (low sodium)",
+        "1/4 cup apple cider vinegar",
+        "1 tsp brown sugar",
+        "1/2 tsp crushed red pepper flakes",
+        "1/2 tsp kosher salt, plus more to taste",
+        "1/4 tsp freshly ground black pepper",
+        "1 tbsp unsalted butter"
+      ],
+      "bun": [
+        "1 brioche hamburger bun",
+        "1 tbsp unsalted butter, softened, for toasting"
+      ],
+      "assembly": [
+        "1 slice sharp cheddar cheese",
+        "1 tbsp mayonnaise",
+        "1 tsp whole-grain mustard",
+        "2 slices ripe tomato",
+        "1 leaf green leaf lettuce"
+      ]
+    },
+    "instructions": [
+      "Braise the collard greens: In a heavy-bottomed pot or Dutch oven over medium heat, cook the diced bacon until the fat has rendered and the bacon is just beginning to crisp, about 5 minutes. Add the sliced onion and cook, stirring occasionally, until softened and translucent, about 6 minutes. Add the minced garlic and cook for 1 minute until fragrant.",
+      "Add the collard green ribbons to the pot in large handfuls, turning them with tongs to coat in the rendered fat. They will seem voluminous but will wilt quickly. Once all the greens are in the pot, pour in the chicken stock and apple cider vinegar. Add the brown sugar, red pepper flakes, salt, and black pepper. Stir to combine.",
+      "Reduce the heat to low, cover the pot, and braise the collards for 45 to 60 minutes, stirring every 15 minutes, until the greens are completely tender, silky, and deeply flavored. The pot likker — the braising liquid — should reduce to a concentrated, savory glaze that coats the greens. In the final minute of cooking, stir in the tablespoon of butter. Taste and adjust salt. Set aside, covered, to keep warm.",
+      "Form the patty: Gently divide the ground beef into an 8-oz portion. Handle the meat as little as possible to avoid compressing it. Shape it into a patty approximately 4 inches in diameter and 3/4 inch thick. Press a shallow dimple in the center of the patty with your thumb — this prevents it from doming as it cooks. Season both sides generously with the kosher salt, black pepper, and garlic powder immediately before cooking.",
+      "Cook the patty: Heat a cast-iron skillet or heavy flat-bottomed pan over high heat until it begins to smoke lightly. Add the neutral oil and swirl to coat. Place the patty in the pan and press it gently with a spatula for the first 10 seconds to ensure full surface contact. Cook undisturbed for 3 to 4 minutes until a deep brown crust forms on the first side.",
+      "Flip the patty once. Place the slice of sharp cheddar on top immediately after flipping. Cook for an additional 2 to 3 minutes. Begin checking the internal temperature at the 2-minute mark using an instant-read thermometer inserted horizontally into the center of the patty. Pull the burger off the heat when it reaches 130°F — it will carry over to 133–135°F while resting. Transfer to a wire rack or plate and rest, uncovered, for 3 to 4 minutes. Do not skip the rest.",
+      "Toast the bun: While the patty rests, spread the softened butter on both cut faces of the brioche bun. Toast cut-side down in the same skillet over medium heat for 60 to 90 seconds until golden brown. Remove and set aside.",
+      "Build the burger: Spread the mayonnaise on the bottom bun. Add the whole-grain mustard on top of the mayonnaise. Layer the lettuce leaf and tomato slices on the bottom bun. Place the rested patty — with its melted cheddar — on top of the tomato.",
+      "Using tongs, pile a generous portion of the braised collard greens directly on top of the patty and cheese. The greens should be warm and glistening, piled high enough that they cannot be ignored. Place the top bun on with light but confident pressure. Serve immediately."
+    ]
+  }
+}

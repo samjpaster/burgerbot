@@ -1,0 +1,82 @@
+{
+  "id": 34,
+  "name": "USE IT OR BLEUS IT BURGER - (Comes with bleu cheese)",
+  "price": "$5.95",
+  "season": 2,
+  "episode": 3,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/16",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/34",
+  "recipe": {
+    "history": "Blue cheese is one of the oldest and most storied cheeses in the world, with origins stretching back over two millennia to the limestone caves of southern France. The most celebrated ancestor of all modern blue cheeses is Roquefort, a sharp, crumbling sheep's milk cheese that legend says was discovered by a young shepherd who left his lunch — bread and fresh curd — in the Combalou caves near the village of Roquefort-sur-Soulzon. When he returned weeks later, drawn back by a beautiful girl he had spotted on the road, he found his forgotten meal transformed by the cave's native Penicillium roqueforti mold into something pungent, marbled, and extraordinary. By 1411, King Charles VI of France granted the village of Roquefort-sur-Soulzon a monopoly on the ripening of the cheese, making it one of the earliest protected food appellations in European history. From that French foundation, the tradition of cultivating mold-veined cheeses spread outward — to England's Stilton, Italy's Gorgonzola, and Denmark's Danablu — each culture pressing its own climate, milk, and microbiology into the form of something unmistakably funky and fierce.\n\nBlue cheese's arrival on the American burger is a story of postwar abundance and the democratization of European ingredients that once seemed impossibly sophisticated. Through the mid-twentieth century, blue cheese was largely a steakhouse luxury, crumbled over wedge salads or melted into compound butters at the kind of restaurants where jackets were required and the menu offered no surprises. But as American palates broadened in the 1970s and 1980s, driven in part by the rise of gourmet food culture and an explosion of imported cheeses in specialty grocery stores, cooks began experimenting with stronger flavors on the backyard grill. The blue cheese burger crystallized as a distinct thing somewhere in that era — a thick beef patty topped with a generous handful of crumbles that melt unevenly in the heat, pooling into salty, tangy pockets while the edges stay cool and sharp. It was the perfect marriage of humble and highbrow, a four-dollar patty dressed in something that felt almost transgressive. By the 1990s, the \"bleu burger\" appeared on diner menus from coast to coast, and its briny, assertive character became a litmus test: people who ordered it knew exactly what they wanted, and they wanted it boldly.\n\nI remember the first time a blue cheese burger genuinely stopped me in my tracks. It was at a low-ceilinged bar outside of Asheville, North Carolina, the kind of place with a jukebox that only played Merle Haggard and a bartender who looked like she had seen everything and judged none of it. I ordered without thinking, something called the \"Thunder Road,\" which came described on a chalkboard only as \"beef, bleu, done right.\" When it arrived, the cheese had melted into the crevices of the patty in a way that looked almost geological — pale blue-white rivulets running through a crust of deep brown sear. I picked it up and the whole thing pressed back against my hands like something alive. The first bite was a collision: the iron-rich earthiness of the beef, a hit of salt and cream and something almost barnyard from the cheese, and underneath all of it, the faint sweetness of a brioche bun that had been buttered and toasted until it was barely holding on. I didn't say anything for a long moment. The bartender caught my eye across the room and just nodded. Some things don't need explanation.\n\nCooking a beef patty to medium rare — an internal temperature of 130 to 135 degrees Fahrenheit, or 54 to 57 degrees Celsius — is not a preference. It is a philosophy, and like most sound philosophies, it is grounded in an understanding of what things actually are. Beef at medium rare is still in conversation with itself: the proteins have begun to set and firm at the surface, creating that essential crust, while the interior remains yielding, pink, and saturated with the fat and juices that carry the majority of the meat's flavor. Cook beyond this point and you are engaged in an act of subtraction — you are driving out moisture, tightening muscle fibers, converting what was luxurious into what is merely edible. A well-done burger patty is a different object than a medium rare one; it has a different texture, a different smell, a different relationship to the cheese and toppings resting on top of it. The blue cheese in particular demands a medium rare patty, because the warmth of the just-barely-cooked beef is what gently softens the crumbles without fully liquefying them, leaving that irreplaceable textural contrast between the creamy cheese and the tender, slightly resistant meat. To cook it further is to miss the point entirely — and with a burger this good, missing the point is not something you can afford to do.",
+
+    "ingredients": [
+      "FOR THE BRIOCHE BUNS:",
+      "3 1/2 cups (440g) bread flour, plus more for dusting",
+      "2 1/4 tsp (7g / 1 packet) active dry yeast",
+      "1/4 cup (60ml) whole milk, warmed to 110°F (43°C)",
+      "3 tbsp (38g) granulated sugar",
+      "1 1/2 tsp fine sea salt",
+      "3 large eggs, room temperature (2 for dough, 1 for egg wash)",
+      "6 tbsp (85g) unsalted butter, softened and cut into pieces",
+      "1 tbsp sesame seeds (optional, for topping buns)",
+
+      "FOR THE BEEF PATTIES (makes 4 patties):",
+      "1 lb (450g) ground beef chuck, 80/20 fat ratio",
+      "1/2 lb (225g) ground beef short rib",
+      "1/2 lb (225g) ground beef brisket",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1/2 tsp garlic powder",
+
+      "FOR THE BLUE CHEESE CRUMBLE TOPPING:",
+      "6 oz (170g) high-quality Roquefort or Maytag blue cheese, crumbled",
+      "1 tbsp heavy cream",
+      "Pinch of freshly ground black pepper",
+
+      "FOR THE BLUE CHEESE AIOLI:",
+      "2 oz (55g) blue cheese, crumbled",
+      "1/2 cup (115g) good-quality mayonnaise",
+      "1 tbsp sour cream",
+      "1 tsp fresh lemon juice",
+      "1 small garlic clove, finely grated",
+      "1/2 tsp Worcestershire sauce",
+      "Salt and black pepper to taste",
+
+      "FOR THE CARAMELIZED ONIONS:",
+      "2 large yellow onions, halved and thinly sliced",
+      "2 tbsp unsalted butter",
+      "1 tbsp olive oil",
+      "1/2 tsp fine sea salt",
+      "1 tsp fresh thyme leaves",
+      "1 tbsp balsamic vinegar",
+
+      "FOR ASSEMBLY:",
+      "4 leaves of butter lettuce",
+      "2 medium tomatoes, sliced 1/4 inch thick",
+      "8 strips thick-cut bacon, cooked until crisp",
+      "2 tbsp unsalted butter (for toasting buns)"
+    ],
+
+    "instructions": [
+      "1. MAKE THE BRIOCHE BUNS (start 4–5 hours ahead or the night before): Combine warm milk, yeast, and 1 tsp of the sugar in the bowl of a stand mixer. Let sit for 5–10 minutes until foamy.",
+      "2. Add the remaining sugar, 2 eggs, and 1 cup of the bread flour to the yeast mixture. Mix on low with the dough hook until combined, then add the salt. Gradually add the remaining flour, mixing until a shaggy dough forms.",
+      "3. Increase mixer speed to medium and knead for 5 minutes. With the mixer running, add the softened butter one piece at a time, waiting for each piece to incorporate before adding the next. This will take 8–10 minutes. Knead until the dough is smooth, supple, and pulls cleanly from the bowl sides.",
+      "4. Transfer dough to a lightly oiled bowl, cover with plastic wrap, and let rise at room temperature until doubled in size, about 1.5–2 hours.",
+      "5. Punch down the dough and divide into 4 equal portions (approximately 130g each). Shape each into a tight, smooth ball by pulling the surface taut and pinching underneath. Place on a parchment-lined baking sheet, spaced 3 inches apart. Flatten each ball gently to about 3/4-inch height.",
+      "6. Cover loosely with oiled plastic wrap and let proof for 45–60 minutes until noticeably puffed. Meanwhile, preheat oven to 375°F (190°C).",
+      "7. Beat the remaining egg with 1 tbsp water. Brush the tops and sides of the buns gently with egg wash. Sprinkle with sesame seeds if using. Bake for 16–20 minutes until deep golden brown. Cool completely on a wire rack before slicing.",
+      "8. MAKE THE CARAMELIZED ONIONS: Melt butter and olive oil together in a wide, heavy skillet over medium heat. Add the sliced onions and salt. Cook, stirring occasionally, for 10 minutes until softened.",
+      "9. Reduce heat to medium-low and continue cooking, stirring every few minutes, for 35–45 minutes until the onions are deeply golden brown and jammy. Add the thyme leaves and balsamic vinegar, stir to combine, and cook 2 more minutes. Remove from heat and set aside.",
+      "10. MAKE THE BLUE CHEESE AIOLI: Combine the crumbled blue cheese, mayonnaise, sour cream, lemon juice, grated garlic, and Worcestershire sauce in a small bowl. Mash together with a fork until mostly smooth with some texture remaining. Season to taste with salt and pepper. Refrigerate until needed.",
+      "11. PREPARE THE BEEF PATTIES: If grinding your own, combine the chuck, short rib, and brisket and pass through a meat grinder once on the coarse setting, then once on the medium setting. If using pre-ground, combine all three in a bowl and mix minimally with your hands until just integrated — do not overwork.",
+      "12. Divide the beef mixture into 4 equal portions (approximately 6 oz / 170g each). Gently shape each into a patty approximately 4.5 inches in diameter and 3/4 inch thick. Press a shallow dimple in the center of each patty with your thumb to prevent puffing. Season both sides generously with kosher salt and black pepper just before cooking.",
+      "13. COOK THE PATTIES TO MEDIUM RARE: Heat a cast-iron skillet or heavy griddle over high heat until smoking. Add a thin film of neutral oil with a high smoke point (such as avocado or canola oil). Place patties in the skillet without crowding — work in batches if needed.",
+      "14. Sear undisturbed for 3–3.5 minutes until a deep mahogany crust forms on the bottom. Flip once. Cook for an additional 2–2.5 minutes on the second side.",
+      "15. In the final 60 seconds of cooking, scatter the crumbled blue cheese evenly over each patty. Add the heavy cream drizzle over the cheese. Tent the pan loosely with a sheet of aluminum foil to trap heat and encourage the cheese to soften slightly without fully melting.",
+      "16. Remove patties from heat and rest on a wire rack for 3 minutes. The internal temperature should read 130–135°F (54–57°C) on an instant-read thermometer — pink, juicy, and yielding at the center. This is non-negotiable.",
+      "17. TOAST THE BUNS: While the patties rest, melt 2 tbsp butter in a clean skillet over medium heat. Place the buns cut-side down and toast for 60–90 seconds until golden and crisp at the edges. Remove and set aside.",
+      "18. ASSEMBLE THE BURGERS: Spread a generous layer of blue cheese aioli on both the top and bottom bun. On the bottom bun, layer in order: butter lettuce, tomato slice (lightly seasoned with salt), two strips of crispy bacon, the rested blue cheese-topped patty, and a spoonful of caramelized onions.",
+      "19. Cap with the top bun, press gently, and serve immediately. The window between perfection and a cold burger is short — do not hesitate."
+    ]
+  }
+}

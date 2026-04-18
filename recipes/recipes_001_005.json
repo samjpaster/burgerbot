@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "\"NEW BACON-INGS\"",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/1",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/1",
+    "recipe": {
+      "history": "Bacon has been a cornerstone of culinary culture for thousands of years, with its origins tracing back to ancient China around 1500 BCE, where pork belly was salted and cured as a method of preservation. The practice spread westward through trade routes, taking firm root in Europe — particularly in the British Isles and Germany — where smoking and dry-curing pigs became a deeply embedded tradition. By the time European settlers arrived in the Americas, cured pork was an essential pantry staple, and it quickly became a defining ingredient of Southern and Midwestern cooking in the United States. The word 'bacon' itself derives from the Old French 'bako' and Old High German 'bacho,' meaning 'buttock' or 'ham,' a reminder of just how long humanity has been devoted to this particular cut.\n\nBacon found its way onto the American burger almost as soon as the hamburger itself became a fixture of diners and drive-ins in the early 20th century. The bacon cheeseburger is widely credited to A&W restaurants in the 1960s, though countless diners across the country had been quietly layering crispy strips onto beef patties long before any chain claimed the title. The marriage made immediate sense — the smoky, salty fat of cured bacon cuts through the richness of ground beef and amplifies every savory note on the palate. From that point on, bacon became not just a topping but a symbol: a declaration that this burger meant business.\n\nWhen I think about the New Bacon-ings Burger, I am taken straight back to a Sunday morning at my grandmother's house, the kitchen already fragrant with rendered pork fat before 8 a.m. She believed deeply that no meal was complete without bacon, and she was right in the way only grandmothers can be. There was something ceremonial about watching her lay each strip into the cast iron skillet, the sizzle rising to a full roar, the fat going from pale and soft to deeply golden and laced with smoke. This burger carries all of that with it — the promise of a fresh start, a new beginning, with bacon unapologetically at the center of it all.\n\nCooking this burger to medium rare is not a suggestion — it is a commitment to the ingredient. A well-sourced, hand-ground beef patty cooked to an internal temperature of 130–135°F retains its natural juices, keeping the center rosy and tender in a way that a well-done patty simply cannot. The bacon, cooked separately to a perfect crisp, provides the textural contrast that makes every bite complete. To cook this patty beyond medium rare would be to lose the very thing that makes it worth making — that yielding, blushing center that tells you the beef was treated with respect from grind to grill.",
+      "ingredients": [
+        "FOR THE BUN: 300g bread flour",
+        "7g instant yeast",
+        "10g sugar",
+        "8g salt",
+        "30g unsalted butter, softened",
+        "170ml whole milk, warmed to 110°F",
+        "1 large egg",
+        "1 egg yolk + 1 tbsp milk (egg wash)",
+        "sesame seeds for topping (optional)",
+        "FOR THE PATTY: 500g beef chuck, coarsely ground (80/20 fat ratio)",
+        "1 tsp kosher salt",
+        "1/2 tsp freshly cracked black pepper",
+        "1 tbsp unsalted butter (for basting)",
+        "2 sprigs fresh thyme",
+        "1 clove garlic, smashed",
+        "FOR THE BACON: 6 thick-cut strips smoked bacon, preferably from a whole slab",
+        "FOR THE SAUCE: 3 tbsp mayonnaise",
+        "1 tbsp Dijon mustard",
+        "1 tsp apple cider vinegar",
+        "1 tsp honey",
+        "1/2 tsp smoked paprika",
+        "salt and black pepper to taste",
+        "FOR ASSEMBLY: 2 leaves butter lettuce",
+        "2 thick slices ripe tomato",
+        "2 thin slices white onion",
+        "2 slices sharp cheddar cheese"
+      ],
+      "instructions": [
+        "1. MAKE THE BUNS — Combine warm milk, yeast, and sugar in a large bowl. Let sit 5 minutes until foamy.",
+        "2. Add flour, salt, egg, and softened butter to the yeast mixture. Knead by hand or with a dough hook for 8–10 minutes until smooth and elastic.",
+        "3. Place dough in a lightly oiled bowl, cover with plastic wrap, and let rise at room temperature 1–1.5 hours until doubled in size.",
+        "4. Punch down the dough, divide into 2 equal portions, and shape each into a smooth tight round. Place on a parchment-lined baking sheet. Cover loosely and proof 45 minutes.",
+        "5. Preheat oven to 375°F (190°C). Brush buns with egg wash and sprinkle with sesame seeds if using. Bake 14–16 minutes until deep golden brown. Transfer to a wire rack to cool completely.",
+        "6. MAKE THE SAUCE — Whisk together mayonnaise, Dijon mustard, apple cider vinegar, honey, and smoked paprika until smooth. Season with salt and pepper. Refrigerate until needed.",
+        "7. COOK THE BACON — Lay bacon strips in a cold cast iron skillet. Set heat to medium. Cook slowly, turning occasionally, until the fat is fully rendered and the bacon is deeply caramelized and crisp, about 10–12 minutes. Drain on paper towels. Reserve 1 tbsp of bacon fat in the pan.",
+        "8. FORM THE PATTIES — Divide ground beef into 2 equal portions (~250g each). Form each loosely into a patty about 3/4 inch thick — do not overwork the meat. Press a shallow dimple in the center of each with your thumb to prevent doming during cooking. Season generously with kosher salt and black pepper on both sides immediately before cooking.",
+        "9. COOK THE PATTIES — Heat the cast iron skillet with the reserved bacon fat over high heat until it just begins to smoke. Add patties dimple-side up. Sear undisturbed for 2.5–3 minutes until a deep brown crust forms on the bottom.",
+        "10. Flip the patties. Add butter, thyme, and smashed garlic to the pan. Tilt the skillet and baste the patties continuously with the foaming butter for 1.5–2 minutes.",
+        "11. Lay a slice of cheddar on each patty. Cover loosely with a lid or foil tent for 30 seconds to melt the cheese.",
+        "12. Check internal temperature with an instant-read thermometer — target 130–135°F (54–57°C) for medium rare. Remove patties from heat and rest on a wire rack for 3 minutes.",
+        "13. TOAST THE BUNS — Slice buns in half and place cut-side down in the same skillet over medium heat. Toast 30–45 seconds until golden and lightly crisped.",
+        "14. ASSEMBLE — Spread the sauce generously on both cut sides of each bun.",
+        "15. On the bottom bun, layer butter lettuce, tomato, and white onion.",
+        "16. Place the rested patty with melted cheddar on top of the vegetables.",
+        "17. Lay 3 strips of crispy bacon across the cheese.",
+        "18. Cap with the top bun and serve immediately."
+      ]
+    }
+  }
+]

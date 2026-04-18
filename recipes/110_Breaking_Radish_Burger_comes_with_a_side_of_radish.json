@@ -1,0 +1,53 @@
+{
+  "id": 110,
+  "name": "Breaking Radish Burger (comes with a side of radish)",
+  "price": "$5.95",
+  "season": 6,
+  "episode": 3,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/91",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/110",
+  "recipe": {
+    "history": "The radish — Raphanus sativus — is among the oldest cultivated vegetables in human history, with evidence of its domestication in China, Egypt, and Greece predating the construction of the pyramids. The ancient Egyptians held the radish in high enough esteem that they are believed to have paid workers on the great pyramids partly in radishes, onions, and garlic — staple foods of enormous caloric and social value in a civilization that understood nutrition empirically even without the vocabulary to name it. The Greeks were so fond of radishes that they created golden replicas of them as offerings to the god Apollo, whereas turnips and beets merited only lead and silver respectively — a hierarchy of vegetable esteem that tells you everything about the radish's standing. In China, the daikon — meaning large root — became a foundational ingredient across the entire sweep of East Asian cuisine, appearing as a simmered element in Japanese oden and nimono, as the backbone of the Korean radish kimchi known as kkakdugi, as a stir-fried component in Chinese braised pork belly, and as a thin-shaved garnish beside sashimi where its enzyme content is said to aid in the digestion of raw fish. The sharp, peppery bite of the small red radish common in Western salads is a world away from the mild, slightly sweet, yielding presence of a well-braised daikon, yet both are expressions of the same extraordinary genus.\n\nThe radish entered American cuisine through several paths, none of them particularly glamorous. The small red salad radish became a common grocery store item in the mid-twentieth century, appreciated primarily as a crunchy, peppery, low-calorie addition to salads and crudité platters. Daikon arrived more decisively with the growth of Japanese and Korean immigrant communities, appearing on Japanese restaurant menus as grated oroshi accompanying grilled fish, and in Korean banchan spreads as cubed, spiced, fermented kkakdugi alongside piles of cabbage kimchi. The farm-to-table movement of the early 2000s and the broader chef-driven interest in underutilized vegetables began to position the radish as something more than a garnish. Roasting transforms the radish almost beyond recognition — the raw peppery bite mellows into something earthy and almost sweet, the flesh softens and takes on the color of the pan, and the greens, often discarded, reveal themselves as a peppery, slightly bitter green worthy of sautéing in butter. It was chefs experimenting with roasted radishes, quick-pickled radish slices, and radish-green pesto who first made the case that this humble root had a place on a serious burger.\n\nI grew up thinking radishes were the punishment vegetables — the things you ate raw because someone told you they were good for you and then forgot about by the second bite. I changed my mind one afternoon in a ramen shop in Seattle, where a small ceramic dish of braised daikon arrived as a side for my bowl. The daikon had been cooked low and slow in a dashi-soy broth until it was completely tender, translucent, and deeply savory, with just a whisper of the root's original peppery character left in the finish. I ate it all before I had touched the ramen, and then I asked the cook what had happened to make a vegetable I had ignored for twenty years suddenly taste like something essential. He said, simply, that most people don't give radishes any time. I have been giving them time ever since — quick-pickling the small red ones in rice vinegar, roasting the larger white ones with miso butter, shaving the black ones raw over meat because their bite is assertive enough to cut through fat in a way that most vegetables aren't.\n\nThe commitment to cooking a burger patty to medium rare — 130 to 135 degrees Fahrenheit, or 54 to 57 degrees Celsius — is ultimately a commitment to treating the whole plate as a system of flavors in balance rather than a pile of separate ingredients stacked for visual effect. The radish, in its pickled form, brings acid and crunch that medium-rare beef desperately wants alongside its fat and iron-rich juiciness. The raw shaved radish brings heat and snap that cuts through the richness of the melted cheese the way a bright knife cuts through wax. A well-done patty, desiccated and gray, would simply absorb these accompaniments without engaging them, like a sponge soaking up water. A medium-rare patty, still juicy and vibrant, pushes back. It has presence. The radish and the beef argue, and the argument is the flavor.",
+    "ingredients": [
+      "1.5 lbs (680g) 80/20 ground chuck, freshly ground if possible",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 bunch small red radishes (about 10 radishes), thinly sliced into rounds",
+      "1 large daikon radish (about 8 inches), divided",
+      "1/2 cup rice wine vinegar",
+      "1/4 cup water",
+      "2 tablespoons granulated sugar",
+      "1 teaspoon kosher salt (for the pickle brine)",
+      "1/2 teaspoon red pepper flakes",
+      "2 tablespoons white miso paste",
+      "2 tablespoons unsalted butter, softened",
+      "1 tablespoon neutral oil",
+      "4 slices fontina or havarti cheese",
+      "4 sesame brioche buns",
+      "1/2 cup mayonnaise",
+      "2 tablespoons rice wine vinegar (for the mayo)",
+      "1 teaspoon toasted sesame oil",
+      "1 teaspoon fresh ginger, grated",
+      "1 small clove garlic, grated",
+      "1 teaspoon soy sauce",
+      "2 cups mixed baby greens or peppery arugula",
+      "Radish greens from the bunch (if fresh and tender), washed",
+      "Unsalted butter, for toasting buns"
+    ],
+    "instructions": [
+      "1. Make the quick-pickled red radishes: combine the rice wine vinegar, water, granulated sugar, 1 teaspoon kosher salt, and red pepper flakes in a small saucepan. Bring to a simmer over medium heat, stirring until the sugar dissolves. Place the thinly sliced red radishes in a clean glass jar or heatproof bowl. Pour the hot brine over the radishes, making sure they are submerged. Let cool to room temperature, then refrigerate for at least 30 minutes (they improve with longer pickling time).",
+      "2. Prepare the daikon two ways: (a) Cut half of the daikon into 1/3-inch thick rounds. Toss with a pinch of salt and set aside. (b) Using a vegetable peeler or mandoline, shave the other half of the daikon into very thin, translucent ribbons. Place in a bowl of ice water to keep them crisp.",
+      "3. Make the miso-roasted daikon: preheat your oven to 425°F (220°C). Whisk together the white miso paste and softened butter until smooth to make miso butter. Toss the daikon rounds with half of the miso butter and a pinch of black pepper. Spread on a baking sheet and roast for 20 to 25 minutes, flipping once, until tender and caramelized with golden edges. Reserve the remaining miso butter.",
+      "4. Make the ginger-sesame mayo: in a small bowl, whisk together the mayonnaise, rice wine vinegar, sesame oil, grated ginger, grated garlic, and soy sauce until smooth. Refrigerate until needed.",
+      "5. Form the patties: season the ground chuck with 1 teaspoon kosher salt and 1/2 teaspoon black pepper. Mix gently and divide into 4 equal portions. Shape into patties approximately 3/4 inch thick, pressing a dimple into the center of each. Rest at room temperature for 15 minutes.",
+      "6. Heat the neutral oil in a large cast iron skillet over high heat until smoking.",
+      "7. Add the patties and cook without moving for 3 to 4 minutes until a deep, well-developed crust forms on the underside.",
+      "8. Flip each patty once. Immediately place a slice of fontina or havarti cheese on each patty. Cook for 2 to 3 more minutes, checking the internal temperature with an instant-read thermometer. Pull the patties when they reach 130 to 135°F (54 to 57°C). This is medium rare — the precise temperature range that preserves the burger's juiciness, fat content, and full flavor. Do not exceed this temperature.",
+      "9. Transfer patties to a wire rack and rest for 3 to 5 minutes.",
+      "10. While patties rest, quickly sauté the radish greens (if using): in the same skillet over medium heat, add a small pat of the reserved miso butter and toss the washed radish greens for 1 to 2 minutes until just wilted. Season with a pinch of salt.",
+      "11. Toast the buns: split the brioche buns and toast cut-side down in a buttered skillet over medium heat until golden, about 1 to 2 minutes.",
+      "12. Drain the shaved daikon ribbons from the ice water and pat dry.",
+      "13. Assemble: spread the ginger-sesame mayo generously on both bun halves. On the bottom bun, layer the baby greens and any wilted radish greens. Place 2 to 3 miso-roasted daikon rounds over the greens. Set the rested patty with melted cheese on top. Pile a small mound of quick-pickled red radish slices over the patty, then drape a few shaved daikon ribbons over everything for crunch and freshness. Close with the top bun. Serve with extra pickled radishes on the side."
+    ]
+  }
+}

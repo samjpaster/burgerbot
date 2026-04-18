@@ -1,0 +1,50 @@
+{
+  "id": 155,
+  "name": "THE WE BOUGHT A ZUCCHINI BURGER",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 9,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/138",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/155",
+  "recipe": {
+    "history": "Zucchini — Cucurbita pepo — belongs to the gourd family and is, botanically speaking, a fruit, though culinary tradition has always treated it as a vegetable. Its origins trace back approximately 10,000 years to the highlands of Mexico and Central America, where Indigenous peoples cultivated early squash varieties primarily for their seeds and flesh. The modern zucchini as we recognize it — the long, dark green summer squash with tender flesh and mild flavor — was developed through selective breeding in northern Italy, specifically in the Lombardy and Liguria regions, in the nineteenth century. The name itself comes from the Italian word for squash, zucca, with the diminutive suffix -ino meaning 'little squash.' Italian gardeners prized it not only for the flesh but for the blossoms, which became a signature of Italian regional cooking — stuffed with ricotta, battered, and fried in olive oil. The zucchini's combination of high water content, mild sweetness, and structural versatility made it an adaptable ingredient across the full range of Italian cooking methods: grilling, braising, frying, and eating raw.\n\nItalian immigrants brought zucchini to the United States in the late nineteenth and early twentieth centuries, and it spread quickly through home gardens in the Northeast. By the mid-twentieth century, the American backyard garden had adopted zucchini so enthusiastically that it became something of a cultural joke — the vegetable that produces more than any family can possibly eat, pressed on neighbors and left anonymously on porches in late August. Despite this familiarity, zucchini's culinary potential in American cooking was often underestimated. It wasn't until the farm-to-table movement and the rise of vegetable-forward cooking in the 2000s and 2010s that American chefs began treating zucchini with the same seriousness Italian cooks had always given it. Grilled and charred over high heat, zucchini loses its wateriness, caramelizes, and develops a smoky, concentrated flavor that works remarkably well alongside beef — the mild sweetness of the vegetable complementing the mineral richness of a well-cooked patty.\n\nI grew up in a house with a garden that produced, every summer, approximately forty thousand zucchini. My grandmother treated this as abundance rather than catastrophe. She grilled slabs of it over charcoal until they were striped and slightly collapsed, dressed them with nothing but olive oil, garlic, salt, and torn mint, and served them alongside everything. At some point — I was probably fifteen and experimenting with the grill unsupervised — I put a thick slab of that grilled zucchini on a burger. It seemed like an act of desperation more than inspiration. What I discovered was that properly grilled zucchini does something to a burger that almost no other vegetable does: it adds a layer of sweetness and char that amplifies the beefy, savory quality of the patty rather than competing with it. My grandmother, when I showed her, said nothing. She just nodded and went back inside, which was her highest form of praise.\n\nTo serve a burger with grilled zucchini at well-done would be to lose everything that makes the pairing work. The zucchini, grilled correctly, is tender and slightly yielding, with caramelized edges and a delicate sweetness. It needs a patty that is still juicy, still pink at the center, still carrying its full freight of flavor and fat. At 130–135°F (54–57°C), the beef provides that richness — a warm, yielding, deeply savory counterpart to the vegetable sweetness above it. Cooking the patty beyond medium rare produces a patty that is drier than the grilled zucchini, which inverts the textural relationship and makes the whole burger feel flat. Medium rare is not just a preference here; it is the structural logic of the dish.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 fat ratio",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 tablespoon neutral oil (canola or grapeseed)",
+      "1 brioche or potato burger bun",
+      "1 tablespoon unsalted butter (for toasting bun)",
+      "1 medium zucchini, sliced lengthwise into 1/4-inch planks",
+      "2 tablespoons extra-virgin olive oil (for zucchini)",
+      "1 clove garlic, finely grated",
+      "1/4 teaspoon red pepper flakes",
+      "1 tablespoon fresh mint leaves, roughly torn",
+      "1 teaspoon fresh lemon zest",
+      "1 teaspoon fresh lemon juice",
+      "2 tablespoons ricotta cheese or whipped feta",
+      "2 tablespoons mayonnaise",
+      "1 teaspoon lemon juice (for aioli)",
+      "1/2 teaspoon garlic powder",
+      "2 leaves butter lettuce",
+      "2 slices provolone or fontina cheese",
+      "Flaky sea salt, for finishing",
+      "Fresh basil leaves, for garnish"
+    ],
+    "instructions": [
+      "1. Remove the beef from the refrigerator 30 minutes before cooking. Form into a single 8 oz patty about 3/4-inch thick with a shallow dimple in the center. Season generously on both sides with kosher salt and black pepper.",
+      "2. Prepare the lemon-garlic aioli: whisk together mayonnaise, lemon juice, and garlic powder in a small bowl. Season with a pinch of salt. Set aside.",
+      "3. Slice the zucchini lengthwise into planks approximately 1/4-inch thick. Brush both sides with olive oil and season with kosher salt and black pepper.",
+      "4. Heat a grill pan or outdoor grill to high heat. Grill the zucchini planks for 2–3 minutes per side until deep grill marks form and the flesh is tender but not mushy. Remove to a plate.",
+      "5. While the zucchini is still warm, toss it with the grated garlic, red pepper flakes, torn mint, lemon zest, and lemon juice. Set aside to marinate at room temperature.",
+      "6. Heat a cast iron skillet over high heat until it begins to smoke. Add the neutral oil and swirl to coat.",
+      "7. Place the patty in the skillet and press gently with a spatula. Cook undisturbed for 3 minutes to develop a deep, uniform crust.",
+      "8. Flip the patty once. Lay the provolone or fontina slices on top. Cook for a further 2–3 minutes, monitoring with an instant-read thermometer until the internal temperature reaches 130–135°F (54–57°C). This is medium rare — do not cook past this point.",
+      "9. Transfer the patty to a wire rack and tent loosely with foil. Rest for 3 minutes to allow carryover cooking to stabilize the internal temperature at 133–135°F (56–57°C).",
+      "10. Toast the bun: melt the butter in the skillet over medium heat and place the bun cut-side down until golden, about 60–90 seconds.",
+      "11. Assemble the burger: spread lemon-garlic aioli on both bun halves. Spread a thin layer of ricotta or whipped feta on the bottom bun. Add butter lettuce.",
+      "12. Place the rested patty with melted cheese on top of the lettuce. Layer the marinated grilled zucchini planks generously over the patty.",
+      "13. Garnish with fresh basil leaves and a pinch of flaky sea salt. Cap with the top bun, press gently, and serve immediately."
+    ]
+  }
+}

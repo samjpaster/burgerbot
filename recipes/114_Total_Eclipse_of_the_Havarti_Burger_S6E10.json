@@ -1,0 +1,50 @@
+{
+  "id": 114,
+  "name": "Total Eclipse of the Havarti Burger",
+  "price": "$5.95",
+  "season": 6,
+  "episode": 10,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/98",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/114",
+  "recipe": {
+    "history": "Havarti cheese was born on a Danish farm in the 1850s, the invention of a self-taught cheesemaker named Hanne Nielsen who had traveled Europe absorbing techniques before returning to her property called Havarthigaard north of Copenhagen. Nielsen's innovation was a washed-curd method that produced a cheese far softer, creamier, and more yielding than the aged wheels common to the European continent at the time. The cheese she developed was ivory in color, dotted with small irregular eyes, and possessed of a gentle buttery flavor that made it approachable without being insipid. Denmark adopted it with pride, and in the decades following Nielsen's work, Havarti became a national staple — eaten at the traditional Danish open-faced lunch table known as smørrebrød, sliced thin over dark rye bread with pickled fish or cold cuts. It is a cheese shaped by the particular richness of Danish dairy cattle and by the practical desire for something that pleased without overwhelming.\n\nIn the American context, Havarti found an unexpected second life as a premium melting cheese — the sophisticated alternative to processed slices for cooks who wanted the ease of a perfectly flowing melt without sacrificing the character of real dairy. Domestic American Havarti production scaled rapidly through the latter decades of the twentieth century, and producers began experimenting with flavored varieties: caraway Havarti, jalapeño Havarti, dill Havarti. Each variation revealed something important about the cheese's fundamental nature — its neutrality was not blandness but rather a canvas, a willingness to carry other flavors without drowning in them. For this second interpretation of the Total Eclipse of the Havarti Burger, the cheese is treated not as a gentle blanket but as an active ingredient: smoked Havarti, with its deeper, more complex character, meets the beef head-on rather than yielding to it.\n\nWhen the same burger name appears twice on the specials board in different weeks, you pay attention. The first time I made the Total Eclipse, I kept it clean — plain Havarti, pickles, dill. Classic. But a name that good deserves a second act, and I found myself thinking about what 'eclipse' really means: something moving into alignment that changes the light entirely. For this version, I reached for smoked Havarti and let the cheese set the tone. I built the accompaniments around the smokiness — a chipotle-spiked aioli, charred scallion, crispy fried shallots for texture. The result is a darker, more assertive burger than its predecessor, the same name but a different story, like a cover version that becomes its own definitive recording. Both are correct. Both are eclipses. They just block different suns.\n\nThe second appearance of this burger on the board only intensified my conviction that the patty must be cooked to medium rare — 130 to 135 degrees Fahrenheit, 54 to 57 degrees Celsius — without exception. Smoked Havarti is a more assertive cheese than its plain counterpart, and a well-developed crust on the beef is its necessary counterbalance: the Maillard-browned exterior provides bitterness and complexity to meet the cheese's smoke. But overcooked beef, dry and grey throughout, cannot hold its own against anything. It simply disappears, leaving the cheese without a partner. Medium rare beef has presence — it has fat still in motion, proteins still tender, juices still contained within the fibers — and in that state it can meet smoked Havarti as an equal. The eclipse is complete only when both celestial bodies are at full strength.",
+    "ingredients": [
+      "1.5 lbs (680g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "8 slices smoked Havarti cheese (about 6 oz / 170g total)",
+      "4 brioche buns",
+      "2 tablespoons unsalted butter, softened",
+      "1 tablespoon neutral oil",
+      "3 bunches scallions, roots trimmed",
+      "1 tablespoon olive oil (for scallions)",
+      "3 large shallots, peeled and sliced into thin rings",
+      "1/2 cup all-purpose flour",
+      "1/2 teaspoon smoked paprika",
+      "1/2 teaspoon garlic powder",
+      "Neutral oil for frying shallots",
+      "3 tablespoons mayonnaise",
+      "1 tablespoon chipotle pepper in adobo sauce, finely minced",
+      "1 teaspoon adobo sauce (from the can)",
+      "1 teaspoon lime juice",
+      "1/2 teaspoon honey",
+      "4 leaves romaine lettuce",
+      "1 large ripe tomato, sliced",
+      "Flaky sea salt for finishing"
+    ],
+    "instructions": [
+      "1. Prepare the crispy fried shallots: toss shallot rings in flour seasoned with smoked paprika, garlic powder, salt, and pepper. In a small saucepan, heat 1 inch of neutral oil to 350°F (175°C). Fry the shallots in batches for 2 to 3 minutes until golden and crispy. Drain on paper towels, season immediately with salt. Set aside.",
+      "2. Make the chipotle aioli: combine mayonnaise, minced chipotle pepper, adobo sauce, lime juice, and honey in a small bowl. Stir well until smooth and uniform. Taste and adjust heat or sweetness as desired. Refrigerate until needed.",
+      "3. Char the scallions: toss scallion bunches with olive oil and a pinch of salt. Heat a cast iron grill pan or skillet over high heat. Lay the scallions flat and char without moving for 2 minutes per side until blackened in spots and softened. Remove and slice into 2-inch segments. Set aside.",
+      "4. Remove beef from the refrigerator 20 minutes before cooking. Divide into 4 equal portions (approximately 6 oz / 170g each). Shape into patties about 3/4 inch thick, pressing a center dimple into each. Season both sides generously with kosher salt and black pepper.",
+      "5. Heat a cast iron skillet over high heat until smoking. Add the neutral oil.",
+      "6. Sear the patties undisturbed for 3 to 3.5 minutes until a well-developed dark crust forms.",
+      "7. Flip once. Immediately place 2 slices of smoked Havarti on each patty, overlapping to cover fully — the eclipse of cheese.",
+      "8. Cook for a further 2 to 2.5 minutes. Use an instant-read thermometer to check internal temperature. Pull the patties at 130–135°F (54–57°C). Rest on a wire rack for 3 minutes.",
+      "9. While the patties rest, butter the bun halves and toast cut-side down in the skillet over medium heat until golden, 1 to 2 minutes.",
+      "10. Spread the chipotle aioli generously on both cut sides of the bun.",
+      "11. Build the burger: bottom bun, romaine leaf, tomato slice seasoned with flaky salt, rested patty with fully melted smoked Havarti, charred scallion segments, a generous crown of crispy fried shallots, and the top bun.",
+      "12. Serve immediately — the fried shallots are best eaten the moment they are assembled, while still crisp."
+    ]
+  }
+}

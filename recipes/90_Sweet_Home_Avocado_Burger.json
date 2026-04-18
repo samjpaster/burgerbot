@@ -1,0 +1,45 @@
+{
+  "id": 90,
+  "name": "Sweet Home Avocado Burger",
+  "price": "$5.95",
+  "season": 4,
+  "episode": 18,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/63",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/90",
+  "recipe": {
+    "history": "The avocado (Persea americana) is indigenous to south-central Mexico, Guatemala, and other parts of Mesoamerica, and its cultivation stretches back at least 5,000 years, with evidence of human use dating closer to 10,000 BCE in Tehuacan, Mexico. The Aztecs called it āhuacatl — a word with layered meanings, including a slang association with the testicle, referencing the way the fruit hangs in pairs from the tree — and prized it as a food of vitality and abundance. Spanish conquistadors encountered the avocado in the early 16th century and brought it back to Europe, where it was called 'aguacate' and later anglicized to 'avocado' after the Spanish pronunciation evolved. For centuries its cultivation remained largely confined to tropical and subtropical climates; it did not establish a significant commercial foothold in the United States until the late 19th century, when Californian growers began cultivating the Fuerte variety. The development of the Hass avocado in the 1920s — named for Rudolph Hass, a California mail carrier who grew the seedling — changed everything. The Hass variety's dark, pebbly skin, rich buttery flesh, and superior shelf life made it the dominant commercial avocado in the world, and California became the epicenter of American avocado production.\n\nThe avocado's transformation from exotic tropical curiosity to cornerstone of American popular cuisine is one of the most remarkable food cultural shifts of the late 20th century. The California Avocado Commission's marketing campaigns beginning in the 1980s helped drive mainstream adoption, and the dish that carried avocado furthest into American consciousness was guacamole — which, along with the broader embrace of Mexican and Tex-Mex cuisine, made avocado a staple of American kitchens. By the 1990s, avocado had found its way onto California-style burgers — a development that felt entirely natural given the ingredient's home state. The avocado burger became a symbol of a particular California food sensibility: fresh, produce-forward, sun-drenched, just a little luxurious. Its fat content — primarily heart-healthy monounsaturated fat — was nutritionally distinct from the saturated fat of cheese, offering richness without guilt, and this narrative helped it expand beyond California into the broader American burger culture. Today, the avocado burger is as ubiquitous as the bacon cheeseburger, a testament to how completely the fruit has woven itself into the American diet.\n\nMy first avocado burger was an accident of geography. I was driving through California on a road trip, somewhere between Los Angeles and San Francisco, when I stopped at a roadside stand that had hand-lettered signs advertising burgers and fresh-squeezed juice. The woman behind the counter asked if I wanted avocado on my burger, and something about the way she asked — as though the answer might obviously be yes — made me say yes before I had time to think about it. She halved an avocado right there, scooped the flesh, sliced it thickly, fanned it over the patty, and hit it with a squeeze of lime and a pinch of salt. The burger that resulted was not what I expected. The avocado was cool and yielding where the beef was hot and dense. It was creamy where the patty was textured. The lime made everything brighter. I sat at a picnic table with the Pacific somewhere to my left, eating a burger that tasted like a place, and I have never forgotten it. Avocado on a burger is, for me, California in a single bite.\n\nTo cook a burger to medium rare is to make a commitment to the ingredient itself — to the animal, the fat, the protein — and to resist the impulse toward safety at the expense of quality. A medium rare patty, pulled from the heat at 130 to 135°F and rested for three minutes, is a patty in its prime: the crust deeply browned, the interior warm and yielding and rosy, the fat still present and doing its essential work of carrying flavor. Avocado is, nutritionally and texturally, itself a fat — and it shares with beef fat the quality of mellowing acidity and carrying flavor across the palate. The two fats, animal and plant, work in the same direction on a burger, creating a richness that is layered and satisfying rather than one-dimensional. But this harmony only functions when the beef is cooked correctly. An overcooked, dry patty has no richness left to harmonize with the avocado — it becomes two separate ingredients sitting on a bun rather than one unified thing. Medium rare is the reason this burger works.",
+    "ingredients": [
+      "1 lb (450g) ground beef chuck, 80/20 fat ratio",
+      "2 brioche buns or sesame seed buns, split",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1/2 tsp garlic powder",
+      "1/2 tsp onion powder",
+      "2 slices pepper jack cheese",
+      "1 tbsp neutral oil (canola or grapeseed)",
+      "2 ripe Hass avocados",
+      "1 lime, juiced",
+      "1/4 tsp flaky sea salt (for avocado)",
+      "1/4 tsp red pepper flakes (for avocado)",
+      "3 tbsp mayonnaise",
+      "1 tsp hot sauce (such as Cholula or Tapatio)",
+      "1 clove garlic, minced",
+      "4 leaves butter lettuce",
+      "2 slices ripe tomato",
+      "4 thin slices red onion",
+      "4 slices pickled jalapeños (optional)"
+    ],
+    "instructions": [
+      "1. Let the ground beef rest at room temperature for 15 to 20 minutes. Divide into two 8 oz portions and form into patties about 3/4 inch thick, pressing a dimple into each center. Season both sides with kosher salt, black pepper, garlic powder, and onion powder.",
+      "2. In a small bowl, stir together the mayonnaise, hot sauce, and minced garlic to make the chipotle-style aioli. Taste and adjust. Set aside.",
+      "3. Prepare the avocado: halve each avocado, remove the pits, and score the flesh lengthwise into 1/4-inch slices without cutting through the skin. Scoop out sliced fans with a large spoon. Lay on a plate, squeeze lime juice over the top, and season with flaky salt and red pepper flakes. Set aside.",
+      "4. Heat a cast iron skillet or heavy griddle over high heat until smoking. Add the neutral oil and swirl to coat.",
+      "5. Place the patties in the skillet. Cook undisturbed for 3 to 4 minutes on the first side until a deep brown, caramelized crust forms.",
+      "6. Flip once. Cook for 2 to 3 minutes on the second side.",
+      "7. Place one slice of pepper jack cheese on each patty in the final minute of cooking. Cover loosely with a lid or foil to melt.",
+      "8. Check internal temperature with an instant-read thermometer. Remove patties from heat at 130–135°F (54–57°C) for medium rare. Rest on a rack or plate for 3 minutes.",
+      "9. Toast the buns cut-side down in the same pan over medium heat until golden, about 2 minutes.",
+      "10. Spread the garlic aioli generously on both cut faces of each bun. On the bottom bun, layer butter lettuce, tomato, and red onion. Add pickled jalapeños if using. Place the cheesed patty on top. Fan the sliced avocado over the patty, overlapping slightly. Finish with a final squeeze of lime and a pinch of flaky salt. Crown with the top bun and serve immediately."
+    ]
+  }
+}

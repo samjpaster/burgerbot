@@ -1,0 +1,44 @@
+{
+  "id": 125,
+  "name": "A burger of the day is seen but is not fully visible, it appears to reference the Alanis Morissette album Jagged Little Pill, possibly \"Jagged Little Dill.\"",
+  "price": "$5.95",
+  "season": 7,
+  "episode": 6,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/113",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/125",
+  "recipe": {
+    "history": "Dill — Anethum graveolens — is an annual herb in the celery family Apiaceae whose history of cultivation stretches back at least 5,000 years. Archaeological evidence of dill seeds has been found in Egyptian tombs, including that of Amenhotep II, and the herb is referenced in ancient Sumerian records from around 3000 BCE. The name itself is believed to derive from the Old Norse word \"dilla,\" meaning to soothe or calm — a reference to its long use as a medicinal herb for digestive complaints, colic, and insomnia. Native to the eastern Mediterranean and western Asia, dill spread westward with Greek and Roman traders; Roman soldiers carried dill as a stimulant and wound-healer, and the plant's feathery fronds and hollow seeds became fixtures of the Mediterranean herb garden. In Scandinavia, Eastern Europe, and the Middle East, dill would become not merely a seasoning but a defining aromatic — as fundamental to the cuisines of Russia, Poland, and the Levant as basil is to Italy.\n\nDill's place in American culinary life was cemented primarily through the pickling tradition brought over by Eastern European Jewish, German, and Scandinavian immigrants in the 19th and early 20th centuries. The classic kosher dill pickle — cucumber brined in water, salt, garlic, and generous quantities of dill weed and seed — became a staple of New York delicatessens and, by extension, the American hamburger. The burger-dill pickle pairing is one of the oldest and most foundational in American fast food: the acidity of the brine cuts through beef fat, the dill's anise-adjacent herbaceousness adds complexity, and the crunch provides textural contrast. Fresh dill as a burger topping — rather than merely pickled — is a more recent creative move, appearing in farm-to-table and Scandinavian-influenced restaurants that treat the herb as a first-class ingredient in sauces, compound butters, and fresh garnishes.\n\nFor a long time I took dill for granted entirely — it was just the thing on top of the pickle jar, background flavor, expected and unremarkable. The reappraisal happened at a small food cart on a rainy October afternoon, where the owner put a dill-heavy herb sauce on a beef smash burger and handed it to me wrapped in wax paper. Standing under an awning, water dripping off the edge of the paper, I tasted fresh dill as though for the first time: bright and grassy with a faint anise sweetness, clean and cutting in a way that made the beef taste more like itself rather than less. I went back the next three days in a row and by the end of it I had the sauce more or less figured out. It's been a fixture in my burger repertoire since — a reminder that the most familiar things sometimes only need a different context to reveal what they always were.\n\nTo cook a burger to medium rare — to hold the internal temperature at 130–135°F (54–57°C) and no higher — is to commit to the idea that the ingredient matters as much as the technique. At this temperature, the beef retains its moisture, its color, and the full register of its flavor. The fat has melted but not evaporated; the proteins have firmed but not toughened. Fresh dill, which is volatile and easily overwhelmed by competing flavors, finds its ideal partner in a medium rare patty: the residual warmth of the meat blooms the herb's essential oils without cooking them away, and every bite carries both the earthiness of the beef and the aromatic brightness of the dill in equal measure.",
+    "ingredients": [
+      "1.5 lbs (680g) ground beef, 80/20 chuck blend",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "4 potato buns or brioche buns",
+      "4 tbsp unsalted butter, softened (for toasting buns)",
+      "1 large bunch fresh dill, fronds separated from stems",
+      "3/4 cup sour cream",
+      "1/4 cup mayonnaise",
+      "2 tbsp fresh lemon juice",
+      "1 tsp lemon zest",
+      "2 cloves garlic, finely minced or grated",
+      "1 tsp white wine vinegar",
+      "4 slices Havarti cheese (or Swiss)",
+      "4–6 oz (113–170g) cucumber, sliced paper-thin on a mandoline",
+      "1 tsp kosher salt (for salting cucumber)",
+      "1 tsp sugar (for quick-pickling cucumber)",
+      "2 tbsp white wine vinegar (for quick-pickling cucumber)",
+      "1/2 red onion, very thinly sliced",
+      "Dill pickle spears or chips (classic kosher-style)",
+      "Neutral oil or beef tallow (for cooking patties)"
+    ],
+    "instructions": [
+      "1. Prepare the quick-pickled cucumbers: combine the thinly sliced cucumber, 1 teaspoon kosher salt, 1 teaspoon sugar, and 2 tablespoons white wine vinegar in a bowl. Toss to coat and let stand at room temperature for at least 20 minutes, tossing occasionally. Drain before using.",
+      "2. Make the dill cream sauce: finely chop enough fresh dill fronds to yield 3 tablespoons. Combine with sour cream, mayonnaise, fresh lemon juice, lemon zest, minced garlic, and white wine vinegar in a bowl. Whisk until smooth. Season generously with salt and pepper. Refrigerate until assembly. Reserve a small handful of whole dill fronds for garnishing.",
+      "3. Remove ground beef from the refrigerator 30 minutes before cooking. Divide into 4 equal portions (approximately 6 oz each) and form gently into patties about 3/4-inch thick, pressing a shallow dimple into the center of each. Season both sides generously with kosher salt and freshly ground black pepper.",
+      "4. Preheat a cast-iron skillet or grill to high heat. Lightly grease the cooking surface with neutral oil or beef tallow.",
+      "5. Cook the patties over high heat, undisturbed, for approximately 3 minutes on the first side to develop a deep, well-formed crust. Flip once and immediately place a slice of Havarti cheese on each patty.",
+      "6. Cook the second side for 2–2.5 minutes, checking the internal temperature frequently. Pull the patties at 130–135°F (54–57°C) for medium rare. Tent loosely with foil and rest for 3 minutes. The internal temperature will rise slightly during rest — this is by design.",
+      "7. While the patties rest, toast the buns cut-side down in butter over medium heat for 1–2 minutes until golden.",
+      "8. Build each burger: spread dill cream sauce generously on both the top and bottom bun. On the bottom bun, layer thin slices of red onion, then a small pile of the quick-pickled cucumber. Place the Havarti-melted patty on top. Add dill pickle chips or a spear alongside. Scatter a few whole fresh dill fronds over the top of the patty before capping with the top bun. Serve immediately."
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 101,
+  "name": "Knife to ... You Burger - w/Thinly Sliced B...",
+  "price": "$5.95",
+  "season": 5,
+  "episode": 12,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/79",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/101",
+  "recipe": {
+    "history": "Thinly sliced beef as a culinary technique has roots stretching back centuries across multiple continents, but it was refined into an art form in Japan and parts of continental Europe. The Japanese practice of slicing beef paper-thin — most famously embodied in shabu-shabu and sukiyaki — dates to the Meiji era, when beef consumption became culturally accepted after centuries of Buddhist dietary restriction. European charcuterie traditions, particularly from France and Italy, similarly elevated the knife-cut thin slice into something reverent: a way of honoring the animal by revealing the grain, the marbling, and the texture of the meat with surgical precision. The knife, in these traditions, was not merely a tool but a declaration of craft.\n\nThinly sliced beef made its way into American cuisine through a confluence of immigrant influence and diner innovation. Italian-American communities brought with them the art of thinly shaved cold cuts, which evolved into the cheesesteak tradition in Philadelphia — arguably the first American institution to celebrate knife-cut beef as the centerpiece of a handheld sandwich. From there, the concept migrated into burger culture organically: chefs began experimenting with shaving or slicing beef brisket, ribeye, and sirloin thin and layering those cuts atop or alongside a ground beef patty, adding a second dimension of beefy texture and a melt-in-your-mouth quality that a patty alone cannot achieve. The technique found particular favor in upscale burger joints of the early 2000s seeking to differentiate themselves from fast food.\n\nI remember the first time my father let me watch him work the knife on a Sunday roast. He had this old carbon-steel boning knife, slightly curved, handle worn smooth from years of use, and he would draw it across the grain of a cold ribeye with a patience that felt almost ceremonial. The slices would curl off the blade like petals, translucent at the edges, blushing pink at the center. He never said much while he worked — the kitchen had its own language — but the care in those movements told me everything about how he felt about feeding people. When I put thinly sliced beef on a burger for the first time years later, I heard that silence again, felt that same gravity, and understood that some techniques carry memory in them like wood carries rings.\n\nCooking a beef patty to medium rare is not a preference — it is a philosophy of respect. At 130–135°F (54–57°C), the proteins have set just enough to hold the patty together while the fat remains liquid and fragrant, basting the meat from the inside out. The Maillard reaction has done its work on the exterior, building a crust of complex, caramelized flavor, while the interior stays yielding and deeply beefy. To cook beyond this point is to watch something irreversible happen: moisture evacuates, fat renders out entirely, and the nuance of a well-sourced grind is reduced to a uniform, grey chew. Medium rare is the temperature at which a burger is most fully itself — honest, generous, and alive with flavor in a way that no amount of sauce or topping can compensate for if it is lost.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 lean-to-fat ratio, formed into a loose patty",
+      "3 oz (85g) ribeye or sirloin, very cold, sliced paper-thin against the grain",
+      "1 brioche burger bun, split",
+      "1 tbsp unsalted butter, softened",
+      "1 tsp neutral oil (such as canola or grapeseed)",
+      "1 tsp flaky sea salt (such as Maldon)",
+      "1/2 tsp freshly cracked black pepper",
+      "1 tsp Worcestershire sauce",
+      "1 clove garlic, minced",
+      "1 tbsp unsalted butter (for finishing the sliced beef)",
+      "1 sprig fresh thyme",
+      "2 slices sharp white cheddar cheese",
+      "2 tbsp mayonnaise",
+      "1 tsp Dijon mustard",
+      "1 tsp prepared horseradish",
+      "1/2 tsp lemon juice",
+      "4 leaves butter lettuce",
+      "2 slices ripe tomato",
+      "3 thin slices red onion",
+      "Bread and butter pickle chips, to taste"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 20 minutes before cooking to take the chill off. Form it gently into a patty approximately 4 inches wide and 3/4 inch thick. Press a shallow dimple into the center with your thumb to prevent doming. Season both sides generously with flaky sea salt and cracked black pepper.",
+      "2. Place the thinly sliced ribeye or sirloin in a small bowl. Toss with Worcestershire sauce, minced garlic, a pinch of salt, and a pinch of pepper. Set aside to marinate at room temperature while you prepare the other components.",
+      "3. In a small bowl, combine mayonnaise, Dijon mustard, horseradish, and lemon juice. Stir until smooth. Taste and adjust seasoning. Set the sauce aside.",
+      "4. Heat a cast-iron skillet or heavy-bottomed pan over high heat until it begins to smoke lightly. Add the neutral oil and swirl to coat.",
+      "5. Place the patty in the skillet and press gently with a spatula for the first 10 seconds to ensure full contact. Cook undisturbed for 3 minutes to develop a deep, even crust.",
+      "6. Flip the patty once. Lay the cheddar slices on top immediately. Cook for an additional 2 to 2.5 minutes, or until an instant-read thermometer inserted into the thickest part of the patty reads 130–135°F (54–57°C) for medium rare. Transfer the patty to a wire rack and rest for 3 minutes.",
+      "7. While the patty rests, reduce the heat under the skillet to medium. Add 1 tablespoon of butter and the thyme sprig. Once the butter foams, add the marinated sliced beef in a single layer. Toss and cook for 60–90 seconds, just until the slices lose their raw color but remain tender and slightly pink. Remove immediately.",
+      "8. Butter the cut sides of the brioche bun and toast them in the same skillet over medium heat until golden brown, about 1 minute.",
+      "9. Spread the horseradish-Dijon mayonnaise on both cut sides of the toasted bun.",
+      "10. Layer the bottom bun with butter lettuce, tomato slices, and red onion. Place the rested patty on top, then pile the thinly sliced beef over the melted cheese. Add pickle chips and close with the top bun. Serve immediately."
+    ]
+  }
+}

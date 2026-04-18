@@ -1,0 +1,56 @@
+{
+  "id": 19,
+  "name": "Poblano Picasso Burger",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 8,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/8",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/19",
+  "recipe": {
+    "history": "The poblano pepper — Capsicum annuum — is native to the state of Puebla, Mexico, where it has been cultivated for thousands of years. Prized for its deep, earthy heat and thick, roastable flesh, it sits at the heart of Mexican cuisine in ways that no other pepper can claim. It is the soul of chiles rellenos, the backbone of mole negro, and the quiet authority behind countless salsas and stews. Dried, it becomes the mulato or the ancho, each transformation unlocking a new register of flavor: chocolate, dried fruit, tobacco, leather. To eat a poblano is to eat history — the volcanic soil of the Sierra Madre, the hands of generations of Mixtec and Nahua farmers, the smoke of ten thousand comals.\n\nPopblanos crossed into American burger culture slowly, then all at once. The first wave arrived through the Tex-Mex corridor in the 1970s and 1980s, when Southwestern cuisine began asserting itself as something worth taking seriously. Chefs in Santa Fe and Albuquerque discovered that fire-roasted poblanos draped over a beef patty created a combination with unusual depth — the char on the pepper mirroring the crust on the meat, the mild fruity heat cutting through fat in the way that a good acid does. By the 1990s, the poblano burger had migrated to gastropubs and greasy spoons alike, a rare case of a genuinely good idea spreading on its own merits. It was never trendy the way sriracha was trendy. It simply worked, and so it stayed.\n\nI remember the first time a burger stopped me cold — really stopped me — the way a painting can stop you in a gallery when you weren't expecting to feel anything. I was nineteen, standing in a kitchen that smelled of char and cumin, and someone handed me a poblano burger wrapped in foil, still steaming. Picasso once said that the purpose of art is to wash the dust of daily life off our souls. I didn't know that quote then, but I understood the feeling. There was something in the combination — the sweetness of the roasted pepper against the mineral richness of the beef, the softness of the bun giving way to that yielding, pink interior — that felt less like eating and more like being addressed directly. Food, at its best, does exactly what Picasso said art should do. This burger does it every time.\n\nCooking a burger to medium rare — an internal temperature of 130 to 135 degrees Fahrenheit — is not a preference. It is the only correct answer, and the reasoning is simple: beef at that temperature retains the moisture and fat structure that makes it taste like beef. Above 140 degrees, myosin proteins have long since contracted and wrung moisture from the muscle fibers; above 160, you are eating something that was a burger. Medium rare preserves the Maillard crust on the exterior while keeping the interior yielding, faintly pink, and genuinely juicy. The fat has softened but not fully rendered away. The flavor compounds are intact. A well-sourced, freshly ground patty cooked to 130 to 135 degrees is the whole argument for why hamburgers exist. Everything else — the poblano, the bun, the toppings — is in service of that center. Respect the center.",
+    "ingredients": {
+      "patty": [
+        "8 oz freshly ground beef, 80/20 chuck (ground same day if possible)",
+        "3/4 tsp kosher salt",
+        "1/2 tsp freshly cracked black pepper",
+        "1/2 tsp garlic powder",
+        "1 tbsp neutral oil (such as canola or grapeseed) for cooking"
+      ],
+      "roasted_poblano": [
+        "1 large poblano pepper",
+        "1 tsp olive oil",
+        "Pinch of kosher salt"
+      ],
+      "bun": [
+        "1 brioche-style burger bun (or soft potato roll)",
+        "1 tbsp unsalted butter, softened"
+      ],
+      "toppings_and_condiments": [
+        "2 slices Oaxacan cheese (or Monterey Jack as substitute)",
+        "1 tbsp mayonnaise",
+        "1 tsp chipotle hot sauce",
+        "1 tsp fresh lime juice",
+        "2 leaves green leaf lettuce",
+        "2 slices ripe tomato",
+        "3 thin slices white onion",
+        "4 slices pickled jalapeño (optional)"
+      ]
+    },
+    "instructions": [
+      "Remove the beef from the refrigerator 20 minutes before cooking to allow it to approach room temperature. This promotes even cooking throughout the patty.",
+      "Roast the poblano: Set a gas burner to high or position an oven rack 4 inches under the broiler and preheat to broil. Rub the poblano lightly with olive oil and a pinch of salt. Place directly over the open flame or under the broiler. Roast, turning with tongs every 2–3 minutes, until the skin is fully charred and blistered on all sides, about 8–10 minutes total.",
+      "Transfer the charred poblano to a bowl, cover tightly with plastic wrap or a plate, and let it steam for 10 minutes. This loosens the skin.",
+      "Peel the poblano under cool running water, discarding the charred skin. Slice off the stem, open the pepper, and remove the seeds and membranes. Cut the roasted flesh into wide strips. Set aside.",
+      "Make the chipotle mayo: In a small bowl, whisk together the mayonnaise, chipotle hot sauce, and fresh lime juice until smooth. Taste and adjust heat. Refrigerate until needed.",
+      "Form the patty: Gently divide the ground beef into a single 8 oz portion. Using your hands, loosely form it into a round disk approximately 4 inches in diameter and 3/4 inch thick. Press a shallow dimple into the center with your thumb — this prevents the patty from doming as it cooks. Season both sides generously with salt, pepper, and garlic powder. Do not compress or overwork the meat.",
+      "Heat a cast iron skillet or heavy stainless pan over high heat until it just begins to smoke. Add the neutral oil and swirl to coat.",
+      "Place the patty in the pan. Do not press it down. Cook undisturbed for 3 minutes to develop a deep Maillard crust on the first side.",
+      "Flip the patty once. Immediately lay the roasted poblano strips across the top of the patty, then place the two slices of Oaxacan cheese over the poblano. Reduce heat to medium-high.",
+      "Cook for an additional 2–3 minutes, then check the internal temperature with an instant-read thermometer inserted horizontally into the center of the patty. Target 130–135°F for medium rare. If needed, tent the pan loosely with foil to help the cheese melt without overcooking the meat.",
+      "Remove the patty from the pan and rest it on a wire rack or warm plate for 3 minutes. The internal temperature will rise 3–5 degrees during this rest — this is expected and accounts for in the target range.",
+      "While the patty rests, wipe the pan of excess fat and return it to medium heat. Spread the cut sides of the bun with softened butter and toast them cut-side down in the pan until golden, about 1–2 minutes.",
+      "Assemble the burger: Spread the chipotle mayo on both toasted bun halves. Layer the bottom bun with lettuce leaves and tomato slices. Place the rested patty (with its poblano and melted cheese) on top. Add the white onion slices and pickled jalapeños if using. Cap with the top bun.",
+      "Serve immediately. The burger waits for no one."
+    ]
+  }
+}

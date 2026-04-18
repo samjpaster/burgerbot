@@ -1,0 +1,44 @@
+{
+  "id": 153,
+  "name": "THE FULL HEAD OF HEIR-LOOM TOMATO BURGER",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 9,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/138",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/153",
+  "recipe": {
+    "history": "The tomato — Solanum lycopersicum — originated in the Andean region of western South America, with wild species found across what is now Peru, Ecuador, Bolivia, and Chile. Archaeological evidence suggests that the Aztecs of central Mexico were cultivating and eating tomatoes long before Spanish contact, and it was from Mexico that the Spanish conquistadors brought the tomato back to Europe in the sixteenth century. Early European reception was deeply ambivalent: the tomato is a member of the nightshade family, and its resemblance to other toxic species made it suspect. In much of Europe it was grown as an ornamental curiosity for decades before being eaten. Italy embraced the tomato earliest and most enthusiastically, incorporating it into sauces by the late eighteenth century. The 'heirloom' tomato — an open-pollinated variety maintained through seed-saving over generations — represents the vast pre-industrial diversity of the fruit: the Brandywine, Cherokee Purple, Green Zebra, and hundreds of other varieties developed by farmers and seed-savers before commercial hybridization standardized the tomato into the pale, firm, flavorless sphere we see in most supermarkets.\n\nThe tomato arrived in American burger culture as a matter of practicality: sliced and laid atop a patty, it added moisture, acidity, and color. For much of the twentieth century, the tomato in an American hamburger was an afterthought — the same commodity beefsteak variety whether you were at a diner in Tulsa or a drive-through in Sacramento. The heirloom revival changed this. Beginning in the 1970s and accelerating dramatically in the 1990s through farmers' markets and the farm-to-table movement, heirloom tomatoes returned to American tables in all their irregular, scarred, jewel-toned glory. Chefs recognized that a thick slab of a ripe Brandywine or a cluster of sliced Sun Gold cherry tomatoes could transform a burger from a vehicle for condiments into something that genuinely tasted of summer and place. The acidity of a great heirloom tomato cuts through the fat of the patty in a way that commercial tomatoes, picked green and gassed with ethylene to simulate ripeness, simply cannot.\n\nI was twenty-three years old and working a farmers' market shift for a friend when I first bit into an heirloom tomato with nothing on it but flaky salt and a drizzle of olive oil. It was a Cherokee Purple — deeply ridged, dark at the shoulders, the color of a bruise fading to garnet at the bottom — and it tasted like something that had been distilling the full energy of a season into a single concentrated act of flavor. I bought three pounds and ate them all that week, mostly on burgers, and I have never been able to go back to a pale commercial tomato on any sandwich since. The heirloom tomato demands that you pay attention to it. It has a personality. It asks to be tasted, not merely included.\n\nMedium rare is the only honest temperature at which to serve a hamburger built around an ingredient as alive and present as an heirloom tomato. The tomato brings acidity, sweetness, moisture, and complexity — all of which are in conversation with the fat and mineral quality of properly cooked beef. At 130–135°F (54–57°C), the patty retains its own moisture and flavor, providing a rich counterpoint rather than a greasy neutral mass. A well-done patty would bully the tomato, filling the bun with rendered-out fat and desiccated protein, obliterating the careful balance of flavors. Medium rare means restraint. It means trusting that the beef, the tomato, and the salt can do the work together without the cook forcing the issue.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 fat ratio",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 tablespoon neutral oil (canola or grapeseed)",
+      "1 brioche or sesame seed burger bun",
+      "1 tablespoon unsalted butter (for toasting bun)",
+      "2–3 thick slices ripe heirloom tomato (Brandywine, Cherokee Purple, or similar), at room temperature",
+      "Flaky sea salt",
+      "Extra-virgin olive oil, for drizzling over tomatoes",
+      "2 slices fresh mozzarella or burrata",
+      "4–5 fresh basil leaves",
+      "2 tablespoons good-quality mayonnaise",
+      "1 teaspoon balsamic glaze",
+      "1 small clove garlic, finely grated",
+      "2 leaves butter lettuce or arugula",
+      "Freshly cracked black pepper, for tomatoes"
+    ],
+    "instructions": [
+      "1. Remove the beef from the refrigerator 30 minutes before cooking. Form into a single patty approximately 3/4-inch thick with a thumb-pressed dimple in the center. Season both sides generously with kosher salt and black pepper.",
+      "2. Slice the heirloom tomatoes into rounds at least 1/2-inch thick. Lay them on a plate, season with flaky sea salt, a drizzle of extra-virgin olive oil, and freshly cracked black pepper. Let them sit at room temperature for at least 15 minutes to draw out their juices and concentrate flavor.",
+      "3. Prepare the garlic-balsamic aioli: mix the mayonnaise with the finely grated garlic and balsamic glaze. Stir well and season with a pinch of salt. Set aside.",
+      "4. Heat a cast iron skillet or heavy griddle over high heat until it begins to smoke lightly. Add the neutral oil and swirl to coat the surface.",
+      "5. Place the patty in the pan and press gently with a spatula to maximize surface contact. Cook undisturbed for 3 minutes to build a deep, even crust.",
+      "6. Flip the patty once. Cook for a further 2–3 minutes, checking with an instant-read thermometer, until the internal temperature reaches 130–135°F (54–57°C). This is medium rare — remove the patty at this temperature without exception.",
+      "7. Transfer the patty to a wire rack and rest loosely tented with foil for 3 minutes. Carryover heat will bring the internal temperature to a stable 133–135°F (56–57°C).",
+      "8. While the patty rests, melt the butter in the skillet over medium heat and toast the bun cut-side down until golden, about 60–90 seconds.",
+      "9. If using fresh mozzarella or burrata, place the slices on the resting patty during the last minute of rest so they soften slightly from residual heat without fully melting.",
+      "10. Assemble the burger: spread the garlic-balsamic aioli on both bun halves. Place butter lettuce or arugula on the bottom bun.",
+      "11. Set the patty with softened mozzarella on the greens. Layer the seasoned heirloom tomato slices on top — use them generously; they are the centerpiece of this burger.",
+      "12. Tuck fresh basil leaves between the tomato slices. Finish with a final pinch of flaky sea salt and a small drizzle of extra-virgin olive oil over the tomatoes. Cap with the top bun and serve immediately while the patty is still warm."
+    ]
+  }
+}

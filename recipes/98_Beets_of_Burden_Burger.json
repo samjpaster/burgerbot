@@ -1,0 +1,47 @@
+{
+  "id": 98,
+  "name": "Beets of Burden Burger",
+  "price": "$5.95",
+  "season": 5,
+  "episode": 8,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/75",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/98",
+  "recipe": {
+    "history": "Beets — Beta vulgaris — are among the oldest cultivated root vegetables in human history, with origins traced to the coastal regions of the Mediterranean and Middle East, where wild sea beets grew along shorelines from the Canary Islands to the Caspian Sea. Ancient civilizations first used beet leaves rather than the root, which was smaller and more fibrous in its wild form; the Romans cultivated varieties specifically for their greens and documented medicinal uses for the roots as a treatment for fevers and digestive ailments. It was not until the 16th and 17th centuries in Germany and Eastern Europe that larger, sweeter root varieties were selectively bred into something resembling the beet we know today. By the 19th century, beetroot had become a cornerstone of Eastern European cuisine — essential to borscht in Russia and Ukraine, pickled into relishes across Poland, Germany, and Scandinavia — and a symbol of hearty, affordable nourishment for working-class and peasant communities throughout the continent.\n\nBeets arrived in the American burger consciousness largely through two separate pathways: the influence of Scandinavian and Eastern European immigrant communities in the Midwest who brought their love of pickled beets to the American table, and the unexpected phenomenon of the Australian burger, where a thick slice of canned or pickled beetroot became a canonical topping — as standard as lettuce and tomato — on the classic \"Aussie burger.\" In the United States, the farm-to-table movement of the 2000s reintroduced beets — particularly roasted golden and red beets — as a sophisticated ingredient with genuine depth. Chefs began pairing their earthy sweetness and striking color with beef patties as both a flavor and textural contrast, and the beet burger topping moved from curiosity to credibility. Roasted beets add an almost wine-like earthiness that has a remarkable affinity for the umami-rich fat of a well-seared beef patty.\n\nI grew up thinking I hated beets. They came out of a can in my grandmother's kitchen, staining everything on the plate a lurid magenta, and I avoided them with the single-minded dedication only a child can bring to a food grievance. It was not until I was in my mid-twenties, at a farm-to-table restaurant that had clearly grown its own beets, that I was served a roasted beet and goat cheese salad that completely revised my understanding. The beets were sweet, tender, and faintly mineral — nothing like the canned version of my childhood — and from that moment I was a convert. I started putting roasted beets on burgers almost immediately, thinly sliced and still warm from the oven, and I have never once looked back. The way the sweet, earthy root plays against the savory char of a medium-rare patty is one of those combinations that seems unlikely until it seems inevitable.\n\nThe medium rare cook — 130 to 135°F (54 to 57°C) — is not merely a temperature specification for a burger; it is a commitment to respecting the ingredient at its fullest. Beets bring sweetness and moisture to a burger, and that sweetness needs a counterpart that is equally generous: a patty that is juicy, pink, and yielding at the center, not dry and contracted. A well-done patty next to roasted beets becomes a study in contrast without harmony — all sweetness and dryness. Medium rare gives you a patty whose interior fat has rendered to juice but not evaporated, whose muscle fibers are relaxed rather than squeezed, and whose overall character is rich enough to stand in conversation with the deep earthiness of the beet. It is the temperature of balance, and balance is everything.",
+    "ingredients": [
+      "1 lb (450g) ground beef chuck, 80/20 fat ratio",
+      "2 medium red beets, scrubbed",
+      "2 tbsp olive oil, divided",
+      "1 tsp balsamic vinegar",
+      "2 brioche burger buns",
+      "2 tbsp unsalted butter, softened",
+      "4 oz (113g) goat cheese, softened",
+      "4 leaves arugula or baby arugula",
+      "2 thin slices red onion",
+      "1 tsp kosher salt, plus more for beets",
+      "1/2 tsp freshly ground black pepper",
+      "1/2 tsp garlic powder",
+      "1 tsp neutral oil (vegetable or canola)",
+      "For the horseradish cream:",
+      "2 tbsp sour cream",
+      "1 tsp prepared horseradish",
+      "1 tsp fresh lemon juice",
+      "Pinch of salt"
+    ],
+    "instructions": [
+      "1. Preheat oven to 400°F (205°C). Wrap each beet individually in foil after drizzling with 1 tbsp olive oil and a pinch of salt. Roast for 45–60 minutes until easily pierced with a knife. Allow to cool slightly, then rub off skins with a paper towel. Slice into 1/4-inch rounds. Toss with the remaining 1 tbsp olive oil and balsamic vinegar. Set aside.",
+      "2. Combine the horseradish cream ingredients in a small bowl, mix well, and refrigerate.",
+      "3. Remove the ground beef from the refrigerator 20 minutes before cooking. Divide into two 8 oz (227g) portions and gently shape into patties about 3/4 inch thick. Press a dimple into the center of each.",
+      "4. Season both sides generously with kosher salt, black pepper, and garlic powder.",
+      "5. Heat a cast iron skillet over high heat until smoking. Add the neutral oil and swirl to coat.",
+      "6. Place patties in the skillet. Cook undisturbed for 3 minutes to build a strong sear.",
+      "7. Flip once. Cook for 2 minutes on the second side.",
+      "8. Check internal temperature with an instant-read thermometer. Target is 130–135°F (54–57°C) for medium rare. Remove from heat and rest under loose foil for 3 minutes.",
+      "9. While the patties rest, butter the cut sides of the brioche buns and toast cut-side down in the residual skillet heat for 60–90 seconds until golden.",
+      "10. Spread softened goat cheese generously on the bottom cut side of each bun.",
+      "11. Spread horseradish cream on the top cut side of each bun.",
+      "12. Layer arugula on the goat cheese, then place the rested patty on top. Add 2–3 slices of roasted beet and the red onion.",
+      "13. Cap with the top bun and serve immediately."
+    ]
+  }
+}

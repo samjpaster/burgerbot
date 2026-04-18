@@ -1,0 +1,43 @@
+{
+  "id": 87,
+  "name": "Enoki Dokie Burger - Comes with enoki mushrooms",
+  "price": "$5.95",
+  "season": 4,
+  "episode": 15,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/60",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/87",
+  "recipe": {
+    "history": "Enoki mushrooms — known in Japanese as enokitake (榎茸), meaning 'hackberry mushroom' — have been cultivated and consumed in East Asia for over a thousand years. Native to Japan, China, and Korea, they grow wild on the stumps of Chinese hackberry, mulberry, persimmon, and ash trees, typically in the cool months of late autumn through early spring. Wild enoki are stocky, golden-brown, and intensely flavored. The cultivated variety familiar to Western supermarkets — long, pale, thread-like clusters with tiny caps — is grown in darkness and carbon dioxide-rich environments, which blanches them white and elongates their delicate stems. In Japanese cuisine, enoki appear in hot pots (nabe), miso soups, ramen broths, and as a garnish for cold tofu. In Korean cuisine they are wrapped in beef and grilled (sogogi enoki mari), and in Chinese cooking they are frequently stir-fried with garlic and scallions. Their texture is uniquely satisfying: slightly crunchy when raw, silky and yielding when briefly cooked, with a mild, subtly sweet, almost fruity flavor that pairs beautifully with umami-rich broths and proteins.\n\nEnoki mushrooms entered the American culinary mainstream gradually, first through Japanese and Korean restaurant cooking in cities with large Asian immigrant populations — Los Angeles, San Francisco, New York, and Chicago — beginning in the 1970s and accelerating through the 1980s and 1990s. As American chefs became more adventurous and Asian ingredients more accessible, enoki moved from ethnic specialty aisles into the produce sections of mainstream grocery stores. Their application to burgers came through the umami-forward thinking of fusion and farm-to-table cooks who recognized that mushrooms — with their glutamate-rich, savory depth — are among the most natural and complementary toppings for beef. Enoki in particular, sautéed quickly in butter and soy sauce or sesame oil, create a silky, tangled nest atop a patty that looks dramatic, tastes extraordinary, and brings an unmistakably East Asian elegance to the American burger format.\n\nI first encountered enoki mushrooms in a grocery store in my early twenties, standing in front of the refrigerated Asian produce section with no idea what I was looking at. A woman next to me, noticing my confusion, simply said, 'Hot pot. Soup. Very good,' and placed a cluster in her basket. I bought one too. That night I sautéed them impulsively with butter, a splash of soy, and a little white pepper, then piled them onto a burger I'd made from whatever ground beef was in the fridge. What happened was one of those accidental revelations in cooking — the delicate threads wilted and tangled, picking up color at the edges, and on the burger they created a soft, savory layer that amplified everything beneath them. I have since made a habit of keeping enoki in the refrigerator the way some people keep hot sauce: as a quiet, reliable way to make nearly anything better.\n\nTo cook a burger to anything beyond medium rare is, to my mind, a failure of respect — both for the animal and for the diner. At 130 to 135°F internal temperature, the beef patty sits in its ideal state: the exterior crust is deep and caramelized from the Maillard reaction, but the interior remains rosy, warm, and yielding. The fat — and fat in a good 80/20 grind is not excess but architecture — has softened and distributed itself through the meat without fully rendering away. The result is a burger that is juicy in the truest sense, not because moisture was added, but because none was lost. With enoki mushrooms on top, which carry their own delicate moisture and umami, the interplay between the tender beef and the silky fungi is only possible because neither has been pushed too far. Medium rare is not a preference; it is the correct answer.",
+    "ingredients": [
+      "1 lb (450g) ground beef chuck, 80/20 fat ratio",
+      "2 brioche burger buns, split",
+      "3.5 oz (100g) enoki mushrooms, root ends trimmed and clusters separated",
+      "2 tbsp unsalted butter",
+      "1 tbsp soy sauce",
+      "1 tsp sesame oil",
+      "1 tsp toasted sesame seeds",
+      "2 slices provolone or white American cheese",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1/4 tsp white pepper",
+      "3 tbsp mayonnaise",
+      "1 tsp sriracha",
+      "1 tsp fresh lime juice",
+      "4 leaves green leaf lettuce",
+      "2 slices ripe tomato",
+      "1 tbsp neutral oil (canola or grapeseed)"
+    ],
+    "instructions": [
+      "1. Let the ground beef rest at room temperature for 15 to 20 minutes. Divide into two 8 oz portions and form into patties about 3/4 inch thick, pressing a dimple into each center. Season both sides with kosher salt, black pepper, and white pepper.",
+      "2. In a small bowl, stir together the mayonnaise, sriracha, and lime juice to make the spicy mayo. Taste and adjust seasoning. Set aside.",
+      "3. Heat 1 tbsp butter in a small skillet over medium-high heat until foaming. Add the enoki mushrooms in a loose pile. Cook without stirring for 1 minute to develop slight color on the bottom. Add soy sauce and sesame oil, toss gently, and cook for another 1 to 2 minutes until the mushrooms are just wilted and fragrant. Remove from heat, sprinkle with sesame seeds, and set aside.",
+      "4. Heat a cast iron skillet or heavy griddle over high heat until very hot. Add the neutral oil.",
+      "5. Add the patties and cook undisturbed for 3 to 4 minutes until a dark crust forms. Flip once. Cook for 2 to 3 minutes on the second side.",
+      "6. Place one slice of provolone on each patty. Cover loosely and cook for 1 additional minute to melt the cheese.",
+      "7. Check internal temperature with an instant-read thermometer. Remove patties from heat at 130–135°F (54–57°C) for medium rare. Rest for 3 minutes.",
+      "8. Meanwhile, toast the brioche buns cut-side down in the same pan over medium heat with the remaining 1 tbsp butter until golden, about 2 minutes.",
+      "9. Spread the spicy mayo on both cut faces of each toasted bun.",
+      "10. Build the burger: place lettuce and tomato on the bottom bun, set the cheesed patty on top, then pile the sautéed enoki mushrooms generously over the patty. Crown with the top bun and serve immediately."
+    ]
+  }
+}

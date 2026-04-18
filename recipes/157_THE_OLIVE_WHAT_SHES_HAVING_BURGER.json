@@ -1,0 +1,45 @@
+{
+  "id": 157,
+  "name": "THE OLIVE WHAT SHE'S HAVING BURGER",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 10,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/139",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/157",
+  "recipe": {
+    "history": "The olive is one of the oldest cultivated fruits on Earth, its domestication traced back more than six thousand years to the Eastern Mediterranean — present-day Syria, Lebanon, Israel, and the coastal regions of ancient Greece and Turkey. The wild oleaster was first tamed somewhere along the Levantine littoral, and from there the olive spread westward with Phoenician traders and Greek colonists until it became the defining agricultural symbol of Mediterranean civilization. Homer called olive oil 'liquid gold.' The Romans planted olive groves across every province they conquered, understanding instinctively that the tree was not just food but infrastructure. Varieties multiplied over millennia: the briny Castelvetrano of Sicily, the buttery Manzanilla of Andalusia, the firm and peppery Kalamata of the Greek Peloponnese — each a product of its specific soil, climate, and the accumulated wisdom of the farmers who tended it across generations.\n\nOlives made their way into American kitchens gradually, carried first by Spanish missionaries who planted groves in California in the 18th century and later by waves of Italian, Greek, and Middle Eastern immigrants in the 19th and early 20th centuries. For decades, the olive existed in American cooking primarily as a cocktail garnish or a pizza topping — respected but peripheral. The food revolution of the 1990s changed that. As Americans developed a more sophisticated palate and chefs began pulling ingredients from the full breadth of the Mediterranean pantry, the olive found a new home on burger menus. Chopped olive tapenade, whole roasted olives, and olive aioli became vehicles for bringing brininess and depth to a patty — a way of anchoring the richness of beef in something ancient and complex.\n\nI first tasted an olive burger at a small place in Providence that had a chalkboard menu and smelled like rendered fat and oregano. The cook — a man about my father's age who wore his apron like a second skin — pressed a tapenade of Kalamata olives into the top of the patty during the final minute of cooking so that it melted into the crust rather than sitting on top of it. I did not understand what I was eating at first. I thought I tasted salt, then something floral, then a depth I couldn't name. He told me afterward it was the olives. I went home and bought a jar of Kalamatas and a bag of chuck and spent three hours getting it wrong before I got it right. That burger became a fixture in my cooking for years.\n\nMedium rare is the temperature at which beef and olives understand each other best. The fat in the patty, still liquid and expressive at 130–135°F (54–57°C), acts as a solvent for the olive's complex phenolic compounds, drawing their flavor into the meat and amplifying it in a way that a well-done patty — gray, dry, closed-off — simply cannot. To cook a burger beyond medium rare when you have gone to the trouble of sourcing good olives is to misunderstand what the olive is offering. It is offering brine and bitterness and a six-thousand-year-old conversation about pleasure. The least you can do is meet it at the right temperature.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "1 brioche or sesame burger bun, split",
+      "2 tbsp unsalted butter, softened",
+      "1 tsp flaky sea salt",
+      "1/2 tsp freshly cracked black pepper",
+      "1 slice provolone cheese",
+      "3 tbsp Kalamata olive tapenade (recipe below)",
+      "1/2 cup pitted Kalamata olives",
+      "1/2 cup pitted green Castelvetrano olives",
+      "2 tbsp extra-virgin olive oil",
+      "1 small garlic clove, minced",
+      "1 tsp fresh thyme leaves",
+      "1 tsp fresh lemon zest",
+      "1 tbsp capers, drained",
+      "2 leaves romaine lettuce",
+      "2 slices ripe tomato",
+      "2 tbsp olive aioli (mayonnaise blended with 1 tsp olive brine and 1/4 tsp garlic powder)",
+      "1 tsp neutral oil for the griddle"
+    ],
+    "instructions": [
+      "1. Make the tapenade: combine Kalamata olives, Castelvetrano olives, capers, garlic, thyme, lemon zest, and olive oil in a food processor. Pulse 8–10 times until a coarse, chunky paste forms — do not over-process into a smooth purée. Season to taste with black pepper (it will not need salt). Set aside at room temperature.",
+      "2. Make the olive aioli: stir together mayonnaise, olive brine, and garlic powder until smooth. Refrigerate until needed.",
+      "3. Remove ground beef from refrigerator 20 minutes before cooking. Form into a single 8 oz patty, approximately 4 inches wide and 3/4 inch thick. Press a shallow dimple into the center. Season both sides with flaky sea salt and cracked black pepper.",
+      "4. Butter the cut faces of both bun halves. Heat a cast-iron skillet over medium-high heat until smoking. Toast the buns cut-side down until deep golden, about 90 seconds. Remove and set aside.",
+      "5. Increase heat to high. Add neutral oil to the skillet. Place the patty in the pan and cook undisturbed for 3 minutes until a firm, dark crust develops.",
+      "6. Flip the patty once. Lay the provolone slice on top. Cook 2 minutes.",
+      "7. Spoon 2 tablespoons of tapenade directly onto the cheese. Tent loosely with foil and cook 30 more seconds to allow the tapenade to warm and meld into the melting cheese.",
+      "8. Check internal temperature at the center of the patty. Pull at 130–135°F (54–57°C) for medium rare. Rest on a wire rack for 2 minutes.",
+      "9. Spread olive aioli generously on the cut face of the bottom bun. Layer romaine and tomato slices on the bottom bun.",
+      "10. Place the rested patty — tapenade and cheese draped over its crown — onto the dressed bottom bun.",
+      "11. Spread a thin layer of tapenade on the cut face of the top bun. Close the burger, press lightly, and serve immediately."
+    ]
+  }
+}

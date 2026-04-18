@@ -1,0 +1,45 @@
+{
+  "id": 126,
+  "name": "Away in a Mango Burger",
+  "price": "$5.95",
+  "season": 7,
+  "episode": 7,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/114",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/126",
+  "recipe": {
+    "history": "The mango — Mangifera indica — is one of the oldest cultivated fruits in human history, originating in the Indian subcontinent over 5,000 years ago. Native to the regions of present-day India, Bangladesh, and Myanmar, the mango was sacred in Hindu tradition, appearing in Sanskrit texts and Mughal court poetry alike. It spread westward through Persian trade routes and eastward to Southeast Asia carried by Buddhist monks, eventually reaching Africa and then the Americas via Portuguese explorers in the 16th century. Brazil, Mexico, and the Caribbean became new mango homelands, making it one of the most widely grown tropical fruits on earth. Today India alone produces nearly half of the world's mango supply, but the fruit belongs to every tropical latitude that will have it.\n\nMango arrived in American cuisine primarily through Caribbean and Latin American culinary traditions that took root in Florida, Southern California, and the Gulf Coast. As immigration patterns shifted in the mid-20th century, mango began appearing in salsa, chutneys, and fruit-forward relishes alongside grilled proteins. The sweet, faintly acidic character of ripe mango proved a natural counterpoint to savory, fatty beef, and chefs began experimenting with mango-based condiments on burgers by the early 2000s. Food trucks and fast-casual restaurants in coastal cities popularized the tropical burger format, pairing mango salsa or grilled mango slices with pepper jack cheese, jalapeño, and cilantro-lime aioli. What had once been considered exotic fruit-forward flavor combinations became a staple of American summer grilling culture, cementing mango's place in the burger canon.\n\nI remember the first time I put mango on a burger like it was a personal revelation rather than an accident. I was working a short-order line during a summer so hot the grill felt redundant, and the walk-in was packed with overripe mangoes the produce delivery had mistakenly doubled. I sliced one on a whim, laid the strips right on a patty just off the flat-top, and hit it with a squeeze of lime and some pickled red onion I had sitting in a quart container. The cook next to me said it was wrong. He ate three of them before service ended. There is something about ripe mango against beef fat — the way the sweetness holds up and then dissolves into the savory — that feels less like a topping and more like an argument the burger was always trying to make about itself.\n\nCooking a burger to medium rare is not a preference so much as a philosophy about what beef actually is. The window between 130 and 135°F is where the fat begins to render without fleeing the patty entirely, where the myoglobin retains enough structure to give the meat a blush and a suppleness that well-done cooking destroys permanently. A medium rare burger is still alive in the way that food can be alive — responsive, juicy, expressive of the animal and the grind and the seasoning. With mango as a companion, that lush interior warmth mirrors the soft give of the fruit itself, and the whole thing becomes a meditation on what it means to let good ingredients be exactly what they are without cooking the character out of them.",
+    "ingredients": [
+      "1 lb ground beef chuck (80/20 blend)",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 large ripe mango, peeled and thinly sliced",
+      "1 tablespoon neutral oil (canola or vegetable)",
+      "1/2 red onion, thinly sliced",
+      "2 tablespoons apple cider vinegar",
+      "1 teaspoon granulated sugar",
+      "1/4 teaspoon salt (for pickling onion)",
+      "1 jalapeño, thinly sliced",
+      "4 slices pepper jack cheese",
+      "1/4 cup mayonnaise",
+      "2 tablespoons fresh cilantro, finely chopped",
+      "1 tablespoon fresh lime juice",
+      "1 teaspoon lime zest",
+      "1/2 teaspoon garlic powder",
+      "4 brioche burger buns",
+      "2 tablespoons unsalted butter, softened",
+      "1 cup baby arugula"
+    ],
+    "instructions": [
+      "1. Prepare the pickled red onion at least 30 minutes ahead: combine sliced red onion, apple cider vinegar, sugar, and 1/4 teaspoon salt in a small bowl. Toss well and set aside at room temperature, stirring occasionally.",
+      "2. Make the cilantro-lime aioli: whisk together mayonnaise, chopped cilantro, lime juice, lime zest, and garlic powder in a small bowl. Season with salt and pepper, cover, and refrigerate until ready to use.",
+      "3. Divide ground beef into 4 equal portions (approximately 4 oz each). Gently form into patties about 3/4 inch thick, pressing a shallow dimple in the center of each with your thumb to prevent doming during cooking. Season both sides generously with kosher salt and black pepper.",
+      "4. Heat a cast-iron skillet or heavy griddle over high heat until smoking. Add neutral oil and swirl to coat.",
+      "5. Place patties on the hot surface and cook undisturbed for 3 minutes. Flip once, immediately lay mango slices on top of each patty, and place a slice of pepper jack cheese over the mango.",
+      "6. Continue cooking for 2 to 3 minutes until an instant-read thermometer inserted into the center of the patty reads 130–135°F (54–57°C) for medium rare. Remove from heat and tent loosely with foil. Rest for 2 minutes — carryover cooking will bring the final temperature to the medium rare zone.",
+      "7. While patties rest, butter the cut sides of the brioche buns and toast them in the same pan over medium heat until golden, about 1 minute.",
+      "8. Spread cilantro-lime aioli on both cut sides of each toasted bun.",
+      "9. Layer the bottom bun with a handful of baby arugula, then set the mango-and-cheese-topped patty on top.",
+      "10. Finish with pickled red onion and sliced jalapeño. Cap with the top bun and serve immediately."
+    ]
+  }
+}

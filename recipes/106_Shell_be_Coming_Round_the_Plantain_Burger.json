@@ -1,0 +1,47 @@
+{
+  "id": 106,
+  "name": "She'll be Coming 'round the Plantain Burger",
+  "price": "$5.95",
+  "season": 5,
+  "episode": 19,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/86",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/106",
+  "recipe": {
+    "history": "The plantain — Musa paradisiaca — is not the banana's lesser cousin; it is the banana's grander, starchier ancestor, cultivated for millennia across the tropical belt of West Africa, Southeast Asia, and Central America. Long before European colonizers set foot on Caribbean shores, indigenous peoples of the Americas and the peoples of equatorial Africa had already built entire culinary vocabularies around this versatile fruit. In West African traditions, plantains were roasted directly in coals, pounded into fufu, or sliced and fried in palm oil to produce kelewele — a dish still beloved in Ghana today. The Spanish and Portuguese, in their colonial voyages, carried plantain cuttings across the Atlantic, planting them throughout the Caribbean, Brazil, and Colombia, where the crop took root so thoroughly it became inseparable from the identity of those cuisines. In Uganda and the Great Lakes region of Africa, the matoke — a savory green plantain — became a staple stew so fundamental that it was declared a national dish. From Havana to Bogotá to Lagos, the plantain is not a garnish; it is a cornerstone.\n\nThe plantain's arrival in American cuisine came primarily through the great waves of Caribbean and Latin American immigration in the twentieth century, transforming the food landscapes of cities like Miami, New York, and Los Angeles. Tostones — twice-fried green plantain slices flattened with a tostonera — became the French fry of the Caribbean diaspora, appearing beside rice and beans at lunch counters and neighborhood restaurants. Maduros, the ripe sweet variety cooked soft in oil, found their way onto plates as a counterpoint to savory meats. Innovative American chefs, always hungry for the next textural contrast, began layering plantains into burgers in the 2000s as part of a broader Latin-fusion movement that refused to treat the bun as a boundary. The natural sweetness of a ripe fried plantain placed beneath or atop a beef patty created a caramelized, slightly yielding layer that could do what a brioche bun never quite could — provide both structure and flavor simultaneously.\n\nI remember the first time I understood what a plantain could do to a burger. I was seventeen, visiting my friend Carla's grandmother in her apartment in Jackson Heights, Queens, and the old woman placed a plate in front of me without ceremony or explanation — a beef patty on a soft roll with two planks of golden-brown maduro, their edges crisped and lacquered with their own caramelized sugar. I ate it standing at her kitchen counter because there wasn't room to sit, and I didn't say a word for a full minute afterward. The sweetness of the plantain cut through the fat of the beef in a way that was almost architectural — it reorganized the whole experience. I have been chasing that moment in every kitchen I've worked in since, adding a pinch more salt to the plantain, tweaking the ripeness, trying to rebuild that accidental perfection from memory.\n\nThere is a philosophy embedded in cooking a burger to medium rare that I return to constantly, and it has nothing to do with trendiness or bravado. At 130 to 135 degrees Fahrenheit — 54 to 57 degrees Celsius — the proteins in the beef have tightened just enough to hold the patty together while the fat has rendered into liquid silk that bastes the muscle fibers from within. The Maillard reaction has done its work on the exterior, building a crust of complex, bitter, roasted compounds that contrast the yielding interior. A well-done burger destroys this balance entirely — it squeezes out every drop of fat and moisture, leaving behind a dry puck that asks the condiments to do all the work. Medium rare is not a preference; it is respect for the animal, the cut, and the craft. When you pair that pink, juicy interior with the yielding sweetness of a fried ripe plantain, you are not making a novelty — you are making an argument about how flavors ought to exist together.",
+    "ingredients": [
+      "1.5 lbs (680g) 80/20 ground chuck, freshly ground if possible",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "2 very ripe plantains (skin should be mostly black)",
+      "3 tablespoons neutral oil (such as canola or vegetable), divided",
+      "4 brioche burger buns",
+      "4 slices pepper jack cheese",
+      "1 small red onion, thinly sliced into rings",
+      "1 cup shredded green cabbage",
+      "2 tablespoons fresh lime juice",
+      "1 teaspoon honey",
+      "1 teaspoon apple cider vinegar",
+      "1/2 teaspoon ground cumin",
+      "1/4 cup mayonnaise",
+      "1 tablespoon sriracha",
+      "1 teaspoon garlic powder",
+      "1/2 teaspoon smoked paprika",
+      "Fresh cilantro leaves, for topping",
+      "1 avocado, sliced",
+      "Unsalted butter, for toasting buns"
+    ],
+    "instructions": [
+      "1. Remove the ground chuck from the refrigerator 30 minutes before cooking to bring it to room temperature. Divide into 4 equal portions of roughly 6 oz each. Gently form into patties approximately 3/4 inch thick, pressing a shallow dimple into the center of each with your thumb. Season both sides generously with kosher salt and black pepper. Do not overwork the meat.",
+      "2. Prepare the plantains: peel the ripe plantains and slice them on a slight diagonal into planks about 1/2 inch thick. Season lightly with salt.",
+      "3. Make the sriracha mayo: whisk together the mayonnaise, sriracha, garlic powder, and smoked paprika in a small bowl. Taste and adjust heat to preference. Cover and refrigerate until needed.",
+      "4. Prepare the lime slaw: in a medium bowl, toss the shredded cabbage with the lime juice, honey, apple cider vinegar, ground cumin, and a pinch of salt. Let it sit for at least 10 minutes to lightly pickle and soften. Toss again before serving.",
+      "5. Heat 2 tablespoons of neutral oil in a large cast iron or stainless skillet over medium heat until the oil shimmers. Add the plantain slices in a single layer without crowding (work in batches if necessary). Cook for 3 to 4 minutes per side until deep golden brown and caramelized. Transfer to a paper towel-lined plate and season with a pinch of salt while hot. Set aside.",
+      "6. Heat a cast iron skillet or griddle over high heat until it begins to smoke lightly. Add the remaining 1 tablespoon of oil and swirl to coat.",
+      "7. Place the burger patties in the pan. Cook without moving for 3 to 4 minutes until a deep brown crust forms on the underside.",
+      "8. Flip each patty once. Immediately place a slice of pepper jack cheese on each patty. Cook for an additional 2 to 3 minutes, until the internal temperature reads 130 to 135°F (54 to 57°C) on an instant-read thermometer. This is medium rare — the target is non-negotiable for optimal texture, juiciness, and flavor.",
+      "9. Transfer the patties to a wire rack or warm plate and rest, uncovered, for 3 to 5 minutes. The carry-over heat will bring the internal temperature to approximately 135°F (57°C).",
+      "10. While the patties rest, wipe out the skillet, reduce heat to medium-low, and add a small pat of butter. Toast the brioche buns cut-side down until golden, about 1 to 2 minutes.",
+      "11. Assemble the burgers: spread sriracha mayo generously on both the top and bottom buns. On the bottom bun, layer the lime slaw, then 2 or 3 plantain planks, then the rested patty with melted cheese. Top with avocado slices, red onion rings, and a handful of fresh cilantro leaves. Close with the top bun and serve immediately."
+    ]
+  }
+}

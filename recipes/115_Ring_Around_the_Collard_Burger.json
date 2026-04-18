@@ -1,0 +1,51 @@
+{
+  "id": 115,
+  "name": "Ring Around the Collard Burger",
+  "price": "$5.95",
+  "season": 6,
+  "episode": 11,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/99",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/115",
+  "recipe": {
+    "history": "Collard greens belong to the species Brassica oleracea, the same sprawling botanical family that includes cabbage, kale, broccoli, and Brussels sprouts, and their cultivation history is among the oldest of any leafy vegetable in the world. Archaeological and textual evidence suggests that ancient Greeks and Romans grew and ate collard-like plants as far back as 2000 BCE, though the collard as a distinct, non-heading leafy green developed separately from the cabbages that would dominate European cuisine. The plant's true cultural epicenter, however, is sub-Saharan Africa, where collard greens — known in Portuguese-speaking Angola and Mozambique as couve — have been cultivated and eaten for centuries as a daily staple. Africa's relationship with the collard is not incidental; it is foundational. The plant thrives in warm climates, tolerates poor soils, and produces nutritious leaves over a long growing season, making it an ideal crop for communities with limited agricultural resources. It is a survivor of a vegetable, a green that endures.\n\nCollard greens arrived in North America aboard the same brutal passage that brought enslaved Africans to the American South, and their history on this continent is inseparable from the history of African American food culture. Enslaved people cultivated collards in their own small gardens and prepared them in the way they knew from home — slow-cooked in seasoned pot liquor, often with smoked pork for fat and flavor. This method of preparation, born of necessity and tradition, produced something transcendent: the long braise transformed the collard's natural bitterness into a deep, complex, slightly sweet and smoky greenness that became one of the defining flavors of Southern American cuisine. Collard greens moved from the margins to the table of honor in African American cooking, and from there into the broader American culinary consciousness as a dish associated with abundance, community, and resilience. On a burger, they arrive as a deliberate nod to this history — not a garnish but a statement.\n\nI came to collard greens late, raised as I was on the gentler brassicas — spinach, chard, the occasional arugula. My education was a bowl of proper braised collards served to me at a small family restaurant in Georgia by a cook who had made them every Sunday her entire adult life. She watched me eat with an expression of patient evaluation, and when I asked what was in them, she listed the ingredients without drama: collards, smoked ham hock, apple cider vinegar, red pepper flakes, a long time on low heat. Nothing complicated, nothing hidden. Just commitment. I have been trying to replicate that bowl ever since — and while I have never quite gotten there, applying the braised collard to a burger was the first thing I made in the pursuit that felt genuinely right. The bitterness, the smoke, the slight acidic finish: it was as if the collard had been waiting all along for a beef patty to complete it.\n\nThere is a particular injustice in the overcooking of a burger that is meant to carry a vegetable with as much personality as braised collard greens. The greens are assertive — smoky, bitter-edged, long-cooked and full of depth. They require a beef patty that is equally present, equally alive. A patty cooked to 130 to 135 degrees Fahrenheit (54 to 57 degrees Celsius) — medium rare, pink at the center, crusted and decisive on the exterior — provides exactly that counterpart. Its warmth and juice interact with the braised greens in the way that hot food interacts with other hot food: collaboratively, each intensifying the other's best qualities. Cook the patty past this point, and you have a grey disc of compliance, incapable of holding its own against anything. The Ring Around the Collard Burger deserves a center that holds.",
+    "ingredients": [
+      "1.5 lbs (680g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "1 large bunch fresh collard greens (about 1 lb / 450g), stems removed, leaves cut into 1-inch ribbons",
+      "4 oz (113g) smoked bacon, cut into lardons",
+      "1 small yellow onion, finely diced",
+      "4 cloves garlic, minced",
+      "1 cup low-sodium chicken stock",
+      "2 tablespoons apple cider vinegar",
+      "1 teaspoon crushed red pepper flakes",
+      "1 teaspoon brown sugar",
+      "4 slices sharp cheddar cheese",
+      "4 sesame seed brioche buns",
+      "2 tablespoons unsalted butter, softened",
+      "1 tablespoon neutral oil",
+      "3 tablespoons mayonnaise",
+      "1 tablespoon hot sauce (such as Crystal or Frank's)",
+      "1 teaspoon apple cider vinegar (for sauce)",
+      "1 teaspoon honey",
+      "1/2 teaspoon smoked paprika",
+      "4 thick-cut slices ripe tomato",
+      "Flaky sea salt for finishing"
+    ],
+    "instructions": [
+      "1. Start the braised collard greens at least 45 minutes before serving: in a large heavy pot or Dutch oven over medium heat, render the bacon lardons until crispy and the fat has released, about 6 to 8 minutes. Remove the bacon with a slotted spoon and set aside, leaving the fat in the pot.",
+      "2. Add the diced onion to the bacon fat and cook over medium heat, stirring occasionally, until softened and lightly golden, about 5 minutes. Add the garlic and cook for 1 more minute until fragrant.",
+      "3. Add the collard green ribbons in batches, stirring to wilt each addition before adding the next. Once all greens are in the pot, add the chicken stock, apple cider vinegar, crushed red pepper flakes, and brown sugar. Stir to combine.",
+      "4. Reduce heat to low, cover, and braise for 35 to 45 minutes, stirring occasionally, until the collards are tender and the liquid has reduced to a glossy, flavorful pot liquor. Return the reserved bacon lardons to the pot. Taste and adjust salt, vinegar, and pepper. Keep warm over very low heat.",
+      "5. Make the hot sauce aioli: whisk together mayonnaise, hot sauce, apple cider vinegar, honey, and smoked paprika until smooth. Season with salt to taste. Refrigerate until needed.",
+      "6. Remove beef from the refrigerator 20 minutes before cooking. Divide into 4 equal portions (approximately 6 oz / 170g each). Form into patties about 3/4 inch thick with a center dimple. Season both sides generously with kosher salt and black pepper.",
+      "7. Heat a cast iron skillet over high heat until smoking. Add the neutral oil.",
+      "8. Sear the patties undisturbed for 3 to 3.5 minutes until a deep, even brown crust forms.",
+      "9. Flip once. Immediately place a slice of sharp cheddar on each patty. Cook for 2 to 2.5 more minutes. Check the internal temperature — you are targeting 130–135°F (54–57°C) for medium rare. Pull from heat and rest on a wire rack for 3 minutes.",
+      "10. While the patties rest, butter the bun halves and toast cut-side down in the skillet over medium heat until golden and crisp, about 1 to 2 minutes.",
+      "11. Spread the hot sauce aioli on both cut sides of the bun.",
+      "12. Build the burger: bottom bun, a thick slice of tomato seasoned with flaky salt, the rested patty with its melted cheddar, a generous 'ring' of braised collard greens draped over and around the patty, and the top bun.",
+      "13. Serve immediately, with any remaining pot liquor from the collards offered on the side as a dipping sauce."
+    ]
+  }
+}

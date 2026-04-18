@@ -1,0 +1,43 @@
+{
+  "id": 123,
+  "name": "You Spinach Me Right Round Spinach Burger",
+  "price": "$5.95",
+  "season": 7,
+  "episode": 2,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/109",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/123",
+  "recipe": {
+    "history": "Spinach — Spinacia oleracea — is a flowering plant in the family Amaranthaceae that originated in ancient Persia, in what is now modern-day Iran. Records of its cultivation date back nearly 2,000 years, and it was introduced to China via Nepal around 647 CE, where it was known as the \"Persian vegetable.\" Arab traders carried spinach westward into the Mediterranean during the Moorish expansion of the 8th and 9th centuries, and it arrived in Spain and Sicily by the 11th century, making it one of the earliest leafy greens to enter European cooking via the Islamic world. By the 15th and 16th centuries, spinach had spread throughout Europe and was a favored ingredient in the French and Italian culinary traditions that would eventually form the backbone of Western fine dining. The leaf's high iron content — somewhat overstated by a famous cartoon sailor — combined with its versatility raw or cooked, made it a staple of both peasant and aristocratic tables.\n\nSpinach's role in American cuisine deepened substantially in the 19th and early 20th centuries as Italian and Greek immigrant communities brought their culinary traditions with them, particularly the use of sautéed spinach with garlic and olive oil, and spanakopita-style preparations. By the mid-20th century, creamed spinach had become a steakhouse standard, and the bridge to burger culture was short: wherever beef was the centerpiece, spinach provided color, mineral depth, and textural contrast. Gourmet burger culture of the 1990s and 2000s embraced spinach as a sophisticated alternative to iceberg lettuce — raw baby spinach for its tender, peppery bite, or wilted spinach sautéed with garlic as a warm, savory topping that complemented rich beef patties and strong melting cheeses like feta or provolone.\n\nI was fifteen years old the summer I discovered what garlic and olive oil could do to a handful of spinach. My grandmother's kitchen had this enormous cast iron pan that had never, to my knowledge, been washed with soap — only wiped and seasoned and wiped again — and she used it to sauté spinach from her garden in the time it took a song to finish on the radio. Salt, a crushed clove of garlic, a pour of oil, and a pile of leaves that seemed impossibly large and then wilted to almost nothing in under two minutes. She piled it onto a hamburger she'd been cooking on the outdoor grill and handed it to me without ceremony. The iron and mineral depth of the spinach against that beef patty was a revelation. It was the first time a vegetable had ever made me feel like I understood something about cooking.\n\nMedium rare is where a burger achieves its full identity. At 130–135°F (54–57°C), you are eating beef that has been fundamentally changed by heat but not diminished by it. The outer crust carries char and bitterness, the smoke-inflected Maillard reaction at the surface giving way almost immediately to a core that is deeply red, warm, and yielding. The fat has liquefied and threaded itself through the meat, and each bite carries both the memory of the fire and the richness of the animal. Spinach, with its mineral edge and slight bitterness when sautéed, is perhaps the most honest vegetable pairing for a medium rare patty — both ingredients speaking the same earthy, iron-laden language.",
+    "ingredients": [
+      "1.5 lbs (680g) ground beef, 80/20 chuck blend",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "4 ciabatta burger buns or brioche buns",
+      "4 tbsp unsalted butter, softened (for toasting buns)",
+      "5 oz (140g) fresh baby spinach",
+      "4 large cloves garlic, 2 thinly sliced + 2 minced separately",
+      "3 tbsp extra-virgin olive oil, divided",
+      "Pinch of red pepper flakes",
+      "4 slices provolone cheese (or feta crumbled, as alternative)",
+      "1/2 cup mayonnaise",
+      "2 tsp fresh lemon juice",
+      "1 tsp lemon zest",
+      "2 tbsp fresh flat-leaf parsley, finely chopped",
+      "1 tsp Worcestershire sauce",
+      "1 large ripe tomato, sliced",
+      "1/2 red onion, very thinly sliced into rings",
+      "Dill pickle chips",
+      "Neutral oil or beef tallow (for cooking patties)"
+    ],
+    "instructions": [
+      "1. Remove ground beef from the refrigerator 30 minutes before cooking. Add Worcestershire sauce, 1 teaspoon kosher salt, and 1/2 teaspoon black pepper directly to the beef and incorporate gently — do not overwork. Divide into 4 portions (approximately 6 oz each) and form into patties about 3/4-inch thick, pressing a shallow dimple into the center of each. Season the outsides once more with salt and pepper.",
+      "2. Prepare the lemon-parsley aioli: whisk together mayonnaise, fresh lemon juice, lemon zest, minced garlic (2 cloves), and chopped parsley. Season with salt and pepper to taste. Refrigerate until assembly.",
+      "3. Sauté the spinach: heat 2 tablespoons olive oil in a large skillet over medium heat. Add the 2 thinly sliced garlic cloves and red pepper flakes and cook, stirring, for 30–45 seconds until fragrant but not browned. Add all the baby spinach at once with a pinch of kosher salt. Toss frequently for 1.5–2 minutes until just wilted. Remove from heat, allow any excess liquid to drain off briefly, and keep warm.",
+      "4. Preheat a cast-iron skillet or grill to high heat. Lightly coat with neutral oil or beef tallow.",
+      "5. Cook the patties over high heat, undisturbed, for approximately 3 minutes on the first side to build a deep crust. Flip once and immediately place a slice of provolone cheese on each patty.",
+      "6. Cook for 2–2.5 minutes more on the second side, checking internal temperature. Pull the patties at 130–135°F (54–57°C) for medium rare. Tent loosely with foil and rest 3 minutes.",
+      "7. While the patties rest, toast the buns cut-side down in butter over medium heat for 1–2 minutes until golden.",
+      "8. Build each burger: spread lemon-parsley aioli generously on both bun halves. On the bottom bun, layer sliced tomato, a few rings of red onion, and pickle chips. Place the cheesed patty on top. Pile a generous spoonful of warm garlicky sautéed spinach directly over the melted provolone. Cap with the top bun and serve immediately."
+    ]
+  }
+}

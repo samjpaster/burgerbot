@@ -1,0 +1,50 @@
+{
+  "id": 142,
+  "name": "THE CLEAR AND PRESENT GINGER BURGER",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 4,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/133",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/142",
+  "recipe": {
+    "history": "Ginger — Zingiber officinale — is one of the oldest cultivated spices in human history, its roots tracing back more than 5,000 years to the tropical rainforests of Southeast Asia, with strong evidence of early cultivation in ancient India and China. In Sanskrit texts, it appears as shunthi; in ancient Chinese medicine, ginger was catalogued as a warming tonic that dispelled cold and damp from the body, a property that made it invaluable both medicinally and culinarily across East and South Asia. Arab traders brought dried ginger along the Silk Road to the Mediterranean world by the first century CE, where it quickly became a treasured commodity priced near the value of a sheep per pound in medieval Europe. The rhizome's ability to survive long sea voyages in dried form made it one of the most globally traded spices of the pre-modern world, arriving in West Africa, the Caribbean, and eventually the Americas as part of the colonial spice trade — where it took root literally in Jamaica and figuratively in the flavor vocabularies of dozens of new cuisines.\n\nIn American cooking, ginger entered the mainstream through two distinct streams: the European baking tradition (gingerbread, ginger snaps, ginger beer) and the wave of Asian immigration in the 19th and 20th centuries that introduced fresh ginger as a savory ingredient. As Japanese, Chinese, Korean, and Vietnamese culinary influences wove themselves into the broader American food conversation, fresh ginger's sharp, citrusy heat began appearing in marinades, slaws, and glazes that chefs recognized paired extraordinarily well with beef. The classic ginger-soy-sesame marinade became a gateway for many American palates to understand ginger's savory dimension. By the time the chef-driven burger movement took hold in the 2000s, fresh ginger was appearing in everything from patty seasonings to quick-pickled ginger toppings and spiced aiolis alongside beef, its clean heat cutting through fat in a way that black pepper could never quite match.\n\nI came to ginger burgers sideways, through a jar of pickled sushi ginger sitting on the prep counter one afternoon when I was making a standard cheeseburger for a staff meal. I sliced a few pieces out of habit, laid them on the hot patty just to see, and the briny-sweet-pungent hit against the beef fat stopped me mid-bite. After that I started working ginger three ways into a single burger: fresh grated into a quick glaze for the patty, thinly sliced and pan-fried in sesame oil as a topping, and julienned raw and pickled overnight in rice vinegar and sugar for acid and crunch. The three textures and temperatures of the same ingredient on one burger felt honest — like showing someone the whole story instead of just the highlight.\n\nTo cook a patty to anything beyond medium rare is to make a decision against the ingredient. Beef ground at 80/20 carries enough intramuscular fat to stay succulent at 130–135°F / 54–57°C, but once you push past 140°F the fat begins to render out irreversibly and the muscle fibers contract and squeeze and what you have left is meat that needs sauce to survive. A medium-rare patty needs nothing to justify itself — it is the argument and the conclusion simultaneously. With a ginger burger, the clarity of fresh ginger's bright, almost citric heat registers most vividly against warm, pink beef; cook it to well-done and the ginger fights charred dryness instead of dancing with juicy fat, and you lose the whole conversation.",
+    "ingredients": [
+      "1 lb (450g) ground beef, 80/20 chuck blend",
+      "1 tablespoon fresh ginger, finely grated (for patty glaze)",
+      "2 tablespoons soy sauce",
+      "1 tablespoon honey",
+      "1 teaspoon toasted sesame oil",
+      "1 teaspoon rice vinegar",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "2-inch knob fresh ginger, peeled and sliced into thin coins (for fried topping)",
+      "1 tablespoon neutral oil (canola or grapeseed)",
+      "1 teaspoon sesame oil (for frying ginger coins)",
+      "2-inch knob fresh ginger, peeled and julienned (for quick pickle)",
+      "3 tablespoons rice vinegar",
+      "1 tablespoon sugar",
+      "1/2 teaspoon kosher salt (for pickle brine)",
+      "1/2 cup mayonnaise",
+      "1 teaspoon fresh ginger, grated (for aioli)",
+      "1 teaspoon soy sauce (for aioli)",
+      "1 teaspoon lime juice",
+      "2 brioche burger buns",
+      "2 tablespoons unsalted butter, for toasting buns",
+      "4 leaves butter lettuce",
+      "2 slices ripe tomato",
+      "1 tablespoon toasted sesame seeds, for garnish"
+    ],
+    "instructions": [
+      "1. Prepare the quick-pickled ginger at least 2 hours ahead (or overnight): combine rice vinegar, sugar, and 1/2 teaspoon kosher salt in a small saucepan over medium heat, stirring until sugar dissolves. Pour over julienned ginger in a small jar or bowl. Let cool to room temperature, then refrigerate.",
+      "2. Make the ginger aioli: whisk together mayonnaise, 1 teaspoon grated ginger, 1 teaspoon soy sauce, and lime juice until smooth. Season to taste. Refrigerate until needed.",
+      "3. Prepare the glaze: combine 1 tablespoon grated ginger, soy sauce, honey, sesame oil, and rice vinegar in a small bowl. Whisk together and set aside.",
+      "4. Divide ground beef into two 8-oz portions. Form each gently into a 3/4-inch-thick patty, dimpling the center. Season both sides with kosher salt and cracked black pepper.",
+      "5. Heat a cast-iron skillet or flat-top griddle over high heat until smoking. Place patties dimple-side up and cook undisturbed for 3 minutes to develop a deep crust.",
+      "6. Flip patties. Brush the cooked top surface generously with the ginger glaze. Cook for 2–2.5 more minutes, basting once more with glaze. Use an instant-read thermometer — pull patties at 130–135°F / 54–57°C for medium rare. Tent loosely with foil and rest 3 minutes.",
+      "7. While patties rest, heat neutral oil and sesame oil in a small skillet over medium-high heat. Add sliced ginger coins and fry for 2–3 minutes per side until golden and crisp at the edges. Transfer to a paper towel-lined plate and season lightly with salt.",
+      "8. Toast buns cut-side down in butter in the same skillet over medium heat until golden, about 1–2 minutes.",
+      "9. Build the burger: spread ginger aioli on both bun halves. Place butter lettuce and tomato on the bottom bun. Set the glazed patty on top. Pile fried ginger coins over the patty. Finish with a tangle of drained pickled ginger and a sprinkle of toasted sesame seeds.",
+      "10. Cap with the top bun and serve immediately."
+    ]
+  }
+}

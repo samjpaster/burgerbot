@@ -1,0 +1,69 @@
+{
+  "id": 16,
+  "name": "Thank God It's Fried Egg Burger",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 6,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/6",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/16",
+  "recipe": {
+    "history": "The egg is among the oldest foods known to humanity, consumed long before the written word gave us any way to record the act. Ancient Egyptians domesticated the jungle fowl as early as 1400 BCE, and records from China place egg cultivation even earlier, with the practice spreading methodically westward through Persia and into the Mediterranean world. Roman cookery texts describe fried eggs with considerable enthusiasm — cooked in olive oil, finished with honey and pepper, served at banquets alongside roasted meats. Across South Asia, fried eggs cooked in ghee or mustard oil became morning ritual centuries before the concept of breakfast had a name. What is remarkable is not merely how old the fried egg is, but how independently civilizations arrived at the same conclusion: that cracking an egg into hot fat, letting the white set while the yolk holds its trembling, molten center, is one of the most satisfying acts a cook can perform. By the time the industrial revolution restructured daily life and compressed the morning into a narrow corridor of urgency, the fried egg had already accumulated millennia of goodwill. It became the breakfast staple of the working world — fast, cheap, protein-rich, and honest in a way that more elaborate foods rarely manage to be.\n\nThe leap from breakfast plate to burger bun is, in retrospect, completely inevitable, and yet it took American cuisine an embarrassingly long time to make it official. Roadside diners in the 1950s were the proving ground — short-order cooks working griddles with both hands, flipping patties and cracking eggs simultaneously out of pure spatial necessity, and discovering that the combination was not merely convenient but revelatory. The runny yolk, when pierced by a first bite, functions as a sauce that no bottle on the table could replicate: rich, unctuous, faintly sulfurous in the best possible way, binding the beef fat and the toasted bun into something cohesive and deeply savory. The fried egg burger gained cult status in Hawaii through the loco moco — a bowl of rice, a beef patty, a fried egg, and brown gravy stacked without apology — and from there the idea permeated the mainland with the slow confidence of something that knows it is correct. By the late twentieth century, every serious burger joint had a version on the menu, whether they admitted it was a tradition or pretended they had invented it. The egg does not care about credit. It simply makes the burger better, and it has always known this.\n\nI remember the first time I understood what a fried egg could do to a burger. It was a Tuesday — unremarkable in every way that Tuesdays tend to be — at a diner counter with cracked vinyl stools and a laminated menu that had not changed since the Carter administration. I ordered the burger without much thought, and it arrived with a fried egg perched on top, the yolk still liquid, the white just barely set at the edges in the way that suggests it was pulled from the heat one precise moment before it needed to be. I cut into it with the edge of my fork, more out of habit than intention, and the yolk ran down the side of the patty and pooled against the bottom bun in a small, golden flood. The first bite stopped me mid-conversation. There was nothing complicated about it — beef, egg, a little salt, a bun that had seen the butter side of the griddle — and yet it tasted like someone had been thinking carefully about my happiness. I have ordered that burger, in its various incarnations across various diners and cities, approximately one hundred times since. It has never once let me down. That is the kind of loyalty you do not plan for. It simply arrives, like a good Tuesday.\n\nThere is only one correct internal temperature for a beef patty, and it is medium rare: 130 to 135 degrees Fahrenheit, achieved with patience and a reliable instant-read thermometer, and rested for no fewer than three minutes before the first knife touches it. At this temperature the myoglobin in the muscle fibers has begun to denature without fully surrendering — the center remains a deep, rosy pink, yielding to pressure rather than resisting it, and the fat within the grind has softened and distributed itself through the meat in a way that cooking past this point simply destroys. Medium rare is not a preference or a personality quirk. It is a thermodynamic fact: the Maillard reaction has done its work on the exterior crust, the interior has reached the precise threshold of texture and moisture retention, and the patty is, objectively, at peak expression of what a ground beef burger can be. To cook beyond this — to gray the center, to squeeze out the moisture, to produce a puck that requires condiments as structural apology — is not a matter of taste. It is a mistake. The fried egg, with its own liquid center, understands this implicitly. Two components, each insisting on their own yielding core, arriving together on a bun: that is not an accident. That is a burger with a philosophy.",
+    "ingredients": {
+      "bun": [
+        "2 1/4 tsp active dry yeast (1 standard packet)",
+        "1 cup warm whole milk (110°F)",
+        "2 tbsp granulated sugar",
+        "3 cups all-purpose flour, plus extra for dusting",
+        "1 1/2 tsp kosher salt",
+        "2 tbsp unsalted butter, softened",
+        "1 large egg (for dough)",
+        "1 egg yolk + 1 tbsp milk (egg wash)",
+        "1 tbsp sesame seeds (optional, for topping)"
+      ],
+      "patty": [
+        "6 oz freshly ground beef, 80/20 chuck blend per burger",
+        "3/4 tsp kosher salt",
+        "1/2 tsp freshly ground black pepper",
+        "1 tsp neutral oil (canola or vegetable) for cooking"
+      ],
+      "fried_egg": [
+        "1 large egg, as fresh as possible",
+        "1 tsp unsalted butter",
+        "Pinch of flaky sea salt",
+        "Pinch of freshly ground black pepper"
+      ],
+      "toppings_and_condiments": [
+        "2 tbsp mayonnaise",
+        "1 tsp Dijon mustard",
+        "1 tbsp ketchup",
+        "1 leaf green leaf lettuce",
+        "1 thick slice ripe tomato",
+        "2 thin slices white onion",
+        "3 bread-and-butter pickle chips",
+        "1 slice American or mild cheddar cheese (optional)"
+      ],
+      "for_toasting_bun": [
+        "1 tsp unsalted butter"
+      ]
+    },
+    "instructions": [
+      "Make the buns: Warm the milk to 110°F. Combine with yeast and sugar in the bowl of a stand mixer and let sit 5–10 minutes until foamy, confirming the yeast is active.",
+      "Add the flour, salt, softened butter, and egg to the yeast mixture. Mix on low with the dough hook until a shaggy dough forms, then increase to medium and knead 8 minutes until the dough is smooth, elastic, and pulls cleanly from the bowl sides.",
+      "Shape the dough into a ball, place in a lightly oiled bowl, cover with plastic wrap, and let rise at room temperature until doubled in size, approximately 1 to 1.5 hours.",
+      "Punch down the dough and divide into 4 equal portions (roughly 120g each). Shape each into a smooth, tight ball by pulling the surface taut and pinching the seam at the bottom. Place on a parchment-lined baking sheet, spaced 3 inches apart.",
+      "Cover loosely with plastic wrap and let rise again for 45 minutes, until noticeably puffed. Preheat oven to 375°F during this second rise.",
+      "Brush each bun gently with egg wash (yolk + milk) and sprinkle with sesame seeds if using. Bake 15–18 minutes until deep golden brown. Transfer to a wire rack and cool completely before slicing.",
+      "Form the patties: Remove ground beef from the refrigerator 20 minutes before cooking to take the chill off. Divide into 6-oz portions. Using minimal handling, loosely form each portion into a round patty roughly 4 inches in diameter and 3/4 inch thick. Press a shallow dimple in the center with your thumb to prevent doming during cooking. Season both faces generously with kosher salt and black pepper immediately before cooking.",
+      "Cook the patties: Heat a cast iron skillet or heavy griddle over high heat until smoking. Add the neutral oil and swirl to coat. Place the patty dimple-side up in the pan without pressing. Sear undisturbed for 2.5 to 3 minutes until a deep mahogany crust forms on the bottom.",
+      "Flip the patty once. If adding cheese, lay it on now. Continue cooking 1.5 to 2 minutes. Begin checking internal temperature at the 1.5-minute mark by inserting an instant-read thermometer horizontally through the side of the patty to the center. Pull the patty from heat when it reads 128–130°F — carryover cooking during the rest will bring it to the target range of 130–135°F.",
+      "Transfer the patty to a wire rack set over a plate and tent loosely with foil. Rest for a minimum of 3 minutes. Do not skip this step.",
+      "Toast the bun: While the patty rests, melt butter in the same skillet over medium heat. Place the bun halves cut-side down and toast 60–90 seconds until golden and lightly crisped at the edges.",
+      "Fry the egg: In a small nonstick skillet, melt butter over medium-low heat until it foams and the foam begins to subside. Crack the egg into a small ramekin first, then slide it gently into the pan to preserve the yolk. Cook undisturbed for 2 to 2.5 minutes until the white is fully set but the yolk remains completely liquid and glossy. Season with flaky salt and pepper. Remove from heat immediately.",
+      "Build the burger: Spread mayonnaise on the bottom bun. Add a thin layer of Dijon mustard on top of the mayo. Layer the lettuce leaf flat against the bottom bun to act as a moisture barrier.",
+      "Place the tomato slice on the lettuce and season it lightly with salt. Add the onion slices and pickles.",
+      "Set the rested patty (with cheese if using) onto the stack. Immediately lay the fried egg on top of the patty so the yolk sits centered.",
+      "Spread ketchup on the cut face of the top bun. Place the top bun on the egg, pressing down just enough to bring everything into contact without rupturing the yolk prematurely — that moment is reserved for the first bite.",
+      "Serve immediately on a warmed plate. Provide napkins without being asked."
+    ]
+  }
+}

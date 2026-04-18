@@ -1,0 +1,92 @@
+{
+  "id": 10,
+  "name": "The Roquefort Files Burger",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 4,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/4",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/10",
+  "recipe": {
+    "history": "Roquefort is one of the world's oldest and most celebrated blue cheeses, with origins stretching back over a thousand years to the village of Roquefort-sur-Soulzon in the Aveyron department of southern France. According to legend, a young shepherd abandoned his lunch of bread and fresh cheese in a cave on Mount Combalou to chase a beautiful girl, and when he returned weeks later the cheese had transformed — threaded through with veins of blue-green Penicillium roqueforti mold that had drifted in from the cave walls. Whether the legend is true or not, what is certain is that Roquefort has been legally protected since 1411, when Charles VI of France granted the village of Roquefort-sur-Soulzon the exclusive right to ripen this cheese in those same Combalou caves. The caves are unique: natural fissures called fleurines channel cool, moist air through the limestone, creating the precise microclimate the Penicillium roqueforti needs to colonize the wheels of raw sheep's milk cheese from the inside out. The result is a cheese that is simultaneously sharp, salty, tangy, and rich — crumbling at the touch yet creamy on the tongue.\n\nBlue cheese found its way onto the American burger by a circuitous but inevitable route. By the mid-twentieth century, steakhouses had popularized the blue cheese wedge salad as a standard appetizer, and somewhere along the line — likely in the casual-dining boom of the 1970s and '80s — a cook realized that anything good enough to sit next to a steak was good enough to melt over a burger. Roquefort in particular made inroads through French-influenced bistro cooking that swept American cities in the 1980s and '90s. Chefs who had staged in Lyon or Bordeaux came home with a reverence for the cheese and began slumping thick crumbles over patties, letting the fat in the cheese liquify against the heat of the beef and run down into the bun. The pungency of Roquefort turned out to be a perfect foil for charred, well-seasoned beef — its salt amplifying the Maillard crust, its funk cutting through the richness of the fat. What had been a rarefied import from a cave in southern France became a staple of the American pub burger menu, one of those rare crossings where Old World terroir and New World appetite met and both came out better for it.\n\nI remember the first time I ordered a Roquefort burger at a dim little place near my apartment — a Tuesday night, nothing special, the kind of dinner you expect to forget. The cheese arrived in thick, slightly warm crumbles that had just begun to weep into the patty's crust, and the smell hit me before I even picked it up: that distinctive cave-damp sharpness, funky and alive, wrapped around the smoke of the beef. I took one bite and understood immediately why someone had thought to do this. There was something almost investigative about eating it, like each layer of flavor was a clue leading somewhere deeper — which is exactly the energy The Roquefort Files Burger captures. The X-Files pun is almost too perfect: Roquefort is a cheese with a case file, a protected designation of origin, a century's worth of legal history, and a mold that does all the real work in the dark. The truth, as they say, is in there.\n\nCooking a burger to medium rare — an internal temperature of 130–135°F — is not a preference, it is a position, and it is the correct one. At that temperature the myosin proteins have set, giving the patty enough structure to hold together, but the actin proteins have not yet fully contracted, which means the muscle fibers retain their moisture and the fat has had just enough time to render into the meat rather than flee it. The center is warm, deeply pink, and yielding — a texture that lets the Roquefort melt into the beef rather than sit on top of a dry puck. Going further, to medium or medium well, squeezes out the intramuscular fat that carries flavor, tightens the proteins until they grip each other like a fist, and turns what could have been a juicy, complex bite into something you need extra sauce to rescue. A good burger deserves better than that. Use a reliable instant-read thermometer, pull the patty at 130°F, tent it loosely, and let carryover heat bring it the last few degrees. This is not fussiness — it is the minimum respect owed to good beef and a great cheese.",
+    "ingredients": [
+      {
+        "section": "Brioche Buns (makes 4)",
+        "items": [
+          "2 1/4 tsp (1 packet) active dry yeast",
+          "1/4 cup warm whole milk (110°F)",
+          "1/4 cup warm water (110°F)",
+          "2 tbsp granulated sugar",
+          "2 1/4 cups (280g) all-purpose flour, plus more for dusting",
+          "1 tsp fine sea salt",
+          "2 large eggs, room temperature (1 for dough, 1 for egg wash)",
+          "3 tbsp unsalted butter, softened and cut into pieces",
+          "1 tbsp sesame seeds (optional, for topping)"
+        ]
+      },
+      {
+        "section": "Burger Patties (makes 4)",
+        "items": [
+          "1 1/2 lbs (680g) freshly ground beef, 80/20 chuck",
+          "1 tsp kosher salt",
+          "1/2 tsp freshly ground black pepper",
+          "1/2 tsp garlic powder",
+          "1 tbsp neutral oil (such as canola or grapeseed), for the pan or grill"
+        ]
+      },
+      {
+        "section": "Roquefort Topping",
+        "items": [
+          "4 oz (113g) authentic Roquefort cheese (PDO), cold, crumbled into 1/2-inch pieces",
+          "1 tbsp heavy cream (to loosen the cheese into a light sauce if desired)"
+        ]
+      },
+      {
+        "section": "Caramelized Onions",
+        "items": [
+          "2 large yellow onions, halved and thinly sliced",
+          "2 tbsp unsalted butter",
+          "1 tbsp olive oil",
+          "1/4 tsp fine sea salt",
+          "1 tsp fresh thyme leaves",
+          "2 tbsp dry white wine or dry vermouth"
+        ]
+      },
+      {
+        "section": "Garlic Aioli",
+        "items": [
+          "2 large egg yolks, room temperature",
+          "1 tsp Dijon mustard",
+          "2 cloves garlic, finely grated or minced to a paste",
+          "1 tbsp fresh lemon juice",
+          "1/2 cup (120ml) neutral oil",
+          "2 tbsp extra-virgin olive oil",
+          "1/4 tsp fine sea salt",
+          "Pinch of white pepper"
+        ]
+      },
+      {
+        "section": "Assembly",
+        "items": [
+          "4 leaves butter lettuce or little gem lettuce",
+          "2 medium heirloom or beefsteak tomatoes, sliced 1/4-inch thick",
+          "Flaky sea salt (such as Maldon), for finishing"
+        ]
+      }
+    ],
+    "instructions": [
+      "Make the brioche buns: Combine warm milk, warm water, and sugar in the bowl of a stand mixer. Sprinkle yeast over the top and let sit until foamy, about 8–10 minutes. Add flour and salt, then mix with the dough hook on low until a shaggy dough forms, about 2 minutes.",
+      "Add one egg to the dough and mix on medium-low for 3 minutes. With the mixer running, add the softened butter one piece at a time, waiting until each piece is incorporated before adding the next. Increase speed to medium and knead until the dough is smooth, elastic, and pulls away from the bowl sides cleanly, about 8–10 minutes. The dough will be slightly tacky but should not stick aggressively to your hands.",
+      "Transfer dough to a lightly oiled bowl, cover tightly with plastic wrap, and let rise at room temperature until doubled in size, 1 to 1.5 hours. Alternatively, refrigerate overnight for a slower, more flavorful rise.",
+      "Divide dough into 4 equal portions (about 100g each). Shape each into a tight ball by pulling the dough under itself and pinching the seam. Place on a parchment-lined baking sheet spaced at least 3 inches apart. Flatten slightly to about 1 inch thick. Cover loosely and let proof until puffed and jiggly, 45–60 minutes.",
+      "Preheat oven to 375°F (190°C). Beat the remaining egg with 1 tablespoon of water and gently brush the tops of the buns. Sprinkle with sesame seeds if using. Bake for 14–16 minutes until deep golden brown. Transfer to a wire rack and cool completely before slicing.",
+      "Make the caramelized onions: Melt butter with olive oil in a wide, heavy-bottomed skillet over medium heat. Add sliced onions and salt. Stir to coat, then reduce heat to medium-low. Cook, stirring every 5–7 minutes, until onions are deep golden brown and jammy, 40–50 minutes total. Add white wine and thyme in the last 5 minutes, scraping up any fond. Set aside.",
+      "Make the garlic aioli: Whisk egg yolks, Dijon, garlic paste, and lemon juice together in a medium bowl until smooth. Combine both oils in a measuring cup. While whisking constantly, add the oil drop by drop at first, then in a very thin, steady stream once the emulsion is established. Continue until all oil is incorporated and the aioli is thick and glossy. Season with salt and white pepper. Refrigerate until ready to use.",
+      "Form the patties: Divide the ground beef into 4 equal portions (about 6 oz / 170g each). Handle the meat as little as possible — overworking develops gluten and toughens the texture. Gently press each portion into a round patty about 3/4-inch thick and slightly wider than your buns (they will shrink). Use your thumb to press a shallow dimple into the center of each patty to prevent doming during cooking. Season generously with salt, pepper, and garlic powder on both sides immediately before cooking.",
+      "Cook the patties: Heat a cast-iron skillet or heavy grill pan over high heat until smoking. Add the oil and swirl to coat. Place patties in the pan without crowding — work in batches if necessary. Cook undisturbed for 3–3.5 minutes until a deep brown crust forms. Flip once. Cook the second side for 2.5–3 minutes.",
+      "Check the internal temperature with an instant-read thermometer inserted through the side of the patty toward the center. Pull patties off heat at 130°F (54°C). Tent loosely with foil and rest for 3–4 minutes; carryover cooking will bring the internal temperature to 133–135°F (56–57°C) — the ideal medium-rare window. The center will be warm, pink, and juicy.",
+      "Top with Roquefort: While the patties are resting, distribute the crumbled Roquefort evenly over the tops. The residual heat from the resting patties will begin to soften and slightly melt the cheese. If you prefer a creamier, more saucy application, combine Roquefort crumbles with 1 tablespoon of heavy cream in a small saucepan over low heat and stir gently until just melted together; spoon over patties.",
+      "Toast the buns: Slice the cooled brioche buns in half. Butter the cut sides lightly and place cut-side down in the same skillet used for the patties (no need to wipe it out — the beef fat adds flavor). Toast over medium heat for 1–2 minutes until golden and crisp.",
+      "Assemble the burgers: Spread a generous tablespoon of garlic aioli on both cut sides of each toasted bun. Layer the bottom bun with a leaf of butter lettuce, then one or two slices of tomato. Place the Roquefort-topped patty on the tomato. Spoon a heaping tablespoon of caramelized onions over the cheese. Finish with a small pinch of flaky sea salt directly on the patty. Set the top bun in place and serve immediately."
+    ]
+  }
+}

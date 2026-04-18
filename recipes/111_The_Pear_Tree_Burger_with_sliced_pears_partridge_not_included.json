@@ -1,0 +1,45 @@
+{
+  "id": 111,
+  "name": "The Pear Tree Burger (with sliced pears - partridge not included)",
+  "price": "$5.95",
+  "season": 6,
+  "episode": 5,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/93",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/111",
+  "recipe": {
+    "history": "The pear is one of the oldest cultivated fruits in the world, with origins tracing back over four thousand years to the temperate regions of western China and central Asia. Ancient Chinese texts from around 5000 BCE reference pear cultivation, and the fruit spread westward along trade routes into Persia, Greece, and eventually Rome. The Romans were particularly devoted to the pear, developing over fifty named varieties through selective cultivation. It was Roman agricultural expansion across Europe that carried the pear into France, Italy, and the Iberian Peninsula, where it found ideal growing conditions in the mild, moist climates. By the medieval period, pear orchards were a cornerstone of monastic horticulture across France and England, and French gastronomy in particular elevated the pear to a symbol of refinement — a fruit fit for royalty and feast tables alike.\n\nPears arrived in the Americas with European colonists in the seventeenth century, planted in the orchards of Massachusetts and Virginia as settlers sought to recreate the agricultural traditions of their homelands. Over time, American farmers developed their own beloved varieties — the Bartlett, the Bosc, the Anjou — each with distinct textures and flavor profiles suited to different culinary applications. American cooks discovered early on that the pear's natural sweetness and gentle acidity made it a remarkable foil for savory, fatty, and pungent ingredients. By the twentieth century, pears had made their way into composed salads, chutneys, and eventually onto the American burger as chefs began embracing fruit as a serious counterpoint to the rich, umami-laden beef patty. The combination of caramelized or fresh-sliced pear against a seared burger proved that sweetness and savoriness are not opposites — they are partners.\n\nI remember the first autumn I truly understood what a pear could do. I was working a small line in a farm-to-table kitchen in Vermont, and the chef — a quiet, exacting man who spoke mostly in grunts of approval or disappointment — slid a plate in front of me without comment. It was a simple open-faced burger on a toasted brioche heel, crowned with paper-thin slices of ripe Bosc pear and a smear of whole-grain mustard. I ate it standing at the pass, still wearing my apron, and something about the way the cold, sweet pear juice mingled with the hot, fatty beef stopped me mid-bite. It was one of those rare cooking moments where a single ingredient reframes everything you thought you knew about a dish. I have been putting pears on burgers, in one form or another, ever since.\n\nCooking a burger to medium rare is not a shortcut or a compromise — it is a philosophical commitment to the nature of beef itself. Ground beef, when sourced well and handled with respect, carries within it the full expression of the animal: its fat, its minerality, its depth. To cook it past medium rare — past that internal temperature of 130 to 135 degrees Fahrenheit, 54 to 57 degrees Celsius — is to drive out the moisture that carries flavor, to tighten the proteins into something dense and reluctant. The pink center of a medium rare burger is not underdone; it is perfectly done. It is the temperature at which fat has begun to render into the meat, at which the crust has formed its Maillard-reaction glory, and at which the interior remains yielding and juicy. Every ingredient on this burger — the pear, the cheese, the condiments — was chosen to complement that pink, warm, honest center. Honor it.",
+    "ingredients": [
+      "1.5 lbs (680g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "1 ripe but firm Bosc or Bartlett pear, cored and sliced thin (about 1/8 inch)",
+      "4 slices aged Gruyère cheese",
+      "4 brioche burger buns",
+      "2 tablespoons unsalted butter, softened",
+      "1 tablespoon olive oil",
+      "4 tablespoons whole-grain Dijon mustard",
+      "2 tablespoons mayonnaise",
+      "1 tablespoon honey",
+      "1 teaspoon fresh thyme leaves",
+      "1 cup baby arugula",
+      "1 teaspoon lemon juice",
+      "1 teaspoon extra-virgin olive oil (for dressing arugula)",
+      "Pinch of flaky sea salt (for finishing)"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 20 minutes before cooking to allow it to come closer to room temperature — this promotes even cooking.",
+      "2. Divide the beef into 4 equal portions of approximately 6 oz (170g) each. Gently form each into a round patty about 3/4 inch thick, pressing a shallow dimple into the center with your thumb to prevent doming during cooking. Season both sides generously with kosher salt and black pepper. Do not overwork the meat.",
+      "3. In a small bowl, whisk together the whole-grain Dijon mustard, mayonnaise, honey, and fresh thyme leaves until combined. Taste and adjust honey or mustard to your preference. Set aside.",
+      "4. In a separate small bowl, toss the baby arugula with the lemon juice, extra-virgin olive oil, and a pinch of flaky sea salt. Set aside.",
+      "5. Heat a cast iron skillet or heavy griddle over high heat until it begins to smoke lightly. Add the tablespoon of olive oil and swirl to coat.",
+      "6. Place the patties in the pan. Do not press them down. Sear undisturbed for approximately 3 to 3.5 minutes until a deep brown crust forms on the underside.",
+      "7. Flip the patties once. Immediately lay one slice of Gruyère cheese on each patty. Cook for an additional 2 to 2.5 minutes.",
+      "8. Check the internal temperature using an instant-read thermometer. You are targeting 130–135°F (54–57°C) for medium rare. Remove the patties from the heat at this temperature — carryover cooking will bring them to the ideal point. Rest on a wire rack for 3 minutes.",
+      "9. While the patties rest, butter the cut sides of the brioche buns with the softened butter and toast them cut-side down in the same skillet over medium heat for 1 to 2 minutes until golden.",
+      "10. Spread the honey-thyme Dijon sauce generously on both the top and bottom bun.",
+      "11. Layer the bottom bun with a small handful of the dressed arugula, then place the rested, cheese-topped patty on top.",
+      "12. Fan 4 to 5 thin pear slices over the melted Gruyère on the patty. Finish with a pinch of flaky sea salt over the pear slices.",
+      "13. Cap with the top bun, press gently, and serve immediately."
+    ]
+  }
+}

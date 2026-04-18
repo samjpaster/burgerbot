@@ -1,0 +1,49 @@
+{
+  "id": 118,
+  "name": "Captain Pepper Jack Marrow Burger",
+  "price": "$5.95",
+  "season": 6,
+  "episode": 14,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/102",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/118",
+  "recipe": {
+    "history": "Pepper jack cheese is a distinctly American creation, born from the Monterey Jack tradition that traces its roots to the Spanish missions of 18th-century California. Franciscan friars in the Monterey Bay area developed a mild, semi-soft cow's milk cheese that could be produced efficiently and aged briefly, a practical cheese for a practical frontier life. By the 19th century, a Scottish immigrant named David Jacks had commercialized the cheese and affixed his name to it, and Monterey Jack became a staple of California dairy culture. Pepper jack emerged as a natural evolution — the addition of spicy jalapeños, bell peppers, and occasionally habanero or serrano chiles to the mild base created a cheese with both heat and melt, a combination that proved irresistible. Today pepper jack is one of the most popular cheeses in American burger culture, beloved for its aggressive spice and the way it liquefies into a glossy, volcanically flavored blanket over hot beef. Bone marrow, by contrast, has a history that stretches back to the very earliest human cooking — prehistoric evidence suggests that marrow bones were cracked and roasted as a primary source of fat and calories long before agriculture existed. In medieval European cuisine, marrow was considered a luxury ingredient, spooned from roasted femur bones at aristocratic tables.\n\nPepper jack found its way into burger culture almost organically, as American cheese preferences diversified in the 1980s and 1990s and diners began seeking bolder flavors to match increasingly ambitious burger builds. Bone marrow experienced a more dramatic rehabilitation in American fine dining — for much of the 20th century it had been largely forgotten outside of immigrant communities and working-class kitchens, until chefs like Fergus Henderson in London and later his American disciples brought nose-to-tail eating back into vogue in the early 2000s. Roasted marrow bones became a fine dining staple, and from there marrow began appearing in burger preparations as a butter substitute, a patty enricher, or a spread — its uncanny richness and pure beef-fat flavor acting as an amplifier for everything around it. The pairing of marrow with pepper jack is a study in extremes meeting: the volcanic heat of the cheese balanced by the almost sweet, unctuous depth of rendered marrow.\n\nThe first time I made a marrow burger I was nervous in a way I hadn't been about food in years. I'd roasted the bones, scooped the marrow, folded it into the raw beef before forming the patties, and stood over the skillet watching the fat render out in a way that looked almost too rich, too much. But when I bit into it — there was this moment of complete sensory overload where the pepper jack was melting against the heat and the marrow was doing something to the texture of the patty that I can only describe as making the beef taste more like itself. More fundamentally, essentially beefy. The heat from the cheese cut through the richness and the richness absorbed the heat and the whole thing became one unified, unrepeatable thing. I made it again the next day.\n\nIf any burger demands the respect of a medium rare cook, it is this one. The bone marrow folded into the patty is essentially pure rendered fat — at 130 to 135 degrees Fahrenheit, that fat remains distributed throughout the meat, keeping the patty impossibly juicy and giving it a texture that is almost buttery on the palate. Cook this burger to well done and you will have driven out precisely the quality that makes it worth making. The pepper jack, applied in the final minute over the medium rare patty, softens and flows into every crevice of the crust without becoming rubbery or broken. Medium rare is not a preference in this preparation — it is the only temperature at which the combined effect of marrow and pepper jack achieves the result that was intended. 130 to 135 degrees Fahrenheit, 54 to 57 degrees Celsius, and not a degree more.",
+    "ingredients": [
+      "1.5 lbs ground beef chuck, 80/20 fat ratio",
+      "2 oz bone marrow, roasted and scooped from split femur bones (or sourced pre-extracted from a butcher)",
+      "4 oz pepper jack cheese, sliced",
+      "2 split beef femur bones (for roasting marrow, approximately 2 inches thick)",
+      "4 brioche burger buns",
+      "1 tablespoon unsalted butter (for toasting buns)",
+      "1 teaspoon kosher salt",
+      "1 teaspoon freshly ground black pepper",
+      "1 teaspoon smoked paprika",
+      "1 teaspoon garlic powder",
+      "1/2 teaspoon cayenne pepper",
+      "4 leaves romaine lettuce",
+      "2 medium tomatoes, sliced",
+      "1 small white onion, sliced into rings",
+      "2 tablespoons chipotle mayonnaise (mayonnaise mixed with 1 teaspoon adobo sauce from canned chipotles)",
+      "1 teaspoon Worcestershire sauce",
+      "Flaky sea salt and fresh parsley for serving",
+      "Neutral oil (such as canola) for the cooking surface"
+    ],
+    "instructions": [
+      "1. Roast the marrow bones: Preheat oven to 450°F (230°C). Place the split femur bones cut-side up on a foil-lined baking sheet. Season lightly with salt. Roast for 15 to 20 minutes until the marrow is soft, bubbling, and pulling away from the bone. Remove and allow to cool slightly, then scoop the marrow out with a small spoon. You should yield approximately 2 oz. Set aside.",
+      "2. Combine the ground beef and roasted bone marrow in a bowl. Mix gently with your hands just until the marrow is distributed throughout — do not overwork the meat.",
+      "3. Divide the mixture into 4 equal portions of approximately 6 oz each. Form into patties about 3/4 inch thick. Press a shallow dimple into the center of each.",
+      "4. Season both sides of each patty with kosher salt, black pepper, smoked paprika, garlic powder, and cayenne. Add a few drops of Worcestershire sauce to each patty.",
+      "5. Allow the seasoned patties to rest at room temperature for 15 minutes before cooking.",
+      "6. Heat a cast-iron skillet or heavy griddle over high heat until it just begins to smoke. Add a thin coat of neutral oil.",
+      "7. Place the patties in the skillet. Cook undisturbed for 3 to 4 minutes until a dark, caramelized crust forms on the bottom.",
+      "8. Flip each patty once. Cook for 2 to 3 minutes on the second side.",
+      "9. In the final 60 to 90 seconds of cooking, lay a slice of pepper jack cheese over each patty. Cover the skillet with a lid or dome to trap steam and encourage the cheese to melt fully.",
+      "10. Check the internal temperature with an instant-read thermometer — you are targeting 130–135°F (54–57°C) for medium rare. Remove the patties from the heat the moment this range is reached.",
+      "11. Rest the patties on a clean plate tented loosely with foil for 3 to 4 minutes. The carryover heat will bring the temperature up a few degrees while preserving the juicy center.",
+      "12. While the patties rest, melt the butter in the skillet over medium heat and toast the cut sides of the brioche buns until deep golden, about 1 to 2 minutes.",
+      "13. Spread chipotle mayonnaise on the toasted cut sides of both bun halves.",
+      "14. Build each burger: bottom bun, romaine leaf, tomato slices, onion rings, the marrow-enriched patty with melted pepper jack, a light sprinkle of flaky sea salt and fresh parsley, then the top bun.",
+      "15. Serve immediately — the combination of molten pepper jack and marrow-rich patty is at its absolute best straight from the rest."
+    ]
+  }
+}

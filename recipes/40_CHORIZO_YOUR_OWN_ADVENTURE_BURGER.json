@@ -1,0 +1,47 @@
+{
+  "id": 40,
+  "name": "CHORIZO YOUR OWN ADVENTURE BURGER",
+  "price": "$5.95",
+  "season": 2,
+  "episode": 5,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/18",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/40",
+  "recipe": {
+    "history": "Chorizo is one of the oldest and most deeply rooted sausages in the Iberian culinary tradition, tracing its origins to the Mediterranean pork-curing practices that flourished on the Spanish and Portuguese peninsula centuries before the word \"sausage\" appeared in any English dictionary. The earliest iterations were simple affairs — coarsely ground pork seasoned with salt and garlic, then hung to cure in the cool mountain air of Extremadura, Castilla, and the Alentejo region of Portugal. It was the arrival of pimentón — smoked and dried red peppers introduced after the Columbian Exchange of the late 15th century — that transformed chorizo into the vividly red, smoky, irreversibly iconic product the Iberian world came to love. Spanish chorizo, firm and cured, sliced thin alongside manchego or crumbled over a cazuela of white beans, became a cornerstone of the Spanish table. Portuguese chouriço, its close cousin, found a home in smoky tabernas and village festivals alike. Both traditions shared the same conviction: pork, smoke, paprika, and time are all you need to make something worth remembering.\n\nWhen Spanish and Portuguese colonizers crossed the Atlantic, chorizo came with them in the hulls of their ships, tucked between barrels of salted fish and dried legumes. In Mexico and Central America, the sausage mutated beautifully under the influence of local chiles, cumin, cider vinegar, and achiote, becoming the loose, raw, brilliantly orange chorizo that today sizzles and spits in taquerias from Oaxaca to Los Angeles. Mexican chorizo rendered down into its own fat, mixed into scrambled eggs or stuffed into a warm tortilla, is one of the great morning foods of the Western Hemisphere. Its migration north into American cuisine accelerated through the 20th century, showing up in Tex-Mex cooking, then in gastropub kitchens in the 2000s, where chefs began blending it with ground beef to add fat, spice, and swagger to the American hamburger patty. That blend — beef for structure and char, chorizo for heat and funk — is the engine at the center of this burger, a meeting point of two continents and five centuries of sausage-making instinct.\n\nI remember the first time I cooked a chorizo-beef burger for myself on a Tuesday night when I had no particular reason to cook anything special and every reason not to bother. I'd picked up a link of fresh Mexican chorizo from a butcher I trusted more than most people I knew, and I had a pound of 80/20 chuck in the fridge that I'd been meaning to use for something ordinary. I stood at the counter and decided, on a kind of reckless impulse, to pinch the chorizo out of its casing and work it into the beef with my hands, not quite mixing it but marbling it through, letting the paprika-orange fat streak through the darker ground chuck like veins of something alive. When the patty hit the cast iron it smelled like a Spanish market and a backyard cookout at the same time, something ancient and something completely immediate. I pulled it at 133°F, let it rest on a wooden board while I toasted the bun in the leftover fat, and when I finally bit into it I understood that some combinations don't need explaining — they just need cooking.\n\nThere is a philosophy embedded in cooking a burger to medium rare, and it is not simply a matter of preference or safety theater — it is an argument about what meat is and what heat should do to it. At 130 to 135°F, the proteins in the beef have begun to set but have not yet seized; the fat has softened and begun to migrate through the patty, basting it from within; the center carries a warmth and a blush that tells you the cook knew when to stop. To cook beyond this point is to cook away the conversation between the beef and the chorizo, to silence the fat before it has finished speaking. Medium rare is not underdone — it is precisely done, done to the moment just before the meat forgets what it was. A probe thermometer is not optional here; it is the only honest tool in the kitchen, the one that tells you the truth when instinct might lie. Pull the patty at 133°F, tent it loosely, give it three minutes, and trust what you built.",
+    "ingredients": [
+      "2 brioche burger buns",
+      "12 oz (340g) ground beef, 80/20 chuck, freshly ground or high quality",
+      "4 oz (113g) fresh Mexican-style chorizo, casings removed",
+      "1/2 tsp kosher salt",
+      "1/4 tsp freshly cracked black pepper",
+      "1 tbsp neutral oil (canola or vegetable) for the pan",
+      "1 tbsp unsalted butter (for toasting buns)",
+      "2 tbsp mayonnaise",
+      "1 tsp chipotle pepper in adobo sauce, minced to a paste",
+      "1 tsp fresh lime juice",
+      "2 slices pepper jack cheese",
+      "2 leaves butter lettuce",
+      "2 slices ripe tomato, 1/4-inch thick",
+      "4 thin slices pickled jalapeños",
+      "4 thin rings of white onion",
+      "4 slices of ripe avocado (about 1/2 medium avocado)"
+    ],
+    "instructions": [
+      "1. Make the chipotle mayo: In a small bowl, combine mayonnaise, minced chipotle pepper in adobo, and lime juice. Stir well, taste for seasoning, cover, and refrigerate until ready to use.",
+      "2. Prepare the patties: Remove the chorizo from its casing. In a medium bowl, combine the ground beef and chorizo. Using your hands, gently marble the chorizo through the beef — do not overwork or fully homogenize; you want streaks of the chorizo fat running through the patty. Divide into 2 equal portions (about 8 oz each).",
+      "3. Form each portion into a patty roughly 4 inches in diameter and 3/4 inch thick. Press a shallow dimple into the center of each patty with your thumb to prevent doming during cooking. Season the top surface with kosher salt and cracked black pepper.",
+      "4. Bring patties to near room temperature: Set the formed patties on a plate at room temperature for 15 minutes. This promotes even cooking from edge to center.",
+      "5. Preheat a cast iron skillet or heavy-bottomed pan over medium-high heat for 3–4 minutes until the pan is thoroughly hot. Add the neutral oil and swirl to coat.",
+      "6. Place patties seasoned-side down in the pan. Season the exposed tops immediately with a little more salt and pepper. Do not press or move the patties. Cook for 3–4 minutes until a deep brown crust has formed on the bottom.",
+      "7. Flip the patties once. Immediately lay a slice of pepper jack cheese on each patty. Cook for 2–3 minutes more.",
+      "8. Check internal temperature with an instant-read thermometer inserted horizontally into the side of the patty reaching the center. Target 130–135°F (54–57°C) for medium rare. Remove patties from heat at 130°F — carryover cooking will bring them to 133–135°F during the rest.",
+      "9. Rest the patties: Transfer to a cutting board or warm plate, tent loosely with foil, and rest for 3 minutes. Do not skip this step — resting allows the fat and juices to redistribute through the patty.",
+      "10. Toast the buns: While the patties rest, melt butter in the same skillet over medium heat. Place buns cut-side down and toast for 60–90 seconds until golden brown. Remove and set aside.",
+      "11. Assemble the burger: Spread chipotle mayo generously on both the top and bottom bun cut surfaces.",
+      "12. On the bottom bun, layer in order: butter lettuce, tomato slice, white onion rings.",
+      "13. Place the rested chorizo-beef patty (with melted pepper jack) on top of the onion rings.",
+      "14. Layer the pickled jalapeño slices and avocado slices on top of the patty.",
+      "15. Cap with the top bun, press gently, and serve immediately."
+    ]
+  }
+}

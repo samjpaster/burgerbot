@@ -1,0 +1,44 @@
+{
+  "id": 135,
+  "name": "Riding in Cars with Bok Choys",
+  "price": "$5.95",
+  "season": 7,
+  "episode": 21,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/128",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/135",
+  "recipe": {
+    "history": "Bok choy (Brassica rapa subsp. chinensis) is one of the oldest cultivated vegetables in human history, with records of its use in China stretching back over 6,000 years. Unlike most other brassicas — cabbages, broccoli, kale — bok choy does not form a tight head but instead grows as a loose rosette of smooth, dark green leaves atop thick, crisp white or pale green stalks, giving it a distinctive dual texture in both raw and cooked applications. It is a cornerstone of Chinese, Japanese, and Korean cuisines, appearing in stir-fries, hot pots, braises, soups, and as a simple steamed side dressed with oyster sauce and sesame oil. The vegetable was first described in Western botanical literature in the late eighteenth century by European explorers encountering it in southern China, and it remains most closely associated with Cantonese cooking, where its mild, slightly sweet, and faintly peppery flavor is prized as a foil to bold sauces and rich proteins.\n\nBok choy arrived in North America with Chinese immigrant communities during the Gold Rush era of the 1850s and remained largely within Chinese-American culinary circles for over a century. Its crossover into mainstream American cooking accelerated dramatically in the 1980s and 1990s as pan-Asian cuisine became fashionable, farmers markets began stocking Asian vegetables, and American chefs trained in or inspired by Asian culinary traditions started incorporating bok choy into everything from grain bowls to braises. The Asian-fusion burger — featuring sesame-ginger glazed beef, pickled vegetables, and wilted or charred Asian greens — emerged as a creative genre in the early 2000s, and bok choy, with its textural contrast and mild flavor, proved to be an ideal burger green: it wilts beautifully under heat while retaining its structure, and its slight bitterness cuts through fatty beef in a way that standard iceberg lettuce cannot.\n\nPutting bok choy on a burger was the kind of idea that sounds wrong until you do it. I had a surplus of baby bok choy and a grill running hot on a slow afternoon, and I halved them lengthwise, brushed them with sesame oil and a little soy, and laid them cut-side down on the grill for two minutes. They came off with charred, caramelized faces and just-wilted leaves, fragrant with sesame and a faint smokiness. I put one half on top of a medium rare patty with a smear of ginger-scallion sauce, and the combination was so unexpectedly right that I stood there for a moment genuinely surprised. The char on the bok choy against the beefy, pink center of the burger — the mild bitterness of the greens cutting through the fat — it made complete sense in a way I hadn't anticipated. That's the best kind of burger discovery.\n\nThe medium rare standard — 130–135°F (54–57°C) internal temperature — is not a Western bias but a universal principle about the relationship between heat and texture. Bok choy, in its ideal state, is briefly and vigorously cooked: high heat, short time, preserving crunch in the stalk and silkiness in the leaf while developing char and caramelization on the surface. The same principle governs the medium rare patty. High heat on the exterior builds the Maillard crust — complex, dark, bitter-edged — while the interior remains protected, yielding, and rich. Both ingredients, prepared correctly, live at the intersection of raw and cooked, between structure and tenderness. Medium rare is not a point on a thermometer so much as a philosophy of knowing exactly when to stop.",
+    "ingredients": [
+      "1 lb (450g) freshly ground beef, 80/20 chuck blend",
+      "4 heads baby bok choy, halved lengthwise",
+      "2 brioche burger buns or sesame buns, split",
+      "2 tbsp sesame oil, divided",
+      "1 tbsp soy sauce",
+      "1 tbsp neutral oil",
+      "2 tbsp mayonnaise",
+      "1 tbsp fresh ginger, finely grated",
+      "2 scallions, thinly sliced",
+      "1 tsp rice vinegar",
+      "1 tsp toasted sesame seeds",
+      "1 tsp sriracha (optional)",
+      "2 slices provolone or white cheddar cheese",
+      "4 slices cucumber",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1/2 tsp white pepper",
+      "1 tbsp unsalted butter"
+    ],
+    "instructions": [
+      "1. Make the ginger-scallion mayo: stir together mayonnaise, grated ginger, sliced scallions, rice vinegar, 1 tsp sesame oil, and sriracha if using. Refrigerate until needed.",
+      "2. In a bowl, toss the halved baby bok choy with 1 tbsp sesame oil and soy sauce. Set aside.",
+      "3. Remove ground beef from the refrigerator 20 minutes before cooking. Divide into two 8 oz portions and form into patties about 3/4 inch thick with a center dimple. Season both sides with kosher salt, black pepper, and white pepper.",
+      "4. Heat a cast-iron skillet or grill pan over high heat until smoking. Add the neutral oil.",
+      "5. Place the bok choy cut-side down in the pan. Cook undisturbed for 2 minutes until the cut faces are charred and caramelized. Flip and cook for 1 minute more — the leaves should be wilted and the stalks just tender but still with some bite. Remove and set aside.",
+      "6. Without wiping the pan, add the patties. Cook undisturbed for 3 minutes to develop a crust. Flip once.",
+      "7. Lay a slice of cheese over each patty. Cook for 2 minutes, then check the internal temperature. Pull the patties at 130–135°F (54–57°C) for medium rare. Tent with foil and rest for 3 minutes.",
+      "8. Toast the buns with butter in a separate pan over medium heat until golden, about 1–2 minutes. Drizzle the remaining 1 tsp sesame oil over the toasted cut sides and scatter the sesame seeds.",
+      "9. Spread ginger-scallion mayo generously on the bottom bun. Layer with cucumber slices.",
+      "10. Place the cheese-topped patty on the dressed bun. Arrange two halves of charred bok choy on top of the patty, cut-side up. Cap with the top bun and serve immediately."
+    ]
+  }
+}

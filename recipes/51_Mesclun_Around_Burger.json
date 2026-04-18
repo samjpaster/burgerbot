@@ -1,0 +1,44 @@
+{
+  "id": 51,
+  "name": "Mesclun Around Burger",
+  "price": "$5.95",
+  "season": 2,
+  "episode": 9,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/22",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/51",
+  "recipe": {
+    "history": "Long before mesclun became a staple of upscale restaurant menus and supermarket salad bags, it was a humble, practical tradition rooted in the sun-bleached hillsides of Provence, in southeastern France. The word \"mesclun\" derives from the Niçard Occitan word \"mescla,\" meaning \"to mix,\" and the blend itself was historically a matter of necessity as much as flavor. Provençal farmers and foragers would harvest whatever young, tender greens were ready at the same time — typically a combination of chervil, arugula, leafy lettuces, and endive — and toss them together rather than letting any single green go to waste. In Nice and the surrounding villages, this mixture was known as \"lou mesclumo,\" and it was traditionally sold by street vendors in the open-air markets of the Cours Saleya. The balance of bitter, peppery, sweet, and mild was not accidental; generations of cooks understood that contrast was the soul of the dish, and that no single green should dominate. It was peasant food elevated by instinct.\n\nMesclun's journey to American tables was gradual but eventually transformative. In the early 1980s, a handful of pioneering chefs — most notably Alice Waters at Chez Panisse in Berkeley, California — began sourcing and championing young mixed greens as part of a broader farm-to-table philosophy that placed freshness and provenance above convention. Waters had encountered mesclun during her travels in France and recognized in it something that American salad culture, then dominated by iceberg lettuce wedges and bottled ranch dressing, was desperately missing: complexity, texture, and a living connection to the seasons. Specialty growers in California's Salinas Valley and later across the country began cultivating mesclun blends to meet restaurant demand, and by the 1990s, the \"spring mix\" — a commercialized cousin of the original Provençal blend — had migrated from fine dining into grocery store produce sections nationwide. What had once required a trip to a Nice market stall could now be found in a clamshell container under fluorescent lights. The democratization was imperfect, but it brought the spirit of the mesclumo to millions of American home cooks who might never have encountered it otherwise.\n\nI still remember the first time I truly tasted mesclun as something intentional rather than incidental. I was maybe nineteen, eating lunch alone at a small bistro tucked into a side street in the West Village, the kind of place with paper over the tablecloths and a chalkboard menu that changed daily. The salad that arrived with my sandwich was not the limp, uniform greenery I associated with side salads — it was a tangle of different shapes and colors, some leaves frilled at the edges, some deep burgundy, some pale and almost translucent, lightly dressed with a sharp mustard vinaigrette and a few shavings of Parmesan. I ate it slowly, which was unusual for me then. Something about the bitterness of the arugula against the sweetness of the mâche, the slight chew of the radicchio against the delicacy of the frisée, made me pay attention in a way that food rarely demanded. I have never been able to eat a salad thoughtlessly since. That bowl of mixed greens taught me that contrast is not confusion — it is conversation.\n\nThere is a philosophy behind cooking a burger patty to medium rare that goes beyond preference or trend — it is a commitment to the idea that meat has an interior life worth preserving. At 130–135°F (54–57°C), the proteins in a well-formed beef patty have tightened just enough to hold their structure while leaving the center yielding, faintly pink, and suffused with the fat-carried flavors that higher temperatures will drive off permanently. To cook beyond this point is not caution — it is erasure. The crust, achieved through direct contact with a hot cast iron surface or flat-top grill, provides all the Maillard-reaction complexity you need in the outer layers, the deep brown savoriness that signals transformation and heat. The inside should tell a different story: one of restraint, of knowing when to stop. Paired with the peppery brightness of fresh mesclun, a medium rare patty becomes part of a larger argument about temperature and texture — the cold, crisp greens against the warm, yielding beef, the rawness of one thing meeting the controlled heat of another. This is not just a burger. It is a study in contrast, which is, after all, what mesclun has always been about.",
+    "ingredients": [
+      "1 lb (450g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "Kosher salt",
+      "Freshly cracked black pepper",
+      "1 tablespoon neutral oil (such as canola or grapeseed) for cooking",
+      "2 brioche burger buns",
+      "1 tablespoon unsalted butter, softened (for toasting buns)",
+      "2 cups fresh mesclun (mixed young greens: arugula, frisée, mâche, radicchio, chervil, oak leaf lettuce)",
+      "1 teaspoon Dijon mustard",
+      "1 teaspoon whole grain mustard",
+      "1 tablespoon red wine vinegar",
+      "3 tablespoons extra-virgin olive oil",
+      "1 small shallot, very finely minced",
+      "Pinch of sugar",
+      "Salt and pepper to taste for vinaigrette",
+      "2 thin slices of ripe tomato",
+      "2 thin slices of red onion"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 20–30 minutes before cooking to allow it to approach room temperature, which promotes even cooking.",
+      "2. Divide the beef into two equal portions (approximately 8 oz / 225g each). Gently form each portion into a patty roughly 4 inches in diameter and 3/4 inch thick. Press a shallow dimple into the center of each patty with your thumb to prevent doming during cooking. Season both sides and the edges generously with kosher salt and cracked black pepper. Do not overwork the meat.",
+      "3. Prepare the mustard vinaigrette: in a small bowl, whisk together the Dijon mustard, whole grain mustard, red wine vinegar, and minced shallot. Slowly drizzle in the olive oil while whisking continuously to emulsify. Add a pinch of sugar, then season with salt and pepper to taste. Set aside.",
+      "4. Place the mesclun in a large bowl. Do not dress it yet — keep it dry and cold until just before serving.",
+      "5. Heat a cast iron skillet or flat-top griddle over high heat for at least 3 minutes until it is very hot and beginning to smoke lightly. Add the neutral oil and swirl to coat.",
+      "6. Place the patties in the skillet. Do not press them down. Cook undisturbed for 2 minutes to develop a deep brown crust on the first side.",
+      "7. Flip the patties once. Cook the second side for approximately 1.5–2 minutes.",
+      "8. Begin monitoring internal temperature with an instant-read thermometer inserted horizontally into the center of each patty. Remove patties from heat when the internal temperature reaches 130–135°F (54–57°C) for medium rare. The residual heat will carry the temperature up 3–5°F as the patty rests.",
+      "9. Transfer cooked patties to a wire rack or plate and tent loosely with foil. Rest for 3–4 minutes. Do not skip this step — resting allows the juices to redistribute throughout the patty.",
+      "10. While the patties rest, spread softened butter on the cut faces of both buns. Toast them butter-side down in the same skillet over medium heat for 60–90 seconds until golden brown and lightly crisped. Remove and set aside.",
+      "11. Dress the mesclun: drizzle approximately two-thirds of the vinaigrette over the greens and toss gently with your hands or tongs to coat without bruising the leaves. Taste and add more vinaigrette if desired. The greens should be lightly, evenly coated — never soggy.",
+      "12. Assemble the burgers: place a slice of tomato and a slice of red onion on each bottom bun. Set the rested medium rare patty on top. Pile a generous mound of dressed mesclun on top of the patty, allowing the greens to spill over the sides. Cap with the toasted top bun and serve immediately."
+    ]
+  }
+}

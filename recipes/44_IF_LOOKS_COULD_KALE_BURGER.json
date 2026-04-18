@@ -1,0 +1,48 @@
+{
+  "id": 44,
+  "name": "IF LOOKS COULD KALE BURGER",
+  "price": "$5.95",
+  "season": 2,
+  "episode": 7,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/20",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/44",
+  "recipe": {
+    "history": "Kale is one of the oldest cultivated vegetables in human history, with roots stretching back over two thousand years to the ancient Greeks and Romans. Known in Latin as brassica oleracea, it was prized by Greek physicians for its purported medicinal qualities and consumed widely across the Mediterranean world. Roman soldiers carried dried kale on campaigns as a portable, nutrient-dense food. As the Roman Empire spread northward into Gaul and the British Isles, kale traveled with it, adapting readily to the cold, wet climates of northern Europe where more delicate vegetables struggled to survive. By the Middle Ages it had become a cornerstone of the peasant diet across Scotland, Germany, Scandinavia, and the Low Countries — cheap, hardy, frost-tolerant, and enormously nutritious. Scottish crofters grew it in kitchen gardens called 'kailyards,' and in parts of rural Germany a community kale feast known as Grünkohlessen marked the depths of winter. For centuries it was a food associated not with sophistication but with survival, a leafy constant in the lives of ordinary people who could afford little else.\n\nFor most of the twentieth century in the United States, kale was almost entirely invisible on restaurant menus and in home kitchens. It lingered in the background — showing up mainly as decorative garnish on salad bars, those thick, dark-green frills framing the crocks of ranch dressing without anyone ever eating them. Then, in the late 2000s and accelerating sharply into the 2010s, something shifted. Health food advocates, food journalists, and restaurant chefs began championing kale as a so-called 'superfood,' loaded with vitamins K, A, and C, rich in antioxidants, and remarkably versatile. Kale salads, kale chips, kale smoothies, and kale-topped flatbreads swept through urban food culture with almost evangelical intensity. It was only a matter of time before kale made its way onto the American burger — first at farm-to-table restaurants that massaged raw lacinato kale into a silky topping, then as a crispy fried garnish that added texture and a pleasantly bitter counterpoint to fatty, umami-rich beef. The 'If Looks Could Kale Burger' stands squarely in this tradition: a knowing, punny homage to a vegetable that traveled from ancient peasant fields all the way to a family burger joint on the American coast.\n\nI remember the first time I truly understood what kale could do to a burger. It was a Tuesday — it's always a Tuesday when something quietly important happens — and I was standing at the flat-top with a batch of kale I'd been meaning to use before it turned. On a whim I tossed it in a hot pan with olive oil and a pinch of red pepper flakes, let it go until the edges crisped and darkened, then laid the whole tangle over a patty that was resting at a perfect 132°F. The bitterness of the kale cut right through the richness of the beef. The crispy edges gave way to tender, silky centers where the kale had wilted against the heat of the meat. My oldest walked by, grabbed a piece of the stray kale off the cutting board, made a face like they expected to hate it, and then went very quiet in that specific way that means something landed right. I didn't say anything. I just wrote it on the board.\n\nThere is a philosophy embedded in cooking a patty to medium rare that goes beyond mere temperature preference. At 130–135°F, the muscle fibers in the beef have tightened just enough to hold their shape while the intramuscular fat — the marbling — has begun to liquefy and baste the meat from within. The result is a burger that is juicy not because it is undercooked, but because it has been cooked precisely enough to release its own natural richness without driving it out entirely. To cook beyond this point is to pursue safety at the cost of flavor, to choose a texture that is drier and a taste that is flatter. Medium rare is not recklessness; it is respect — for the ingredient, for the process, for the person eating. Every burger that leaves this grill at 132°F is a small argument that care and precision are the same thing.",
+    "ingredients": [
+      "8 oz (225g) ground beef chuck, 80/20 fat ratio",
+      "Salt, to taste",
+      "Freshly ground black pepper, to taste",
+      "1 tablespoon neutral oil (such as canola or vegetable), for the griddle",
+      "1 large bunch lacinato (Tuscan) kale, stems removed, leaves torn into pieces",
+      "2 tablespoons olive oil, for the kale",
+      "2 cloves garlic, thinly sliced",
+      "1/4 teaspoon red pepper flakes",
+      "Kosher salt, for seasoning kale",
+      "1 brioche burger bun, split",
+      "1 tablespoon unsalted butter, for toasting the bun",
+      "2 tablespoons mayonnaise",
+      "1 teaspoon fresh lemon juice",
+      "1/2 teaspoon lemon zest",
+      "1 slice sharp white cheddar cheese",
+      "2–3 thin slices red onion",
+      "Instant-read meat thermometer"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 20–30 minutes before cooking to allow it to come closer to room temperature, which promotes even cooking throughout the patty.",
+      "2. Divide the beef into one 8 oz portion. Gently form it into a round patty approximately 4 inches in diameter and 3/4 inch thick. Press a shallow dimple into the center with your thumb to prevent the patty from doming during cooking. Season both sides generously with salt and freshly ground black pepper. Do not overwork the meat.",
+      "3. Wash the kale leaves thoroughly and spin or pat dry. Remove all stems. Tear the leaves into large, roughly uniform pieces.",
+      "4. Heat a cast-iron skillet or heavy sauté pan over medium-high heat. Add the olive oil and, once shimmering, add the sliced garlic. Cook for 30 seconds until fragrant but not browned.",
+      "5. Add the kale to the pan in batches if necessary. Toss to coat in the oil and garlic. Add the red pepper flakes and a pinch of kosher salt. Cook over medium-high heat, stirring occasionally, for 4–6 minutes. Allow portions of the kale to sit undisturbed for 30–60 seconds at a time so the edges blister and crisp. The goal is a combination of crispy charred edges and tender wilted centers. Remove from heat and set aside.",
+      "6. In a small bowl, whisk together the mayonnaise, fresh lemon juice, and lemon zest. Set aside.",
+      "7. Heat a griddle, cast-iron skillet, or flat-top over high heat. Add the neutral oil and heat until just beginning to smoke.",
+      "8. Place the patty on the cooking surface. Cook undisturbed for approximately 3–4 minutes on the first side until a deep brown crust forms. Flip once.",
+      "9. After flipping, place the slice of sharp white cheddar on top of the patty. Continue cooking for 2–3 minutes on the second side. Begin checking the internal temperature with an instant-read thermometer inserted horizontally into the center of the patty. The target temperature is 130–135°F (54–57°C) for medium rare — do not exceed this range.",
+      "10. Once the patty reaches 130–135°F (54–57°C), transfer it to a clean plate or cutting board and tent loosely with foil. Allow the patty to rest for 3–4 minutes. Carryover cooking will bring the final internal temperature to approximately 133–137°F. Do not skip the rest.",
+      "11. While the patty rests, melt the butter in the same pan or on the griddle over medium heat. Place the bun cut-side down and toast until golden brown, approximately 1–2 minutes.",
+      "12. Spread the lemon mayonnaise generously on both the top and bottom bun halves.",
+      "13. Layer the bottom bun with the red onion slices. Place the rested patty with melted cheddar on top of the onion.",
+      "14. Pile the kale — crispy edges, wilted centers, and all — generously on top of the patty and cheese. Do not hold back; the kale is the point.",
+      "15. Close with the top bun, press gently, and serve immediately."
+    ]
+  }
+}

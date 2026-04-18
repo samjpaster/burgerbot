@@ -1,0 +1,54 @@
+{
+  "id": 17,
+  "name": "Camembert-ly Legal Burger",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 7,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/7",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/17",
+  "recipe": {
+    "history": "Camembert is one of France's most celebrated cheeses, born in the rolling pastoral countryside of Normandy. Legend holds that in 1791, a Norman farmwoman named Marie Harel sheltered a refractory priest fleeing the Revolution, and in gratitude he shared with her the cheesemaking secrets of his home region of Brie. What emerged from her hands was something distinctly her own — a soft, bloomy-rind cheese with a rich, buttery interior and an earthier, more assertive character than its Brie cousin. Made in the small village of Camembert near Vimoutiers, the cheese gained national fame when it was reportedly presented to Napoleon III, who adored it. The iconic thin wooden box that protects its delicate rind was invented in the 1890s by an engineer named M. Ridel, making it possible to ship Camembert across France and eventually across the Atlantic without losing its fragile character. By the early twentieth century, Camembert had become a symbol of French culinary identity — rustic yet refined, humble in origin yet aristocratic in flavor.\n\nFor most of American culinary history, the burger was the domain of processed cheese singles and mild cheddar — functional, melty, and utterly safe. That began to shift in the 1980s and accelerating through the 1990s and 2000s, as a wave of bistro culture and European culinary influence washed over American restaurant kitchens. Chefs who had trained in France or simply fallen in love with its larder started asking a simple question: if a croque monsieur could be elevated by a great French cheese, why not a burger? Soft, washed-rind, and bloomy cheeses — Brie, Camembert, Époisses, Taleggio — began appearing on gastropub menus from San Francisco to Brooklyn. Camembert proved particularly well-suited to the application. Its high fat content means it softens luxuriously under heat without fully losing its shape, and its flavor — milky and mushroomy with a faint ammonia edge when fully ripe — stands up to the iron-seared depth of a good beef patty in a way that a mild American cheese never could. The Camembert burger became a quiet signal: this place takes its food seriously.\n\nI still remember the first time I put this burger on the specials board. It was a Tuesday — Tuesdays are always the day for experiments, slow enough that a mistake won't sink the whole service but busy enough to get real feedback. I'd been sitting on a wheel of Camembert that was just hitting its peak, that perfect window where the rind gives slightly under a thumb press and the paste inside is almost spoonable. The pun came before the recipe, honestly. 'Camembert-ly Legal' — barely legal, get it? Linda got it immediately and nearly knocked over a ketchup bottle laughing. The kids groaned in that way that means they actually think it's funny. And then I cooked the burger, and the cheese went on in the last ninety seconds of the cook, lid down, just enough time to soften into something that draped over the patty like a warm blanket. The first customer to order it didn't say a word when I handed it over. He just ate it, set down the last quarter of the bun, and nodded once. That nod was a five-star review.\n\nMedium rare is not a preference. It is a position. When ground beef hits an internal temperature of 130 to 135 degrees Fahrenheit, something happens that cannot be undone in either direction — the proteins have set just enough to give the patty structure and a clean bite, while the center retains enough moisture and fat in liquid suspension to create what can only be described as juiciness in its truest form. Go lower and you have a burger that feels raw in a way that unsettles rather than delights; go higher and you have entered the gray zone, where the Maillard-crusted exterior lies in sad contrast to a dry, tightened interior that has surrendered all its promise to the heat. The crust matters too — a screaming-hot cast iron or flat-top surface, a thin film of neutral oil, and the discipline not to press the patty or move it until it releases on its own. Salt goes on last, just before the flip, so it draws no moisture before the sear. With Camembert, medium rare is not merely correct — it is mandatory. The cheese needs a hot, juicy landing pad. Give it anything less and the whole composition falls apart.",
+    "ingredients": {
+      "patty": [
+        "8 oz (225g) fresh ground beef, 80/20 chuck blend",
+        "1/2 teaspoon kosher salt (applied just before searing)",
+        "1/4 teaspoon freshly ground black pepper",
+        "1 teaspoon neutral oil (such as canola or grapeseed) for the pan"
+      ],
+      "cheese": [
+        "2 oz (55g) ripe Camembert cheese, rind on, sliced into 1/4-inch planks"
+      ],
+      "bun": [
+        "1 brioche burger bun (or soft potato roll)",
+        "1 tablespoon unsalted butter, softened, for toasting"
+      ],
+      "toppings": [
+        "1 tablespoon good-quality Dijon mustard",
+        "1 tablespoon mayonnaise",
+        "2 leaves butter lettuce",
+        "2 thin slices ripe tomato",
+        "3 paper-thin slices red onion",
+        "4 cornichons, sliced lengthwise (for serving alongside)"
+      ],
+      "optional_but_encouraged": [
+        "1 teaspoon honey (a light drizzle over the Camembert before lidding)",
+        "Flaky sea salt for finishing"
+      ]
+    },
+    "instructions": [
+      "Remove the Camembert from the refrigerator 30 minutes before cooking. A cold cheese will not soften properly on the burger — it needs to be at or near room temperature before it meets the heat.",
+      "Divide the ground beef into a single 8 oz portion. Using your hands, gently form it into a round patty approximately 4 inches in diameter and 3/4 inch thick. Press a shallow dimple into the center with your thumb — this prevents the patty from doming as it cooks. Do not overwork the meat. Set on a plate and refrigerate uncovered for 15 minutes to firm the surface.",
+      "Slice the Camembert into 1/4-inch planks, rind on. Set aside at room temperature.",
+      "Heat a cast iron skillet or heavy flat-bottomed pan over high heat for at least 3 minutes, until the surface is smoking. Add the neutral oil and swirl to coat.",
+      "Remove the patty from the refrigerator. Season the top surface generously with kosher salt and black pepper immediately before it goes into the pan — not before, not much after.",
+      "Place the patty seasoned-side down into the hot pan. Do not press it. Do not move it. Season the top (now exposed) side with salt and pepper. Cook undisturbed for 3 to 3.5 minutes, until the patty releases cleanly from the pan and a deep mahogany crust has formed on the underside.",
+      "Flip the patty once. Immediately lay the Camembert slices across the top, covering the surface as evenly as possible. If using honey, drizzle it lightly over the cheese now. Cover the pan with a lid or large heatproof bowl to trap steam.",
+      "Cook for an additional 2 to 2.5 minutes, until an instant-read thermometer inserted into the thickest part of the patty reads 130–135°F (54–57°C) for medium rare. The Camembert should be visibly softened and beginning to melt at the edges, with the rind holding the shape.",
+      "Transfer the patty to a wire rack or warm plate and rest uncovered for 2 minutes. Do not skip the rest — the carry-over will bring the center to a perfect 133–135°F and the juices will redistribute.",
+      "While the patty rests, place the bun halves cut-side down in the residual fat in the same pan over medium heat. Toast for 60 to 90 seconds until golden and lightly crisped.",
+      "Build the burger: spread Dijon mustard on the bottom bun and mayonnaise on the top bun. Layer butter lettuce on the bottom bun, followed by tomato slices seasoned with a pinch of flaky salt, then the red onion.",
+      "Set the rested patty — with its draped, softened Camembert — on top of the vegetables. Finish with a pinch of flaky sea salt directly on the cheese if desired. Cap with the top bun.",
+      "Serve immediately with sliced cornichons on the side. The burger waits for no one, and neither does melted Camembert."
+    ]
+  }
+}

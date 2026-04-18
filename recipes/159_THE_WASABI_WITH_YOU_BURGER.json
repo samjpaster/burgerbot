@@ -1,0 +1,45 @@
+{
+  "id": 159,
+  "name": "THE WASABI WITH YOU? BURGER",
+  "price": "$5.95",
+  "season": 8,
+  "episode": 11,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/140",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/159",
+  "recipe": {
+    "history": "True wasabi — Wasabia japonica — is one of the most demanding and expensive cultivated plants on Earth, native to the cold, fast-running mountain streams and rocky stream banks of Japan, particularly in the Shizuoka, Iwate, and Nagano prefectures. Its cultivation stretches back over a thousand years in Japanese culinary history, with early records of wasabi use appearing in the Heian period (794–1185 AD). The rhizome is grated fresh on a sharkskin paddle called an oroshigane, and the result is a pale green paste that delivers its singular, nasal-clearing heat not through capsaicin like chili peppers, but through volatile isothiocyanate compounds that evaporate quickly — which is why true wasabi's heat is bright, fleeting, and cerebral rather than lingering. Japan is the origin of wasabi's cultivation and the steward of its culinary tradition; the plant has never adapted comfortably to growth outside its narrow ecological niche, which is why genuine wasabi remains precious and rare.\n\nWasabi entered American cuisine primarily through the explosion of sushi restaurants in the 1980s and 1990s, although most Americans encountered a simulacrum — a paste made from European horseradish, mustard, and green food coloring — long before they tasted the real thing. As fusion cooking became a defining movement of the 1990s and 2000s, chefs began deploying wasabi as a condiment beyond the sushi counter: in salad dressings, in compound butters, in aioli spread across sandwiches. The wasabi burger arrived in this context, initially in Japanese-American fusion restaurants on the West Coast and in cosmopolitan cities with large Japanese-American communities. Wasabi's heat offered something that no other condiment could replicate — a sharp, clean sharpness that cut through the fat of a beef patty without introducing acidity or sweetness, then vanished, leaving the palate clean and curious.\n\nI made my first wasabi burger on a dare. A line cook named Kenji told me that wasabi and beef were wrong for each other, that the delicacy of the rhizome was wasted on something as blunt as ground chuck. I disagreed, and I spent a slow Thursday afternoon proving it. I made a wasabi mayo, which was the obvious move, and then I went further: I pickled cucumbers in a light rice vinegar brine and laid them across the patty in place of the usual dill pickle. I added a thin layer of pickled ginger to cut the fat. The result was a burger that felt Japanese in spirit without pretending to be anything it wasn't. Kenji ate two of them and said nothing, which in kitchen language means you were right.\n\nMedium rare — 130–135°F (54–57°C) — is the only temperature that respects what wasabi brings to this burger. Wasabi's isothiocyanate compounds are volatile; they dissipate rapidly under heat, which is why fresh wasabi should never be cooked directly. The condiment is applied after the patty is cooked, during assembly, so the question of cooking temperature is entirely about the beef. And the beef, at medium rare, is a vehicle for flavor transmission: the fat is still supple and mobile, capable of carrying the wasabi's cool, searing fire across the palate in a single bite. A well-done patty seals off that transmission. The fat is gone, the channel is closed, and the wasabi sits on the surface like a stranger who was never let in. Medium rare is the open door.",
+    "ingredients": [
+      "8 oz (225g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "1 sesame burger bun, split",
+      "2 tbsp unsalted butter, softened",
+      "1 tsp flaky sea salt",
+      "1/2 tsp freshly cracked black pepper",
+      "1 slice white American or mild white cheddar cheese",
+      "3 tbsp wasabi mayonnaise (2 tbsp good-quality mayonnaise + 1 tsp fresh or high-quality wasabi paste, stirred well)",
+      "1/2 English cucumber, thinly sliced",
+      "3 tbsp rice wine vinegar",
+      "1 tsp sugar",
+      "1/2 tsp fine salt",
+      "2 tbsp pickled ginger (store-bought is fine), roughly chopped",
+      "2 leaves butter lettuce",
+      "1 tsp soy sauce",
+      "1 tsp sesame oil",
+      "1 tsp toasted sesame seeds",
+      "1 tsp neutral oil for the griddle"
+    ],
+    "instructions": [
+      "1. Make the quick-pickled cucumbers: combine rice wine vinegar, sugar, and fine salt in a small bowl and stir until dissolved. Add cucumber slices and toss to coat. Let stand at room temperature for at least 20 minutes. Drain before assembling.",
+      "2. Make the wasabi mayo: stir together mayonnaise and wasabi paste until fully combined. Taste and adjust wasabi to your preferred heat level. Refrigerate until needed.",
+      "3. Mix soy sauce and sesame oil together in a small bowl to make a finishing drizzle. Set aside.",
+      "4. Remove ground beef from refrigerator 20 minutes before cooking. Form into a single 8 oz patty, about 4 inches wide and 3/4 inch thick. Press a shallow dimple into the center. Season both sides with flaky sea salt and cracked black pepper.",
+      "5. Butter both cut faces of the bun. Heat a cast-iron skillet over medium-high heat until smoking. Toast buns cut-side down until golden, about 90 seconds. Remove and set aside. Sprinkle the toasted cut face of the bottom bun lightly with toasted sesame seeds.",
+      "6. Increase heat to high. Add neutral oil to the skillet. Place the patty and cook undisturbed for 3 minutes to develop a firm crust.",
+      "7. Flip the patty once. Lay the cheese slice on top. Cook for 2–2.5 minutes.",
+      "8. Check internal temperature at the center. Pull at 130–135°F (54–57°C) for medium rare. Rest on a wire rack for 2 minutes.",
+      "9. Spread a generous layer of wasabi mayo on the cut face of both the top and bottom buns.",
+      "10. Layer butter lettuce leaves on the bottom bun. Add a thin layer of drained pickled cucumber slices on the lettuce.",
+      "11. Place the rested, cheese-topped patty on the cucumber layer. Scatter the chopped pickled ginger over the patty. Drizzle lightly with the soy-sesame mixture.",
+      "12. Close the burger with the top bun, press gently, and serve immediately. The wasabi heat will bloom on the first bite and clear cleanly — that is the whole point."
+    ]
+  }
+}

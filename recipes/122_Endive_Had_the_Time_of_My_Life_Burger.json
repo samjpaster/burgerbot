@@ -1,0 +1,43 @@
+{
+  "id": 122,
+  "name": "Endive Had the Time of My Life Burger",
+  "price": "$5.95",
+  "season": 7,
+  "episode": 1,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/108",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/122",
+  "recipe": {
+    "history": "Endive — the tightly furled, pale chicory known as Belgian endive or witloof — has its origins rooted in both accident and ingenuity. Native to the Mediterranean basin, chicory (Cichorium intybus) was cultivated by the ancient Egyptians and Romans as a bitter leafy green and medicinal herb. The distinctive white-and-yellow chicon we recognize today, however, is a Belgian invention dating to the 1830s, when a farmer near Brussels reportedly discovered that chicory roots stored in his cellar had sprouted pale, blanched shoots that were unexpectedly tender and mild compared to their open-air counterparts. The Belgian Agricultural Research Station formalized the process of forcing and blanching in darkness — etiolation — which suppresses chlorophyll production and tempers the plant's natural bitterness. Belgium remains to this day the world's primary producer and the undisputed homeland of this vegetable.\n\nEndive's entry into American cuisine was gradual and somewhat elite-coded. French and Belgian immigrants brought familiarity with witloof to urban restaurant culture in the early 20th century, but it remained a specialty ingredient confined largely to upscale dining rooms and European delicatessens through much of the mid-century. The farm-to-table movement of the 1970s and 1980s opened American palates to bitter greens, and endive began appearing in salads, gratins, and braised preparations across the country. Its application on burgers is a more recent creative turn — chefs drawn to its structural rigidity as an alternative to lettuce, its subtle bitterness as a counterpoint to rich beef, and its visual elegance. Grilled or wilted briefly, endive transforms: the bitterness softens, the edges caramelize, and it becomes something deeply savory.\n\nThe first time I used endive on a burger, I had half a head left over from a dinner party salad and a freezer full of ground chuck, and desperation is the mother of most good kitchen ideas. I halved the endive lengthwise, laid it cut-side down on the same cast iron I'd used for the patty, and let the residual beef fat do its work. Two minutes and it was transformed — lightly charred at the edges, tender in the ribs, tasting faintly of caramel and smoke. Stacked onto the burger with a smear of Dijon and a thin slice of Gruyère still warm from the melt, it tasted like something a Parisian bistro would charge twenty-two dollars for. I've been doing it ever since.\n\nThere is a particular honesty to cooking a burger to medium rare. The temperature range of 130–135°F (54–57°C) is not a compromise — it is the apex. At this internal heat, the collagen has only just begun to break down, the myoglobin retains its deep, iron-rich redness, and the fat is liquid gold running through every bite. A well-formed patty at medium rare needs nothing to hide behind; it is the burger at its most transparent and most delicious. To cook further is to lose the conversation between the meat and the heat — and with a topping as nuanced as endive, you want that conversation in full.",
+    "ingredients": [
+      "1.5 lbs (680g) ground beef, 80/20 chuck blend",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "4 brioche or pretzel burger buns",
+      "4 tbsp unsalted butter, softened (for toasting buns)",
+      "2 heads Belgian endive, halved lengthwise",
+      "1 tbsp olive oil",
+      "1 tsp honey",
+      "4 slices Gruyère cheese",
+      "3 tbsp whole-grain Dijon mustard",
+      "3 tbsp mayonnaise",
+      "1 tsp fresh lemon juice",
+      "1 tsp white wine vinegar",
+      "4 strips thick-cut bacon",
+      "1 shallot, finely minced",
+      "1 tbsp fresh tarragon leaves, roughly chopped",
+      "Flaky sea salt (for finishing)",
+      "Neutral oil or beef tallow (for cooking patties)"
+    ],
+    "instructions": [
+      "1. Remove ground beef from the refrigerator 30 minutes before cooking. Divide into 4 equal portions (approximately 6 oz each) and form gently into patties about 3/4-inch thick with a slight dimple pressed into the center. Season both sides generously with kosher salt and black pepper.",
+      "2. Make the Dijon-tarragon aioli: combine whole-grain Dijon mustard, mayonnaise, fresh lemon juice, white wine vinegar, and minced shallot in a small bowl. Stir in chopped tarragon. Season with salt and pepper to taste. Refrigerate until assembly.",
+      "3. Cook the bacon in a heavy skillet over medium heat until rendered and crisp. Transfer to a paper towel-lined plate. Keep the skillet with rendered fat for later use.",
+      "4. Prepare the endive: brush the cut sides of each halved endive with olive oil and season lightly with salt and pepper. Heat a cast-iron or stainless skillet over medium-high heat. Place endive halves cut-side down and cook undisturbed for 2–3 minutes until deep golden-brown caramelization forms on the cut face. Flip and cook 1 minute more. Drizzle lightly with honey in the final 30 seconds. Remove from heat and set aside.",
+      "5. Preheat a cast-iron skillet or grill to high heat. Lightly grease with neutral oil or beef tallow.",
+      "6. Cook the patties over high heat for approximately 3 minutes on the first side without pressing or moving them. Flip once and immediately place a slice of Gruyère cheese on each patty.",
+      "7. Cook for a further 2–2.5 minutes on the second side, checking internal temperature frequently. Pull the patties at 130–135°F (54–57°C) for medium rare. Rest loosely tented with foil for 3 minutes.",
+      "8. While the patties rest, toast the buns cut-side down in butter over medium heat until golden, 1–2 minutes.",
+      "9. Build each burger: spread Dijon-tarragon aioli generously on both the top and bottom bun. On the bottom bun, place the cheesed patty. Lay a caramelized endive half over the cheese. Add a strip of crispy bacon across the endive. Finish with a pinch of flaky sea salt over the top. Cap and serve immediately."
+    ]
+  }
+}

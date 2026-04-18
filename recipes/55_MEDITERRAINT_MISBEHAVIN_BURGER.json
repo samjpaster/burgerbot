@@ -1,0 +1,51 @@
+{
+  "id": 55,
+  "name": "MEDITERRAIN'T MISBEHAVIN' BURGER",
+  "price": "$5.95",
+  "season": 2,
+  "episode": 9,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/22",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/55",
+  "recipe": {
+    "history": "Mediterranean cuisine is one of the oldest and most storied culinary traditions in human history, stretching back more than three thousand years across the shores of what the Romans called Mare Nostrum — Our Sea. The ancient Greeks were among the first to codify the trinity of olive oil, wheat, and wine as the pillars of civilized eating, a philosophy so foundational that it shaped the diets of entire empires. The Phoenicians carried dried figs and pressed olive oils along trade routes that stitched together the Levant, North Africa, and Iberia. When Rome ascended, it absorbed and amplified these traditions, spreading garum fish sauces, cured meats, and herb-laden stews to every province from Britannia to Mesopotamia. The Arab conquests of the seventh and eighth centuries layered on another stratum of genius — saffron, sumac, pomegranate molasses, and the art of slow-braised lamb — fusing Persian and Byzantine sensibilities into something entirely new. Each wave of civilization did not erase what came before but folded it in, the way a baker folds dough, building depth with every pass. By the time of the Ottoman Empire, mezze culture had crystallized into a sophisticated ritual of shared small plates — olives glistening in herb oil, creamy hummus dragged across warm flatbread, cubes of brined feta catching the afternoon light — that persists almost unchanged in tavernas and Lebanese restaurants to this day.\n\nMediterranean flavors arrived in American kitchens in waves, each one more confident than the last. The first wave came with the great immigration surges of the late nineteenth and early twentieth centuries, when Greek, Italian, and Lebanese families settled in industrial cities and quietly transformed the neighborhood food landscape with corner delis stocked with kalamata olives, whole wheels of feta submerged in brine, and jars of tahini that most Anglo-American shoppers regarded with bewilderment. The second wave was cultural and aspirational, cresting in the 1970s and 1980s when travel writing and the nascent food media began romanticizing the sun-drenched markets of Crete and Provence. Suddenly hummus appeared on supermarket shelves, gyro carts materialized on Manhattan street corners, and the word tzatziki entered the American vernacular. By the 1990s and early 2000s, chefs in coastal cities began asking the obvious question: if these bright, briny, herb-forward flavors could elevate a grain salad or a stuffed pepper, what might they do to a burger? The answer, it turned out, was transformative. Feta crumbled over a beef patty melts slightly at the edges while staying cool and salty at the center, cutting through the fat of the meat in a way that aged cheddar simply cannot. A smear of garlicky tzatziki acts like a cool counterweight to the char, and a scattering of chopped kalamata olives adds a fermented depth that no ketchup has ever managed. The Mediterranean burger is not a gimmick; it is a logical evolution.\n\nI remember the first time I understood what a Mediterranean burger could actually be. It was a Tuesday — always a Tuesday, for some reason, the day that real culinary discoveries seem to happen — and I was standing in a too-small kitchen in a apartment that smelled permanently of cumin and old paperbacks. A friend had brought over a block of proper Greek feta packed in brine, the kind that comes in a vacuum-sealed plastic tub and tastes aggressively of sheep's milk and sea salt, nothing like the pre-crumbled dusty stuff sold in green shaker canisters. I had ground beef in the refrigerator and no particular plan. I shaped the patties loosely — a lesson hard-earned from years of pressing them into hockey pucks — seasoned them with nothing but salt and black pepper, and let them cook in a cast-iron pan that was screaming hot. At the last moment I crumbled the feta directly onto the patty rather than melting it, and I spooned a heap of cucumber-dill yogurt sauce over the whole thing. The first bite stopped the conversation in the room. The salt from the feta, the cool tang of the yogurt, the mineral char of the beef — it was not fusion for fusion's sake. It was just right. I have been chasing that Tuesday ever since, and every iteration of this burger is an attempt to reconstruct and improve upon that accidental perfection.\n\nThere is a philosophy embedded in cooking a patty to medium rare, and it is worth articulating clearly because it runs counter to a great deal of received wisdom about ground beef safety. When a burger is cooked to an internal temperature of 130 to 135 degrees Fahrenheit — that rosy, yielding, just-past-warm center — something happens that cannot be replicated at higher temperatures: the fat within the grind has begun to liquefy and baste the meat from the inside, while the exterior has developed a proper Maillard crust, but the proteins in the center have not yet fully seized and expelled their moisture. The result is a patty that is simultaneously juicy and structured, that yields to the bite without dissolving into mush, that carries the seasoning all the way through rather than concentrating it in a dried-out shell. This is not recklessness. It is precision. The key is starting with freshly ground, high-quality beef from a trusted source, grinding it yourself if possible, and handling it as little as possible from bowl to pan to bun. A meat thermometer is not optional — it is the only honest way to honor the animal, the ingredients you have stacked upon the patty, and the person you are cooking for. Medium rare is not a shortcut; it is the destination.",
+    "ingredients": [
+      "1.5 lbs freshly ground beef, 80/20 chuck blend",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 tbsp neutral oil (grapeseed or canola) for the pan or grill grates",
+      "4 oz block Greek feta cheese packed in brine, crumbled by hand",
+      "1/2 cup kalamata olives, pitted and roughly chopped",
+      "1 small English cucumber, half grated and squeezed dry, half sliced into thin rounds",
+      "1 cup full-fat Greek yogurt",
+      "2 cloves garlic, minced fine",
+      "2 tbsp fresh dill, chopped",
+      "1 tbsp fresh lemon juice",
+      "1 tsp extra-virgin olive oil (for tzatziki)",
+      "1/4 tsp fine sea salt (for tzatziki)",
+      "1/2 cup hummus (store-bought or homemade)",
+      "1 tsp smoked paprika (to dust over hummus)",
+      "4 brioche burger buns, split",
+      "2 tbsp unsalted butter (for toasting buns)",
+      "1 cup baby arugula",
+      "1/2 small red onion, sliced paper-thin",
+      "8 pepperoncini peppers, stems removed",
+      "2 medium vine tomatoes, sliced",
+      "1 tbsp red wine vinegar (to quick-pickle the red onion)",
+      "1 tsp sugar (for quick-pickle)",
+      "Pinch of dried oregano (preferably Greek)",
+      "Pinch of sumac (optional, for finishing)"
+    ],
+    "instructions": [
+      "1. Make the quick-pickled red onion: combine the sliced red onion, red wine vinegar, sugar, and a pinch of salt in a small bowl. Toss well and set aside at room temperature for at least 20 minutes while you prepare everything else.",
+      "2. Make the tzatziki: grate half the cucumber on the large holes of a box grater, then wrap the shreds in a clean kitchen towel and squeeze out as much liquid as possible. Combine the squeezed cucumber with the Greek yogurt, minced garlic, fresh dill, lemon juice, 1 tsp olive oil, and 1/4 tsp sea salt. Stir until uniform, taste for seasoning, and refrigerate until needed.",
+      "3. Prepare the hummus topping: spoon the hummus into a small bowl and dust the surface with smoked paprika and a pinch of dried oregano. Drizzle lightly with olive oil. Set aside.",
+      "4. Divide the ground beef into 4 equal portions of approximately 6 oz each. Working quickly and with minimal handling, shape each portion into a patty roughly 4 inches in diameter and 3/4 inch thick. Press a shallow dimple into the center of each patty with your thumb — this prevents the patty from doming as it cooks. Season both sides generously with kosher salt and freshly ground black pepper immediately before cooking.",
+      "5. Heat a cast-iron skillet or heavy grill pan over high heat for at least 3 minutes until it is smoking. Add the neutral oil and swirl to coat. Place the patties in the pan without crowding — work in batches if necessary.",
+      "6. Cook the patties without pressing or moving them for 3 minutes on the first side to develop a deep, mahogany crust. Flip once and cook for an additional 2 to 3 minutes on the second side.",
+      "7. Begin checking the internal temperature at the 2-minute mark after flipping using an instant-read thermometer inserted horizontally through the side of the patty into the center. Remove the patties from the heat when they register 130°F (54°C) — they will carry over to 133–135°F (56–57°C) as they rest. This is medium rare. Do not cook beyond this temperature.",
+      "8. Immediately after pulling the patties, crumble the hand-broken feta generously over the top of each one while the surface is still hot. The residual heat will soften the feta slightly at the edges without fully melting it. Let the patties rest undisturbed for 3 minutes.",
+      "9. While the patties rest, wipe out the pan and return it to medium heat. Melt the butter and toast the cut sides of the brioche buns until they are golden brown, about 1 to 2 minutes. Watch carefully — brioche burns quickly.",
+      "10. Assemble the burgers in this order: spread a generous tablespoon of hummus on the bottom bun. Layer on a few rounds of the remaining sliced cucumber, then a small handful of baby arugula. Place the rested feta-topped patty on the arugula. Spoon a heap of tzatziki directly over the patty. Add a small pile of the chopped kalamata olives, 2 pepperoncini peppers, 2 to 3 tomato slices, and a tangle of the pickled red onion. Finish with a pinch of sumac if using. Cap with the top bun and serve immediately."
+    ]
+  }
+}

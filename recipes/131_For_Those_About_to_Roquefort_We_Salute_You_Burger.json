@@ -1,0 +1,39 @@
+{
+  "id": 131,
+  "name": "For Those About to Roquefort We Salute You Burger",
+  "price": "$5.95",
+  "season": 7,
+  "episode": 14,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/121",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/131",
+  "recipe": {
+    "history": "Roquefort is one of the world's oldest and most celebrated blue cheeses, originating in the caves of Combalou near the village of Roquefort-sur-Soulzon in southern France. Legend holds that a young shepherd, distracted by a beautiful woman, abandoned his lunch of bread and sheep's milk cheese in one of the limestone caves — returning weeks later to find it gloriously transformed by the blue-green mold Penicillium roqueforti. Historical records reference Roquefort as far back as 1070 AD, and by 1411 King Charles VI of France granted the villagers of Roquefort-sur-Soulzon a monopoly on its ripening, making it one of the earliest protected food products in history. The cheese is made exclusively from the raw milk of Lacaune sheep, aged a minimum of three months in the natural Combalou caves where cool, humid air and the resident mold work together to produce its unmistakable sharp, tangy, and deeply complex flavor.\n\nRoquefort crossed the Atlantic gradually through French immigrant communities and fine dining establishments in the early twentieth century, but it was the post-World War II era that truly brought bold European cheeses into American kitchens. Soldiers returning from France brought home a taste for stronger flavors, and by the 1960s upscale steakhouses were dressing wedge salads and finishing grilled steaks with blue cheese crumbles. The leap from steak to burger was inevitable — innovative American chefs began stuffing patties or melting crumbles atop thick beef burgers, discovering that the salt, funk, and creaminess of Roquefort cut beautifully through the richness of well-marbled ground beef. The so-called blue cheese burger became a fixture on gastropub menus nationwide, and Roquefort — the most prestigious of the blues — became its crown jewel.\n\nI remember the first time I put Roquefort on a burger like I remember the first time I heard a power chord on an electric guitar — it was loud, it was a little scary, and it changed everything. I was working a Saturday lunch rush and a regular slid a wedge of Roquefort across the counter with a grin and dared me to use it. I crumbled it generously over a patty in the last thirty seconds on the grill, let it barely begin to melt into those craggy crevices, and slid it onto a toasted brioche bun with nothing but a smear of Dijon and a few leaves of peppery arugula. The customer took one bite, set it down, and said nothing for a full ten seconds. Then he said, \"That's the one.\" I've been making it ever since, and every time that funky, creamy, salty bite hits, I think: yes, this is absolutely the one.\n\nCooking a burger to medium rare is not a compromise — it is a commitment to respecting the ingredient. Ground beef destined for a medium rare patty must come from a trusted, high-quality source, ideally freshly ground from whole cuts so that any surface bacteria are incorporated uniformly and the internal temperature of 130–135°F (54–57°C) is sufficient to ensure both safety and succulence. At medium rare, the fat within the patty remains molten and lubricating rather than rendered away, the proteins have set just enough to hold their structure without squeezing out moisture, and the center retains that deep, beefy red that reminds you you're eating something real. A burger cooked beyond this point begins its long, sad journey toward dry, gray disappointment. Medium rare is not a preference; it is a philosophy — the belief that food deserves to be exactly what it is, at the peak of what it can be.",
+    "ingredients": [
+      "1 lb (450g) freshly ground beef, 80/20 chuck blend",
+      "3 oz (85g) Roquefort cheese, crumbled",
+      "2 brioche burger buns, split",
+      "2 tbsp unsalted butter, softened",
+      "1 tbsp Dijon mustard",
+      "1 cup baby arugula",
+      "4 slices ripe tomato",
+      "1/4 red onion, thinly sliced",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1/2 tsp garlic powder",
+      "1 tbsp neutral oil (such as canola or grapeseed)",
+      "Flaky sea salt, to finish"
+    ],
+    "instructions": [
+      "1. Remove the ground beef from the refrigerator 20 minutes before cooking to allow it to come slightly toward room temperature for more even cooking.",
+      "2. Divide the beef into two equal portions (approximately 8 oz each). Gently form each into a patty about 3/4 inch thick, pressing a slight dimple into the center with your thumb to prevent doming during cooking. Season both sides generously with kosher salt, black pepper, and garlic powder.",
+      "3. Heat a cast-iron skillet or heavy grill pan over high heat until smoking. Add the neutral oil and swirl to coat.",
+      "4. Place the patties in the pan and cook undisturbed for 3 minutes to develop a deep, dark crust.",
+      "5. Flip the patties once. Cook for 2 minutes, then scatter the crumbled Roquefort evenly over the top of each patty.",
+      "6. Continue cooking for 1 additional minute, or until an instant-read thermometer inserted into the thickest part of the patty reads 130–135°F (54–57°C) for medium rare. Remove from heat and tent loosely with foil. Rest for 3 minutes — carryover cooking will bring the final internal temperature to approximately 135°F (57°C).",
+      "7. While the patties rest, spread the cut sides of the brioche buns with softened butter and toast in the same pan over medium heat until golden, about 1–2 minutes.",
+      "8. Spread a thin layer of Dijon mustard on the bottom bun. Layer with tomato slices and red onion.",
+      "9. Place the Roquefort-topped patty on the dressed bun. Top with a small handful of arugula.",
+      "10. Finish with a pinch of flaky sea salt over the arugula. Cap with the top bun, press gently, and serve immediately."
+    ]
+  }
+}

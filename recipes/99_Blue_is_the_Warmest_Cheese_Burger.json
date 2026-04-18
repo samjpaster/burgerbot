@@ -1,0 +1,49 @@
+{
+  "id": 99,
+  "name": "Blue is the Warmest Cheese Burger",
+  "price": "$5.95",
+  "season": 5,
+  "episode": 9,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/76",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/99",
+  "recipe": {
+    "history": "Blue cheese is among the oldest and most storied cheeses in the world, its origins rooted in the limestone caves and cool cellars of medieval Europe. The most celebrated blue cheeses trace specific geographic lineages: Roquefort, protected by French law since 1411 and aged in the natural Combalou caves of southern France, is made from the raw milk of Lacaune sheep and carries a sharp, salty, complex tang that is virtually unmistakable. Gorgonzola, from the Lombardy and Piedmont regions of northern Italy, has been documented since at least the 9th century, and its two principal forms — dolce (young, mild, creamy) and piccante (aged, sharp, crumbly) — represent the full spectrum of blue cheese character. Stilton, the great English blue, has been produced in the counties of Leicestershire, Derbyshire, and Nottinghamshire since the early 18th century, and its dense, complex interior is held within a natural rind that develops with long aging. What all blue cheeses share is the presence of Penicillium mold — either P. roqueforti or P. glaucum — whose blue-green veining is introduced by needling the cheese to allow oxygen penetration during aging, creating those characteristic pockets of fungal intensity.\n\nBlue cheese found its way to the American burger through the steakhouse tradition rather than the diner. Where American cheese and Swiss had long been the default cheeseburger options, blue cheese was associated with higher-end beef preparation — wedge salads, filet mignon, bone-in ribeyes — and it was the steakhouse burger of the 1980s and 90s that brought blue cheese crumbles to the patty. A thick beef burger topped with crumbled Roquefort or domestic blue, perhaps accompanied by caramelized onions, became a symbol of the upscale casual dining movement. Domestic blue cheeses — particularly those from Wisconsin, Oregon, and the Rogue Creamery — gained recognition in their own right during the American artisan cheese boom of the 1990s and 2000s, making quality blue cheese more accessible to the home cook and further embedding it in the broader burger vocabulary.\n\nI have a clear, specific memory of the first blue cheese burger I considered truly great. It was at a small restaurant in Portland, Oregon on a cold November evening, and the burger arrived at the table with an almost theatrical amount of Rogue River Blue crumbled across the patty, which was barely held together by a brioche bun that had clearly been toasted in beef fat. I ate it slowly, trying to understand what was happening: the sharpness and slight bitterness of the blue cheese was somehow amplifying the beefiness of the patty rather than fighting it, the way a strong blue note in music can make the whole chord more resonant. I ordered a second one. The server did not seem surprised. I have chased that burger many times since, in my own kitchen and in other people's restaurants, and I have come to believe that blue cheese has a unique capacity to make beef taste more like itself — more savory, more mineral, more serious.\n\nAt 130 to 135°F (54 to 57°C) — the medium rare window — a beef patty is at its most generous. Its fat has rendered into an interior baste, its fibers have relaxed into a yielding, pink tenderness, and its natural umami compounds are fully accessible. This is the temperature at which blue cheese finds its ideal host: a patty with enough moisture and richness to carry the sharp, salty complexity of the cheese without being overwhelmed by it. A well-done patty beneath blue cheese crumbles is a missed opportunity — the dryness of the meat isolates the cheese's intensity rather than integrating it, and the result is sharp and one-dimensional. Medium rare creates the conditions for conversation: the beef and the cheese meet as equals, each making the other more interesting.",
+    "ingredients": [
+      "1 lb (450g) ground beef chuck, 80/20 fat ratio",
+      "3 oz (85g) blue cheese, crumbled (Roquefort, Gorgonzola, Stilton, or a quality domestic blue)",
+      "2 brioche burger buns",
+      "2 tbsp unsalted butter, softened",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1/2 tsp garlic powder",
+      "1 tsp neutral oil (vegetable or canola)",
+      "For the caramelized onions:",
+      "1 large yellow onion, thinly sliced",
+      "2 tbsp unsalted butter",
+      "1 tbsp olive oil",
+      "1 tsp fresh thyme leaves",
+      "1 tbsp balsamic vinegar",
+      "Pinch of sugar",
+      "Salt to taste",
+      "For the burger assembly:",
+      "4 leaves butter lettuce",
+      "2 tbsp mayonnaise",
+      "1 tsp Worcestershire sauce"
+    ],
+    "instructions": [
+      "1. Make the caramelized onions: Melt 2 tbsp butter with 1 tbsp olive oil in a heavy skillet over medium-low heat. Add the sliced onion and a pinch of sugar and salt. Cook, stirring occasionally, for 35–45 minutes until deep golden brown and jammy. Add the thyme and balsamic vinegar in the last 5 minutes. Set aside.",
+      "2. Mix the mayonnaise with Worcestershire sauce in a small bowl. Set aside.",
+      "3. Remove the ground beef from the refrigerator 20 minutes before cooking. Divide into two 8 oz (227g) portions and gently shape into patties about 3/4 inch thick. Press a shallow dimple into the center of each patty.",
+      "4. Season both sides generously with kosher salt, black pepper, and garlic powder.",
+      "5. Heat a cast iron skillet over high heat until smoking. Add the neutral oil.",
+      "6. Place the patties in the skillet. Cook undisturbed for 3 minutes to develop a deep sear.",
+      "7. Flip once. Cook for 2 minutes on the second side.",
+      "8. Distribute the crumbled blue cheese evenly over each patty. Cover the skillet with a lid for 60–90 seconds until the cheese begins to soften and melt into the crust.",
+      "9. Check internal temperature with an instant-read thermometer. Target is 130–135°F (54–57°C) for medium rare. Remove from heat and rest under loose foil for 3 minutes.",
+      "10. While the patties rest, butter the cut sides of the brioche buns and toast cut-side down in the residual skillet heat for 60–90 seconds until golden.",
+      "11. Spread the Worcestershire mayonnaise on both cut sides of each bun.",
+      "12. Layer butter lettuce on the bottom bun, then place the rested blue cheese patty on top. Spoon the caramelized onions generously over the patty.",
+      "13. Cap with the top bun and serve immediately."
+    ]
+  }
+}

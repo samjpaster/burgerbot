@@ -1,0 +1,45 @@
+{
+  "id": 89,
+  "name": "The Life of the Parsley Burger",
+  "price": "$5.95",
+  "season": 4,
+  "episode": 17,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/62",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/89",
+  "recipe": {
+    "history": "Parsley is one of the oldest cultivated herbs in the world, with origins in the central Mediterranean region — specifically the rocky coastal areas of Sardinia and the eastern Mediterranean, including what is now Greece, Turkey, and Lebanon. Ancient Greeks held parsley in a curious cultural position: it was associated with death and the underworld, used to adorn tombs and weave garlands for the deceased, and fed to chariot horses before races for supposed strength. The Romans, less superstitious about the herb and more interested in its culinary applications, adopted it enthusiastically and spread it throughout their empire. By the Middle Ages, parsley was growing in monastery gardens across Europe, used medicinally for everything from kidney complaints to digestive ailments. The two dominant varieties — curly parsley (Petroselinum crispum) and flat-leaf or Italian parsley (Petroselinum neapolitanum) — each developed distinct culinary identities: curly parsley became the garnish of choice in mid-century Western cooking, while flat-leaf parsley, with its more assertive, peppery flavor, became the workhorse of Mediterranean, Middle Eastern, and South American cuisines. In Lebanese tabbouleh, Iranian ghormeh sabzi, Argentine chimichurri, and Italian gremolata, parsley is not decoration — it is the primary ingredient, treated with the seriousness that other cuisines reserve for proteins.\n\nParsley's migration to the American burger is less a story of dramatic arrival than one of quiet ubiquity. American home cooks and diner cooks throughout the 20th century used parsley primarily as a garnish — the sprig on the plate, the fleck of green in the potato salad — and it was this decorative role that initially kept it from being taken seriously as a flavor component in burger cookery. The turning point came through the influence of Argentine and Uruguayan steakhouse culture, which carried chimichurri — a vibrant, oil-rich sauce built on flat-leaf parsley, garlic, oregano, and red wine vinegar — into the American dining mainstream. Steakhouses began offering chimichurri alongside grilled beef, and burger cooks followed, discovering that a spoonful of parsley-forward chimichurri on a beef patty did something remarkable: it cut through the fat, brightened the beefy depth, and added a fresh, herbaceous green note that no other condiment could replicate. Parsley thus graduated from garnish to ingredient on the American burger, and it has never looked back.\n\nI grew up in a household where parsley was treated the way many families treat oregano or thyme — as a background note, a seasoning pinched from a dried jar. My understanding of what parsley could actually do changed during a summer I spent working at a restaurant that made everything from scratch, including a daily chimichurri that the chef prepared in a large stone mortar. She would pound flat-leaf parsley with garlic and coarse salt until it became a rough, dark green paste, then work in red wine vinegar and olive oil. The smell was extraordinary — green and sharp and alive in a way that the herb, standing alone, never hinted at. She put this on grilled beef, on roasted potatoes, on crusty bread. One afternoon she put a spoonful on a burger she was testing and handed it to me without ceremony. The parsley on that burger was not a garnish. It was a transformation. It made the beef taste cleaner, the fat taste lighter, and the whole thing taste like it had been made outdoors in good weather. I have kept a jar of chimichurri in my refrigerator almost continuously since that summer.\n\nThe decision to cook a burger to medium rare — 130 to 135°F — is inseparable from any philosophy of cooking that takes flavor seriously. Beef at this temperature has done everything it needs to do structurally: the exterior is crusted and complex from intense heat; the interior proteins have tightened enough to hold the patty together and produce a pleasant, yielding chew. But the fat has not been driven out. The juice has not been expelled. The rosy center is not rawness — it is warmth, and it is where the most flavor lives. Parsley has an affinity for this version of beef. The herb's brightness and faint bitterness, whether delivered as chimichurri or as a compound butter or scattered fresh, registers most clearly against the savory, fatty depth of a properly cooked medium rare patty. Cook the beef past 145°F and it becomes a different food — drier, denser, less itself — and the parsley, no longer working against richness, becomes merely decorative again. Medium rare keeps the balance honest.",
+    "ingredients": [
+      "1 lb (450g) ground beef chuck, 80/20 fat ratio",
+      "2 sesame seed buns or Kaiser rolls, split",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1/4 tsp red pepper flakes",
+      "2 slices pepper jack or provolone cheese",
+      "1 tbsp neutral oil (canola or grapeseed)",
+      "1 cup fresh flat-leaf parsley leaves, tightly packed (about 1 large bunch)",
+      "3 garlic cloves, minced",
+      "2 tbsp fresh oregano leaves (or 1 tsp dried)",
+      "3 tbsp red wine vinegar",
+      "1/2 cup extra virgin olive oil",
+      "1/2 tsp coarse sea salt",
+      "1/4 tsp crushed red pepper flakes (for chimichurri)",
+      "1/4 tsp freshly ground black pepper (for chimichurri)",
+      "3 tbsp mayonnaise",
+      "4 leaves romaine or green leaf lettuce",
+      "2 slices ripe tomato",
+      "4 thin slices red onion"
+    ],
+    "instructions": [
+      "1. Make the chimichurri: Finely chop the flat-leaf parsley leaves and oregano by hand or pulse briefly in a food processor — do not over-process, you want texture, not a puree. Combine in a bowl with the minced garlic, red wine vinegar, olive oil, coarse sea salt, red pepper flakes, and black pepper. Stir well, taste, and adjust seasoning. Let sit at room temperature for at least 15 minutes before using — the flavors bloom as it rests.",
+      "2. Let the ground beef rest at room temperature for 15 to 20 minutes. Divide into two 8 oz portions and form into patties about 3/4 inch thick, pressing a dimple into each center. Season both sides generously with kosher salt, black pepper, and red pepper flakes.",
+      "3. Heat a cast iron skillet or heavy griddle over high heat until smoking. Add the neutral oil and swirl to coat.",
+      "4. Place the patties in the skillet and cook undisturbed for 3 to 4 minutes on the first side until a deep, dark crust forms.",
+      "5. Flip once. Cook for 2 to 3 minutes on the second side.",
+      "6. Place one slice of cheese on each patty in the final minute of cooking. Cover loosely with a lid or foil to melt.",
+      "7. Check internal temperature with an instant-read thermometer. Remove patties from heat at 130–135°F (54–57°C) for medium rare. Rest on a rack or plate for 3 minutes.",
+      "8. While patties rest, toast the buns cut-side down in the same pan over medium heat until golden, about 2 minutes.",
+      "9. Spread mayonnaise on the bottom bun. Layer with lettuce, tomato, and red onion.",
+      "10. Place the cheesed patty on top. Spoon a generous 2 to 3 tablespoons of chimichurri directly over the patty, allowing it to run down the sides. Crown with the top bun and serve immediately, with extra chimichurri on the side."
+    ]
+  }
+}

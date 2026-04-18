@@ -1,0 +1,57 @@
+{
+  "id": 9,
+  "name": "CHEVRE WHICH WAY BUT LOOSE BURGER",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 4,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/4",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/9",
+  "recipe": {
+    "history": "Chèvre — the French word simply meaning goat — is one of the oldest cheeses known to humanity. Long before cattle were widely domesticated, goats roamed the hillsides of the ancient Middle East and Mediterranean basin, and the people who herded them discovered that the milk, left in a pouch or vessel, would naturally sour and thicken into something extraordinary. Archaeological evidence traces goat cheese production back at least ten thousand years in the Fertile Crescent and the Zagros Mountains of present-day Iran. From those ancient origins it traveled west, and nowhere did it take deeper root than in the Loire Valley of France, where the chalky limestone soils, the wild thyme and fennel the goats grazed upon, and centuries of careful cheesemaking tradition produced the world's most celebrated fresh chèvre — bright, tangy, grassy, and impossibly creamy. French varieties like Crottin de Chavignol and Sainte-Maure de Touraine earned protected designation of origin status, codifying what shepherds and farmwives had known for generations: that the land itself is in the cheese.\n\nFor most of the twentieth century, American hamburger culture and European artisan cheese existed in entirely separate culinary universes. That began to change in the 1980s, when the California cuisine movement — championed by chefs like Alice Waters at Chez Panisse — introduced the American dining public to the idea that a burger could be a vehicle for serious, thoughtful ingredients. Fresh goat cheese, imported or made by a new wave of domestic American creameries, began appearing on menus in Berkeley and San Francisco, crumbled over salads and then, inevitably, melted onto patties. The combination turned out to be a revelation. Where cheddar adds sharpness and brie adds richness, chèvre contributes a bright, lactic tang that cuts through the fat of the beef and a silky creaminess that pools into every crevice of the patty. By the 1990s and 2000s the goat cheese burger had migrated from white-tablecloth bistros to gastropubs across the country, proof that a ten-thousand-year-old cheese and a twentieth-century American icon were, against all odds, destined for each other.\n\nThe first time I made this burger I was cooking for someone I was trying to impress, which is both the worst and the best reason to cook well. I'd bought the goat cheese from a small dairy stand at the farmers' market that morning — it came wrapped in parchment and smelled like a green hillside — and I was terrified I would overcook the patty and ruin everything. I stood over that cast iron pan with a thermometer in one hand and a spatula in the other like I was defusing something. When I pulled it at 133°F and let it rest, and then watched the chèvre soften and slump over the patty, something clicked. The person I was cooking for took one bite, set the burger down, and looked at me. That look was worth more than any review. I have been making this burger the same way ever since.\n\nThere is a philosophy embedded in cooking a burger to medium rare — 130 to 135°F at the center — and it is not mere preference. At that internal temperature the muscle fibers have relaxed just enough to release their juices without squeezing them out entirely, the fat has begun to render and baste the meat from within, and the Maillard reaction on the exterior crust is deep and complex without having driven all moisture to the surface. Well-done beef is not seasoned beef; it is beef from which all the interesting decisions have been cooked away. A burger at 130°F is a burger that still has something to say. The chèvre understands this instinctively — it is a cheese that rewards gentleness, that needs warmth to bloom rather than heat to melt, and it finds its perfect partner in a patty that has been treated with the same restraint. Cook to medium rare, rest for five minutes, and the burger will repay your patience completely.",
+    "ingredients": {
+      "patty": [
+        "8 oz (225g) ground beef, 80/20 chuck blend",
+        "1/2 teaspoon kosher salt",
+        "1/4 teaspoon freshly ground black pepper",
+        "1/4 teaspoon garlic powder",
+        "1 teaspoon neutral oil (such as canola or grapeseed), for the pan"
+      ],
+      "chevre_topping": [
+        "2 oz (55g) fresh chèvre (soft goat cheese), at room temperature",
+        "1 teaspoon fresh thyme leaves",
+        "1/2 teaspoon honey",
+        "Pinch of flaky sea salt"
+      ],
+      "bun": [
+        "1 brioche hamburger bun",
+        "1 tablespoon unsalted butter, softened"
+      ],
+      "toppings_and_condiments": [
+        "2 leaves butter lettuce",
+        "2 slices heirloom tomato (1/4 inch thick)",
+        "4 to 5 thin slices English cucumber",
+        "2 tablespoons caramelized onions (see instructions)",
+        "1 teaspoon Dijon mustard",
+        "1 tablespoon mayonnaise"
+      ],
+      "caramelized_onions": [
+        "1 large yellow onion, thinly sliced",
+        "1 tablespoon unsalted butter",
+        "1 tablespoon olive oil",
+        "1/4 teaspoon kosher salt",
+        "1 teaspoon balsamic vinegar"
+      ]
+    },
+    "instructions": [
+      "Make the caramelized onions first, as they take the longest. Melt butter and olive oil together in a heavy skillet over medium-low heat. Add the sliced onion and salt and stir to coat. Cook, stirring every 5 to 10 minutes, for 40 to 50 minutes until the onions are deeply golden, jammy, and sweet. Splash in the balsamic vinegar, stir, and cook 2 more minutes. Remove from heat and set aside. These can be made up to 3 days ahead and refrigerated.",
+      "Prepare the chèvre topping. In a small bowl, combine the room-temperature goat cheese, fresh thyme leaves, honey, and a pinch of flaky sea salt. Use a fork to blend until smooth and spreadable. Set aside at room temperature so it remains soft and ready to melt.",
+      "Form the patty. Gently divide 8 oz of 80/20 ground chuck into a single loosely packed ball — do not overwork the meat. Press it into a patty roughly 4 inches wide and 3/4 inch thick. Use your thumb to press a shallow dimple into the center of the patty to prevent doming during cooking. Season both sides generously with kosher salt, black pepper, and garlic powder immediately before cooking.",
+      "Heat a cast iron skillet or heavy stainless pan over medium-high heat for 2 full minutes until very hot. Add the neutral oil and swirl to coat. Lay the patty in the pan and do not press it or move it. Cook undisturbed for 3 to 3.5 minutes until a deep brown crust forms on the underside.",
+      "Flip the patty once. Cook the second side for 2 to 2.5 minutes. In the last 60 seconds of cooking, spoon the prepared chèvre mixture onto the top of the patty. Tent the pan loosely with a piece of foil to trap ambient heat and allow the chèvre to soften and begin to melt without cooking the patty further.",
+      "Check the internal temperature using an instant-read thermometer inserted into the thickest part of the patty from the side. Pull the patty from the heat at 130°F for medium rare — it will carry over to 133 to 135°F while resting. Transfer to a clean plate and rest uncovered for 5 full minutes. Do not skip the rest; this is when the juices redistribute.",
+      "While the patty rests, toast the bun. Spread the cut sides of the brioche bun lightly with softened butter. Place them cut-side down in the same skillet over medium heat for 60 to 90 seconds until golden and lightly crisped. Remove and set aside.",
+      "Build the burger. Spread Dijon mustard on the cut face of the bottom bun and mayonnaise on the cut face of the top bun. Layer the bottom bun with butter lettuce, then tomato slices, then cucumber slices. Place the rested patty — now draped with softened chèvre — on top of the vegetables. Spoon a generous tablespoon or two of caramelized onions directly over the chèvre.",
+      "Set the top bun in place. Press gently but do not flatten. Serve immediately while the chèvre is still warm and creamy and the bun retains its toast."
+    ]
+  }
+}

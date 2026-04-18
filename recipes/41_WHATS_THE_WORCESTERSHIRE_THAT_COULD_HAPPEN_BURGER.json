@@ -1,0 +1,51 @@
+{
+  "id": 41,
+  "name": "WHAT'S THE WORCESTERSHIRE THAT COULD HAPPEN BURGER",
+  "price": "$5.95",
+  "season": 2,
+  "episode": 5,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/18",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/41",
+  "recipe": {
+    "history": "Worcestershire sauce traces its origins to the early 1830s in Worcester, England, where chemists John Wheeley Lea and William Henry Perrins were commissioned to recreate a sauce based on a recipe brought back from Bengal by Lord Marcus Sandys, a former governor of that region. Their first attempt reportedly produced a pungent, nearly unpalatable concoction, which they abandoned in their cellar. When they rediscovered the barrels months — some accounts say years — later, they found the long fermentation had transformed the blend of malt vinegar, anchovies, tamarind, molasses, onions, garlic, and a proprietary mixture of spices into something extraordinary: a complex, deeply savory liquid with layers of umami, tang, and subtle sweetness. Lea & Perrins began selling the sauce commercially in 1838, and it rapidly became a fixture on British tables, shipped across the Empire and beyond.\n\nBy the late nineteenth and early twentieth centuries, Worcestershire sauce had crossed the Atlantic and embedded itself firmly in American culinary culture. Home cooks and restaurant chefs alike discovered that a few dashes of Worcestershire added a profound depth to marinades, gravies, stews, and — crucially — ground beef. When the American hamburger rose to prominence as a democratic, working-class staple in diners and lunch counters across the country, Worcestershire sauce followed naturally into the mix. Folded directly into the patty or brushed onto the meat as it sizzled on a flat-top griddle, it amplified the beefy savoriness through its glutamate-rich anchovy base, caramelized on contact with heat into something that tasted less like a condiment and more like the beef itself had been intensified. Today it remains one of the quiet, indispensable secrets of a great burger, known to line cooks and backyard grill masters alike.\n\nI remember the first time I really understood what Worcestershire sauce could do to a burger. I was maybe twelve years old, standing in my uncle's cramped kitchen on a Saturday afternoon, watching him work a cast-iron skillet like it owed him money. He shook the Lea & Perrins bottle over the bowl of ground chuck without measuring, just a long, confident pour, then worked it into the meat with his bare hands the way someone kneads bread dough — with authority and without apology. When those patties hit the screaming-hot iron, the kitchen filled with a smell I had no language for yet: savory and sweet and a little funky all at once, ancient somehow, like something that had been fermenting in a cellar for two hundred years, which of course it had. He handed me the first burger off the pan, and I ate it standing over the sink because I couldn't wait. I have been chasing that smell and that taste ever since, and this burger — the What's the Worcestershire That Could Happen Burger — is my best attempt to bottle it.\n\nCooking a burger to medium rare is not a preference so much as a philosophy, a statement about what you believe meat fundamentally is and what you owe it. The window between 130°F and 135°F (54°C to 57°C) is where beef fat has begun to render and lubricate the muscle fibers, where the Maillard crust on the exterior stands in thrilling contrast to the yielding, rosy, juice-saturated interior, and where the full complexity of the beef's flavor — and everything you have folded into it — is allowed to speak without interference from the gray, moisture-expelled overcooking that happens above 160°F. A medium rare patty rests pink and glistening; it surrenders to the bite rather than resisting it; it tastes like the animal it came from. To cook a burger beyond that point is to make a different, lesser decision. Use a reliable instant-read thermometer, pull the patty at 130°F, tent it loosely, and let carryover do the final work. You will not regret it.",
+    "ingredients": [
+      "1.5 lbs (680g) freshly ground beef chuck, 80/20 lean-to-fat ratio",
+      "2 tablespoons Worcestershire sauce (Lea & Perrins preferred)",
+      "1 teaspoon kosher salt",
+      "1/2 teaspoon freshly ground black pepper",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "1 tablespoon unsalted butter (for basting)",
+      "4 brioche burger buns",
+      "2 tablespoons unsalted butter, softened (for toasting buns)",
+      "4 slices sharp white cheddar cheese",
+      "1/2 cup mayonnaise",
+      "1 tablespoon Worcestershire sauce (for aioli)",
+      "1 teaspoon Dijon mustard",
+      "1 teaspoon fresh lemon juice",
+      "1 clove garlic, minced to a paste",
+      "1 large white onion, thinly sliced into rings",
+      "2 tablespoons unsalted butter (for caramelizing onions)",
+      "1 tablespoon olive oil (for caramelizing onions)",
+      "1 teaspoon granulated sugar",
+      "1/4 teaspoon fine sea salt (for onions)",
+      "1 tablespoon balsamic vinegar (for onions)",
+      "8 leaves green leaf lettuce",
+      "2 large ripe beefsteak tomatoes, sliced 1/4-inch thick",
+      "Kosher salt and black pepper for seasoning tomatoes",
+      "Neutral oil (such as canola or vegetable) for cooking"
+    ],
+    "instructions": [
+      "1. At least 45 minutes before cooking, combine the ground chuck, 2 tablespoons Worcestershire sauce, 1 teaspoon kosher salt, black pepper, garlic powder, and onion powder in a large bowl. Mix gently with your hands until the seasonings are evenly distributed — do not overwork the meat or the patties will become dense and tough. Divide into 4 equal portions (approximately 6 oz / 170g each) and form into patties roughly 4 inches wide and 3/4 inch thick, pressing a shallow dimple into the center of each with your thumb to prevent doming during cooking. Place on a parchment-lined plate, cover loosely, and refrigerate.",
+      "2. Prepare the Worcestershire aioli: whisk together the mayonnaise, 1 tablespoon Worcestershire sauce, Dijon mustard, lemon juice, and minced garlic in a small bowl until smooth. Season to taste with salt and pepper. Cover and refrigerate until ready to assemble.",
+      "3. Caramelize the onions: melt 2 tablespoons butter with 1 tablespoon olive oil in a wide, heavy-bottomed skillet over medium-low heat. Add the sliced onions and 1/4 teaspoon sea salt, stir to coat, and spread into an even layer. Cook, stirring every 5–8 minutes, for 40–50 minutes total until the onions are deeply golden and jammy. Add the granulated sugar halfway through to encourage browning. Deglaze with the balsamic vinegar in the final 5 minutes, stir to incorporate, and remove from heat. Reserve warm.",
+      "4. Remove the patties from the refrigerator 15 minutes before cooking to take the chill off. Set up an instant-read thermometer within reach — you will need it.",
+      "5. Heat a cast-iron skillet or heavy griddle over high heat for 3–4 minutes until smoking. Add a thin film of neutral oil and swirl to coat. Place the patties in the skillet with at least 1 inch of clearance between them. Do not press down on the patties. Sear undisturbed for 3 minutes to develop a deep, mahogany crust.",
+      "6. Flip the patties once. Add 1 tablespoon butter to the pan and, as it foams, tilt the pan slightly and baste the tops of the patties with the butter using a spoon. Cook for 2 minutes, then lay one slice of sharp white cheddar on each patty. Cover the pan loosely with a lid or foil tent to melt the cheese, approximately 30–60 seconds.",
+      "7. Begin checking internal temperature immediately after adding the cheese. Pull the patties from the heat when the thermometer reads 130°F (54°C) at the thickest point. Transfer to a wire rack set over a plate, tent loosely with foil, and rest for 3–4 minutes. Carryover heat will bring the internal temperature to 133–135°F (56–57°C) — the ideal medium rare.",
+      "8. While the patties rest, toast the brioche buns: wipe out the skillet, reduce heat to medium, and melt 2 tablespoons softened butter in the pan. Place the buns cut-side down and toast for 60–90 seconds until golden and lightly crisped. Remove and set aside.",
+      "9. Season the tomato slices lightly with kosher salt and black pepper.",
+      "10. Assemble the burgers: spread a generous layer of Worcestershire aioli on both the top and bottom bun. Place the lettuce leaves on the bottom bun, followed by the tomato slices. Set the rested cheese-topped patty on the tomatoes. Spoon a mound of caramelized onions directly over the melted cheddar. Close with the top bun and serve immediately."
+    ]
+  }
+}

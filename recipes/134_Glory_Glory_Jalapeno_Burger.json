@@ -1,0 +1,41 @@
+{
+  "id": 134,
+  "name": "Glory Glory Jalapeño Burger",
+  "price": "$5.95",
+  "season": 7,
+  "episode": 18,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/125",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/134",
+  "recipe": {
+    "history": "The jalapeño (Capsicum annuum) is native to Mexico, where it has been cultivated for at least 6,000 years — archaeological evidence of chili pepper use has been found at sites in the Tehuacán Valley of Puebla dating to roughly 5000 BCE. The pepper takes its name from Xalapa (also spelled Jalapa), the capital city of Veracruz, Mexico, where it was historically grown and traded in large quantities. In Mexican cuisine, the jalapeño occupies a central and democratic role: it appears fresh in salsas and pico de gallo, pickled (en escabeche) alongside tacos and tortas, smoked and dried into the chipotle, and roasted into rich sauces. The pepper's heat registers between 2,500 and 8,000 Scoville Heat Units — moderate by chili standards — which has made it the world's most widely consumed hot pepper, prized for delivering accessible, lingering warmth without the face-obliterating intensity of habaneros or ghost peppers.\n\nThe jalapeño entered the American mainstream food consciousness through Tex-Mex cuisine in the mid-twentieth century, particularly in Texas and the Southwest, where Mexican culinary traditions had long mingled with American ranch cooking. Pickled jalapeño slices became a ubiquitous condiment at burger stands, chili joints, and BBQ pits across Texas by the 1960s and 70s. The \"jalapeño burger\" — typically a beef patty with fresh or pickled jalapeños, pepper jack cheese, and sometimes a chipotle aioli — became one of the defining American regional burger styles, spreading nationally as Tex-Mex flavors swept the country through the 1980s and 90s. Today, jalapeño appears on burgers in nearly every form: raw for grassy bite, pickled for acidic heat, roasted for smoky sweetness, and blended into sauces and compound butters.\n\nI have a complicated relationship with the jalapeño that begins with my first attempt at making jalapeño poppers for a party and accidentally rubbing my eye approximately forty-five minutes after cutting what I estimated to be a \"reasonable\" number of peppers. After that, I developed a deep respect for the ingredient — a respect expressed through proper glove use and a genuine appreciation for what the pepper brings when handled correctly. The moment I started charring whole jalapeños directly over the gas burner until their skins blackened and blistered, then steaming and peeling them, was the moment I understood what the pepper was actually capable of. Beneath all that heat is a bright, grassy, almost fruity flavor that plays against rich beef like a trumpet over a bass line — cutting, clarifying, giving the whole thing direction.\n\nThere is a school of thought that spicy food and medium rare beef are made for each other, and I subscribe to it entirely. When you cook a patty to 130–135°F (54–57°C), the fat is still present and abundant, and fat is the primary vehicle for capsaicin — the compound responsible for jalapeño's heat. A medium rare patty does not just tolerate spice; it amplifies and smooths it, using its rendered fat to carry the heat evenly across the palate and then cushion it. A well-done patty, stripped of its fat, lets capsaicin sit sharp and unmediated on the tongue. Medium rare is the correct temperature not just for beef but for the entire experience of a jalapeño burger — the heat blooms, the beef stays rich, and everything is in balance.",
+    "ingredients": [
+      "1 lb (450g) freshly ground beef, 80/20 chuck blend",
+      "4 fresh jalapeños",
+      "2 slices pepper jack cheese",
+      "2 brioche burger buns, split",
+      "2 tbsp unsalted butter",
+      "3 tbsp mayonnaise",
+      "1 tbsp chipotle peppers in adobo sauce, minced",
+      "1 tsp fresh lime juice",
+      "1/2 tsp garlic powder",
+      "4 slices ripe tomato",
+      "1/4 white onion, thinly sliced into rings",
+      "2 leaves romaine lettuce",
+      "1 tsp kosher salt",
+      "1/2 tsp freshly ground black pepper",
+      "1 tbsp neutral oil"
+    ],
+    "instructions": [
+      "1. Roast 2 of the jalapeños directly over a gas flame or under a broiler, turning occasionally, until charred and blistered on all sides, about 8–10 minutes. Place in a bowl, cover with plastic wrap, and steam for 10 minutes. Peel, seed, and slice into strips. Set aside.",
+      "2. Thinly slice the remaining 2 jalapeños into rings. Set aside raw for topping.",
+      "3. Make the chipotle mayo: stir together mayonnaise, minced chipotle in adobo, lime juice, and garlic powder until smooth. Refrigerate until needed.",
+      "4. Remove ground beef from the refrigerator 20 minutes before cooking. Divide into two 8 oz portions and form into patties about 3/4 inch thick with a center dimple. Season both sides with kosher salt and black pepper.",
+      "5. Heat a cast-iron skillet over high heat until smoking. Add the neutral oil.",
+      "6. Add the patties and cook undisturbed for 3 minutes to build a crust. Flip once.",
+      "7. Lay a slice of pepper jack cheese over each patty. Cook for 2 minutes, then top each patty with the roasted jalapeño strips before the cheese fully melts, so the strips are sealed under the cheese.",
+      "8. Cook 1 additional minute, or until an instant-read thermometer reads 130–135°F (54–57°C) for medium rare. Remove from heat, tent with foil, and rest for 3 minutes.",
+      "9. Toast the buns with butter in the skillet over medium heat until golden, about 1–2 minutes.",
+      "10. Spread chipotle mayo generously on both cut sides of each bun. Build the burger: bottom bun, romaine, tomato, onion rings, the jalapeño-and-cheese-topped patty, and a scattering of fresh jalapeño rings on top. Cap with the top bun and serve immediately."
+    ]
+  }
+}

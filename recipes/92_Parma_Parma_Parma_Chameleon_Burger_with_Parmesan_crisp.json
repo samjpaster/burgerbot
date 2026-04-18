@@ -1,0 +1,52 @@
+{
+  "id": 92,
+  "name": "Parma Parma Parma Chameleon Burger - with Parmesan crisp",
+  "price": "$5.95",
+  "season": 4,
+  "episode": 20,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/65",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/92",
+  "recipe": {
+    "history": "Parmigiano-Reggiano is arguably the most regulated and historically documented cheese in the world. Its origins trace back to the Benedictine and Cistercian monasteries of the Po Valley in northern Italy, where monks in the twelfth and thirteenth centuries began producing a hard, long-aging cow's milk cheese as a way to preserve the abundant milk from the cattle grazing the fertile lowlands around Parma, Reggio Emilia, Modena, and Bologna. The cheese was a practical solution to a logistical problem — milk spoils, but a properly made wheel of Parmigiano-Reggiano can age for one, two, or even three years — but it became something far greater than utility. By the fourteenth century, Boccaccio was describing mountains of grated Parmesan in the Decameron, and by the Renaissance, it had become a luxury export traded across Europe. The production method has changed remarkably little in eight hundred years: raw, partially skimmed milk from local cows, natural whey starter, calf rennet, and nothing else. The cheese's crystalline, granular texture and deeply savory, nutty flavor come from the extended aging and the enzymatic breakdown of proteins into free amino acids — including glutamate, the compound responsible for umami. Parmesan crisps, made by baking or frying thin mounds of grated Parmesan until golden and lacy, are a modern technique that concentrates all of that flavor into a single shattering bite.\n\nParmesan's arrival in American cuisine followed the arc of Italian immigration. In the late nineteenth and early twentieth centuries, waves of Italian immigrants arriving in New York, New Jersey, and Chicago brought their culinary traditions with them, and with them came grated cheese — at first, the affordable domestic imitations, then, as prosperity grew, the real thing. Italian-American red sauce restaurants became the gateway through which Americans first encountered Parmigiano-Reggiano, grated over spaghetti and meatballs and baked into lasagna. By the 1980s, the American gourmet movement had elevated Parmesan from a pantry staple to a prestige ingredient, and chefs began deploying it in unexpected ways — in risottos, shaved over salads, baked into crisps as edible garnishes. The burger world was a natural next stop. Parmesan's saltiness and umami depth are a perfect counterpoint to the richness of ground beef, and a Parmesan crisp adds structural crunch and visual drama that no slice of standard processed cheese can match. The Italian-American tradition of combining bold, aged cheese with red meat found its most democratic form in the American hamburger.\n\nI became obsessed with Parmesan crisps one winter when I was working a prep shift at a small Italian restaurant and the sous chef showed me how to make them on a silicone mat in the oven. He measured nothing — just dropped small mounds of finely grated Parmigiano-Reggiano onto the mat and slid them into a hot oven for about six minutes. When they came out, they were thin, golden, lacework discs that smelled like the inside of a cave where something extraordinary had been aging for a very long time. I burned my fingers picking one up too soon and ate it anyway. The flavor was concentrated and almost aggressively savory, with a faint bitterness at the edges where the cheese had browned. I started putting them on everything — salads, soups, and eventually, inevitably, burgers. A Parmesan crisp on a burger is a revelation: it stays crisp even after a minute or two against the hot patty, and it shatters when you bite into it, releasing a burst of aged cheese flavor that goes straight through to the back of your jaw. It is the kind of thing that makes a burger feel like a decision.\n\nMedium rare at 130–135°F (54–57°C) is the only temperature at which a burger topped with Parmesan crisp makes complete sense. The crisp itself is already maximally cooked — lacy and brittle and deeply browned — and it needs a patty that contrasts it rather than mirrors it. A medium rare burger provides that contrast: a hot, mahogany crust on the outside, a warm, pink, yielding interior that releases juice with each bite. The moisture from the patty softens the very bottom edge of the Parmesan crisp just slightly, creating a gradient between shattering crunch and silky beef that is one of the more pleasurable textural experiences a burger can offer. Parmesan's glutamates also bind more expressively with the fat in a properly medium rare patty — when beef fat is warm and liquid rather than rendered and dry, it carries the cheese's nutty, salty complexity throughout every bite. Cook this burger to well done and you lose the juice, you lose the textural contrast, and you are left with a dry disc of beef and a cheese chip, which is just a snack, not a burger.",
+    "ingredients": [
+      "1.5 lbs (680g) ground beef, 80/20 chuck, freshly ground",
+      "2 oz (55g) Parmigiano-Reggiano, finely grated (for mixing into patties)",
+      "2 cloves garlic, minced",
+      "1 tablespoon Worcestershire sauce",
+      "1 teaspoon kosher salt",
+      "1/2 teaspoon freshly cracked black pepper",
+      "1/4 teaspoon freshly grated nutmeg",
+      "1 tablespoon unsalted butter (for basting)",
+      "4 oz (115g) Parmigiano-Reggiano, finely grated on a microplane (for crisps)",
+      "1 teaspoon fresh thyme leaves (for crisps)",
+      "1/2 teaspoon freshly cracked black pepper (for crisps)",
+      "4 brioche burger buns",
+      "2 tablespoons unsalted butter, softened (for toasting buns)",
+      "4 slices fresh mozzarella (about 1/4 inch thick)",
+      "3 tablespoons mayonnaise",
+      "1 tablespoon sun-dried tomato paste",
+      "1 teaspoon balsamic vinegar",
+      "1 clove garlic, finely grated (for aioli)",
+      "2 cups fresh baby spinach or arugula",
+      "1 large beefsteak tomato, sliced",
+      "8 fresh basil leaves",
+      "Flaky sea salt for finishing",
+      "Extra virgin olive oil for drizzling"
+    ],
+    "instructions": [
+      "1. Preheat oven to 375°F (190°C). Line a baking sheet with a silicone baking mat or parchment paper.",
+      "2. Make the Parmesan crisps: combine the 4 oz finely grated Parmigiano-Reggiano with fresh thyme and black pepper. Drop into 4 evenly spaced mounds on the prepared baking sheet, spreading each mound into a thin circle about 4 inches in diameter.",
+      "3. Bake for 5–7 minutes until golden, lacy, and set. Watch carefully — they go from perfect to burnt quickly. Remove from the oven and let cool on the pan for 2 minutes until firm, then transfer to a wire rack. They will crisp further as they cool.",
+      "4. Make the sun-dried tomato aioli: whisk together mayonnaise, sun-dried tomato paste, balsamic vinegar, and grated garlic. Season with salt and pepper. Refrigerate until needed.",
+      "5. Combine the ground beef, 2 oz grated Parmigiano-Reggiano, minced garlic, Worcestershire sauce, kosher salt, black pepper, and nutmeg in a large bowl. Mix gently with your hands until just combined.",
+      "6. Divide the mixture into 4 equal portions (approximately 6 oz / 170g each). Form each into a patty about 3/4 inch thick, pressing a slight dimple into the center with your thumb. Refrigerate for at least 20 minutes.",
+      "7. Heat a cast iron skillet or heavy griddle over high heat until smoking. Brush lightly with neutral oil.",
+      "8. Season the outside of each patty with a pinch of flaky salt. Cook patties for 3–4 minutes on the first side without moving, until a deep crust forms.",
+      "9. Flip each patty. Lay one slice of fresh mozzarella on each. Add the tablespoon of butter to the pan and baste the patties with foaming butter for 30 seconds. Cook 2–3 more minutes until an instant-read thermometer inserted into the center reads 130–135°F (54–57°C) for medium rare.",
+      "10. Transfer patties to a wire rack and rest for 3–4 minutes.",
+      "11. Butter the cut sides of the brioche buns and toast cut-side down in the same skillet over medium heat for 1–2 minutes until golden.",
+      "12. Assemble each burger: spread sun-dried tomato aioli on both bun halves. Layer baby spinach or arugula on the bottom bun, then a tomato slice, then 2 fresh basil leaves, then the rested patty with melted mozzarella.",
+      "13. Carefully place one Parmesan crisp on top of each patty. Drizzle with a few drops of extra virgin olive oil. Add remaining basil leaves and crown with the top bun. Serve immediately — the crisp is best within minutes of assembly."
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 128,
+  "name": "Andrew Diced Carrots Burger (comes with pickled diced carrots)",
+  "price": "$5.95",
+  "season": 7,
+  "episode": 9,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/116",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/128",
+  "recipe": {
+    "history": "The carrot (Daucus carota subsp. sativus) was first cultivated in the region of present-day Afghanistan around the 10th century CE, though its wild ancestor has grown across Europe and Asia for millennia. Early cultivated carrots were purple and yellow — not orange — and were grown primarily for their aromatic seeds and leaves rather than the root. The familiar orange carrot was developed by Dutch growers in the 17th century, likely through selective breeding of yellow and white varieties, and it became the dominant commercial type across Europe and eventually the world. Pickling carrots is an ancient preservation technique that predates refrigeration by thousands of years, used across Persian, Central Asian, and later Vietnamese and Mexican culinary traditions. The Vietnamese do carrot — known as cà rốt — in tandem with daikon in the do chua pickle that anchors bánh mì, while Mexico employs escabeche de zanahorias as a ubiquitous condiment alongside chiles and onions.\n\nPickled vegetables arrived on American burgers through the back door of the condiment shelf. The dill pickle was already embedded in the American hamburger canon by the mid-20th century, a briny foil to beef fat and ketchup. As chefs began exploring globally-inspired pickling traditions in the 2000s — drawn to the quick-pickle method popularized by the Korean, Vietnamese, and Latin American culinary traditions gaining mainstream visibility — pickled carrots became a natural candidate for burger garnish. Their mild sweetness transforms under acid into something bright and snappy, cutting through fatty beef the way a classic dill pickle does, but with a different textural crunch and a more delicate finish. Food trucks and farm-to-table restaurants embraced pickled carrots as a way to add color, acidity, and visual dynamism to the burger plate.\n\nI started quick-pickling vegetables out of practical necessity before it was a technique I could name. My grandmother kept a jar of vinegared carrots and onions in the refrigerator at all times, a habit she maintained the way some people maintain houseplants — without ceremony, as part of the basic upkeep of a functional kitchen. She would pile them on everything: rice, beans, fried fish, leftover meat. When I eventually put those diced pickled carrots on a beef patty, it felt less like culinary innovation and more like completing an obvious sentence. The acidity woke the whole thing up, the crunch gave it structure, and the sweetness left behind by the carrot itself smoothed the vinegar into something genuinely companionable with beef.\n\nThe case for medium rare is inseparable from the case for thoughtful toppings. A patty cooked to 130–135°F (54–57°C) retains the internal moisture and fat that make every bite a conversation between the beef and what sits on top of it. Pickled carrots are bright and acidic — they cut through fat, they cleanse the palate, they bring contrast. That contrast only fully works if the beef itself is rich and yielding, offering something substantial for the acid to push against. Overcook the patty past the medium rare window and the fat renders out, the beef tightens, and the pickled carrot has nothing left to balance — it simply dominates. Medium rare is not just a preference; when the toppings are this carefully considered, it is the only honest cooking choice.",
+    "ingredients": [
+      "1 lb ground beef chuck (80/20 blend)",
+      "Kosher salt",
+      "Freshly ground black pepper",
+      "1 tablespoon neutral oil (canola or vegetable)",
+      "3 medium carrots, peeled and cut into small dice (approximately 1/4 inch)",
+      "1/2 cup white wine vinegar",
+      "1/2 cup water",
+      "2 tablespoons granulated sugar",
+      "1 teaspoon kosher salt (for pickling brine)",
+      "1/2 teaspoon coriander seeds",
+      "1/4 teaspoon red pepper flakes",
+      "4 slices sharp white cheddar cheese",
+      "1/3 cup mayonnaise",
+      "1 tablespoon whole-grain mustard",
+      "1 teaspoon honey",
+      "1/2 teaspoon apple cider vinegar",
+      "4 soft sesame seed buns",
+      "2 tablespoons unsalted butter, softened",
+      "Butter lettuce leaves",
+      "1/4 red onion, thinly sliced"
+    ],
+    "instructions": [
+      "1. Make the pickled carrots at least 1 hour ahead (or up to 3 days in advance): combine white wine vinegar, water, sugar, 1 teaspoon kosher salt, coriander seeds, and red pepper flakes in a small saucepan over medium heat. Stir until sugar and salt dissolve, then remove from heat. Add diced carrots to a clean jar or heatproof bowl, pour brine over them, and let cool to room temperature. Refrigerate until ready to use.",
+      "2. Make the honey mustard aioli: whisk together mayonnaise, whole-grain mustard, honey, and apple cider vinegar until smooth. Season with a pinch of salt and pepper. Refrigerate until needed.",
+      "3. Divide ground beef into 4 equal portions (approximately 4 oz each). Form into patties about 3/4 inch thick, pressing a shallow dimple in the center of each. Season both sides generously with kosher salt and black pepper.",
+      "4. Heat a cast-iron skillet or heavy griddle over high heat until smoking. Add neutral oil and swirl to coat.",
+      "5. Place patties on the hot surface and cook undisturbed for 3 minutes. Flip once, then immediately place a slice of white cheddar on each patty.",
+      "6. Cook for a further 2 to 3 minutes until an instant-read thermometer inserted into the center reads 130–135°F (54–57°C) for medium rare. Remove from heat and tent loosely with foil. Rest for 2 minutes.",
+      "7. While patties rest, butter the cut sides of the sesame buns and toast in the same pan over medium heat until golden, about 1 minute.",
+      "8. Spread honey mustard aioli on both cut sides of each toasted bun.",
+      "9. Layer the bottom bun with butter lettuce and a few slices of red onion. Set the cheese-topped patty on top.",
+      "10. Drain the pickled carrots briefly and spoon a generous mound of diced pickled carrots directly on top of the patty. Cap with the top bun and serve immediately."
+    ]
+  }
+}

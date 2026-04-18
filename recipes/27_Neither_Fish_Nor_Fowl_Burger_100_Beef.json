@@ -1,0 +1,68 @@
+{
+  "id": 27,
+  "name": "Neither Fish Nor Fowl Burger - (100% Beef)",
+  "price": "$5.95",
+  "season": 1,
+  "episode": 12,
+  "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/12",
+  "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/27",
+  "recipe": {
+    "history": "The phrase \"neither fish nor fowl\" dates to at least the 16th century, a way of saying something fits no known category — an oddity, an outlier, a thing that defies easy classification. The joke, of course, is that this burger is emphatically, defiantly, almost philosophically beef. Cattle were domesticated roughly 10,000 years ago in the Near East and the Indian subcontinent, and from that moment forward, beef carved out a singular place in human civilization. Unlike pork, which carried religious prohibitions across vast swaths of the world, or poultry, which was often reserved for special occasions, beef occupied an aspirational middle ground — sustaining enough for labor, prestigious enough for celebration. The ancient Romans fattened cattle on grain and considered beef a mark of agricultural prosperity. Medieval European lords kept beef as a symbol of land and power. The English roast beef tradition became so culturally entrenched that the French mockingly called the British \"les Rosbifs.\" Through all of it, beef was never fish and never fowl. It was simply itself: the standard-bearer, the anchor of the plate, the thing you meant when you said \"meat.\"\n\nThe American hamburger's claim on beef is a story of industrialization, immigration, and appetite colliding at exactly the right moment. German immigrants brought the concept of chopped, seasoned beef — the \"Hamburg steak\" — to American shores in the 19th century, and somewhere between the port of New York and the county fairs of the Midwest, someone put it on a bun. By the early 20th century, the hamburger was already democracy's food: cheap, fast, infinitely portable, and deeply satisfying. White Castle standardized it in 1921. Drive-ins and diners enshrined it through the 1940s and 50s. McDonald's scaled it into a global symbol. But beneath every variation — the smash burger, the steakhouse tower, the backyard cookout classic — the non-negotiable constant was always 100% beef. No filler. No binder. No apology. The burger's identity is inseparable from the cow's. It is neither fish nor fowl not by accident but by design, by destiny, by the long arc of culinary history bending toward a sesame-seed bun.\n\nI remember the first burger that made me understand what beef could actually taste like. It was at a lunch counter that had no name on the door, just a hand-painted sign in the window that said \"OPEN.\" The grill was old enough to have absorbed decades of rendered fat into its seasoned steel, and the cook worked it with the quiet authority of someone who had never once considered that what he was doing might be art. The patty hit the iron with a sound like a thunderclap, and the smell that rose from it — that specific, irreplaceable smell of high-fat beef meeting high heat — stopped whatever thought I was having mid-sentence. It arrived on a paper plate with a ring of grease already bleeding through, and when I bit into it, the juice ran down my wrist and I didn't care even a little bit. That burger was neither fish nor fowl. It was pure, undiluted, unapologetic beef, and it tasted like the word \"enough\" finally meaning something.\n\nThere is only one correct internal temperature for a beef hamburger patty, and it is medium rare: 130 to 135 degrees Fahrenheit, 54 to 57 degrees Celsius. This is not preference. This is not opinion. This is the temperature at which the fat in the beef has begun to render and bloom, at which the Maillard reaction has built a crust with actual structural integrity and flavor depth, and at which the interior retains enough moisture to make the whole thing worth eating. Cook a burger to well done and you have made something technically edible and philosophically tragic — a disk of grey, compacted protein that has surrendered everything that made it interesting. Medium rare is the temperature at which beef tells the truth about itself. The outside should be deeply seared, almost crackling. The inside should be warm, pink, and yielding. The contrast between those two things is the entire point. A burger cooked to medium rare is a burger that respects its own history, its own ingredient, and the person eating it. It is the only way.",
+
+    "ingredients": [
+      "FOR THE BRIOCHE BUNS:",
+      "300g bread flour, plus extra for dusting",
+      "7g instant dry yeast (1 packet)",
+      "30g granulated sugar",
+      "8g fine sea salt",
+      "3 large eggs, room temperature (2 for dough, 1 for egg wash)",
+      "60ml whole milk, warmed to 110°F / 43°C",
+      "115g unsalted butter, softened and cubed",
+      "Sesame seeds, for topping",
+
+      "FOR THE BEEF PATTY BLEND:",
+      "450g (1 lb) coarsely ground chuck (80/20 fat ratio)",
+      "225g (0.5 lb) coarsely ground short rib meat",
+      "1 tsp flaky sea salt (for seasoning exterior only — never mix into ground beef)",
+      "1 tsp freshly cracked black pepper",
+
+      "FOR THE SPECIAL SAUCE:",
+      "120ml (½ cup) mayonnaise, homemade or high-quality store-bought",
+      "30ml (2 tbsp) ketchup",
+      "15ml (1 tbsp) yellow mustard",
+      "15ml (1 tbsp) sweet pickle relish",
+      "1 tsp white wine vinegar",
+      "½ tsp smoked paprika",
+      "¼ tsp garlic powder",
+      "¼ tsp onion powder",
+      "Pinch of cayenne pepper",
+      "Salt and black pepper to taste",
+
+      "FOR THE TOPPINGS:",
+      "4 slices American cheese (for optimal melt — no substitutions)",
+      "1 large white onion, thinly sliced into rings",
+      "1 head butter lettuce, leaves separated and washed",
+      "2 ripe beefsteak tomatoes, sliced ¼-inch thick",
+      "8 slices dill pickle, cut lengthwise",
+      "2 tbsp unsalted butter (for toasting buns)"
+    ],
+
+    "instructions": [
+      "1. MAKE THE BRIOCHE BUNS — ACTIVATE THE YEAST: Combine the warmed milk and sugar in the bowl of a stand mixer. Sprinkle in the yeast, stir gently, and let sit for 8–10 minutes until foamy and fragrant. If the yeast does not foam, it is dead — start over with fresh yeast.",
+      "2. BUILD THE DOUGH: Add the bread flour and salt to the yeast mixture. Using the dough hook attachment, mix on low speed for 2 minutes until a shaggy dough forms. Add 2 eggs one at a time, waiting for each to fully incorporate. Increase speed to medium and knead for 5 minutes.",
+      "3. ADD THE BUTTER: With the mixer running on medium-low, add the softened butter one cube at a time, waiting 30 seconds between each addition. Once all butter is incorporated, increase to medium-high and knead for 8–10 minutes until the dough is smooth, glossy, and pulls cleanly from the bowl sides. It will be sticky — that is correct.",
+      "4. FIRST RISE: Transfer dough to a lightly oiled bowl, cover with plastic wrap, and refrigerate for a minimum of 8 hours or overnight. Cold fermentation develops flavor and makes the dough easier to shape.",
+      "5. SHAPE THE BUNS: Remove dough from refrigerator and allow to come to room temperature for 1 hour. Divide into 4 equal portions (roughly 175g each). Working one at a time, flatten each portion into a disk, fold the edges toward the center, then flip and roll under your cupped palm against the work surface using tight circular pressure until a smooth, taut ball forms.",
+      "6. SECOND RISE: Place shaped buns on a parchment-lined baking sheet, spacing at least 3 inches apart. Cover loosely with plastic wrap and let proof at room temperature for 1.5 to 2 hours, until visibly puffed and when pressed gently with a fingertip, the indentation springs back slowly.",
+      "7. BAKE THE BUNS: Preheat oven to 375°F / 190°C. Whisk the remaining egg with 1 tbsp water to make egg wash. Brush the tops of the buns gently with egg wash and sprinkle with sesame seeds. Bake for 16–18 minutes until deep golden brown. Transfer to a wire rack and cool completely before slicing. Do not rush this — a warm bun will compress and become gummy.",
+      "8. MAKE THE SPECIAL SAUCE: Combine mayonnaise, ketchup, yellow mustard, sweet pickle relish, white wine vinegar, smoked paprika, garlic powder, onion powder, and cayenne in a small bowl. Whisk until fully uniform. Taste and adjust salt and pepper. Cover and refrigerate for at least 30 minutes to allow flavors to meld — the sauce improves significantly with rest.",
+      "9. CARAMELIZE THE ONIONS: Heat a medium skillet over medium-low heat. Add 1 tbsp butter and the sliced onions with a pinch of salt. Cook, stirring every few minutes, for 35–45 minutes until deeply golden, sweet, and jammy. Do not rush with high heat — true caramelization is a slow process. Set aside and keep warm.",
+      "10. FORM THE PATTIES: Combine the ground chuck and ground short rib in a large bowl, tossing gently to mix the two grinds — do not overwork. Divide into 4 equal portions (approximately 170g / 6oz each). Gently form each into a patty about ¾-inch thick and slightly wider than your buns (they will shrink during cooking). Press a shallow dimple into the center of each patty with your thumb — this prevents doming. Do not season yet.",
+      "11. PREHEAT YOUR COOKING SURFACE: Heat a cast iron skillet or heavy griddle over high heat for a minimum of 4 minutes until smoking hot. You want maximum sear. A properly preheated surface is non-negotiable for crust development.",
+      "12. COOK THE PATTIES TO MEDIUM RARE: Season both sides of each patty generously with flaky sea salt and cracked black pepper immediately before placing on the cooking surface — not before. Add a thin film of neutral oil to the skillet. Place patties in the pan and do not touch them for 2.5–3 minutes. You are building a crust. Flip once. Cook for another 2–2.5 minutes. In the final 60 seconds, place one slice of American cheese on each patty and cover with a dome lid or bowl to melt. Target internal temperature: 130–135°F / 54–57°C on an instant-read thermometer inserted into the side of the patty. Remove from heat and rest for 2 minutes.",
+      "13. TOAST THE BUNS: While patties rest, wipe the skillet clean with a paper towel. Add remaining 2 tbsp butter over medium heat until foaming. Place buns cut-side down and press gently. Toast for 60–90 seconds until golden and crisped. Remove immediately.",
+      "14. ASSEMBLE THE BURGER: Spread a generous layer of special sauce on both the crown and heel of each toasted bun. On the bottom bun, layer: 2 leaves of butter lettuce, 2 tomato slices, the beef patty with melted cheese, a spoonful of caramelized onions, and 2 pickle slices. Apply the top bun. Do not compress the assembled burger — treat it with the respect it has earned.",
+      "15. SERVE IMMEDIATELY: A burger begins declining the moment it is assembled. Serve at once, on a plate or in butcher paper, with nothing between the eater and the burger except perhaps a napkin. The internal temperature will be perfect. The crust will be crackling. The cheese will be molten. This is the Neither Fish Nor Fowl Burger — 100% beef, no ambiguity, no apology."
+    ]
+  }
+}
