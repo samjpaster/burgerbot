@@ -108,7 +108,7 @@ def build_burger_embeds(burger: dict, cycle_reset: bool = False) -> list[nextcor
                 ingredient_lines.append(f"**{section}**")
             for sub in item.get("items", []):
                 if sub and sub.strip():
-                    ingredient_lines.append(f"    • {sub}")
+                    ingredient_lines.append(f"• {sub}")
         elif item and item.strip():
             ingredient_lines.append(f"• {item}")
     if ingredient_lines:
