@@ -37,6 +37,8 @@ def _split_text(text: str, limit: int = 4096) -> list[str]:
     Split text into chunks that each fit within limit characters.
     Splits on newlines where possible to avoid cutting mid-line.
     """
+    if not text:
+        return []
     if len(text) <= limit:
         return [text]
     chunks = []
@@ -73,7 +75,7 @@ def build_burger_embeds(burger: dict, cycle_reset: bool = False) -> list[nextcor
     info_embed = nextcord.Embed(
         title=f"🍔 Burger of the Day: {name}",
         url=burger.get("url", "") or "",
-        description=history_chunks[0] if history_chunks else None,
+        description=history_chunks[0] or None if history_chunks else None,
         color=EMBED_COLOR,
     )
     info_embed.add_field(name="Price", value=burger.get("price", "N/A"), inline=True)
