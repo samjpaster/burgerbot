@@ -32,82 +32,92 @@ def load_recipe(burger_id: int) -> dict | None:
         return None
 
 
-def _truncate(text: str, limit: int) -> str:
-    """Truncate text to fit within a character limit, appending '…' if cut."""
+def _split_text(text: str, limit: int = 4096) -> list[str]:
+    """
+    Split text into chunks that each fit within limit characters.
+    Splits on newlines where possible to avoid cutting mid-line.
+    """
     if len(text) <= limit:
-        return text
-    return text[: limit - 1] + "…"
+        return [text]
+    chunks = []
+    while text:
+        if len(text) <= limit:
+            chunks.append(text)
+            break
+        split_at = text.rfind(chr(10), 0, limit)
+        if split_at == -1:
+            split_at = limit
+        chunks.append(text[:split_at])
+        text = text[split_at:].lstrip(chr(10))
+    return chunks
 
 
 def build_burger_embeds(burger: dict, cycle_reset: bool = False) -> list[nextcord.Embed]:
     """
-    Returns a list of embeds:
-      [0] — burger info + history
-      [1] — ingredients
-      [2] — instructions
-    If no recipe file is found, returns only embed [0] with a note.
+    Returns a list of up to 10 embeds (Discord per-message limit):
+      - Embed 1:   burger info (fields) + history part 1 (description)
+      - Embed 1b:  history part 2 if history > 4096 chars
+      - Embed 2:   ingredients
+      - Embed 3+:  instructions (split across multiple embeds if needed)
+    If no recipe file is found, returns only the info embed.
     """
     name = burger["name"].strip('"')
-
     recipe = load_recipe(burger["id"])
+    footer = "We've gone through every burger — starting over! Bob's Burgers" if cycle_reset else "Bob's Burgers"
 
-    # ── Embed 1: Info + History ──────────────────────────────────────────
+    embeds = []
+
+    # Embed 1: Info + History (part 1)
+    history_chunks = _split_text(recipe.get("history", "")) if recipe else []
+
     info_embed = nextcord.Embed(
         title=f"🍔 Burger of the Day: {name}",
         url=burger.get("url", "") or "",
+        description=history_chunks[0] if history_chunks else None,
         color=EMBED_COLOR,
     )
     info_embed.add_field(name="Price", value=burger.get("price", "N/A"), inline=True)
     info_embed.add_field(name="Season", value=str(burger["season"]), inline=True)
     info_embed.add_field(name="Episode", value=str(burger["episode"]), inline=True)
-
     episode_url = burger.get("episodeUrl", "")
     if episode_url:
         info_embed.add_field(name="Episode Link", value=episode_url, inline=False)
-
-    footer = "We've gone through every burger — starting over! Bob's Burgers" if cycle_reset else "Bob's Burgers"
+    info_embed.set_footer(text=footer)
+    embeds.append(info_embed)
 
     if not recipe:
-        info_embed.set_footer(text=footer)
-        return [info_embed]
+        return embeds
 
-    history = recipe.get("history", "")
-    if history:
-        info_embed.add_field(name="📖 History", value=_truncate(history, 1024), inline=False)
+    # Embed 1b+: History overflow
+    for chunk in history_chunks[1:]:
+        embeds.append(nextcord.Embed(
+            title="📖 History (continued)",
+            description=chunk,
+            color=EMBED_COLOR,
+        ))
 
-    info_embed.set_footer(text=footer)
-
-    # ── Embed 2: Ingredients ─────────────────────────────────────────────
+    # Ingredients embed
     ingredients = recipe.get("ingredients", [])
     if ingredients:
-        lines = [f"• {item}" for item in ingredients]
-        ingredients_text = "\n".join(lines)
-        ingredients_embed = nextcord.Embed(
+        ingredients_text = "\n".join(f"• {item}" for item in ingredients)
+        embeds.append(nextcord.Embed(
             title="🥩 Ingredients",
-            description=_truncate(ingredients_text, 4096),
+            description=ingredients_text,
             color=EMBED_COLOR,
-        )
-    else:
-        ingredients_embed = None
+        ))
 
-    # ── Embed 3: Instructions ────────────────────────────────────────────
+    # Instructions embeds (split if needed)
     instructions = recipe.get("instructions", [])
     if instructions:
-        lines = [f"{step}" for step in instructions]
-        instructions_text = "\n".join(lines)
-        instructions_embed = nextcord.Embed(
-            title="👨‍🍳 Instructions",
-            description=_truncate(instructions_text, 4096),
-            color=EMBED_COLOR,
-        )
-    else:
-        instructions_embed = None
+        instructions_text = "\n".join(instructions)
+        for i, chunk in enumerate(_split_text(instructions_text)):
+            title = "👨‍🍳 Instructions" if i == 0 else "👨‍🍳 Instructions (continued)"
+            embeds.append(nextcord.Embed(
+                title=title,
+                description=chunk,
+                color=EMBED_COLOR,
+            ))
 
-    embeds = [info_embed]
-    if ingredients_embed:
-        embeds.append(ingredients_embed)
-    if instructions_embed:
-        embeds.append(instructions_embed)
     return embeds
 
 
