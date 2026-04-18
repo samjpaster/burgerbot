@@ -99,9 +99,20 @@ def build_burger_embeds(burger: dict, cycle_reset: bool = False) -> list[nextcor
         ))
 
     # Ingredients embed
-    ingredients = recipe.get("ingredients", [])
-    if ingredients:
-        ingredients_text = "\n".join(f"• {item}" for item in ingredients)
+    raw_ingredients = recipe.get("ingredients", [])
+    ingredient_lines = []
+    for item in raw_ingredients:
+        if isinstance(item, dict):
+            section = item.get("section", "")
+            if section:
+                ingredient_lines.append(f"**{section}**")
+            for sub in item.get("items", []):
+                if sub and sub.strip():
+                    ingredient_lines.append(f"• {sub}")
+        elif item and item.strip():
+            ingredient_lines.append(f"• {item}")
+    if ingredient_lines:
+        ingredients_text = "\n".join(ingredient_lines)
         embeds.append(nextcord.Embed(
             title="🥩 Ingredients",
             description=ingredients_text,
@@ -109,7 +120,7 @@ def build_burger_embeds(burger: dict, cycle_reset: bool = False) -> list[nextcor
         ))
 
     # Instructions embeds (split if needed)
-    instructions = recipe.get("instructions", [])
+    instructions = [s for s in recipe.get("instructions", []) if s and s.strip()]
     if instructions:
         instructions_text = "\n".join(instructions)
         for i, chunk in enumerate(_split_text(instructions_text)):
