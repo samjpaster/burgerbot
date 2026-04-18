@@ -1,0 +1,3746 @@
+[
+  {
+    "id": 1,
+    "name": "\"NEW BACON-INGS\"",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/1",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/1"
+  },
+  {
+    "id": 2,
+    "name": "THE CHILD MOLESTER (Comes with Candy)",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/1",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/2"
+  },
+  {
+    "id": 3,
+    "name": "FOOT FETA-ISH BURGER",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/2",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/3"
+  },
+  {
+    "id": 4,
+    "name": "TUNAMI",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/2",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/4"
+  },
+  {
+    "id": 5,
+    "name": "MISSION A-CORN-PLISHED BURGER",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/3",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/5"
+  },
+  {
+    "id": 6,
+    "name": "PEPPER DON'T PREACH BURGER",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/3",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/6"
+  },
+  {
+    "id": 7,
+    "name": "REST IN PEAS BURGER",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/3",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/7"
+  },
+  {
+    "id": 8,
+    "name": "FIG-ETA BOUT IT BURGER",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/4",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/8"
+  },
+  {
+    "id": 9,
+    "name": "CHEVRE WHICH WAY BUT LOOSE BURGER",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/4",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/9"
+  },
+  {
+    "id": 10,
+    "name": "The Roquefort Files Burger",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/4",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/10"
+  },
+  {
+    "id": 11,
+    "name": "These Collards Don't Run Burger",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/4",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/11"
+  },
+  {
+    "id": 12,
+    "name": "Totally Radish Burger (Comes with Radish)",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/5",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/12"
+  },
+  {
+    "id": 13,
+    "name": "Onion Burger - Grilled...To Death!",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/5",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/13"
+  },
+  {
+    "id": 14,
+    "name": "Last of the Mo-Jicama Burger (Comes with Jicama)",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/5",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/14"
+  },
+  {
+    "id": 15,
+    "name": "Olive And Let Die Burger",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/6",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/15"
+  },
+  {
+    "id": 16,
+    "name": "Thank God It's Fried Egg Burger",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/6",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/16"
+  },
+  {
+    "id": 17,
+    "name": "Camembert-ly Legal Burger",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/7",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/17"
+  },
+  {
+    "id": 18,
+    "name": "Krauted House Burger",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/7",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/18"
+  },
+  {
+    "id": 19,
+    "name": "Poblano Picasso Burger",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/8",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/19"
+  },
+  {
+    "id": 20,
+    "name": "Salvador Cauliflower Burger",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/8",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/20"
+  },
+  {
+    "id": 21,
+    "name": "Salvador Cauliflower Burger",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/8",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/21"
+  },
+  {
+    "id": 22,
+    "name": "Shoot out at the Okra Corral Burger",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/9",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/22"
+  },
+  {
+    "id": 23,
+    "name": "Hit Me With Your Best Shallot Burger",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/10",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/23"
+  },
+  {
+    "id": 24,
+    "name": "The Sound & The Curry Burger",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/10",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/24"
+  },
+  {
+    "id": 25,
+    "name": "I've Created a Muenster Burger",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 11,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/11",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/25"
+  },
+  {
+    "id": 26,
+    "name": "Something's NOT Fishy Burger - (100% Beef)",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/12",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/26"
+  },
+  {
+    "id": 27,
+    "name": "Neither Fish Nor Fowl Burger - (100% Beef)",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/12",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/27"
+  },
+  {
+    "id": 28,
+    "name": "One Fish, Two Fish, Red Fish Hamburger",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/12",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/28"
+  },
+  {
+    "id": 29,
+    "name": "Take Me Out To The Burger (Comes with Peanuts and Crackerjacks)",
+    "price": "$5.95",
+    "season": 1,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/13",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/29"
+  },
+  {
+    "id": 30,
+    "name": "I'M MAD ABOUT SAFFRON (Made with no saffron)",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/14",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/30"
+  },
+  {
+    "id": 31,
+    "name": "CHARD TO A CRISP BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/15",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/31"
+  },
+  {
+    "id": 32,
+    "name": "BURGER A LA MODE - COMES WITH ICE CREAM (Not on top)",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/16",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/32"
+  },
+  {
+    "id": 33,
+    "name": "SHAKE YOUR HONEYMAKER BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/16",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/33"
+  },
+  {
+    "id": 34,
+    "name": "USE IT OR BLEUS IT BURGER - (Comes with bleu cheese)",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/16",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/34"
+  },
+  {
+    "id": 35,
+    "name": "THE ONE YAM BAND BURGER - (Comes with yams)",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/16",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/35"
+  },
+  {
+    "id": 36,
+    "name": "DO BRUSSEL BURGER - (Comes with brussel sprouts)",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/16",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/36"
+  },
+  {
+    "id": 37,
+    "name": "PAPAYA WAS A ROLLING STONE BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/17",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/37"
+  },
+  {
+    "id": 38,
+    "name": "GOOD NIGHT AND GOOD LEEK BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/17",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/38"
+  },
+  {
+    "id": 39,
+    "name": "BAND ON THE BUN BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/17",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/39"
+  },
+  {
+    "id": 40,
+    "name": "CHORIZO YOUR OWN ADVENTURE BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/18",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/40"
+  },
+  {
+    "id": 41,
+    "name": "WHAT'S THE WORCESTERSHIRE THAT COULD HAPPEN BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/18",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/41"
+  },
+  {
+    "id": 42,
+    "name": "WHERE HAVE YOU BEAN ALL MY LIFE BURGER - (Comes with baked beans)",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/18",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/42"
+  },
+  {
+    "id": 43,
+    "name": "IT'S FUN TO EAT AT THE rYeMCA BURGER - (Comes with rye w/ mustard, cheese & avocado)",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/19",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/43"
+  },
+  {
+    "id": 44,
+    "name": "IF LOOKS COULD KALE BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/20",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/44"
+  },
+  {
+    "id": 45,
+    "name": "LITTLE SWISS BUNSHINE BURGER - (Comes on a buttered bun)",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/20",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/45"
+  },
+  {
+    "id": 46,
+    "name": "GIRLS JUST WANNA HAVE FENNEL BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/20",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/46"
+  },
+  {
+    "id": 47,
+    "name": "THE FINAL KRAUT DOWN BURGER - (Comes with sauerkraut)",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/20",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/47"
+  },
+  {
+    "id": 48,
+    "name": "SIT AND SPINACH BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/21",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/48"
+  },
+  {
+    "id": 49,
+    "name": "SWEATY PALMS BURGER - (Comes with hearts of palm)",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/21",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/49"
+  },
+  {
+    "id": 50,
+    "name": "POUTINE ON THE RITZ BURGER - (Comes with poutine fries)",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/22",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/50"
+  },
+  {
+    "id": 51,
+    "name": "Mesclun Around Burger",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/22",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/51"
+  },
+  {
+    "id": 52,
+    "name": "The Don't Get Creme Fraiche With Me Burger",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/22",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/52"
+  },
+  {
+    "id": 53,
+    "name": "ONION-TENDED CONSEQUENCES BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/22",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/53"
+  },
+  {
+    "id": 54,
+    "name": "BRUSHETTA BOUT IT BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/22",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/54"
+  },
+  {
+    "id": 55,
+    "name": "MEDITERRAIN'T MISBEHAVIN' BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/22",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/55"
+  },
+  {
+    "id": 56,
+    "name": "I'M GONNA GET YOUR SUCCOTASH BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/22",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/56"
+  },
+  {
+    "id": 57,
+    "name": "EVERY BREATH YOU TIKKA MASALA BURGER",
+    "price": "$5.95",
+    "season": 2,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/22",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/57"
+  },
+  {
+    "id": 58,
+    "name": "Two Karat Burger - (Comes with two carrots)",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/23",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/58"
+  },
+  {
+    "id": 59,
+    "name": "The Jack-O-Lentil Burger",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/24",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/59"
+  },
+  {
+    "id": 60,
+    "name": "Itsy Bitsy Teeny Weenie Yellow Polka-Dot Zucchini Burger",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/25",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/60"
+  },
+  {
+    "id": 61,
+    "name": "Plymouth Roquefort Burger",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/27",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/61"
+  },
+  {
+    "id": 62,
+    "name": "She's a Super Leek Burger - (Comes with braised leeks)",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/28",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/62"
+  },
+  {
+    "id": 63,
+    "name": "Open Sesame Burger (Served open-faced on a sesame seed bun)",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/29",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/63"
+  },
+  {
+    "id": 64,
+    "name": "Yes I Cayenne Burger",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/30",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/64"
+  },
+  {
+    "id": 65,
+    "name": "One Horse Open Slaw Burger - (Comes with slaw, no horse)",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/31",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/65"
+  },
+  {
+    "id": 66,
+    "name": "50 Ways to Leave Your Guava Burger",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/32",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/66"
+  },
+  {
+    "id": 67,
+    "name": "Don't Go Brocking My Heart Burger - (with broccoli and artichoke hearts)",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 11,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/33",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/67"
+  },
+  {
+    "id": 68,
+    "name": "Grandpa Muenster Burger - (10% Senior Discount)",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/34",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/68"
+  },
+  {
+    "id": 69,
+    "name": "I Heartichoke You Burger",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/35",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/69"
+  },
+  {
+    "id": 70,
+    "name": "Don't You Four Cheddar 'Bout Me Burger - (Comes with four kinds of cheddar)",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/36",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/70"
+  },
+  {
+    "id": 71,
+    "name": "Sharp Cheddar Dressed Man (Comes with sharp cheddar)",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 15,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/37",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/71"
+  },
+  {
+    "id": 72,
+    "name": "I Know Why the Cajun Burger Sings",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/38",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/72"
+  },
+  {
+    "id": 73,
+    "name": "Chile Relleno-You-Didn't Burger",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/39",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/73"
+  },
+  {
+    "id": 74,
+    "name": "Bob's Burgers is closed for fumigation, and the Belchers drive to Florida, so there are no Burgers of the Day in this episode.",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 18,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/40",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/74"
+  },
+  {
+    "id": 75,
+    "name": "Top Bun Burger (comes on our best seven-grain bun)",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 20,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/42",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/75"
+  },
+  {
+    "id": 76,
+    "name": "So Many Fennel So Little Thyme Burger - (comes with lots of fennel, no thyme)",
+    "price": "$5.50",
+    "season": 3,
+    "episode": 22,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/44",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/76"
+  },
+  {
+    "id": 77,
+    "name": "National Pass-Thyme Burger",
+    "price": "$5.95",
+    "season": 3,
+    "episode": 23,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/45",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/77"
+  },
+  {
+    "id": 78,
+    "name": "The Belchers go camping, there is no Burger of the Day in this episode.",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/46",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/78"
+  },
+  {
+    "id": 79,
+    "name": "The Cauliflower's Cumin from Inside the House Burger - (Comes with cauliflower and cumin)",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/47",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/79"
+  },
+  {
+    "id": 80,
+    "name": "A Leek of Their Own Burger",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/49",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/80"
+  },
+  {
+    "id": 81,
+    "name": "The Burger of the Day didn't fully appear on-screen, but according to the writers tumblr blog it's the Gourdon-Hamsey Burger (Comes with squash and ham).",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/50",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/81"
+  },
+  {
+    "id": 82,
+    "name": "I'm OK, You're Ok-ra Burger",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/52",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/82"
+  },
+  {
+    "id": 83,
+    "name": "Medium Snare Burger",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/54",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/83"
+  },
+  {
+    "id": 84,
+    "name": "Is This Your Chard Burger",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/55",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/84"
+  },
+  {
+    "id": 85,
+    "name": "The Belchers cater Tammy Larsen's Bat Mitzvah, there is no Burger of the Day in this episode.",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/58",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/85"
+  },
+  {
+    "id": 86,
+    "name": "It's Only Sourdough Burger (But I Like It)",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/59",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/86"
+  },
+  {
+    "id": 87,
+    "name": "Enoki Dokie Burger - Comes with enoki mushrooms",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 15,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/60",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/87"
+  },
+  {
+    "id": 88,
+    "name": "I Fought the Slaw Burger (And the Slaw Won)",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/61",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/88"
+  },
+  {
+    "id": 89,
+    "name": "The Life of the Parsley Burger",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/62",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/89"
+  },
+  {
+    "id": 90,
+    "name": "Sweet Home Avocado Burger",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 18,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/63",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/90"
+  },
+  {
+    "id": 91,
+    "name": "Onion Ring Around the Rosemary Burger",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/64",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/91"
+  },
+  {
+    "id": 92,
+    "name": "Parma Parma Parma Chameleon Burger - with Parmesan crisp",
+    "price": "$5.95",
+    "season": 4,
+    "episode": 20,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/65",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/92"
+  },
+  {
+    "id": 93,
+    "name": "Texas Chainsaw Massa-curd Burger",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/69",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/93"
+  },
+  {
+    "id": 94,
+    "name": "Sub-conscious Burger - on a sub roll",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/70",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/94"
+  },
+  {
+    "id": 95,
+    "name": "Run Gorgonzola Run Burger - Made with Gorgonzola",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/72",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/95"
+  },
+  {
+    "id": 96,
+    "name": "Cheeses is Born Burger - Comes with baby swiss",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/73",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/96"
+  },
+  {
+    "id": 97,
+    "name": "Cajun Gracefully Burger",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/74",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/97"
+  },
+  {
+    "id": 98,
+    "name": "Beets of Burden Burger",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/75",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/98"
+  },
+  {
+    "id": 99,
+    "name": "Blue is the Warmest Cheese Burger",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/76",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/99"
+  },
+  {
+    "id": 100,
+    "name": "A Good Manchego is Hard to Find Burger",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/77",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/100"
+  },
+  {
+    "id": 101,
+    "name": "Knife to ... You Burger - w/Thinly Sliced B...",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/79",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/101"
+  },
+  {
+    "id": 102,
+    "name": "Curd-fect Strangers Burger - Comes with cheese curds",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/80",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/102"
+  },
+  {
+    "id": 103,
+    "name": "The Six Scallion Dollar Man Burger",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 15,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/82",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/103"
+  },
+  {
+    "id": 104,
+    "name": "Let's Give 'em Something Shiitake 'bout Burger",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/83",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/104"
+  },
+  {
+    "id": 105,
+    "name": "If You've Got It, Croissant It Burger",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/84",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/105"
+  },
+  {
+    "id": 106,
+    "name": "She'll be Coming 'round the Plantain Burger",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/86",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/106"
+  },
+  {
+    "id": 107,
+    "name": "Who Wants To Be A Scallionaire Burger?",
+    "price": "$5.95",
+    "season": 5,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/88",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/107"
+  },
+  {
+    "id": 108,
+    "name": "There were no burgers of the day in this episode but in the Hugo's Hot Dogs segment a Hot Dog of the Day appeared which was the \"View to a Kielbasa Dog\" which is a reference to the 1985 James Bond movie \"A View to a Kill.\"",
+    "price": "$5.95",
+    "season": 6,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/89",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/108"
+  },
+  {
+    "id": 109,
+    "name": "The Yam Ship Burger (comes with yams)",
+    "price": "$5.95",
+    "season": 6,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/90",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/109"
+  },
+  {
+    "id": 110,
+    "name": "Breaking Radish Burger (comes with a side of radish)",
+    "price": "$5.95",
+    "season": 6,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/91",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/110"
+  },
+  {
+    "id": 111,
+    "name": "The Pear Tree Burger (with sliced pears - partridge not included)",
+    "price": "$5.95",
+    "season": 6,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/93",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/111"
+  },
+  {
+    "id": 112,
+    "name": "The Say Cheese Burger",
+    "price": "$5.95",
+    "season": 6,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/96",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/112"
+  },
+  {
+    "id": 113,
+    "name": "Total Eclipse of the Havarti Burger",
+    "price": "$5.95",
+    "season": 6,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/97",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/113"
+  },
+  {
+    "id": 114,
+    "name": "Total Eclipse of the Havarti Burger",
+    "price": "$5.95",
+    "season": 6,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/98",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/114"
+  },
+  {
+    "id": 115,
+    "name": "Ring Around the Collard Burger",
+    "price": "$5.95",
+    "season": 6,
+    "episode": 11,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/99",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/115"
+  },
+  {
+    "id": 116,
+    "name": "To Thine Own Self be Bleu Burger (served with bleu cheese)",
+    "price": "$5.95",
+    "season": 6,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/100",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/116"
+  },
+  {
+    "id": 117,
+    "name": "Edamame Dearest Burger (comes with edamame)",
+    "price": "$5.95",
+    "season": 6,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/101",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/117"
+  },
+  {
+    "id": 118,
+    "name": "Captain Pepper Jack Marrow Burger",
+    "price": "$5.95",
+    "season": 6,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/102",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/118"
+  },
+  {
+    "id": 119,
+    "name": "Fig Lebowski Burger",
+    "price": "$5.95",
+    "season": 6,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/104",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/119"
+  },
+  {
+    "id": 120,
+    "name": "Chutney the Front Door Burger (Comes with Mango Chutney)",
+    "price": "$5.95",
+    "season": 6,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/105",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/120"
+  },
+  {
+    "id": 121,
+    "name": "Aw Nuts Burger (comes with peanut butter)",
+    "price": "$5.95",
+    "season": 6,
+    "episode": 18,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/106",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/121"
+  },
+  {
+    "id": 122,
+    "name": "Endive Had the Time of My Life Burger",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/108",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/122"
+  },
+  {
+    "id": 123,
+    "name": "You Spinach Me Right Round Spinach Burger",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/109",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/123"
+  },
+  {
+    "id": 124,
+    "name": "Muenster Under the Bun Burger",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/110",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/124"
+  },
+  {
+    "id": 125,
+    "name": "A burger of the day is seen but is not fully visible, it appears to reference the Alanis Morissette album Jagged Little Pill, possibly \"Jagged Little Dill.\"",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/113",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/125"
+  },
+  {
+    "id": 126,
+    "name": "Away in a Mango Burger",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/114",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/126"
+  },
+  {
+    "id": 127,
+    "name": "Caper the Friendly Goat Cheese Burger (s/w capers & feta)",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/115",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/127"
+  },
+  {
+    "id": 128,
+    "name": "Andrew Diced Carrots Burger (comes with pickled diced carrots)",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/116",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/128"
+  },
+  {
+    "id": 129,
+    "name": "Bites-",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/119",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/129"
+  },
+  {
+    "id": 130,
+    "name": "Nothing Compares 2 Blue (Cheese) Burger",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/120",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/130"
+  },
+  {
+    "id": 131,
+    "name": "For Those About to Roquefort We Salute You Burger",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/121",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/131"
+  },
+  {
+    "id": 132,
+    "name": "Emergency Eggs-it Burger",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/123",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/132"
+  },
+  {
+    "id": 133,
+    "name": "Creminis and Misdemeanies Burger (comes with cremini mushrooms)",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/124",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/133"
+  },
+  {
+    "id": 134,
+    "name": "Glory Glory Jalape\u00f1o Burger",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 18,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/125",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/134"
+  },
+  {
+    "id": 135,
+    "name": "Riding in Cars with Bok Choys",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/128",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/135"
+  },
+  {
+    "id": 136,
+    "name": "Pear Goes the Neighborhood (comes with a side of pear salad)",
+    "price": "$5.95",
+    "season": 7,
+    "episode": 22,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/129",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/136"
+  },
+  {
+    "id": 137,
+    "name": "THE BLANC CANVAS BURGER (comes with a fromage blanc)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/130",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/137"
+  },
+  {
+    "id": 138,
+    "name": "TOPLESS THE MORNING TO YOU BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/130",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/138"
+  },
+  {
+    "id": 139,
+    "name": "BURRATA BE ... AW BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/131",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/139"
+  },
+  {
+    "id": 140,
+    "name": "WEEKEND AT BERNAISE BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/131",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/140"
+  },
+  {
+    "id": 141,
+    "name": "\"The Wolf of Wharf Street\"",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/131",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/141"
+  },
+  {
+    "id": 142,
+    "name": "THE CLEAR AND PRESENT GINGER BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/133",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/142"
+  },
+  {
+    "id": 143,
+    "name": "THE CATCH ME IF YOU CRAN BURGER (Served with cranberry sauce)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/134",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/143"
+  },
+  {
+    "id": 144,
+    "name": "THE EBENEEZER BLEU-GE BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/135",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/144"
+  },
+  {
+    "id": 145,
+    "name": "TWAS THE NUT BEFORE CHRISTMAS BURGER (comes with walnut aioli)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/135",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/145"
+  },
+  {
+    "id": 146,
+    "name": "\"The Bleakening, Part 2\"",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/135",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/146"
+  },
+  {
+    "id": 147,
+    "name": "THE SHUT UP AND SWISS ME BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/136",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/147"
+  },
+  {
+    "id": 148,
+    "name": "STEP INTO THE OKRA-TAGON BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/137",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/148"
+  },
+  {
+    "id": 149,
+    "name": "HAVARTI LIKE IT'S 1999 BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/137",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/149"
+  },
+  {
+    "id": 150,
+    "name": "SMELLS LIKE BEAN SPIRIT BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/137",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/150"
+  },
+  {
+    "id": 151,
+    "name": "CORN THIS WAY BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/137",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/151"
+  },
+  {
+    "id": 152,
+    "name": "THE SOUS-VIDE AND THE BANSHEES BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/138",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/152"
+  },
+  {
+    "id": 153,
+    "name": "THE FULL HEAD OF HEIR-LOOM TOMATO BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/138",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/153"
+  },
+  {
+    "id": 154,
+    "name": "THE WHAT'S KALA-MATA YOU",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/138",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/154"
+  },
+  {
+    "id": 155,
+    "name": "THE WE BOUGHT A ZUCCHINI BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/138",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/155"
+  },
+  {
+    "id": 156,
+    "name": "THE TURN T ... S AROUND",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/139",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/156"
+  },
+  {
+    "id": 157,
+    "name": "THE OLIVE WHAT SHE'S HAVING BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/139",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/157"
+  },
+  {
+    "id": 158,
+    "name": "THE ROSEMARY'S BABY SPINACH BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/139",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/158"
+  },
+  {
+    "id": 159,
+    "name": "THE WASABI WITH YOU? BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 11,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/140",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/159"
+  },
+  {
+    "id": 160,
+    "name": "THE HEIRLOOM WHERE IT HAPPENS BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 11,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/140",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/160"
+  },
+  {
+    "id": 161,
+    "name": "JUDY GARLIC BURGER (comes with garlic tapenade)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/141",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/161"
+  },
+  {
+    "id": 162,
+    "name": "\"The Trouble with Doubles\"",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/141",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/162"
+  },
+  {
+    "id": 163,
+    "name": "THE YOU WON'T BELIEVE ... OT BUTTERNUT ... SH BURGER... zucchini)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/143",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/163"
+  },
+  {
+    "id": 164,
+    "name": "THE PAPRIKA SMURF BURGER (comes with blue potato fries)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/143",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/164"
+  },
+  {
+    "id": 165,
+    "name": "THE HERE I AM BROCCOLI LIKE A HURRICANE BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 15,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/144",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/165"
+  },
+  {
+    "id": 166,
+    "name": "... E HOLDER WITH ... EGGS-PERIENCE BURGER (aged burger with ... fried egg on top)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 15,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/144",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/166"
+  },
+  {
+    "id": 167,
+    "name": "PORTABELLO THE BELT BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/145",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/167"
+  },
+  {
+    "id": 168,
+    "name": "WALK THIS WAIOLI BURGER (comes with Wasabi Aioli)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/145",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/168"
+  },
+  {
+    "id": 169,
+    "name": "SHISHITO CORLEONE BURGER (comes with Shishito Peppers)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/145",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/169"
+  },
+  {
+    "id": 170,
+    "name": "QUANTUM OF SAL- BURGER (comes ...pote)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/145",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/170"
+  },
+  {
+    "id": 171,
+    "name": "THE GOUDA WIFE BURGER (comes with Mature Gouda)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/145",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/171"
+  },
+  {
+    "id": 172,
+    "name": "THE SUN'LL COME OUT TO-MARROW BURGER (comes with bone marrow)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/146",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/172"
+  },
+  {
+    "id": 173,
+    "name": "THE SNEAKIN' CELERY DOWN THE ALLEY BURGER (comes with bone marrow)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/146",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/173"
+  },
+  {
+    "id": 174,
+    "name": "THE 500 GLAZE OF SUMMER BURGER (comes with Pomegranate Glaze)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/146",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/174"
+  },
+  {
+    "id": 175,
+    "name": "\"Mo Mommy Mo Problems\"",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/146",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/175"
+  },
+  {
+    "id": 176,
+    "name": "THE I'M GETTING TOO OLD FOR THIS SHISHITO BURGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/148",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/176"
+  },
+  {
+    "id": 177,
+    "name": "THE ... T ... S OKRA ... RGER",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/148",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/177"
+  },
+  {
+    "id": 178,
+    "name": "THE STOP OR MY MOM WILL SHOOTS BURGER (topped with pea shoots)",
+    "price": "$5.95",
+    "season": 8,
+    "episode": 20,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/149",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/178"
+  },
+  {
+    "id": 179,
+    "name": "THE DRAGONFRUIT ME TO HELL BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/150",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/179"
+  },
+  {
+    "id": 180,
+    "name": "WON'T BAGUETTE FOOLED AGAIN BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/151",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/180"
+  },
+  {
+    "id": 181,
+    "name": "TURMERIC-A THE BEAUTIFUL BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/152",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/181"
+  },
+  {
+    "id": 182,
+    "name": "THE FINDERS CAPERS BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/152",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/182"
+  },
+  {
+    "id": 183,
+    "name": "THE COPS AND RABE-ERS BURGER (Topped with Broccoli Rabes)",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/152",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/183"
+  },
+  {
+    "id": 184,
+    "name": "LITTLE CHOP OF HORSERADISH BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/152",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/184"
+  },
+  {
+    "id": 185,
+    "name": "MY BLOODY KALE-ENTINE BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/153",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/185"
+  },
+  {
+    "id": 186,
+    "name": "THE ABSENTEE SHALLOT BURGER (Comes with crispy shallots)",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/154",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/186"
+  },
+  {
+    "id": 187,
+    "name": "THE LAND OF THE SLAW-ST BURGER (Comes with pickle slaw)",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/154",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/187"
+  },
+  {
+    "id": 188,
+    "name": "FOCACCIA RED HANDED BURGER (on focaccia with beets)",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/155",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/188"
+  },
+  {
+    "id": 189,
+    "name": "\"I Bob Your Pardon\"",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/155",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/189"
+  },
+  {
+    "id": 190,
+    "name": "THE FRANKIE GOES TO HOLLANDAISE BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/157",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/190"
+  },
+  {
+    "id": 191,
+    "name": "THE FIFTY GLAZE TO EAT YOUR BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/157",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/191"
+  },
+  {
+    "id": 192,
+    "name": "THE THROW YOUR HANDS IN THE HEIRLOOM BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/157",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/192"
+  },
+  {
+    "id": 193,
+    "name": "THE COLBY BY YOUR NAME BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/158",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/193"
+  },
+  {
+    "id": 194,
+    "name": "THE AROUND THE WORLD IN EIGHTY DATES BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/158",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/194"
+  },
+  {
+    "id": 195,
+    "name": "THE FIGGY SMALLS BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/158",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/195"
+  },
+  {
+    "id": 196,
+    "name": "THE DILL CRAZY AFTER ALL THESE GRUYERES BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/158",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/196"
+  },
+  {
+    "id": 197,
+    "name": "THE SMILLA'S SENSE OF SNOWPEAS BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/159",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/197"
+  },
+  {
+    "id": 198,
+    "name": "THE SANTA SLAWS IS COMING TO TOWN BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/159",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/198"
+  },
+  {
+    "id": 199,
+    "name": "THE BRUSSEL AND FLOW BURGER (served with Brussel Sprouts)",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 11,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/160",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/199"
+  },
+  {
+    "id": 200,
+    "name": "THE MUSH-AROOM ABOUT NOTHING BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/161",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/200"
+  },
+  {
+    "id": 201,
+    "name": "\"Bed, Bob & Beyond\"",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/161",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/201"
+  },
+  {
+    "id": 202,
+    "name": "THE THROW YOUR HANDS IN THE GRUYERE BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/163",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/202"
+  },
+  {
+    "id": 203,
+    "name": "THE SEALED WITH A SWISS BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/163",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/203"
+  },
+  {
+    "id": 204,
+    "name": "THE TWO LEFT BEET BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/163",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/204"
+  },
+  {
+    "id": 205,
+    "name": "THE I LOVE YOU JUST THE WHEY YOU ARE BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/163",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/205"
+  },
+  {
+    "id": 206,
+    "name": "VIDEO KILLED THE RADICCHIO STAR BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 15,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/164",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/206"
+  },
+  {
+    "id": 207,
+    "name": "Repeated from \"Ex MachTina\"",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 15,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/164",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/207"
+  },
+  {
+    "id": 208,
+    "name": "THE I HATE TO SEE YOU BRIE-VE BUT I LOVE TO WATCH YOU GO BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/165",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/208"
+  },
+  {
+    "id": 209,
+    "name": "MURDER, KIMCHI WROTE BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/165",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/209"
+  },
+  {
+    "id": 210,
+    "name": "THE CHEVRE LITTLE THING SHE DOES IS MAGIC BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/166",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/210"
+  },
+  {
+    "id": 211,
+    "name": "THE GORGON-BABY-GONE BURGER (comes with gorgonzola cheese)",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/166",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/211"
+  },
+  {
+    "id": 212,
+    "name": "THE STRAIGHT AND MARROW BURGER (comes with marrow)",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/166",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/212"
+  },
+  {
+    "id": 213,
+    "name": "THE ALL HOT AND COLLARD BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/166",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/213"
+  },
+  {
+    "id": 214,
+    "name": "THE SOMEONE RACLETTE THE BED BURGER (comes with raclette cheese)",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/166",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/214"
+  },
+  {
+    "id": 215,
+    "name": "THE RUTH TOMATER GINSBURGER (comes with heirloom tomatoes and pickled ginger)",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 18,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/167",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/215"
+  },
+  {
+    "id": 216,
+    "name": "THE DEVIL'S AVOCADO-CATE BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/168",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/216"
+  },
+  {
+    "id": 217,
+    "name": "THE FLEETWOOD JACK BURGER (comes with sweet little fries pies, jack cheese)",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/168",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/217"
+  },
+  {
+    "id": 218,
+    "name": "THE JUDGE BRINE-HOLD BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 20,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/169",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/218"
+  },
+  {
+    "id": 219,
+    "name": "ONE FLEW OKRA THE COUSCOUS NEST BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/170",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/219"
+  },
+  {
+    "id": 220,
+    "name": "LORDY LORDY LOOK WHO'S ROQUEFORT-Y BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/170",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/220"
+  },
+  {
+    "id": 221,
+    "name": "THE HICKORY CHICORY GUAC BURGER",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/170",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/221"
+  },
+  {
+    "id": 222,
+    "name": "THE PEA-BRIE'S BIG ADVENTURE BURGER (Pea Protein Burger w/Brie)",
+    "price": "$5.95",
+    "season": 9,
+    "episode": 22,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/171",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/222"
+  },
+  {
+    "id": 223,
+    "name": "THE OLIVE ME WHY NOT TAKE OLIVE ME? BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/172",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/223"
+  },
+  {
+    "id": 224,
+    "name": "THE HUNT FOR RED ONION-TOBER BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/173",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/224"
+  },
+  {
+    "id": 225,
+    "name": "THE WHAT IF PEAPOD WAS ONE OF US BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/174",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/225"
+  },
+  {
+    "id": 226,
+    "name": "THE 28 MAIZE LATER BURGER (comes with corn salsa)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/175",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/226"
+  },
+  {
+    "id": 227,
+    "name": "THE CORN-JURING TWO BURGER (comes with even more corn salsa)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/175",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/227"
+  },
+  {
+    "id": 228,
+    "name": "\"Legends of the Mall\"",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/175",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/228"
+  },
+  {
+    "id": 229,
+    "name": "THE THOUSAND CHARD STARE BURGER (comes with thousand island dressing and swiss chard)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/177",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/229"
+  },
+  {
+    "id": 230,
+    "name": "THE HAWK AND CHICKPEAS BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/177",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/230"
+  },
+  {
+    "id": 231,
+    "name": "THE TWISTED SWISS-STER BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/178",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/231"
+  },
+  {
+    "id": 232,
+    "name": "\"Now We're Not Cooking with Gas\"",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/178",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/232"
+  },
+  {
+    "id": 233,
+    "name": "THE OAXACA WAKA WAKA BURGER (comes with oaxaca cheese)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/180",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/233"
+  },
+  {
+    "id": 234,
+    "name": "THE CREME FRAICHE PRINCE OF BELL PEPPERS BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/180",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/234"
+  },
+  {
+    "id": 235,
+    "name": "THE FRIED OFF INTO THE SUNSET BURGER (comes with a fried egg)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/180",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/235"
+  },
+  {
+    "id": 236,
+    "name": "\"Have Yourself a Maily Linda Christmas\"",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/180",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/236"
+  },
+  {
+    "id": 237,
+    "name": "THE BER-GOUDA TRIANGLE BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 11,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/182",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/237"
+  },
+  {
+    "id": 238,
+    "name": "THE MAMA SAID THERE'D BE GLAZE LIKE THIS BURGER (Comes with a Worcestershire glaze)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 11,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/182",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/238"
+  },
+  {
+    "id": 239,
+    "name": "THE EASY COME, ASIAGO BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 11,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/182",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/239"
+  },
+  {
+    "id": 240,
+    "name": "THE RANDOM JACKS OF CHIVE-NESS BURGER (With Monterrey Jack cheese and chives)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/183",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/240"
+  },
+  {
+    "id": 241,
+    "name": "THE IF IT'S YELLOW LET IT PORTOBELLO BURGER (With yellow peppers and portobello mushrooms)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/183",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/241"
+  },
+  {
+    "id": 242,
+    "name": "THE THIN RED PEPPER BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/183",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/242"
+  },
+  {
+    "id": 243,
+    "name": "-",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/184",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/243"
+  },
+  {
+    "id": 244,
+    "name": "THE GOAT TELL IT ON THE MOUNTAIN BURGER (comes with goat cheese)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/184",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/244"
+  },
+  {
+    "id": 245,
+    "name": "- (whiskey glazed and infused with bacon)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/184",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/245"
+  },
+  {
+    "id": 246,
+    "name": "THE GLAZED AND INFUSED BURGER (bourbon glazed and infused with bacon)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/184",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/246"
+  },
+  {
+    "id": 247,
+    "name": "THE 'SHROOM WHERE IT HAPPENS BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/185",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/247"
+  },
+  {
+    "id": 248,
+    "name": "CLOVES ENCOUNTERS BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/185",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/248"
+  },
+  {
+    "id": 249,
+    "name": "IN RICOTTA DA VIDA BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/185",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/249"
+  },
+  {
+    "id": 250,
+    "name": "NICE GUYS SPINACH LAST BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/185",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/250"
+  },
+  {
+    "id": 251,
+    "name": "THIS IS WHAT IT SOUNDS LIKE WHEN CLOVES FRY BURGER (with fried garlic cloves)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 15,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/186",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/251"
+  },
+  {
+    "id": 252,
+    "name": "THE HAPPY PAINT PATTY'S DAY BURGER (whiskey brushed patty)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/187",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/252"
+  },
+  {
+    "id": 253,
+    "name": "THE HOLLANDAISE RO-O-OH-O-OH-O-OH-OH-OH-OLL BURGER (comes with hollandaise sauce on a Kaiser roll)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/188",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/253"
+  },
+  {
+    "id": 254,
+    "name": "BETTER CAULIFLOWER SAUL BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 18,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/189",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/254"
+  },
+  {
+    "id": 255,
+    "name": "THE CHILI-DELPHIA STORY BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/190",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/255"
+  },
+  {
+    "id": 256,
+    "name": "THE DEEP BLUE BRIE BURGER (comes with blue cheese and brie)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/190",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/256"
+  },
+  {
+    "id": 257,
+    "name": "THE STAYIN' A-CHIVE BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/190",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/257"
+  },
+  {
+    "id": 258,
+    "name": "THE ALMOND BUTTERS BAND BURGER (comes with toasted ... utter)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/190",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/258"
+  },
+  {
+    "id": 259,
+    "name": "AVOCA-DON'T YOU WANT ME BABY? BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 20,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/191",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/259"
+  },
+  {
+    "id": 260,
+    "name": "TAKE A PICTURE FIG'LL LAST LONGER BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 20,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/191",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/260"
+  },
+  {
+    "id": 261,
+    "name": "THE INTO THIN HEIRLOOM BURGER",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/192",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/261"
+  },
+  {
+    "id": 262,
+    "name": "BRIGHT LEEKS, BIG CITY BURGER (comes with grilled leeks)",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 22,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/193",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/262"
+  },
+  {
+    "id": 263,
+    "name": "-",
+    "price": "$5.95",
+    "season": 10,
+    "episode": 22,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/193",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/263"
+  },
+  {
+    "id": 264,
+    "name": "THE WHAT'S THE MATTER-HORN BURGER (with Swiss cheese crisps)",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/194",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/264"
+  },
+  {
+    "id": 265,
+    "name": "\"Worms of In-Rear-ment\"",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/194",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/265"
+  },
+  {
+    "id": 266,
+    "name": "PAINT IT BLACKBERRY BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/196",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/266"
+  },
+  {
+    "id": 267,
+    "name": "PLAY IT AGAIN YAM BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/196",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/267"
+  },
+  {
+    "id": 268,
+    "name": "THE NIGHT-PEAR ON ELM BEET BURGER (comes with pear and beet relish)",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/197",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/268"
+  },
+  {
+    "id": 269,
+    "name": "THE BLEU COLLARD BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/198",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/269"
+  },
+  {
+    "id": 270,
+    "name": "THE UNBREAKABLE KIMCHI SCHMIDT BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/198",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/270"
+  },
+  {
+    "id": 271,
+    "name": "THE CHIMICHURRI UP AND WAIT BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/199",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/271"
+  },
+  {
+    "id": 272,
+    "name": "THE GUAC! OR MY MOM WILL SHOOT BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/199",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/272"
+  },
+  {
+    "id": 273,
+    "name": "\"Diarrhea of a Poopy Kid\"",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/199",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/273"
+  },
+  {
+    "id": 274,
+    "name": "THE EGGPLANT ONE ON ME BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/201",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/274"
+  },
+  {
+    "id": 275,
+    "name": "THE RYE OF THE STORM BURGER (served with a balsamic drizzle on a rye bun)",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/202",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/275"
+  },
+  {
+    "id": 276,
+    "name": "ASIAGO FOR BROKE BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/202",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/276"
+  },
+  {
+    "id": 277,
+    "name": "I\u2019m Brie-ing of a White Crisp-mas Sliders (served with Brie and crispy onions)",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/203",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/277"
+  },
+  {
+    "id": 278,
+    "name": "THE TIKKA LOOK AT ME NOW BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 11,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/204",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/278"
+  },
+  {
+    "id": 279,
+    "name": "\"Die Card, or Card Trying\"",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 11,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/204",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/279"
+  },
+  {
+    "id": 280,
+    "name": "THE FOR BUTTER OR FOR WURST BURGER (with butter pickles and sausage)",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/206",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/280"
+  },
+  {
+    "id": 281,
+    "name": "THE GREEN A LITTLE BEAN OF ME BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/207",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/281"
+  },
+  {
+    "id": 282,
+    "name": "GRATERS OF THE SAUCED HAVART (i) BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 15,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/208",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/282"
+  },
+  {
+    "id": 283,
+    "name": "THE PECORINO ON SOMEONE YOUR OWN SIZE BURGER (comes with pecorino crisps)",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/209",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/283"
+  },
+  {
+    "id": 284,
+    "name": "THE THREE CHEEKS TO THE WIND BURGER (comes with guaniciale)",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/209",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/284"
+  },
+  {
+    "id": 285,
+    "name": "THE GROOVE IS IN THE CHARD BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/210",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/285"
+  },
+  {
+    "id": 286,
+    "name": "STEP UP 2: THE BEETS BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/210",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/286"
+  },
+  {
+    "id": 287,
+    "name": "THE MO, LARRY, AND CURRY BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 18,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/211",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/287"
+  },
+  {
+    "id": 288,
+    "name": "THE SHOULD I SAUTEE OR SHOULD I MANGO BURGER (comes with sauteed onions and mango salsa)",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/212",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/288"
+  },
+  {
+    "id": 289,
+    "name": "DO THE CREMINI, DO THE THYME BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/212",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/289"
+  },
+  {
+    "id": 290,
+    "name": "PARME-JEAN-CLAUDE VAN HAMBURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 20,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/213",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/290"
+  },
+  {
+    "id": 291,
+    "name": "THE YOU CAN LEAD A HORSERADISH TO WATERCRESS BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/214",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/291"
+  },
+  {
+    "id": 292,
+    "name": "THE BREWSTER'S SCALLIONS BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/214",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/292"
+  },
+  {
+    "id": 293,
+    "name": "...YOU CALL ME BURGER (With mango chutney)",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/214",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/293"
+  },
+  {
+    "id": 294,
+    "name": "TAKE A BITE OUT OF LIME BURGER (With lime chutney)",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/214",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/294"
+  },
+  {
+    "id": 295,
+    "name": "...I AM... FATHER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/214",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/295"
+  },
+  {
+    "id": 296,
+    "name": "STILTON CRAZY AFTER ALL THESE GRUYERES BURGER",
+    "price": "$5.95",
+    "season": 11,
+    "episode": 22,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/215",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/296"
+  },
+  {
+    "id": 297,
+    "name": "THE IF I HAD A (PUMPER)NICKEL BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/216",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/297"
+  },
+  {
+    "id": 298,
+    "name": "THE YOU HAD ME AT HELLOKRA BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/217",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/298"
+  },
+  {
+    "id": 299,
+    "name": "GRIN AND CARROT BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/217",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/299"
+  },
+  {
+    "id": 300,
+    "name": "THE LEEK-Y CAULDRON BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/218",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/300"
+  },
+  {
+    "id": 301,
+    "name": "THE MARVELOUS MRS. BASIL BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/219",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/301"
+  },
+  {
+    "id": 302,
+    "name": "SON OF A PEACH-ER MAN BURGER (comes with peach glaze)",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/220",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/302"
+  },
+  {
+    "id": 303,
+    "name": "LIVIN' ON A PEAR BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/220",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/303"
+  },
+  {
+    "id": 304,
+    "name": "FULL NETTLE JACKET BURGER (comes with saut\u00e9ed nettles)",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/220",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/304"
+  },
+  {
+    "id": 305,
+    "name": "BABY GOT BAK CHOY BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/220",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/305"
+  },
+  {
+    "id": 306,
+    "name": "YOUR CRESS IS ON MY LIST BURGER (comes with watercress)",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/221",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/306"
+  },
+  {
+    "id": 307,
+    "name": "I BEAN OF GREENIE BURGER (comes with black bean parsley puree)",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/222",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/307"
+  },
+  {
+    "id": 308,
+    "name": "\"Stuck in the Kitchen with You\"",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/222",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/308"
+  },
+  {
+    "id": 309,
+    "name": "A WRINKLE IN THYME BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/224",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/309"
+  },
+  {
+    "id": 310,
+    "name": "IT'S CHIVE O'CLOCK SOME-PEAR BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/224",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/310"
+  },
+  {
+    "id": 311,
+    "name": "THE LOST IN YAM-SLATION BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/224",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/311"
+  },
+  {
+    "id": 312,
+    "name": "THE CHALLAH AND THE CHIVE-Y BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/225",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/312"
+  },
+  {
+    "id": 313,
+    "name": "YOU CHEDDAR WATCH OUT, YOU CHEDDER ON RYE BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/225",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/313"
+  },
+  {
+    "id": 314,
+    "name": "JINGLE BELL PEPPERS ROCK BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/225",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/314"
+  },
+  {
+    "id": 315,
+    "name": "IT CAME UPON A MIDNIGHT GRUYERE BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/225",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/315"
+  },
+  {
+    "id": 316,
+    "name": "THROW CARDAMOM-MA FROM THE TRAIN BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 11,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/226",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/316"
+  },
+  {
+    "id": 317,
+    "name": "DON'T DREAM IT'S OKRA BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/227",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/317"
+  },
+  {
+    "id": 318,
+    "name": "-",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/228",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/318"
+  },
+  {
+    "id": 319,
+    "name": "HOUSE OF 1000 PORK-SES BURGER (Topped with ham and bacon)",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/229",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/319"
+  },
+  {
+    "id": 320,
+    "name": "I STILTON HAVEN'T FOUND WHAT THYME LOOKING FOR BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/229",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/320"
+  },
+  {
+    "id": 321,
+    "name": "THE CHIMI-CHURRI YOU CAN'T BE SERIOUS BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 15,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/230",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/321"
+  },
+  {
+    "id": 322,
+    "name": "\"Interview with a Pop-pop-ire\"",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 15,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/230",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/322"
+  },
+  {
+    "id": 323,
+    "name": "THE RIB LONG AND PROSPER BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/232",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/323"
+  },
+  {
+    "id": 324,
+    "name": "THE WHAT WE DILL IN THE SHADOWS BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/232",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/324"
+  },
+  {
+    "id": 325,
+    "name": "CELERY-BRATE GOOD TIMES, COME ON! BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 18,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/233",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/325"
+  },
+  {
+    "id": 326,
+    "name": "READY OR NOT HERE I PLUM BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/234",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/326"
+  },
+  {
+    "id": 327,
+    "name": "THE LITTLE SPROUTS ON THE PRAIRIE BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/234",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/327"
+  },
+  {
+    "id": 328,
+    "name": "BURGER SHE GOAT (comes with goat cheese)",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 20,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/235",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/328"
+  },
+  {
+    "id": 329,
+    "name": "THE LEEK-Y TIKKI TAVI BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/236",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/329"
+  },
+  {
+    "id": 330,
+    "name": "THE SAGE OF INNOCENCE BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/236",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/330"
+  },
+  {
+    "id": 331,
+    "name": "THE MAD FLAX CURRY ROAD BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/236",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/331"
+  },
+  {
+    "id": 332,
+    "name": "THE MR. SMITH GOES TO SQUASH-INGTON BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 22,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/237",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/332"
+  },
+  {
+    "id": 333,
+    "name": "THE I AIN'T MESCLUN YOU AT ALL BURGER",
+    "price": "$5.95",
+    "season": 12,
+    "episode": 22,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/237",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/333"
+  },
+  {
+    "id": 334,
+    "name": "I LIKE WALNUTS AND I CANNOT LIE BURGER (comes with walnut pesto)",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/238",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/334"
+  },
+  {
+    "id": 335,
+    "name": "MID-CUCUMBER NIGHT'S BRIE-M BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/238",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/335"
+  },
+  {
+    "id": 336,
+    "name": "DIRTY ROTTEN TENDRILS BURGER (comes with pea tendrils, not rotten)",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/238",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/336"
+  },
+  {
+    "id": 337,
+    "name": "CAULIFLOWER ME MAYBE BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/238",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/337"
+  },
+  {
+    "id": 338,
+    "name": "ALL THE WORLD'S A SAGE BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/238",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/338"
+  },
+  {
+    "id": 339,
+    "name": "THE YOU BURRATA KNOW BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 2,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/239",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/339"
+  },
+  {
+    "id": 340,
+    "name": "THE KIDS ARE ALL RYE BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/240",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/340"
+  },
+  {
+    "id": 341,
+    "name": "THE TAKE BANH MI BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 4,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/241",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/341"
+  },
+  {
+    "id": 342,
+    "name": "CAUL-LOW YOUR BLISS BURGER (Served with fried cauliflower)",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/242",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/342"
+  },
+  {
+    "id": 343,
+    "name": "SILENCE OF THE YAMS BURGER (Served with a mild yam drizzle)",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/242",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/343"
+  },
+  {
+    "id": 344,
+    "name": "GUAC-Y HORROR PICTURE SHOW BURGER (Smothered in guacamole)",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/242",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/344"
+  },
+  {
+    "id": 345,
+    "name": "ROSEMARY'S BABY CORN BURGER (With Rosemary and baby corn)",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/243",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/345"
+  },
+  {
+    "id": 346,
+    "name": "I'M GUACING HERE BURGER (Comes with Guacamole)",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/244",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/346"
+  },
+  {
+    "id": 347,
+    "name": "SURELY YOU JEST BURGER (Comes with lemon zest)",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/244",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/347"
+  },
+  {
+    "id": 348,
+    "name": "CHEDDAR SAFE THAN CHARD-Y BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/244",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/348"
+  },
+  {
+    "id": 349,
+    "name": "\"Putts-giving\"",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/244",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/349"
+  },
+  {
+    "id": 350,
+    "name": "\"Show Mama from the Grave\"",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/244",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/350"
+  },
+  {
+    "id": 351,
+    "name": "THE PINEAPPLE ON 34TH STREET BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/247",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/351"
+  },
+  {
+    "id": 352,
+    "name": "\"Cheaty Cheaty Bang Bang\"",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/247",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/352"
+  },
+  {
+    "id": 353,
+    "name": "THE MOULD MAN AND THE SEA BURGER (Comes with blue cheese)",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/249",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/353"
+  },
+  {
+    "id": 354,
+    "name": "-",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/249",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/354"
+  },
+  {
+    "id": 355,
+    "name": "THE THAT GIRL IS HOISIN BURGER (Comes with blue cheese)",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/250",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/355"
+  },
+  {
+    "id": 356,
+    "name": "THE IT'S MY PARSLEY AND I'LL CHIVE IF I WANT TO BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/251",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/356"
+  },
+  {
+    "id": 357,
+    "name": "THE SMELLS LIKE POUTINE SPIRIT BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/251",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/357"
+  },
+  {
+    "id": 358,
+    "name": "THE OLIVE AND LET RYE BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/251",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/358"
+  },
+  {
+    "id": 359,
+    "name": "THE ROMANCING THE PRUNE BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/251",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/359"
+  },
+  {
+    "id": 360,
+    "name": "-",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 14,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/251",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/360"
+  },
+  {
+    "id": 361,
+    "name": "THE EDAM AND WEEP BURGER (served with edam cheese and raw onion)",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 15,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/252",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/361"
+  },
+  {
+    "id": 362,
+    "name": "SWISS-TER ACT 2 BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/253",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/362"
+  },
+  {
+    "id": 363,
+    "name": "RYE HERE RYE NOW BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 17,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/254",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/363"
+  },
+  {
+    "id": 364,
+    "name": "HEY MR. ... MAN ...",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 18,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/255",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/364"
+  },
+  {
+    "id": 365,
+    "name": "THE CHIVE EASY PEAS-ES BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/256",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/365"
+  },
+  {
+    "id": 366,
+    "name": "THE LET\u2019S GET CHEDDAR TO RUMBLE BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/256",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/366"
+  },
+  {
+    "id": 367,
+    "name": "THE BRUSSEL-MANIA BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/256",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/367"
+  },
+  {
+    "id": 368,
+    "name": "\"Radio No You Didn't\"",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 19,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/256",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/368"
+  },
+  {
+    "id": 369,
+    "name": "THE ANYTHING YUZU CAN DO, RYE CAN DO CHEDDAR BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 21,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/258",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/369"
+  },
+  {
+    "id": 370,
+    "name": "THE PLUM FRY WITH ME BURGER",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 22,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/259",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/370"
+  },
+  {
+    "id": 371,
+    "name": "THE MAMA TOLD ME GNOCCHI COME",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 22,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/259",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/371"
+  },
+  {
+    "id": 372,
+    "name": "\"Fight at the Not Okay Chore-ral\"",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 22,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/259",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/372"
+  },
+  {
+    "id": 373,
+    "name": "\"The Amazing Rudy\"",
+    "price": "$5.95",
+    "season": 13,
+    "episode": 22,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/259",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/373"
+  },
+  {
+    "id": 374,
+    "name": "A LEAGUE OF PEAR OWN BURGER",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/262",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/374"
+  },
+  {
+    "id": 375,
+    "name": "LAMB! I WISH I WAS YOUR B-",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/262",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/375"
+  },
+  {
+    "id": 376,
+    "name": "\"Running Down a Gene\"",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/262",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/376"
+  },
+  {
+    "id": 377,
+    "name": "THE BURGER BALL PIT",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/264",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/377"
+  },
+  {
+    "id": 378,
+    "name": "THE CORN IDENTITY BURGER (comes with corn relish)",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/265",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/378"
+  },
+  {
+    "id": 379,
+    "name": "EVERYTHING EVERYWHERE ALL AT QUINCE BURGER",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/266",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/379"
+  },
+  {
+    "id": 380,
+    "name": "THE ELECTRIC LIGHT OKRA-SLAW BURGER",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/267",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/380"
+  },
+  {
+    "id": 381,
+    "name": "THE GOOD THYME BURGER",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/267",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/381"
+  },
+  {
+    "id": 382,
+    "name": "THE PEARY BIKERS BURGER",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 8,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/267",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/382"
+  },
+  {
+    "id": 383,
+    "name": "BROCCOLI RABE-IN HOOD BURGER",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/268",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/383"
+  },
+  {
+    "id": 384,
+    "name": "\"The Nightmare 2 Days Before Christmas\"",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 9,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/268",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/384"
+  },
+  {
+    "id": 385,
+    "name": "MRS. KRAUTFIRE BURGER",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 11,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/270",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/385"
+  },
+  {
+    "id": 386,
+    "name": "SWISS CONGENIALITY BURGER",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/271",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/386"
+  },
+  {
+    "id": 387,
+    "name": "THE SCARLET CHEDDAR BURGER (Served with Burgundy Reduction)",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 12,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/271",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/387"
+  },
+  {
+    "id": 388,
+    "name": "THE ONCE, TWICE, THREE TIMES A MARMA-LADY BURGER",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/272",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/388"
+  },
+  {
+    "id": 389,
+    "name": "\"The Big Stieblitzki\"",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 13,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/272",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/389"
+  },
+  {
+    "id": 390,
+    "name": "A CHARD DAY'S BITE BURGER",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 15,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/274",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/390"
+  },
+  {
+    "id": 391,
+    "name": "THE HOT BUN IN THE SUMMER-THYME BURGER",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 15,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/274",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/391"
+  },
+  {
+    "id": 392,
+    "name": "YOUR SWISS IS ON MY LIST BURGER",
+    "price": "$5.95",
+    "season": 14,
+    "episode": 16,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/275",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/392"
+  },
+  {
+    "id": 393,
+    "name": "THE BROTHER CAN YOU ASPARAGUS A DIME? BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/276",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/393"
+  },
+  {
+    "id": 394,
+    "name": "THE CIBATTA BE KIDDING ME BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/276",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/394"
+  },
+  {
+    "id": 395,
+    "name": "THE  CURRY DUTY BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/276",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/395"
+  },
+  {
+    "id": 396,
+    "name": "THE ARUGULAS OF ENGAGEMENT BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/276",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/396"
+  },
+  {
+    "id": 397,
+    "name": "MOZ LANDING BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/276",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/397"
+  },
+  {
+    "id": 398,
+    "name": "\"Saving Favorite Drive-In\"",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 1,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/276",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/398"
+  },
+  {
+    "id": 399,
+    "name": "A ROMA WITH A VIEW BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/278",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/399"
+  },
+  {
+    "id": 400,
+    "name": "\"For Whom the Doll Toes\"",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 3,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/278",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/400"
+  },
+  {
+    "id": 401,
+    "name": "GOLDILOCKS AND THE THREE CAMEMBERTS",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/280",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/401"
+  },
+  {
+    "id": 402,
+    "name": "I'M BO\u2014 SUNSHINE BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/280",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/402"
+  },
+  {
+    "id": 403,
+    "name": "The Challah Lot of Love Burger",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 5,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/280",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/403"
+  },
+  {
+    "id": 404,
+    "name": "THE NO KIMCHI FOR OLD MEN BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/281",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/404"
+  },
+  {
+    "id": 405,
+    "name": "THE L.A. PRAWN-FIDENTIAL BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/281",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/405"
+  },
+  {
+    "id": 406,
+    "name": "THE CHILI-DELPHIA STORY BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 6,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/281",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/406"
+  },
+  {
+    "id": 407,
+    "name": "THE SLAW-SLAW LAND BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/282",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/407"
+  },
+  {
+    "id": 408,
+    "name": "THE MANGO NO YOU FIG-N'T BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/282",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/408"
+  },
+  {
+    "id": 409,
+    "name": "THE FIVE CHEESY PIECES BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/282",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/409"
+  },
+  {
+    "id": 410,
+    "name": "\"They Slug Horses, Don't They?\"",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/282",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/410"
+  },
+  {
+    "id": 411,
+    "name": "\"Dog Christmas Day After Afternoon\"",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 7,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/282",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/411"
+  },
+  {
+    "id": 412,
+    "name": "THE HAVARTI BOYS BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/285",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/412"
+  },
+  {
+    "id": 413,
+    "name": "THE GRAPE DAYS A LEEK BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/285",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/413"
+  },
+  {
+    "id": 414,
+    "name": "CARROT BUELLER'S DAY OFF BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/285",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/414"
+  },
+  {
+    "id": 415,
+    "name": "THE RAISIN ON MY PARADE BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 10,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/285",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/415"
+  },
+  {
+    "id": 416,
+    "name": "I SLAW HER STANDING THERE BURGER",
+    "price": "$5.95",
+    "season": 15,
+    "episode": 11,
+    "episodeUrl": "https://bobsburgers-api.herokuapp.com/episodes/286",
+    "url": "https://bobs-burgers-api.herokuapp.com/burgerOfTheDay/416"
+  }
+]

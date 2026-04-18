@@ -1,0 +1,6 @@
+nextcord
+httpx
+aiosqlite
+python-dotenv
+beautifulsoup4
+lxml
